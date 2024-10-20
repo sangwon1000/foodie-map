@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hidden Gems - Restaurant Finder</title>
+    <title>momok - Restaurant Finder</title>
     <style>
         /* Reset default margins and paddings */
         body,
@@ -143,6 +143,15 @@
             border: 2px solid #10b981;
             /* Highlight border color */
         }
+
+        /* New Left Sidebar styles */
+        #left-sidebar {
+            width: 300px;
+            overflow-y: auto;
+            border-right: 1px solid #4a5568;
+            padding: 20px;
+            box-sizing: border-box;
+        }
     </style>
     <!-- Include MapTiler SDK -->
     <script src="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.umd.js"></script>
@@ -152,9 +161,34 @@
 <body>
     <!-- Main container -->
     <div class="container">
-        <!-- Sidebar -->
+        <!-- New Left Sidebar -->
+        <div id="left-sidebar" class="sidebar">
+            <h1>Filters</h1>
+            <div>
+                <label for="cuisine-filter">Cuisine:</label>
+                <select id="cuisine-filter">
+                    <option value="all">All</option>
+                    <option value="Korean">Korean</option>
+                    <option value="Japanese">Japanese</option>
+                    <option value="Italian">Italian</option>
+                    <option value="Indian">Indian</option>
+                </select>
+            </div>
+            <div>
+                <label for="chef-filter">Chef:</label>
+                <select id="chef-filter">
+                    <option value="all">All</option>
+                    <!-- Add chef options here -->
+                </select>
+            </div>
+            <div>
+                <label for="price-filter">Price Level:</label>
+                <input type="range" id="price-filter" min="1" max="3" step="1">
+            </div>
+        </div>
+        <!-- Existing Sidebar -->
         <div id="sidebar" class="sidebar">
-            <h1>Hidden Gems</h1>
+            <h1>momok</h1>
             <input type="search" placeholder="Search restaurants..." class="search-input">
             <div id="restaurant-list"></div>
         </div>

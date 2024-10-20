@@ -1,10 +1,10 @@
 // Sample restaurant data
 const restaurants = [
-    { id: 1, name: "Samgyetang House", cuisine: "Korean", price: "$$", rating: 4.7, lat: 37.5665, lng: 126.9780 },
-    { id: 2, name: "Sushi Sejong", cuisine: "Japanese", price: "$$$", rating: 4.9, lat: 37.5725, lng: 126.9760 },
-    { id: 3, name: "Nonna's Pasta", cuisine: "Italian", price: "$$", rating: 4.8, lat: 37.5635, lng: 126.9845 },
-    { id: 4, name: "Gangnam Curry", cuisine: "Indian", price: "$", rating: 4.6, lat: 37.5172, lng: 127.0473 },
-    { id: 5, name: "Seoul BBQ", cuisine: "Korean", price: "$$$", rating: 4.5, lat: 37.5641, lng: 126.9810 },
+    { id: 1, name: "Samgyetang House", cuisine: "Korean", price: "$$", rating: 4.7, lat: 37.5665, lng: 126.9780, chef: "Chef Kim" },
+    { id: 2, name: "Sushi Sejong", cuisine: "Japanese", price: "$$$", rating: 4.9, lat: 37.5725, lng: 126.9760, chef: "Chef Tanaka" },
+    { id: 3, name: "Nonna's Pasta", cuisine: "Italian", price: "$$", rating: 4.8, lat: 37.5635, lng: 126.9845, chef: "Chef Bella" },
+    { id: 4, name: "Gangnam Curry", cuisine: "Indian", price: "$", rating: 4.6, lat: 37.5172, lng: 127.0473, chef: "Chef Kumar" },
+    { id: 5, name: "Seoul BBQ", cuisine: "Korean", price: "$$$", rating: 4.5, lat: 37.5641, lng: 126.9810, chef: "Chef Lee" },
 ];
 
 // Get DOM elements
@@ -22,6 +22,32 @@ let map;
 // Flag for divider dragging
 let isDragging = false;
 
+// Get filter elements
+const cuisineFilter = document.getElementById('cuisine-filter');
+const chefFilter = document.getElementById('chef-filter');
+const priceFilter = document.getElementById('price-filter');
+
+// Add event listeners for filters
+cuisineFilter.addEventListener('change', filterRestaurants);
+chefFilter.addEventListener('change', filterRestaurants);
+priceFilter.addEventListener('input', filterRestaurants);
+
+function filterRestaurants() {
+    const selectedCuisine = cuisineFilter.value;
+    const selectedChef = chefFilter.value;
+    const selectedPrice = priceFilter.value;
+
+    const filteredRestaurants = restaurants.filter(restaurant => {
+        const matchesCuisine = selectedCuisine === 'all' || restaurant.cuisine === selectedCuisine;
+        const matchesChef = selectedChef === 'all' || restaurant.chef === selectedChef;
+        const matchesPrice = restaurant.price.length <= selectedPrice;
+
+        return matchesCuisine && matchesChef && matchesPrice;
+    });
+
+    renderRestaurants(filteredRestaurants);
+}
+
 // Initialize map and restaurants on page load
 window.addEventListener('load', async () => {
     try {
@@ -35,20 +61,24 @@ window.addEventListener('load', async () => {
             container: 'map',
             style: maptilersdk.MapStyle.WINTER,
             center: [126.9780, 37.5665], // Change to Seoul's coordinates
-            zoom: 12
+            zoom: 12,
+            maxBounds: [
+                [124.609375, 33.137551], // Southwest coordinates of South Korea
+                [130.78125, 38.612789]   // Northeast coordinates of South Korea
+            ]
         });
 
         // Render restaurants on the map and sidebar
-        renderRestaurants(map);
+        renderRestaurants(restaurants);
     } catch (error) {
         console.error('Error fetching the API key:', error);
     }
 });
 
 // Function to render restaurants
-function renderRestaurants(map) {
+function renderRestaurants(restaurantsToRender) {
     restaurantList.innerHTML = '';
-    restaurants.forEach(restaurant => {
+    restaurantsToRender.forEach(restaurant => {
         // Create restaurant card
         const card = document.createElement('div');
         card.className = 'restaurant-card';
