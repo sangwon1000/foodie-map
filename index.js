@@ -16,6 +16,9 @@ const selectedRestaurantInfo = document.getElementById('selected-restaurant');
 // Object to store map markers
 const markers = {};
 
+// Declare map variable
+let map;
+
 // Flag for divider dragging
 let isDragging = false;
 
@@ -28,7 +31,7 @@ window.addEventListener('load', async () => {
         maptilersdk.config.apiKey = data.apiKey;
 
         // Initialize map
-        const map = new maptilersdk.Map({
+        map = new maptilersdk.Map({
             container: 'map',
             style: maptilersdk.MapStyle.WINTER,
             center: [126.9780, 37.5665], // Change to Seoul's coordinates
@@ -81,6 +84,9 @@ function renderRestaurants(map) {
             .setLngLat([restaurant.lng, restaurant.lat])
             .addTo(map);
 
+        // Add click event listener to the marker
+        marker.getElement().addEventListener('click', () => selectRestaurant(restaurant));
+
         markers[restaurant.id] = marker;
     });
 }
@@ -110,7 +116,7 @@ function selectRestaurant(restaurant) {
     });
 
     // Check if selectedRestaurantInfo element exists
-    const selectedRestaurantInfo = document.getElementById('selectedRestaurantInfo');
+    const selectedRestaurantInfo = document.getElementById('selected-restaurant');
     if (!selectedRestaurantInfo) {
         console.error('Selected restaurant info element not found');
         return;
@@ -159,4 +165,3 @@ document.addEventListener('mouseup', () => {
     document.body.style.userSelect = 'auto';
     document.body.style.cursor = 'default';
 });
-
