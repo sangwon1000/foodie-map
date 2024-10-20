@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hidden Gems - Restaurant Finder</title>
+    <style>
+        /* Reset default margins and paddings */
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* Main container for the application */
+        .container {
+            display: flex;
+            height: 100%;
+            background-color: #1a202c;
+            color: white;
+        }
+
+        /* Sidebar styles */
+        .sidebar {
+            width: 400px;
+            overflow-y: auto;
+            border-right: 1px solid #4a5568;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* Divider between sidebar and map */
+        .divider {
+            width: 5px;
+            background-color: #4a5568;
+            cursor: col-resize;
+        }
+
+        /* Hover effect for divider */
+        .divider:hover {
+            background-color: #10b981;
+        }
+
+        /* Container for the map */
+        .map-container {
+            flex-grow: 1;
+            position: relative;
+        }
+
+        /* Map element */
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+
+        /* Main heading style */
+        h1 {
+            color: #10b981;
+            margin-bottom: 20px;
+        }
+
+        /* Search input style */
+        .search-input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #2d3748;
+            border: 1px solid #4a5568;
+            color: white;
+            box-sizing: border-box;
+        }
+
+        /* Restaurant card style */
+        .restaurant-card {
+            background-color: #2d3748;
+            border: 1px solid #4a5568;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+            cursor: pointer;
+        }
+
+        /* Hover effect for restaurant card */
+        .restaurant-card:hover {
+            background-color: #4a5568;
+        }
+
+        /* Restaurant name style */
+        .restaurant-name {
+            color: #10b981;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        /* Restaurant info style */
+        .restaurant-info {
+            color: #a0aec0;
+            font-size: 0.9em;
+        }
+
+        /* Rating style */
+        .rating {
+            color: #fbbf24;
+        }
+
+        /* Selected restaurant info box */
+        .selected-restaurant {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background-color: #2d3748;
+            border: 1px solid #4a5568;
+            border-radius: 5px;
+            padding: 15px;
+            width: 250px;
+            z-index: 1000;
+        }
+
+        /* Book button style */
+        .book-button {
+            background-color: #10b981;
+            color: white;
+            border: none;
+            padding: 10px;
+            width: 100%;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        /* Hover effect for book button */
+        .book-button:hover {
+            background-color: #059669;
+        }
+    </style>
+    <!-- Include MapTiler SDK -->
+    <script src="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.umd.js"></script>
+    <link href="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Main container -->
+    <div class="container">
+        <!-- Sidebar -->
+        <div id="sidebar" class="sidebar">
+            <h1>Hidden Gems</h1>
+            <input type="search" placeholder="Search restaurants..." class="search-input">
+            <div id="restaurant-list"></div>
+        </div>
+        <!-- Resizable divider -->
+        <div id="divider" class="divider"></div>
+        <!-- Map container -->
+        <div class="map-container">
+            <div id="map"></div>
+            <!-- Selected restaurant info box -->
+            <div id="selected-restaurant" class="selected-restaurant" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script>
+        // Sample restaurant data
+        const restaurants = [
+            { id: 1, name: "Samgyetang House", cuisine: "Korean", price: "$$", rating: 4.7, lat: 37.5665, lng: 126.9780 },
+            { id: 2, name: "Sushi Sejong", cuisine: "Japanese", price: "$$$", rating: 4.9, lat: 37.5725, lng: 126.9760 },
+            { id: 3, name: "Nonna's Pasta", cuisine: "Italian", price: "$$", rating: 4.8, lat: 37.5635, lng: 126.9845 },
+            { id: 4, name: "Gangnam Curry", cuisine: "Indian", price: "$", rating: 4.6, lat: 37.5172, lng: 127.0473 },
+            { id: 5, name: "Seoul BBQ", cuisine: "Korean", price: "$$$", rating: 4.5, lat: 37.5641, lng: 126.9810 },
+        ];
+
+        // Get DOM elements
+        const sidebar = document.getElementById('sidebar');
+        const divider = document.getElementById('divider');
+        const restaurantList = document.getElementById('restaurant-list');
+        const selectedRestaurantInfo = document.getElementById('selected-restaurant');
+
+        // Object to store map markers
+        const markers = {};
+
+        // Flag for divider dragging
+        let isDragging = false;
+
+        // Initialize map and restaurants on page load
+        window.addEventListener('load', async () => {
+            try {
+                // Fetch MapTiler API key from backend
+                const response = await fetch('http://127.0.0.1:8000/api/maptiler-key');
+                const data = await response.json();
+                maptilersdk.config.apiKey = data.apiKey;
+
+                // Initialize map
+                const map = new maptilersdk.Map({
+                    container: 'map',
+                    style: maptilersdk.MapStyle.WINTER,
+                    center: [126.9780, 37.5665], // Change to Seoul's coordinates
+                    zoom: 12
+                });
+
+                // Render restaurants on the map and sidebar
+                renderRestaurants(map);
+            } catch (error) {
+                console.error('Error fetching the API key:', error);
+            }
+        });
+
+        // Function to render restaurants
+        function renderRestaurants(map) {
+            restaurantList.innerHTML = '';
+            restaurants.forEach(restaurant => {
+                // Create restaurant card
+                const card = document.createElement('div');
+                card.className = 'restaurant-card';
+                card.innerHTML = `
+                    <div class="restaurant-name">${restaurant.name}</div>
+                    <div class="restaurant-info">${restaurant.cuisine} • ${restaurant.price}</div>
+                    <div class="rating">★ ${restaurant.rating}</div>
+                `;
+                card.addEventListener('click', () => selectRestaurant(restaurant));
+                restaurantList.appendChild(card);
+
+                // Determine marker icon based on cuisine
+                let iconUrl;
+                switch (restaurant.cuisine) {
+                    case 'Korean':
+                        iconUrl = './beef.png'; // Replace with actual path
+                        break;
+                    case 'Japanese':
+                        iconUrl = './gook.png'; // Replace with actual path
+                        break;
+                    case 'Italian':
+                        iconUrl = './beef.png'; // Replace with actual path
+                        break;
+                    case 'Indian':
+                        iconUrl = 'path/to/indian-icon.png'; // Replace with actual path
+                        break;
+                    default:
+                        iconUrl = 'path/to/default-icon.png'; // Replace with actual path
+                }
+
+                // Add marker to the map with custom icon
+                const marker = new maptilersdk.Marker({ element: createCustomMarker(iconUrl) })
+                    .setLngLat([restaurant.lng, restaurant.lat])
+                    .addTo(map);
+
+                markers[restaurant.id] = marker;
+            });
+        }
+
+        // Function to create a custom marker element
+        function createCustomMarker(iconUrl) {
+            const markerElement = document.createElement('div');
+            markerElement.style.backgroundImage = `url(${iconUrl})`;
+            markerElement.style.width = '30px'; // Adjust size as needed
+            markerElement.style.height = '30px'; // Adjust size as needed
+            markerElement.style.backgroundSize = 'cover';
+            return markerElement;
+        }
+
+        // Function to handle restaurant selection
+        function selectRestaurant(restaurant) {
+            // Check if map is defined
+            if (typeof map === 'undefined') {
+                console.error('Map is not initialized');
+                return;
+            }
+
+            // Center map on selected restaurant
+            map.flyTo({
+                center: [restaurant.lng, restaurant.lat],
+                zoom: 15
+            });
+
+            // Check if selectedRestaurantInfo element exists
+            const selectedRestaurantInfo = document.getElementById('selectedRestaurantInfo');
+            if (!selectedRestaurantInfo) {
+                console.error('Selected restaurant info element not found');
+                return;
+            }
+
+            // Display selected restaurant info
+            selectedRestaurantInfo.style.display = 'block';
+            selectedRestaurantInfo.innerHTML = `
+                <div class="restaurant-name">${restaurant.name}</div>
+                <div class="restaurant-info">${restaurant.cuisine} • ${restaurant.price}</div>
+                <div class="rating">★ ${restaurant.rating}</div>
+                <button class="book-button">Book a Table</button>
+            `;
+
+            // Highlight the selected restaurant in the sidebar
+            const restaurantCards = document.querySelectorAll('.restaurant-card');
+            restaurantCards.forEach(card => {
+                if (card.querySelector('.restaurant-name').textContent === restaurant.name) {
+                    card.classList.add('selected');
+                } else {
+                    card.classList.remove('selected');
+                }
+            });
+        }
+
+        // Event listener for divider drag start
+        divider.addEventListener('mousedown', (e) => {
+            e.preventDefault();
+            isDragging = true;
+            document.body.style.userSelect = 'none';
+            document.body.style.cursor = 'col-resize';
+        });
+
+        // Event listener for divider dragging
+        document.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+            const newWidth = Math.max(50, e.clientX);
+            if (newWidth < window.innerWidth - 200) {
+                sidebar.style.width = newWidth + 'px';
+            }
+        });
+
+        // Event listener for divider drag end
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+            document.body.style.userSelect = 'auto';
+            document.body.style.cursor = 'default';
+        });
+    </script>
+</body>
+
+</html>
