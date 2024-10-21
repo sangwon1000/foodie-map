@@ -152,6 +152,35 @@
             padding: 20px;
             box-sizing: border-box;
         }
+
+        /* Add styles for filter groups */
+        .filter-group {
+            margin-bottom: 20px;
+        }
+
+        .filter-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #a0aec0;
+        }
+
+        .filter-group select,
+        .filter-group input[type="range"] {
+            width: 100%;
+            padding: 8px;
+            background-color: #2d3748;
+            border: 1px solid #4a5568;
+            color: white;
+            box-sizing: border-box;
+            border-radius: 5px;
+        }
+
+        .price-range-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 5px;
+            color: #a0aec0;
+        }
     </style>
     <!-- Include MapTiler SDK -->
     <script src="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.umd.js"></script>
@@ -163,8 +192,18 @@
     <div class="container">
         <!-- New Left Sidebar -->
         <div id="left-sidebar" class="sidebar">
-            <h1>Filters</h1>
-            <div>
+            <h1>momok</h1>
+            <div class="filter-group">
+                <label for="country-filter">Country:</label>
+                <select id="country-filter">
+                    <option value="South Korea">South Korea</option>
+                    <!-- Add more countries if needed -->
+                </select>
+            </div>
+            <div class="filter-group">
+                <input type="search" placeholder="Search restaurants..." class="search-input">
+            </div>
+            <div class="filter-group">
                 <label for="cuisine-filter">Cuisine:</label>
                 <select id="cuisine-filter">
                     <option value="all">All</option>
@@ -174,22 +213,29 @@
                     <option value="Indian">Indian</option>
                 </select>
             </div>
-            <div>
+            <div class="filter-group">
                 <label for="chef-filter">Chef:</label>
                 <select id="chef-filter">
                     <option value="all">All</option>
-                    <!-- Add chef options here -->
+                    <option value="Chef Kim">Chef Kim</option>
+                    <option value="Chef Tanaka">Chef Tanaka</option>
+                    <option value="Chef Bella">Chef Bella</option>
+                    <option value="Chef Kumar">Chef Kumar</option>
+                    <option value="Chef Lee">Chef Lee</option>
                 </select>
             </div>
-            <div>
+            <div class="filter-group">
                 <label for="price-filter">Price Level:</label>
                 <input type="range" id="price-filter" min="1" max="3" step="1">
+                <div class="price-range-labels">
+                    <span>$</span>
+                    <span>$$</span>
+                    <span>$$$</span>
+                </div>
             </div>
         </div>
         <!-- Existing Sidebar -->
         <div id="sidebar" class="sidebar">
-            <h1>momok</h1>
-            <input type="search" placeholder="Search restaurants..." class="search-input">
             <div id="restaurant-list"></div>
         </div>
         <!-- Resizable divider -->

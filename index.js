@@ -23,26 +23,38 @@ let map;
 let isDragging = false;
 
 // Get filter elements
+const countryFilter = document.getElementById('country-filter');
 const cuisineFilter = document.getElementById('cuisine-filter');
 const chefFilter = document.getElementById('chef-filter');
 const priceFilter = document.getElementById('price-filter');
 
 // Add event listeners for filters
+countryFilter.addEventListener('change', filterRestaurants);
 cuisineFilter.addEventListener('change', filterRestaurants);
 chefFilter.addEventListener('change', filterRestaurants);
 priceFilter.addEventListener('input', filterRestaurants);
 
+// Get search input element
+const searchInput = document.querySelector('.search-input');
+
+// Add event listener for search input
+searchInput.addEventListener('input', filterRestaurants);
+
 function filterRestaurants() {
+    const selectedCountry = countryFilter.value;
     const selectedCuisine = cuisineFilter.value;
     const selectedChef = chefFilter.value;
     const selectedPrice = priceFilter.value;
+    const searchQuery = searchInput.value.toLowerCase();
 
     const filteredRestaurants = restaurants.filter(restaurant => {
+        const matchesCountry = selectedCountry === 'South Korea'; // Assuming all restaurants are in South Korea
         const matchesCuisine = selectedCuisine === 'all' || restaurant.cuisine === selectedCuisine;
         const matchesChef = selectedChef === 'all' || restaurant.chef === selectedChef;
         const matchesPrice = restaurant.price.length <= selectedPrice;
+        const matchesSearch = restaurant.name.toLowerCase().includes(searchQuery);
 
-        return matchesCuisine && matchesChef && matchesPrice;
+        return matchesCountry && matchesCuisine && matchesChef && matchesPrice && matchesSearch;
     });
 
     renderRestaurants(filteredRestaurants);
