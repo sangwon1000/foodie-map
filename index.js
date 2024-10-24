@@ -2,11 +2,9 @@
 let restaurants = [];
 let map;
 let markers = {};
-let isDragging = false;
 
 // Get DOM elements
 const sidebar = document.getElementById('sidebar');
-const divider = document.getElementById('divider');
 const restaurantList = document.getElementById('restaurant-list');
 const selectedRestaurantInfo = document.getElementById('selected-restaurant');
 
@@ -107,32 +105,44 @@ function renderRestaurants(restaurantsToRender) {
         card.addEventListener('click', () => selectRestaurant(restaurant));
         restaurantList.appendChild(card);
 
-        // Add marker to the map
-        const marker = new maptilersdk.Marker()
-            .setLngLat([restaurant.Lng_Address, restaurant.Lat_Address])
-            .addTo(map);
+        // Add marker to the map only if coordinates are available
+        if (restaurant.Google_Lng && restaurant.Google_Lat) {
+            const marker = new maptilersdk.Marker()
+                .setLngLat([restaurant.Google_Lng, restaurant.Google_Lat])
+                .addTo(map);
 
-        marker.getElement().addEventListener('click', () => selectRestaurant(restaurant));
+            marker.getElement().addEventListener('click', () => selectRestaurant(restaurant));
 
-        markers[restaurant.Title] = marker;
+            markers[restaurant.Title] = marker;
+        }
     });
 }
 
 // Function to handle restaurant selection
 function selectRestaurant(restaurant) {
-    map.flyTo({
-        center: [restaurant.Lng_Address, restaurant.Lat_Address],
-        zoom: 15
-    });
+    if (restaurant.Google_Lng && restaurant.Google_Lat) {
+        map.flyTo({
+            center: [restaurant.Google_Lng, restaurant.Google_Lat],
+            zoom: 15
+        });
+    }
 
     selectedRestaurantInfo.style.display = 'block';
     selectedRestaurantInfo.innerHTML = `
+        <div class="close-button">&times;</div>
         <div class="restaurant-name">${restaurant.Title}</div>
         <div class="restaurant-info">${restaurant.Cuisine} • ${restaurant.Price}</div>
         <div class="rating">${restaurant.Badge_Text || ''}</div>
         <p>${restaurant.Description}</p>
         <button class="book-button" onclick="window.open('${restaurant.Website || '#'}', '_blank')">Visit Website</button>
+        <button class="map-button" onclick="window.open('${restaurant.Share_URL || '#'}', '_blank')">View on Google Maps</button>
     `;
+
+    // Add event listener for the close button
+    const closeButton = selectedRestaurantInfo.querySelector('.close-button');
+    closeButton.addEventListener('click', () => {
+        selectedRestaurantInfo.style.display = 'none';
+    });
 
     // Highlight the selected restaurant in the sidebar
     const restaurantCards = document.querySelectorAll('.restaurant-card');
@@ -144,27 +154,3 @@ function selectRestaurant(restaurant) {
         }
     });
 }
-
-// Event listener for divider drag start
-divider.addEventListener('mousedown', (e) => {
-    e.preventDefault();
-    isDragging = true;
-    document.body.style.userSelect = 'none';
-    document.body.style.cursor = 'col-resize';
-});
-
-// Event listener for divider dragging
-document.addEventListener('mousemove', (e) => {
-    if (!isDragging) return;
-    const newWidth = Math.max(50, e.clientX);
-    if (newWidth < window.innerWidth - 200) {
-        sidebar.style.width = newWidth + 'px';
-    }
-});
-
-// Event listener for divider drag end
-document.addEventListener('mouseup', () => {
-    isDragging = false;
-    document.body.style.userSelect = 'auto';
-    document.body.style.cursor = 'default';
-});

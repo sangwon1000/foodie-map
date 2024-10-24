@@ -31,18 +31,22 @@
             border-right: 1px solid #4a5568;
             padding: 20px;
             box-sizing: border-box;
+            scrollbar-width: thin;
+            scrollbar-color: #4a5568 #1a202c;
         }
 
-        /* Divider between sidebar and map */
-        .divider {
-            width: 5px;
+        /* Webkit browsers custom scrollbar */
+        .sidebar::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .sidebar::-webkit-scrollbar-track {
+            background: #1a202c;
+        }
+
+        .sidebar::-webkit-scrollbar-thumb {
             background-color: #4a5568;
-            cursor: col-resize;
-        }
-
-        /* Hover effect for divider */
-        .divider:hover {
-            background-color: #10b981;
+            border-radius: 4px;
         }
 
         /* Container for the map */
@@ -118,10 +122,12 @@
             padding: 15px;
             width: 250px;
             z-index: 1000;
+            display: none;
         }
 
         /* Book button style */
-        .book-button {
+        .book-button,
+        .map-button {
             background-color: #10b981;
             color: white;
             border: none;
@@ -131,8 +137,9 @@
             cursor: pointer;
         }
 
-        /* Hover effect for book button */
-        .book-button:hover {
+        /* Hover effect for book button and map button */
+        .book-button:hover,
+        .map-button:hover {
             background-color: #059669;
         }
 
@@ -151,6 +158,21 @@
             border-right: 1px solid #4a5568;
             padding: 20px;
             box-sizing: border-box;
+            scrollbar-width: thin;
+            scrollbar-color: #4a5568 #1a202c;
+        }
+
+        #left-sidebar::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #left-sidebar::-webkit-scrollbar-track {
+            background: #1a202c;
+        }
+
+        #left-sidebar::-webkit-scrollbar-thumb {
+            background-color: #4a5568;
+            border-radius: 4px;
         }
 
         /* Add styles for filter groups */
@@ -180,6 +202,19 @@
             justify-content: space-between;
             margin-top: 5px;
             color: #a0aec0;
+        }
+
+        .close-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            cursor: pointer;
+            color: #a0aec0;
+        }
+
+        .close-button:hover {
+            color: #fff;
         }
     </style>
     <!-- Include MapTiler SDK -->
@@ -224,8 +259,6 @@
         <div id="sidebar" class="sidebar">
             <div id="restaurant-list"></div>
         </div>
-        <!-- Resizable divider -->
-        <div id="divider" class="divider"></div>
         <!-- Map container -->
         <div class="map-container">
             <div id="map"></div>

@@ -49,7 +49,7 @@ async def get_maptiler_key():
 @app.get("/api/hong-kong-restaurants")
 async def get_hong_kong_restaurants():
     try:
-        df = pd.read_csv('./hong_kong_restaurants_data_with_coordinates.csv')
+        df = pd.read_csv('./hong_kong_restaurants_data_with_coordinates_updated.csv')
         
         # Convert DataFrame to a list of dictionaries
         records = df.to_dict(orient="records")
@@ -71,3 +71,4 @@ async def get_hong_kong_restaurants():
         raise HTTPException(status_code=400, detail="CSV file is empty")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing data: {str(e)}")
+
