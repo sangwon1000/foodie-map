@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>momok - Restaurant Finder</title>
+    <title>momokji - Restaurant Finder</title>
     <style>
         /* Reset default margins and paddings */
         body,
@@ -192,12 +192,11 @@
     <div class="container">
         <!-- New Left Sidebar -->
         <div id="left-sidebar" class="sidebar">
-            <h1>momok</h1>
+            <h1>momokji</h1>
             <div class="filter-group">
-                <label for="country-filter">Country:</label>
+                <label for="country-filter">City:</label>
                 <select id="country-filter">
-                    <option value="South Korea">South Korea</option>
-                    <!-- Add more countries if needed -->
+                    <option value="Hong Kong">Hong Kong</option>
                 </select>
             </div>
             <div class="filter-group">
@@ -207,31 +206,18 @@
                 <label for="cuisine-filter">Cuisine:</label>
                 <select id="cuisine-filter">
                     <option value="all">All</option>
-                    <option value="Korean">Korean</option>
-                    <option value="Japanese">Japanese</option>
-                    <option value="Italian">Italian</option>
-                    <option value="Indian">Indian</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="chef-filter">Chef:</label>
-                <select id="chef-filter">
-                    <option value="all">All</option>
-                    <option value="Chef Kim">Chef Kim</option>
-                    <option value="Chef Tanaka">Chef Tanaka</option>
-                    <option value="Chef Bella">Chef Bella</option>
-                    <option value="Chef Kumar">Chef Kumar</option>
-                    <option value="Chef Lee">Chef Lee</option>
+                    <!-- Cuisine options will be dynamically populated -->
                 </select>
             </div>
             <div class="filter-group">
                 <label for="price-filter">Price Level:</label>
-                <input type="range" id="price-filter" min="1" max="3" step="1">
-                <div class="price-range-labels">
-                    <span>$</span>
-                    <span>$$</span>
-                    <span>$$$</span>
-                </div>
+                <select id="price-filter">
+                    <option value="all">All</option>
+                    <option value="$">$</option>
+                    <option value="$$">$$</option>
+                    <option value="$$$">$$$</option>
+                    <option value="$$$$">$$$$</option>
+                </select>
             </div>
         </div>
         <!-- Existing Sidebar -->

@@ -3,6 +3,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import httpx
 import os
 from dotenv import load_dotenv
+import pandas as pd
+from fastapi.responses import JSONResponse
+import math
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -42,3 +45,29 @@ async def get_maptiler_key():
     if not MAPTILER_API_KEY:
         raise HTTPException(status_code=500, detail="API key not found")
     return {"apiKey": MAPTILER_API_KEY}
+
+@app.get("/api/hong-kong-restaurants")
+async def get_hong_kong_restaurants():
+    try:
+        df = pd.read_csv('./hong_kong_restaurants_data_with_coordinates.csv')
+        
+        # Convert DataFrame to a list of dictionaries
+        records = df.to_dict(orient="records")
+        
+        # Function to handle non-JSON compliant float values
+        def clean_float(value):
+            if isinstance(value, float):
+                if math.isnan(value) or math.isinf(value):
+                    return None
+            return value
+        
+        # Clean the records
+        cleaned_records = [{k: clean_float(v) for k, v in record.items()} for record in records]
+        
+        return JSONResponse(content=cleaned_records)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="CSV file not found")
+    except pd.errors.EmptyDataError:
+        raise HTTPException(status_code=400, detail="CSV file is empty")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error processing data: {str(e)}")
