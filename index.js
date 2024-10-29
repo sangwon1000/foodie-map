@@ -99,16 +99,33 @@ function renderRestaurants(restaurantsToRender) {
         card.className = 'restaurant-card';
         card.innerHTML = `
             <div class="restaurant-name">${restaurant.Title}</div>
-            <div class="restaurant-info">${restaurant.Cuisine} • ${restaurant.Price}</div>
-            <div class="rating">${restaurant.Badge_Text || ''}</div>
+            <div class="restaurant-info">
+                ${restaurant.Cuisine} • ${restaurant.Price} • 
+                <span class="michelin-star" title="Michelin Guide">✿</span>
+            </div>
+            <div class="rating-container">
+                <div class="rating">${restaurant.Badge_Text || ''}</div>
+                <div class="rating-stats">
+                    <span class="star-rating">★ ${restaurant.rating || 'N/A'}</span>
+                    <span class="rating-count">(${restaurant.user_ratings_count || 0})</span>
+                </div>
+            </div>
         `;
         card.addEventListener('click', () => selectRestaurant(restaurant));
+
+        // Add event listener for the Michelin star
+        const michelinStar = card.querySelector('.michelin-star');
+        michelinStar.addEventListener('click', (e) => {
+            e.stopPropagation();
+            showMichelinGuideInfo();
+        });
+
         restaurantList.appendChild(card);
 
         // Add marker to the map only if coordinates are available
-        if (restaurant.Google_Lng && restaurant.Google_Lat) {
+        if (restaurant.longitude && restaurant.latitude) {
             const marker = new maptilersdk.Marker()
-                .setLngLat([restaurant.Google_Lng, restaurant.Google_Lat])
+                .setLngLat([restaurant.longitude, restaurant.latitude])
                 .addTo(map);
 
             marker.getElement().addEventListener('click', () => selectRestaurant(restaurant));
@@ -120,9 +137,9 @@ function renderRestaurants(restaurantsToRender) {
 
 // Function to handle restaurant selection
 function selectRestaurant(restaurant) {
-    if (restaurant.Google_Lng && restaurant.Google_Lat) {
+    if (restaurant.longitude && restaurant.latitude) {
         map.flyTo({
-            center: [restaurant.Google_Lng, restaurant.Google_Lat],
+            center: [restaurant.longitude, restaurant.latitude],
             zoom: 15
         });
     }
@@ -134,8 +151,11 @@ function selectRestaurant(restaurant) {
         <div class="restaurant-info">${restaurant.Cuisine} • ${restaurant.Price}</div>
         <div class="rating">${restaurant.Badge_Text || ''}</div>
         <p>${restaurant.Description}</p>
-        <button class="book-button" onclick="window.open('${restaurant.Website || '#'}', '_blank')">Visit Website</button>
-        <button class="map-button" onclick="window.open('${restaurant.Share_URL || '#'}', '_blank')">View on Google Maps</button>
+        <span class="icon-button website-icon" onclick="window.open('${restaurant.Website || '#'}', '_blank')" title="Visit Website">🌐</span>
+        <span>&nbsp</span>
+        <span class="icon-button map-icon" onclick="window.open('${restaurant.Share_URL || '#'}', '_blank')" title="View on Google Maps">🗺️</span>
+        <span>&nbsp</span>
+        <span class="michelin-star" title="Michelin Guide">✿</span>
     `;
 
     // Add event listener for the close button
@@ -152,5 +172,21 @@ function selectRestaurant(restaurant) {
         } else {
             card.classList.remove('selected');
         }
+    });
+}
+
+function showMichelinGuideInfo() {
+    selectedRestaurantInfo.style.display = 'block';
+    selectedRestaurantInfo.innerHTML = `
+        <div class="close-button">&times;</div>
+        <h2>Michelin Guide</h2>
+        <p>The Michelin Guide is a series of guide books published by the French tire company Michelin for more than a century. The term normally refers to the annually published Michelin Red Guide, the oldest European hotel and restaurant reference guide, which awards up to three Michelin stars for excellence to a select few establishments.</p>
+        <p>The acquisition or loss of a star can have dramatic effects on the success of a restaurant. Michelin also awards rising stars, an indication that a restaurant has the potential to qualify for a star, or an additional star.</p>
+    `;
+
+    // Add event listener for the close button
+    const closeButton = selectedRestaurantInfo.querySelector('.close-button');
+    closeButton.addEventListener('click', () => {
+        selectedRestaurantInfo.style.display = 'none';
     });
 }
