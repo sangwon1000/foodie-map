@@ -23,24 +23,32 @@ Cook's Tour → The Layover → Parts Unknown).
 
 ## 🇰🇷 Korean profiles
 
-Six Korean food shows, **2,563 places**, sourced from DiningCode's community-curated
-"인증맛집" (certified) lists and joined to each show's episode/visit history:
+Six Korean food shows, **~2,880 places**. The spine of each is the show's own
+episode/visit history — every restaurant it actually featured; coordinates come
+from DiningCode's community "인증맛집" lists and, for venues those lists miss, a
+DiningCode name-search (+ Nominatim for overseas stops):
 
-| Profile | Show | Places | Episode-matched |
+| Profile | Show | Pins | Aired venues placed |
 |---|---|---|---|
-| 🍚 백반기행 | 식객 허영만의 백반기행 (TV조선, 2019~) | 1,169 | 92% |
-| 🍽️ 수요미식회 | 수요미식회 (tvN, 2015–19) | 469 | 87% |
-| ⚔️ 흑백요리사 | 흑백요리사 (Netflix, 2024–25) | 191 | 76% |
-| 🎤 먹을텐데 | 성시경의 먹을텐데 (YouTube, 2021~) | 276 | 72% |
-| 🎧 최자로드 | 최자로드 (딩고·YouTube, 2018~) | 184 | 58% |
-| 🌾 한국인의밥상 | 한국인의 밥상 (KBS, 2011~) | 274 | list only |
+| 🍚 백반기행 | 식객 허영만의 백반기행 (TV조선, 2019~) | 1,285 | 91% |
+| 🍽️ 수요미식회 | 수요미식회 (tvN, 2015–19) | 563 | 90% |
+| 🎤 먹을텐데 | 성시경의 먹을텐데 (YouTube, 2021~) | 305 | 90% |
+| ⚔️ 흑백요리사 | 흑백요리사 (Netflix, 2024–25) | 229 | 87% |
+| 🎧 최자로드 | 최자로드 (딩고·YouTube, 2018~) | 226 | 87% |
+| 🌾 한국인의밥상 | 한국인의 밥상 (KBS, 2011~) | 274 | documentary¹ |
 
-Episode matching attaches the airdate, the round/episode label (`67회`,
-`시즌9`), the topic or region, and — for 먹을텐데 — the source YouTube link.
-흑백요리사 is chef-indexed (each place tagged with the chef and their result,
-e.g. `나폴리 맛피아 · 우승`). Place cards link out to Naver Map. 한국인의밥상 ships
-as the DiningCode list only — no structured episode source was reliable enough
-to join.
+Each pin carries the airdate, the round/episode label (`67회`, `시즌9`), the topic
+or region, and — for 먹을텐데 — the source YouTube link. 흑백요리사 is chef-indexed
+(each place tagged with the chef and their result, e.g. `나폴리 맛피아 · 우승`).
+Place cards link out to Naver Map.
+
+The unplaced remainder (~10%) is venues no structured Korean source lists —
+long-closed, renamed, or too small/rural for DiningCode — plus a few overseas
+street-food stalls. No coordinates are guessed; a missing pin beats a wrong one.
+
+¹ 한국인의 밥상 is a producer/regional-food documentary: only ~14 of its 744
+episodes name a specific restaurant, so it ships as the DiningCode list with those
+few episode links attached.
 
 ## Stack
 
@@ -110,20 +118,27 @@ Stages:
 Separate, self-contained, and independent of the Bourdain pipeline:
 
 ```bash
-npm run fetch:kr      # (re)pull the six DiningCode 인증맛집 lists → pipeline/raw/kr/
-npm run pipeline:kr   # build public/data/kr/<profile>.geojson from raw/kr/
+npm run fetch:kr       # (re)pull the six DiningCode 인증맛집 lists → pipeline/raw/kr/
+npm run geocode:kr     # geocode episode venues the lists miss → pipeline/cache/kr-geocode.json
+npm run pipeline:kr    # build public/data/kr/<profile>.geojson from raw/kr/ + the cache
 ```
 
 - **Fetch** (`pipeline/kr/fetch-diningcode.mjs`) — DiningCode's `isearch` API caps
   every query at 100 rows, so the fetcher recurses nationwide → 시/도 → 시/군/구
   until each slice fits, then merges by venue id. Coordinates, address, category,
   rating and live open-status come straight from DiningCode.
-- **Build** (`pipeline/kr/build.mjs`) — splits the 지번 address into province/city,
-  assigns a food emoji from the category, and joins each venue to its show's
-  episode file (`pipeline/raw/kr/episodes-<profile>.json`) by name key, with an
-  area-agreement guard so same-name venues in different provinces don't cross-match
-  and a branch-suffix-tolerant containment fallback (`하얀집` ↔ `나주곰탕 하얀집`).
-  No coordinates are ever guessed — a venue with no DiningCode pin is simply absent.
+- **Geocode** (`pipeline/kr/geocode-episodes.mjs`) — for every episode restaurant a
+  tagged list doesn't already cover, looks the name up: DiningCode name-search for
+  Korean venues (province-verified, with a market-prefix strip and a nationwide
+  unique-match fallback), Nominatim for overseas stops (country-verified). Clear
+  non-eateries the episode boards over-include (markets, shops, sights) are skipped.
+  Results — including verified misses — cache in `pipeline/cache/kr-geocode.json`.
+- **Build** (`pipeline/kr/build.mjs`) — treats the episode file as the spine. Each
+  aired restaurant is placed from its tagged DiningCode venue (name+area, with an
+  area-agreement guard and a branch-suffix containment fallback, `하얀집` ↔
+  `나주곰탕 하얀집`) or, failing that, from the geocode cache; a geocoded pin within
+  45 m of an existing one merges instead of duplicating. Tagged venues no episode
+  confirms are kept as supplementary community pins. No coordinates are guessed.
 
 Episode files were assembled per show from official channels and fan databases
 (TV조선 broadcast board, Korean Wikipedia/Namuwiki via the Wayback Machine, the

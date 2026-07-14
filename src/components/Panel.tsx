@@ -48,14 +48,24 @@ export default function Panel(props: PanelProps) {
 
   useEffect(() => setLimit(PAGE), [profile.id]);
 
+  // rank regions by how many places they hold, so the show's home turf leads and
+  // rare overseas stops sink to the bottom (instead of Latin names sorting first)
+  const rank = useMemo(() => {
+    const m = new Map<string, number>();
+    countries.forEach((c, i) => m.set(c.name, i));
+    return m;
+  }, [countries]);
+
   const sorted = useMemo(() => {
+    const r = (c: string) => rank.get(c) ?? Number.MAX_SAFE_INTEGER;
     return [...visible].sort(
       (a, b) =>
+        r(a.country) - r(b.country) ||
         a.country.localeCompare(b.country) ||
         a.city.localeCompare(b.city) ||
         a.name.localeCompare(b.name),
     );
-  }, [visible]);
+  }, [visible, rank]);
 
   const rows = sorted.slice(0, limit);
 

@@ -198,7 +198,7 @@ export const PROFILES: Profile[] = [
     titleMain: "한국인의 밥상",
     titleEm: "atlas",
     docTitle: "한국인의 밥상 아틀라스 🌾",
-    bio: "배우 최불암이 진행하는 KBS <한국인의 밥상>(2011~). 계절과 땅을 따라가는 전국 팔도의 상차림.",
+    bio: "배우 최불암이 진행하는 KBS <한국인의 밥상>(2011~). 계절과 땅을 따라가는 전국 팔도의 상차림. 다큐 특성상 상호가 명시된 식당은 일부.",
     dataUrl: "data/kr/koreantable.geojson",
     camera: { center: [127.4, 36.1], zoom: 5.8 },
     shows: [

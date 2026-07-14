@@ -1,6 +1,14 @@
-// Build per-profile GeoJSON for the Korean show profiles from the vendored
-// DiningCode lists (+ episode files when the collectors have delivered them).
-// Usage: node pipeline/kr/build.mjs
+// Build per-profile GeoJSON for the Korean show profiles.
+//
+// The spine is each show's *episode/visit history* — every restaurant the show
+// actually visited. Coordinates come from, in order:
+//   1. the DiningCode 인증맛집 tagged list (name+area match) → rich pin (rating…)
+//   2. the episode geocode cache (pipeline/cache/kr-geocode.json), which resolved
+//      the rest via DiningCode name-search + Nominatim (run geocode-episodes.mjs)
+// DiningCode-tagged venues that no episode confirms are still kept as supplementary
+// community pins (no episode badge). Nothing is ever pinned on a guess.
+//
+// Usage: node pipeline/kr/build.mjs   (run geocode-episodes.mjs first for full coverage)
 
 import fs from "node:fs";
 import path from "node:path";
@@ -9,6 +17,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const RAW = path.join(ROOT, "pipeline/raw/kr");
 const OUT = path.join(ROOT, "public/data/kr");
+const GEO_CACHE = path.join(ROOT, "pipeline/cache/kr-geocode.json");
 
 // ---------- profiles ----------
 const PROFILES = [
@@ -43,6 +52,12 @@ function splitAddr(addr) {
   if (t[2] && /[동읍면가리로]$/.test(t[2]) && !/^\d/.test(t[2])) parts.push(t[2]);
   return { province, city: parts.join(" ") };
 }
+
+const provinceShort = (s) => {
+  if (!s) return null;
+  for (const [full, short] of PROVINCES) if (s.includes(full) || s.includes(short)) return short;
+  return null;
+};
 
 const EMOJI_RULES = [
   [/초밥|스시|오마카세|사시미/u, "🍣"],
@@ -94,7 +109,6 @@ const fold = (s) =>
 // strip common branch suffixes for matching ("본점", "강남점"…)
 const nameKey = (s) => fold(String(s ?? "").replace(/\s*(본점|본관|직영점|[가-힣A-Za-z0-9]{1,8}점)\s*$/u, ""));
 
-// ---------- episode loading ----------
 function loadJson(p) {
   try {
     return JSON.parse(fs.readFileSync(p, "utf8"));
@@ -108,81 +122,90 @@ const yearOf = (d) => {
   return m ? Number(m[1]) : undefined;
 };
 
-/** returns Map<key, visit[]> for a profile, or null when no episode file yet */
+// clear non-eateries the episode boards over-include (sights, shops, producers) —
+// never mapped, never counted against coverage. Kept conservative to avoid
+// dropping real restaurants (markets stay: "서문시장 삼미식당" is a restaurant).
+const NONFOOD =
+  /체험마을|병영성|산성|읍성|서원|향교|서당|박물관|미술관|전시관|기념관|사진사|사진관|카메라|지업사|철물|금박|화원|꽃상가|꽃집|슈퍼|마트$|편의점|정미소|방앗간|떡방아|참기름집|선착장|여객선|여객터미널|기차역|근대화거리|가요센터|공원사진|미용실|이발관|서점|문구점|양식장|어촌계|농협|수협|축협/u;
+const isNonFood = (name) => NONFOOD.test(String(name ?? ""));
+
+// ---------- episode index ----------
+// Map<nameKey, entry[]> where entry = { visit, area, raw, consumed }
 function episodeIndex(id) {
   const eps = loadJson(path.join(RAW, `episodes-${id}.json`));
   if (!eps) return null;
   const ix = new Map();
   const add = (name, visit, area) => {
     const k = nameKey(name);
-    if (k.length < 2) return;
+    if (k.length < 2 || isNonFood(name)) return;
     if (!ix.has(k)) ix.set(k, []);
-    ix.get(k).push({ visit, area: area ?? null, raw: String(name) });
+    ix.get(k).push({ visit, area: area ?? null, raw: String(name), consumed: false });
   };
 
   if (id === "baekban") {
-    for (const e of eps) {
-      for (const r of e.restaurants ?? []) {
-        add(r, {
-          show: "BB", episode: e.ep ?? undefined, title: e.region || undefined,
-          year: yearOf(e.date), label: e.ep != null ? `${e.ep}회` : undefined,
-        }, e.region);
-      }
-    }
+    for (const e of eps)
+      for (const r of e.restaurants ?? [])
+        add(r, { show: "BB", episode: e.ep ?? undefined, title: e.region || undefined, year: yearOf(e.date), label: e.ep != null ? `${e.ep}회` : undefined }, e.region);
   } else if (id === "misikhoe") {
-    for (const e of eps) {
-      for (const r of e.restaurants ?? []) {
-        add(r.name ?? r, {
-          show: "WM", episode: e.ep ?? undefined, title: e.topic || undefined,
-          year: yearOf(e.date), label: e.ep != null ? `${e.ep}회` : undefined,
-        }, r.area);
-      }
-    }
+    for (const e of eps)
+      for (const r of e.restaurants ?? [])
+        add(r.name ?? r, { show: "WM", episode: e.ep ?? undefined, title: e.topic || undefined, year: yearOf(e.date), label: e.ep != null ? `${e.ep}회` : undefined }, r.area);
   } else if (id === "mokeultende") {
     for (const e of eps) {
-      // multi-restaurant episodes pack names as "A / B / C"
-      const names = String(e.restaurant ?? "")
-        .split(" / ")
-        .map((s) => s.trim())
-        .filter(Boolean);
-      const title = String(e.title ?? "")
-        .replace(/^.*?먹을텐데\s*[lㅣ|I]\s*/u, "")
-        .trim();
-      for (const r of names) {
-        add(r, {
-          show: "MT", title: title || undefined, year: yearOf(e.date),
-          video: e.video || undefined, label: e.n != null ? `${e.n}화` : undefined,
-        }, e.area);
-      }
+      const names = String(e.restaurant ?? "").split(" / ").map((s) => s.trim()).filter(Boolean);
+      const title = String(e.title ?? "").replace(/^.*?먹을텐데\s*[lㅣ|I]\s*/u, "").trim();
+      for (const r of names)
+        add(r, { show: "MT", title: title || undefined, year: yearOf(e.date), video: e.video || undefined, label: e.n != null ? `${e.n}화` : undefined }, e.area);
     }
   } else if (id === "choizaroad") {
     for (const e of eps) {
-      // drop the trailing "| 최자로드9 EP. 01" / "| 최자로드9 EP.01" boilerplate
-      const title = String(e.title ?? "")
-        .replace(/\s*[|ㅣ]\s*(최자로드|온더웨이|로컬콜링).*$/u, "")
-        .trim();
-      add(e.restaurant, {
-        show: "CR", season: e.season ?? undefined, title: title || undefined,
-        year: yearOf(e.date), label: e.season != null ? `시즌${e.season}` : undefined,
-      }, e.area);
+      const title = String(e.title ?? "").replace(/\s*[|ㅣ]\s*(최자로드|온더웨이|로컬콜링).*$/u, "").trim();
+      add(e.restaurant, { show: "CR", season: e.season ?? undefined, title: title || undefined, year: yearOf(e.date), label: e.season != null ? `시즌${e.season}` : undefined }, e.area);
     }
   } else if (id === "culinarywars") {
     for (const e of eps) {
       const bits = [e.tier, e.result].filter(Boolean).join(" · ");
-      for (const r of e.restaurants ?? []) {
-        add(r.name ?? r, {
-          show: e.season === 2 ? "CW2" : "CW1",
-          title: bits ? `${e.chef} (${bits})` : e.chef,
-          year: e.season === 2 ? 2025 : 2024,
-        }, r.area);
-      }
+      for (const r of e.restaurants ?? [])
+        add(r.name ?? r, { show: e.season === 2 ? "CW2" : "CW1", title: bits ? `${e.chef} (${bits})` : e.chef, year: e.season === 2 ? 2025 : 2024 }, r.area);
     }
+  } else if (id === "koreantable") {
+    for (const e of eps)
+      for (const r of e.restaurants ?? [])
+        add(r.name ?? r, { show: "KT", episode: e.ep ?? undefined, title: e.topic || undefined, year: yearOf(e.date), label: e.ep != null ? `${e.ep}회` : undefined }, r.area);
   }
   return ix;
 }
 
+// meters between two lng/lat points
+const distM = (a, b) => {
+  const R = 6371000, rad = Math.PI / 180;
+  const dLat = (b[1] - a[1]) * rad, dLng = (b[0] - a[0]) * rad;
+  const la1 = a[1] * rad, la2 = b[1] * rad;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(la1) * Math.cos(la2) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+};
+
+const dedupeVisits = (visits) => {
+  const seen = new Set();
+  return visits.filter((v) => {
+    const k = JSON.stringify([v.show, v.season ?? null, v.episode ?? null, v.title ?? null]);
+    return !seen.has(k) && seen.add(k);
+  });
+};
+
+// does an episode area hint agree with a place's province/city?
+const areaOk = (area, province, city) => {
+  if (!area) return true;
+  const a = String(area);
+  const sigungu = (city.split(" ")[0] ?? "").replace(/[시군구]$/u, "");
+  if (provinceShort(a) === province) return true;
+  if (sigungu.length >= 2 && a.includes(sigungu)) return true;
+  return false;
+};
+
 // ---------- build ----------
 fs.mkdirSync(OUT, { recursive: true });
+const geoCache = loadJson(GEO_CACHE) ?? {};
 const summary = [];
 
 for (const { id, show } of PROFILES) {
@@ -192,23 +215,9 @@ for (const { id, show } of PROFILES) {
     continue;
   }
   const epIx = episodeIndex(id);
-  const usedEpKeys = new Set();
   const epEntries = epIx ? [...epIx.entries()] : [];
 
-  const provinceShort = (s) => {
-    for (const [full, short] of PROVINCES) if (s.includes(full) || s.includes(short)) return short;
-    return null;
-  };
-  // does the episode's area hint agree with the place's address?
-  const areaOk = (area, province, city) => {
-    if (!area) return true;
-    const a = String(area);
-    const sigungu = (city.split(" ")[0] ?? "").replace(/[시군구]$/u, "");
-    if (provinceShort(a) === province) return true;
-    if (sigungu.length >= 2 && a.includes(sigungu)) return true;
-    return false;
-  };
-
+  // ---- 1. DiningCode-tagged venues, consuming matching episode entries ----
   const features = raw.places.map((p) => {
     const { province, city } = splitAddr(p.addr || p.road_addr);
     const displayName = p.branch ? `${p.name} ${p.branch}` : p.name;
@@ -218,26 +227,18 @@ for (const { id, show } of PROFILES) {
       const k = nameKey(p.name);
       const exact = (k.length >= 2 && epIx.get(k)) || [];
       if (exact.length > 0) {
-        // prefer area-agreeing candidates; a bare name match still counts
         const ok = exact.filter((c) => areaOk(c.area, province, city));
-        for (const c of ok.length > 0 ? ok : exact) visits.push(c.visit);
-        usedEpKeys.add(k);
+        const take = ok.length > 0 ? ok : exact;
+        for (const c of take) { visits.push(c.visit); c.consumed = true; }
       } else if (k.length >= 3) {
         // containment fallback ("하얀집" ↔ "나주곰탕 하얀집") — area must agree
         for (const [ek, entries] of epEntries) {
           if (ek.length < 3 || (!ek.includes(k) && !k.includes(ek))) continue;
           const ok = entries.filter((c) => areaOk(c.area, province, city) && c.area);
-          if (ok.length === 0) continue;
-          for (const c of ok) visits.push(c.visit);
-          usedEpKeys.add(ek);
+          for (const c of ok) { visits.push(c.visit); c.consumed = true; }
         }
       }
-      // de-dupe identical visits
-      const seen = new Set();
-      visits = visits.filter((v) => {
-        const kk = JSON.stringify([v.show, v.season ?? null, v.episode ?? null, v.title ?? null]);
-        return !seen.has(kk) && seen.add(kk);
-      });
+      visits = dedupeVisits(visits);
     }
 
     const shows = [...new Set(visits.map((v) => v.show))];
@@ -264,27 +265,102 @@ for (const { id, show } of PROFILES) {
     };
   });
 
+  // ---- 2. episode venues no tagged place covered → geocode cache ----
+  let geoAdded = 0, geoUnresolved = 0;
+  if (epIx) {
+    // group leftover entries by (nameKey|area) — same key the geocoder cached under
+    const groups = new Map();
+    for (const [k, entries] of epEntries)
+      for (const c of entries) {
+        if (c.consumed) continue;
+        const gk = `${k}|${c.area ?? ""}`;
+        if (!groups.has(gk)) groups.set(gk, { k, area: c.area, raw: c.raw, visits: [] });
+        groups.get(gk).visits.push(c.visit);
+      }
+
+    for (const [gk, g] of groups) {
+      const geo = geoCache[gk];
+      if (!geo) { geoUnresolved++; continue; }
+      let city, country, status, kind, note, rating, reviews, dispName;
+      if (geo.src === "nominatim") {
+        dispName = geo.name || g.raw;
+        city = geo.city || "";
+        country = geo.country || "";
+        status = "unknown";
+      } else {
+        dispName = geo.name || g.raw;
+        const sp = splitAddr(geo.addr);
+        city = sp.city;
+        country = sp.province;
+        status = statusOf(geo.open_status);
+        kind = (geo.category ?? "").split(",")[0].trim() || undefined;
+        note = geo.category || undefined;
+        rating = geo.user_score ?? undefined;
+        reviews = geo.review_cnt ?? undefined;
+      }
+      const visits = dedupeVisits(g.visits);
+      // same physical spot as an existing pin whose name is compatible → merge,
+      // don't drop a second pin on top of it (name match just missed)
+      const gkName = nameKey(dispName);
+      const dup = features.find((f) => {
+        if (distM(f.geometry.coordinates, [geo.lng, geo.lat]) > 45) return false;
+        const fk = nameKey(f.properties.name);
+        return fk === gkName || (fk.length >= 3 && gkName.length >= 3 && (fk.includes(gkName) || gkName.includes(fk)));
+      });
+      if (dup) {
+        dup.properties.visits = dedupeVisits([...dup.properties.visits, ...visits]);
+        dup.properties.shows = [...new Set([...dup.properties.shows, ...visits.map((v) => v.show)])];
+        dup.properties.primaryShow = dup.properties.shows[dup.properties.shows.length - 1];
+        continue;
+      }
+      const shows = [...new Set(visits.map((v) => v.show))];
+      if (shows.length === 0) shows.push(show);
+      features.push({
+        type: "Feature",
+        geometry: { type: "Point", coordinates: [geo.lng, geo.lat] },
+        properties: {
+          id: `kr-${id}-geo-${fold(gk).slice(0, 40)}`,
+          name: dispName,
+          city,
+          country,
+          kind,
+          emoji: pickEmoji(note, dispName),
+          status,
+          note,
+          rating,
+          reviews,
+          visits,
+          shows,
+          primaryShow: shows[shows.length - 1],
+        },
+      });
+      geoAdded++;
+    }
+  }
+
   const withEp = features.filter((f) => f.properties.visits.length > 0).length;
-  const epTotal = epIx ? [...epIx.keys()].length : 0;
+  const epRestaurants = epIx
+    ? new Set(epEntries.flatMap(([k, es]) => es.map((c) => `${k}|${c.area ?? ""}`))).size
+    : 0;
   const meta = {
     profile: id,
     generated: new Date().toISOString(),
     counts: {
       places: features.length,
       withEpisodes: withEp,
-      episodeNamesMatched: usedEpKeys.size,
-      episodeNamesTotal: epTotal,
+      fromDiningCode: raw.places.length,
+      geocodedAdds: geoAdded,
+      episodeVenues: epRestaurants,
+      episodeUnresolved: geoUnresolved,
     },
   };
-  fs.writeFileSync(
-    path.join(OUT, `${id}.geojson`),
-    JSON.stringify({ type: "FeatureCollection", metadata: meta, features }),
-  );
+  fs.writeFileSync(path.join(OUT, `${id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+
+  const cov = epRestaurants ? Math.round((withEp / (withEp + geoUnresolved)) * 100) : 0;
   summary.push(
-    `${id}: ${features.length} places` +
-      (epIx
-        ? `, ${withEp} with episodes (matched ${usedEpKeys.size}/${epTotal} episode names)`
-        : ", no episode file yet"),
+    epIx
+      ? `${id}: ${features.length} places (${raw.places.length} diningcode + ${geoAdded} geocoded) · ${withEp} with episodes · ${geoUnresolved} episode venues still unresolved (${cov}% of aired venues placed)`
+      : `${id}: ${features.length} places · no episode file`,
   );
 }
 

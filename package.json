@@ -12,7 +12,8 @@
     "preview": "vite preview",
     "pipeline": "node --env-file=.env pipeline/build.mjs",
     "pipeline:kr": "node pipeline/kr/build.mjs",
-    "fetch:kr": "node pipeline/kr/fetch-diningcode.mjs"
+    "fetch:kr": "node pipeline/kr/fetch-diningcode.mjs",
+    "geocode:kr": "node pipeline/kr/geocode-episodes.mjs"
   },
   "dependencies": {
     "maplibre-gl": "^5.24.0",
