@@ -331,6 +331,20 @@ button {
   line-height: 1;
 }
 
+.profile-chip-avatar {
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  object-fit: cover;
+  object-position: top center;
+  border: 1.5px solid var(--line);
+  background: var(--paper);
+}
+
+.profile-chip.is-active .profile-chip-avatar {
+  box-shadow: 0 0 0 2px var(--paper), 0 0 0 3.5px var(--line);
+}
+
 .profile-chip-name {
   font-family: var(--display);
   font-weight: 700;
@@ -481,6 +495,16 @@ button {
 .chip-emoji {
   font-size: 15px;
   line-height: 1;
+}
+
+.chip-avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  object-fit: cover;
+  object-position: top center;
+  border: 1.5px solid var(--chip);
+  flex: none;
 }
 
 .chip-name {
@@ -747,6 +771,44 @@ button {
   transform: rotate(90deg);
 }
 
+.card-hero {
+  display: block;
+  position: relative;
+  margin: -18px -20px 14px;
+  border-bottom: 2px solid var(--line);
+  background: var(--line-soft);
+  overflow: hidden;
+}
+
+.card-hero img {
+  display: block;
+  width: 100%;
+  height: 148px;
+  object-fit: cover;
+}
+
+a.card-hero .card-play {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  padding-left: 3px;
+  font-size: 15px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 2px solid var(--line);
+  border-radius: 999px;
+  box-shadow: var(--shadow-sticker);
+  transition: transform 0.15s;
+}
+
+a.card-hero:hover .card-play {
+  transform: scale(1.12) rotate(-6deg);
+}
+
 .card-kicker {
   font-family: var(--display);
   font-weight: 700;
@@ -804,6 +866,33 @@ button {
 .card-emoji {
   font-size: 26px;
   line-height: 1.1;
+}
+
+.card-source {
+  margin-top: 9px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 4px 11px 4px 4px;
+  border-radius: 999px;
+  border: 2px solid var(--chip);
+  background: color-mix(in srgb, var(--chip) 9%, var(--paper));
+}
+
+.card-source-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  object-fit: cover;
+  object-position: top center;
+  border: 1.5px solid var(--chip);
+}
+
+.card-source-name {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 12.5px;
+  color: color-mix(in srgb, var(--chip) 78%, var(--ink));
 }
 
 .card-note {
@@ -871,6 +960,12 @@ a.visit-link:hover {
   color: var(--coral);
 }
 
+a.visit-watch {
+  font-weight: 800;
+  color: var(--coral);
+  border-bottom: none;
+}
+
 .visit-year {
   color: var(--sub);
   margin-left: auto;
@@ -895,6 +990,67 @@ a.visit-link:hover {
 .card-link:hover {
   transform: translateY(-1px);
   box-shadow: var(--shadow-sticker);
+}
+
+/* ——— award / grade (michelin, world's best steaks) ——— */
+
+.card-award {
+  margin-top: 9px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.card-award-badge {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 12.5px;
+  color: var(--paper);
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 2px solid var(--ink);
+  box-shadow: var(--shadow-sticker);
+  white-space: nowrap;
+}
+
+.card-award-meta {
+  font-size: 12px;
+  font-weight: 700;
+  color: #57524a;
+}
+
+.card-price {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+}
+
+.card-green {
+  font-size: 11px;
+  font-weight: 800;
+  color: #2f7d43;
+  padding: 3px 9px;
+  border-radius: 999px;
+  border: 1.5px solid color-mix(in srgb, #2f7d43 40%, var(--paper));
+  background: color-mix(in srgb, #2f7d43 10%, var(--paper));
+}
+
+.card-links {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.card-links .card-link {
+  margin-top: 0;
+}
+
+.card-link-ghost {
+  background: var(--paper);
+  border-color: var(--line);
+  color: #57524a;
 }
 
 /* ——— maplibre chrome ——— */

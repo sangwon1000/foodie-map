@@ -13,6 +13,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { externalVenues, channelVenues } from "./external.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const RAW = path.join(ROOT, "pipeline/raw/kr");
@@ -206,6 +207,7 @@ const areaOk = (area, province, city) => {
 // ---------- build ----------
 fs.mkdirSync(OUT, { recursive: true });
 const geoCache = loadJson(GEO_CACHE) ?? {};
+const EXTERNAL = externalVenues(); // { profileId: [{name,lat,lng,addr,category,video,image}] }
 const summary = [];
 
 for (const { id, show } of PROFILES) {
@@ -267,6 +269,7 @@ for (const { id, show } of PROFILES) {
 
   // ---- 2. episode venues no tagged place covered → geocode cache ----
   let geoAdded = 0, geoUnresolved = 0;
+  let unresolved = []; // aired venues still without coords → external sources may place them
   if (epIx) {
     // group leftover entries by (nameKey|area) — same key the geocoder cached under
     const groups = new Map();
@@ -280,7 +283,11 @@ for (const { id, show } of PROFILES) {
 
     for (const [gk, g] of groups) {
       const geo = geoCache[gk];
-      if (!geo) { geoUnresolved++; continue; }
+      if (!geo) {
+        geoUnresolved++;
+        unresolved.push({ k: g.k, raw: g.raw, area: g.area, visits: g.visits });
+        continue;
+      }
       let city, country, status, kind, note, rating, reviews, dispName;
       if (geo.src === "nominatim") {
         dispName = geo.name || g.raw;
@@ -338,6 +345,58 @@ for (const { id, show } of PROFILES) {
     }
   }
 
+  // ---- 3. external YouTube-map sources → enrich pins (video/image), add net-new,
+  //         and place aired venues our own geocoding couldn't (tubemap, youtubeplace) ----
+  let extEnrich = 0, extNew = 0, extFilled = 0;
+  for (const e of EXTERNAL[id] ?? []) {
+    const ek = nameKey(e.name);
+    const f =
+      features.find((ft) => nameKey(ft.properties.name) === ek && distM(ft.geometry.coordinates, [e.lng, e.lat]) < 1500) ||
+      features.find((ft) => distM(ft.geometry.coordinates, [e.lng, e.lat]) < 80);
+    if (f) {
+      if (e.video) {
+        const vv = f.properties.visits.find((v) => !v.video);
+        if (vv) vv.video = e.video;
+      }
+      if (e.image && !f.properties.image) f.properties.image = e.image;
+      extEnrich++;
+      continue;
+    }
+    // net-new pin — reuse an aired-venue's visits if the name matches an unresolved one
+    const ug = unresolved.find((u) => u.k === ek);
+    let visits, shows;
+    if (ug) {
+      visits = dedupeVisits(ug.visits);
+      shows = [...new Set(visits.map((v) => v.show))];
+      unresolved = unresolved.filter((u) => u !== ug);
+      geoUnresolved--; extFilled++;
+    } else {
+      visits = [{ show }];
+      shows = [show];
+    }
+    if (e.video && visits[0] && !visits[0].video) visits[0].video = e.video;
+    const sp = splitAddr(e.addr);
+    features.push({
+      type: "Feature",
+      geometry: { type: "Point", coordinates: [e.lng, e.lat] },
+      properties: {
+        id: `kr-${id}-ext-${fold(e.name).slice(0, 32)}-${Math.round(e.lat * 1e4)}`,
+        name: e.name,
+        city: sp.city,
+        country: sp.province,
+        kind: e.category,
+        emoji: pickEmoji(e.category, e.name),
+        status: "unknown",
+        note: e.category,
+        image: e.image,
+        visits,
+        shows,
+        primaryShow: shows[shows.length - 1] ?? show,
+      },
+    });
+    extNew++;
+  }
+
   const withEp = features.filter((f) => f.properties.visits.length > 0).length;
   const epRestaurants = epIx
     ? new Set(epEntries.flatMap(([k, es]) => es.map((c) => `${k}|${c.area ?? ""}`))).size
@@ -350,6 +409,8 @@ for (const { id, show } of PROFILES) {
       withEpisodes: withEp,
       fromDiningCode: raw.places.length,
       geocodedAdds: geoAdded,
+      externalNew: extNew,
+      externalEnriched: extEnrich,
       episodeVenues: epRestaurants,
       episodeUnresolved: geoUnresolved,
     },
@@ -357,11 +418,48 @@ for (const { id, show } of PROFILES) {
   fs.writeFileSync(path.join(OUT, `${id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
 
   const cov = epRestaurants ? Math.round((withEp / (withEp + geoUnresolved)) * 100) : 0;
+  const extStr = (EXTERNAL[id]?.length)
+    ? ` · ext +${extNew} new/${extFilled} placed, ${extEnrich} enriched`
+    : "";
   summary.push(
     epIx
-      ? `${id}: ${features.length} places (${raw.places.length} diningcode + ${geoAdded} geocoded) · ${withEp} with episodes · ${geoUnresolved} episode venues still unresolved (${cov}% of aired venues placed)`
+      ? `${id}: ${features.length} places (${raw.places.length} diningcode + ${geoAdded} geocoded)${extStr} · ${withEp} with episodes · ${geoUnresolved} unresolved (${cov}% placed)`
       : `${id}: ${features.length} places · no episode file`,
   );
+}
+
+// ---------- standalone YouTuber profiles (no DiningCode/episode base) ----------
+// These come purely from the external YouTube-map sources: every venue the
+// creator featured, with Kakao coords + the source video + a thumbnail.
+const YOUTUBERS = [
+  { id: "jeongyukwang", show: "JYW", chans: [["tube", "정육왕"], ["yp", "정육왕"]] },
+];
+for (const y of YOUTUBERS) {
+  const vens = channelVenues(y.chans);
+  const features = vens.map((e, i) => {
+    const sp = splitAddr(e.addr);
+    return {
+      type: "Feature",
+      geometry: { type: "Point", coordinates: [e.lng, e.lat] },
+      properties: {
+        id: `kr-${y.id}-${fold(e.name).slice(0, 32)}-${i}`,
+        name: e.name,
+        city: sp.city,
+        country: sp.province,
+        kind: e.category,
+        emoji: pickEmoji(e.category, e.name),
+        status: "unknown",
+        note: e.category,
+        image: e.image,
+        visits: e.video ? [{ show: y.show, video: e.video }] : [{ show: y.show }],
+        shows: [y.show],
+        primaryShow: y.show,
+      },
+    };
+  });
+  const meta = { profile: y.id, generated: new Date().toISOString(), counts: { places: features.length, source: "youtube-map" } };
+  fs.writeFileSync(path.join(OUT, `${y.id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  summary.push(`${y.id}: ${features.length} places (external youtube-map)`);
 }
 
 console.log(summary.join("\n"));

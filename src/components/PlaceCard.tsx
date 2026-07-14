@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import type { Place } from "../types";
 import { visitLabel } from "../types";
 import type { Profile } from "../profiles";
-import { showsById } from "../profiles";
+import { showsById, PROFILE_BY_ID } from "../profiles";
 import { placeMapUrl } from "../lib/data";
 
 interface PlaceCardProps {
@@ -14,12 +14,54 @@ interface PlaceCardProps {
 export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
   const byId = useMemo(() => showsById(profile), [profile]);
   const fallback = profile.shows[0];
+  const heroVideo = place.visits.find((v) => v.video)?.video;
+  // ALL view: the pin came from another person's atlas — badge the source + use
+  // that profile's map service (google for bourdain, naver for KR)
+  const source = place.profileId ? PROFILE_BY_ID[place.profileId] : null;
+  const person = source && profile.id === "all" ? byId[source.id] : null;
+  const mapService = source ? source.mapService : profile.mapService;
+  // award profiles: the primaryShow is the grade (michelin) or year (WBS)
+  const grade = byId[place.primaryShow];
+  // wiens pins carry a direct google-maps link; award pins link an external page
+  const isMapsUrl = !!place.sourceUrl && /goo\.gl|google\.[a-z.]+\/maps/.test(place.sourceUrl);
+  const mapHref = isMapsUrl ? place.sourceUrl! : placeMapUrl(place, mapService);
+  const detailLink =
+    place.sourceUrl && !isMapsUrl
+      ? {
+          href: place.sourceUrl,
+          label:
+            profile.id === "michelin"
+              ? "michelin guide ↗"
+              : profile.id === "worldbeststeaks"
+                ? "on the list ↗"
+                : "source ↗",
+        }
+      : null;
 
   return (
     <article className="card" key={place.id}>
       <button className="card-close" onClick={onClose} aria-label="Close">
         ✕
       </button>
+      {place.image &&
+        (heroVideo ? (
+          <a
+            className="card-hero"
+            href={heroVideo}
+            target="_blank"
+            rel="noreferrer"
+            title="영상 보기"
+          >
+            <img src={place.image} alt="" loading="lazy" />
+            <span className="card-play" aria-hidden>
+              ▶
+            </span>
+          </a>
+        ) : (
+          <span className="card-hero">
+            <img src={place.image} alt="" loading="lazy" />
+          </span>
+        ))}
       <p className="card-kicker">
         📍 {[place.city, place.country].filter(Boolean).join(" · ")}
         {place.status === "closed" && <span className="card-closed">😢 closed</span>}
@@ -37,11 +79,38 @@ export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
         </span>
         {place.name}
       </h2>
+      {place.award && (
+        <p className="card-award">
+          <span
+            className="card-award-badge"
+            style={{ background: grade?.color ?? "#2d2a26" }}
+          >
+            {place.emoji ?? grade?.emoji ?? "⭐"} {place.award}
+          </span>
+          {place.cuisine && <span className="card-award-meta">{place.cuisine}</span>}
+          {place.price && <span className="card-award-meta card-price">{place.price}</span>}
+          {place.greenStar && (
+            <span className="card-green" title="Michelin Green Star — sustainable gastronomy">
+              🌱 green star
+            </span>
+          )}
+        </p>
+      )}
+      {person && source && (
+        <p className="card-source" style={{ ["--chip" as string]: person.color }}>
+          {source.avatar ? (
+            <img className="card-source-avatar" src={`${import.meta.env.BASE_URL}${source.avatar}`} alt="" />
+          ) : (
+            <span aria-hidden>{person.emoji}</span>
+          )}
+          <span className="card-source-name">{person.name}</span>
+        </p>
+      )}
       {place.note && <p className="card-note">{place.note}</p>}
 
       <ul className="card-visits">
         {place.visits.map((v, i) => {
-          const meta = byId[v.show] ?? fallback;
+          const meta = byId[v.show] ?? person ?? fallback;
           const se = visitLabel(v);
           return (
             <li key={i}>
@@ -63,6 +132,16 @@ export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
                 ) : (
                   <span className="visit-title">“{v.title}”</span>
                 ))}
+              {!v.title && v.video && (
+                <a
+                  className="visit-link visit-watch"
+                  href={v.video}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  ▶ 영상
+                </a>
+              )}
               {v.year != null && <span className="visit-year">{v.year}</span>}
             </li>
           );
@@ -80,14 +159,31 @@ export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
         )}
       </ul>
 
-      <a
-        className="card-link"
-        href={placeMapUrl(place, profile.mapService)}
-        target="_blank"
-        rel="noreferrer"
-      >
-        {profile.labels.mapLink}
-      </a>
+      <div className="card-links">
+        <a className="card-link" href={mapHref} target="_blank" rel="noreferrer">
+          {mapService === "naver" ? "네이버 지도에서 열기 🗺️" : "open in google maps 🗺️"}
+        </a>
+        {detailLink && (
+          <a
+            className="card-link card-link-ghost"
+            href={detailLink.href}
+            target="_blank"
+            rel="noreferrer"
+          >
+            {detailLink.label}
+          </a>
+        )}
+        {place.websiteUrl && (
+          <a
+            className="card-link card-link-ghost"
+            href={place.websiteUrl}
+            target="_blank"
+            rel="noreferrer"
+          >
+            website ↗
+          </a>
+        )}
+      </div>
     </article>
   );
 }

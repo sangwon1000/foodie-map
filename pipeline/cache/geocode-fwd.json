@@ -2759,5 +2759,596 @@
  "nm|A welcoming Italian (?) meal, United States": null,
  "nm|A sitdown with the men behind coal, United States": null,
  "nm|A backyard barbecue and shooting range shenanigans, United States": null,
- "nm|A fresh squirrel and some real talk, United States": null
+ "nm|A fresh squirrel and some real talk, United States": null,
+ "wbs|LA CÚPULA|JIMÉNEZ DE JAMUZ": null,
+ "wbs|MARGARET|SYDNEY": {
+  "lat": -33.876866,
+  "lng": 151.241543,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|LAIA|HONDARRIBIA": {
+  "lat": 43.3578617,
+  "lng": -1.8045784,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|I DUE CIPPI|SATURNIA": {
+  "lat": 42.6652237,
+  "lng": 11.5049888,
+  "country": "Italy",
+  "approx": true
+ },
+ "wbs|LANA|MADRID": {
+  "lat": 40.4412867,
+  "lng": -3.6992035,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|CASA JULIÁN|TOLOSA": {
+  "lat": 43.1352627,
+  "lng": -2.0723904,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|IBAI|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|AG|STOCKHOLM": {
+  "lat": 59.3251172,
+  "lng": 18.0710935,
+  "country": "Sweden",
+  "approx": true
+ },
+ "wbs|BURNT ENDS|SINGAPORE": {
+  "lat": 1.304404,
+  "lng": 103.809125,
+  "country": "Singapore",
+  "approx": false
+ },
+ "wbs|BODEGA|JIMÉNEZ DE JAMUZ": null,
+ "wbs|FIREDOOR|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|THE EIGHTY SIX|NEW YORK": {
+  "lat": 40.7127281,
+  "lng": -74.0060152,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|HAWKSMOOR|LONDON": {
+  "lat": 51.5031964,
+  "lng": -0.0149795,
+  "country": "United Kingdom",
+  "approx": false
+ },
+ "wbs|AALIA|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|ASADOR BASTIAN|CHICAGO": {
+  "lat": 41.8755616,
+  "lng": -87.6244212,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|ARKHÉ|ADELAIDE": {
+  "lat": -34.9281805,
+  "lng": 138.5999312,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|BRAT|LONDON": {
+  "lat": 51.5242656,
+  "lng": -0.0766909,
+  "country": "United Kingdom",
+  "approx": false
+ },
+ "wbs|FIRESIDE|HONG KONG": {
+  "lat": 22.3492155,
+  "lng": 114.1857978,
+  "country": "China",
+  "approx": true
+ },
+ "wbs|GILLIS|GENT": {
+  "lat": 51.0545126,
+  "lng": 3.714831,
+  "country": "Belgium",
+  "approx": false
+ },
+ "wbs|AGNES|BRISBANE": {
+  "lat": -27.4580265,
+  "lng": 153.0308266,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|COTE|NEW YORK": {
+  "lat": 40.7410352,
+  "lng": -73.9914328,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|FOGÓN|BUENOS AIRES": {
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "country": "Argentina",
+  "approx": true
+ },
+ "wbs|CARCASSE|KOKSIJDE": {
+  "lat": 51.1099417,
+  "lng": 2.6112357,
+  "country": "Belgium",
+  "approx": false
+ },
+ "wbs|TRIBUTO|QUITO": {
+  "lat": -0.2201641,
+  "lng": -78.5123274,
+  "country": "Ecuador",
+  "approx": true
+ },
+ "wbs|MILLER & LUX|SAN FRANCISCO": {
+  "lat": 37.7681644,
+  "lng": -122.3864911,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|BORN & BRED|SEOUL": {
+  "lat": 37.5666791,
+  "lng": 126.9782914,
+  "country": "South Korea",
+  "approx": true
+ },
+ "wbs|GRAN TORINO|SYDNEY": {
+  "lat": -33.8773693,
+  "lng": 151.24138,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|HANU|DUBAI": {
+  "lat": 25.0742823,
+  "lng": 55.1885387,
+  "country": "United Arab Emirates",
+  "approx": true
+ },
+ "wbs|STEER|MELBOURNE": {
+  "lat": -37.8177144,
+  "lng": 145.1262026,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|NIKUYA TANAKA|SINGAPORE": {
+  "lat": 1.357107,
+  "lng": 103.8194992,
+  "country": "Singapore",
+  "approx": true
+ },
+ "wbs|VICTOR CHURCHILL|MELBOURNE": {
+  "lat": -37.8142454,
+  "lng": 144.9631732,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|ELISA|VANCOUVER": {
+  "lat": 49.2759188,
+  "lng": -123.121377,
+  "country": "Canada",
+  "approx": false
+ },
+ "wbs|THE GRILL|SYDNEY": {
+  "lat": -33.9897898,
+  "lng": 151.117737,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|LA TÊTE D’OR|NEW YORK": {
+  "lat": 40.7127281,
+  "lng": -74.0060152,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|LUTYENS GRILL|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|PORTEÑO|SYDNEY": {
+  "lat": -33.8907025,
+  "lng": 151.2102768,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|ASADOR NICOLÁS|TOLOSA": {
+  "lat": 43.1355039,
+  "lng": -2.0735171,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|ROCKPOOL|SYDNEY": {
+  "lat": -33.6786673,
+  "lng": 151.3165793,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|LA BRASERIA|OSIO SOTTO": {
+  "lat": 45.613372,
+  "lng": 9.5846063,
+  "country": "Italy",
+  "approx": true
+ },
+ "wbs|DANIEL’S|MIAMI": {
+  "lat": 25.7741566,
+  "lng": -80.1935973,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|GWEN|LOS ANGELES": {
+  "lat": 34.0978014,
+  "lng": -118.3333933,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|BLOK|PONTYCLUN": {
+  "lat": 51.5251887,
+  "lng": -3.3901536,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|CAPA|COPENHAGEN": {
+  "lat": 55.6762332,
+  "lng": 12.5702485,
+  "country": "Denmark",
+  "approx": false
+ },
+ "wbs|AMAREN|BILBAO": {
+  "lat": 43.2628707,
+  "lng": -2.9322612,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|THE DEVONSHIRE|LONDON": {
+  "lat": 51.4469022,
+  "lng": -0.1490137,
+  "country": "United Kingdom",
+  "approx": false
+ },
+ "wbs|CHAR|TENERIFE": {
+  "lat": 28.2935785,
+  "lng": -16.6214471,
+  "country": "Spain",
+  "approx": true
+ },
+ "wbs|MADRE ROJAS|BUENOS AIRES": {
+  "lat": -34.6095579,
+  "lng": -58.3887904,
+  "country": "Argentina",
+  "approx": true
+ },
+ "wbs|THE GIDLEY|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|NIKU|SAN FRANCISCO": {
+  "lat": 37.769696,
+  "lng": -122.4035006,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|BEEFBAR|MONACO": {
+  "lat": 43.7278113,
+  "lng": 7.4216257,
+  "country": "Monaco",
+  "approx": false
+ },
+ "wbs|JACOBS & CO|TORONTO": {
+  "lat": 43.6454392,
+  "lng": -79.39797,
+  "country": "Canada",
+  "approx": false
+ },
+ "wbs|VUUR|STELLENBOSCH": {
+  "lat": -33.934444,
+  "lng": 18.869167,
+  "country": "South Africa",
+  "approx": true
+ },
+ "wbs|CLOVER|PARIS": {
+  "lat": 48.8630396,
+  "lng": 2.348336,
+  "country": "France",
+  "approx": false
+ },
+ "wbs|ELENA|BUENOS AIRES": {
+  "lat": -34.5905715,
+  "lng": -58.3825741,
+  "country": "Argentina",
+  "approx": false
+ },
+ "wbs|CHELSEA|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|ANAHI|PARIS": {
+  "lat": 48.8534951,
+  "lng": 2.3483915,
+  "country": "France",
+  "approx": true
+ },
+ "wbs|LOS 33|MADRID": {
+  "lat": 40.4238621,
+  "lng": -3.6948322,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|JEFFREY’S|AUSTIN": {
+  "lat": 30.2804408,
+  "lng": -97.7591677,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|20 CHAPEL|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|11WOODFIRE|DUBAI": {
+  "lat": 25.0742823,
+  "lng": 55.1885387,
+  "country": "United Arab Emirates",
+  "approx": true
+ },
+ "wbs|MAGMA|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|GIMLET|MELBOURNE": {
+  "lat": -37.8158796,
+  "lng": 144.9693073,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|LINNY’S|TORONTO": {
+  "lat": 43.6534817,
+  "lng": -79.3839347,
+  "country": "Canada",
+  "approx": true
+ },
+ "wbs|WILLIAMS|ZURICH": {
+  "lat": 47.3682686,
+  "lng": 8.5450332,
+  "country": "Switzerland",
+  "approx": false
+ },
+ "wbs|PRIME+PROPER|DETROIT": {
+  "lat": 42.332387,
+  "lng": -83.0491652,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|GRILL ROYAL|BERLIN": {
+  "lat": 52.5225633,
+  "lng": 13.3884395,
+  "country": "Germany",
+  "approx": false
+ },
+ "wbs|AMERICAN CUT|NEW YORK": {
+  "lat": 40.7191271,
+  "lng": -74.0101564,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|KEENS|NEW YORK": {
+  "lat": 40.750773,
+  "lng": -73.9864091,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|SPERLING & CO.|STOCKHOLM": {
+  "lat": 59.3367382,
+  "lng": 18.073635,
+  "country": "Sweden",
+  "approx": false
+ },
+ "wbs|TXULA STEAK|NEW YORK": {
+  "lat": 40.7127281,
+  "lng": -74.0060152,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|BAZAAR MEAT|NEW YORK": {
+  "lat": 40.7127281,
+  "lng": -74.0060152,
+  "country": "United States",
+  "approx": true
+ },
+ "wbs|BRUTUS|ATHENS": {
+  "lat": 37.9755648,
+  "lng": 23.7348324,
+  "country": "Greece",
+  "approx": true
+ },
+ "wbs|SWIFT & SONS|CHICAGO": {
+  "lat": 41.8869686,
+  "lng": -87.6524319,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|MAVEN|ANTWERP": {
+  "lat": 51.2106182,
+  "lng": 4.3888064,
+  "country": "Belgium",
+  "approx": false
+ },
+ "wbs|REGINA|FLORENCE": {
+  "lat": 43.7964738,
+  "lng": 11.2302441,
+  "country": "Italy",
+  "approx": false
+ },
+ "wbs|FIREWOOD|GEORGE TOWN": {
+  "lat": 5.4141619,
+  "lng": 100.3287352,
+  "country": "Malaysia",
+  "approx": true
+ },
+ "wbs|SK STEAK & OYSTER|BRISBANE": {
+  "lat": -27.4689623,
+  "lng": 153.0235009,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|CARNA|HONG KONG": {
+  "lat": 22.3492155,
+  "lng": 114.1857978,
+  "country": "China",
+  "approx": true
+ },
+ "wbs|MATILDA 159|MELBOURNE": {
+  "lat": -37.8142454,
+  "lng": 144.9631732,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|THE STEAK HOUSE|HONG KONG": {
+  "lat": 22.2933626,
+  "lng": 114.1739224,
+  "country": "China",
+  "approx": false
+ },
+ "wbs|MEATMAIDEN|MELBOURNE": {
+  "lat": -37.8140909,
+  "lng": 144.9677454,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|HAPPENING|BUENOS AIRES": {
+  "lat": -34.6023993,
+  "lng": -58.3668835,
+  "country": "Argentina",
+  "approx": false
+ },
+ "wbs|SHATŌBURIAN|SINGAPORE": {
+  "lat": 1.357107,
+  "lng": 103.8194992,
+  "country": "Singapore",
+  "approx": true
+ },
+ "wbs|GAGE & TOLLNER|NEW YORK": {
+  "lat": 40.691467,
+  "lng": -73.987767,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|SHELL HOUSE|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|BEEF & GLORY|VIENNA": {
+  "lat": 48.2118273,
+  "lng": 16.3487851,
+  "country": "Austria",
+  "approx": false
+ },
+ "wbs|GALLAGHERS|NEW YORK": {
+  "lat": 40.7628531,
+  "lng": -73.9838317,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|BISTECCA|SINGAPORE": {
+  "lat": 1.2932473,
+  "lng": 103.8413881,
+  "country": "Singapore",
+  "approx": false
+ },
+ "wbs|THE GRAND|HELSINKI": {
+  "lat": 60.1666204,
+  "lng": 24.9435408,
+  "country": "Finland",
+  "approx": true
+ },
+ "wbs|SAGARDI|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|FAT RABBIT|SAINT CATHARINES": null,
+ "wbs|CARNAL|BARCELONA": {
+  "lat": 41.3815531,
+  "lng": 2.1669188,
+  "country": "Spain",
+  "approx": false
+ },
+ "wbs|THE CUT|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|SOICHIRO|JAKARTA": {
+  "lat": -6.1754049,
+  "lng": 106.827168,
+  "country": "Indonesia",
+  "approx": true
+ },
+ "wbs|GRILL AMERICANO|MELBOURNE": {
+  "lat": -37.8152908,
+  "lng": 144.9706763,
+  "country": "Australia",
+  "approx": false
+ },
+ "wbs|ZOILO|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|BISTECCA|SYDNEY": {
+  "lat": -33.8698439,
+  "lng": 151.2082848,
+  "country": "Australia",
+  "approx": true
+ },
+ "wbs|THE BLOCKMAN|JOHANNESBURG": {
+  "lat": -26.205,
+  "lng": 28.049722,
+  "country": "South Africa",
+  "approx": true
+ },
+ "wbs|THE GUINEA GRILL|LONDON": {
+  "lat": 51.5074456,
+  "lng": -0.1277653,
+  "country": "United Kingdom",
+  "approx": true
+ },
+ "wbs|IZZY’S|SAN FRANCISCO": {
+  "lat": 37.7553607,
+  "lng": -122.4215063,
+  "country": "United States",
+  "approx": false
+ },
+ "wbs|BRABO|BARCELONA": {
+  "lat": 41.3825802,
+  "lng": 2.177073,
+  "country": "Spain",
+  "approx": true
+ }
 }

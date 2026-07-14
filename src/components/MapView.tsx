@@ -38,6 +38,61 @@ function drawEmoji(emoji: string): ImageData | null {
 
 const EMOJI_RE = /\p{Extended_Pictographic}/u;
 
+export interface PersonStyle {
+  avatar?: string;
+  color: string;
+  emoji: string;
+}
+
+/** Draw a circular sticker — a person photo (or emoji) inside a colored ring —
+ *  so ALL-view markers show whose spot each pin is at a glance. */
+function makeCircleSticker(
+  img: HTMLImageElement | null,
+  emoji: string | null,
+  color: string,
+  size = 96,
+): ImageData | null {
+  const canvas = document.createElement("canvas");
+  canvas.width = size;
+  canvas.height = size;
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return null;
+  const r = size / 2;
+  const ringW = 7;
+  ctx.clearRect(0, 0, size, size);
+  // colored ring (full disc, becomes the band around the photo)
+  ctx.beginPath();
+  ctx.arc(r, r, r - 1.5, 0, Math.PI * 2);
+  ctx.fillStyle = color;
+  ctx.fill();
+  // inner disc — clip and paint the photo/emoji
+  ctx.save();
+  ctx.beginPath();
+  ctx.arc(r, r, r - 1.5 - ringW, 0, Math.PI * 2);
+  ctx.clip();
+  ctx.fillStyle = PAPER;
+  ctx.fillRect(0, 0, size, size);
+  if (img) {
+    const iw = img.width, ih = img.height, side = Math.min(iw, ih);
+    const sx = (iw - side) / 2;
+    const sy = Math.min((ih - side) * 0.2, ih - side); // faces sit high — bias to top
+    ctx.drawImage(img, sx, sy, side, side, 0, 0, size, size);
+  } else if (emoji) {
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.font = `${size * 0.46}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
+    ctx.fillText(emoji, r, r + size * 0.03);
+  }
+  ctx.restore();
+  // ink hairline border
+  ctx.lineWidth = 2;
+  ctx.strokeStyle = INK;
+  ctx.beginPath();
+  ctx.arc(r, r, r - 1.5, 0, Math.PI * 2);
+  ctx.stroke();
+  return ctx.getImageData(0, 0, size, size);
+}
+
 interface HoverInfo {
   x: number;
   y: number;
@@ -53,21 +108,26 @@ interface MapViewProps {
   fitToken: string;
   /** the active profile's resting camera */
   home: HomeCamera;
+  /** per-person marker style (photo + ring color), keyed by profile id — ALL view */
+  avatars: Record<string, PersonStyle>;
   onSelect: (id: string | null) => void;
 }
 
 const prefersStill = () =>
   window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-export default function MapView({ data, selected, fitToken, home, onSelect }: MapViewProps) {
+export default function MapView({ data, selected, fitToken, home, avatars, onSelect }: MapViewProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const selMarkerRef = useRef<maplibregl.Marker | null>(null);
   const dataRef = useRef(data);
   const onSelectRef = useRef(onSelect);
   const homeRef = useRef(home);
+  const avatarsRef = useRef(avatars);
+  const pendingImg = useRef<Set<string>>(new Set());
   const spinningRef = useRef(!prefersStill());
   homeRef.current = home;
+  avatarsRef.current = avatars;
   const [hover, setHover] = useState<HoverInfo | null>(null);
   const [ready, setReady] = useState(false);
 
@@ -103,9 +163,29 @@ export default function MapView({ data, selected, fitToken, home, onSelect }: Ma
       ro.observe(containerRef.current);
       map.once("remove", () => ro.disconnect());
 
-      // lazily rasterize any emoji the data asks for
+      // lazily rasterize any emoji — or person avatar — the data asks for
       map.on("styleimagemissing", (e) => {
-        if (!map || !EMOJI_RE.test(e.id) || map.hasImage(e.id)) return;
+        if (!map || map.hasImage(e.id) || pendingImg.current.has(e.id)) return;
+        if (e.id.startsWith("avatar:")) {
+          const style = avatarsRef.current[e.id.slice(7)];
+          if (!style) return;
+          pendingImg.current.add(e.id);
+          const addSticker = (im: HTMLImageElement | null) => {
+            if (!map || map.hasImage(e.id)) return;
+            const data = makeCircleSticker(im, im ? null : style.emoji, style.color);
+            if (data) map.addImage(e.id, data, { pixelRatio: 2 });
+          };
+          if (style.avatar) {
+            const im = new Image();
+            im.onload = () => addSticker(im);
+            im.onerror = () => addSticker(null);
+            im.src = import.meta.env.BASE_URL + style.avatar;
+          } else {
+            addSticker(null);
+          }
+          return;
+        }
+        if (!EMOJI_RE.test(e.id)) return;
         const img = drawEmoji(e.id);
         if (img) map.addImage(e.id, img, { pixelRatio: 2 });
       });
@@ -259,12 +339,12 @@ export default function MapView({ data, selected, fitToken, home, onSelect }: Ma
       paint: { "text-color": INK },
     });
 
-    // white sticker pad under each emoji
+    // white sticker pad under each emoji (avatars carry their own ring, so skip them)
     map.addLayer({
       id: L_BASE,
       type: "circle",
       source: SRC,
-      filter: ["!", ["has", "point_count"]],
+      filter: ["all", ["!", ["has", "point_count"]], ["!", ["has", "profileId"]]],
       paint: {
         "circle-color": PAPER,
         "circle-opacity": 0.95,
@@ -280,8 +360,25 @@ export default function MapView({ data, selected, fitToken, home, onSelect }: Ma
       source: SRC,
       filter: ["!", ["has", "point_count"]],
       layout: {
-        "icon-image": ["coalesce", ["get", "emoji"], "🍽️"],
-        "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.5, 8, 0.62, 13, 0.8],
+        // ALL view: features carry a profileId → show the person's face; else the food emoji
+        "icon-image": [
+          "case",
+          ["has", "profileId"],
+          ["concat", "avatar:", ["get", "profileId"]],
+          ["coalesce", ["get", "emoji"], "🍽️"],
+        ],
+        // one top-level zoom curve; each stop is smaller for avatar photos
+        "icon-size": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          1,
+          ["case", ["has", "profileId"], 0.39, 0.5],
+          8,
+          ["case", ["has", "profileId"], 0.48, 0.62],
+          13,
+          ["case", ["has", "profileId"], 0.62, 0.8],
+        ],
         "icon-allow-overlap": true,
         "icon-padding": 0,
       },

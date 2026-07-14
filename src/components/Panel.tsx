@@ -58,12 +58,13 @@ export default function Panel(props: PanelProps) {
 
   const sorted = useMemo(() => {
     const r = (c: string) => rank.get(c) ?? Number.MAX_SAFE_INTEGER;
+    const s = (v: string | null | undefined) => v ?? "";
     return [...visible].sort(
       (a, b) =>
         r(a.country) - r(b.country) ||
-        a.country.localeCompare(b.country) ||
-        a.city.localeCompare(b.city) ||
-        a.name.localeCompare(b.name),
+        s(a.country).localeCompare(s(b.country)) ||
+        s(a.city).localeCompare(s(b.city)) ||
+        s(a.name).localeCompare(s(b.name)),
     );
   }, [visible, rank]);
 
@@ -80,9 +81,18 @@ export default function Panel(props: PanelProps) {
             aria-pressed={pr.id === profile.id}
             title={pr.docTitle}
           >
-            <span className="profile-chip-emoji" aria-hidden>
-              {pr.emoji}
-            </span>
+            {pr.avatar ? (
+              <img
+                className="profile-chip-avatar"
+                src={`${import.meta.env.BASE_URL}${pr.avatar}`}
+                alt=""
+                loading="lazy"
+              />
+            ) : (
+              <span className="profile-chip-emoji" aria-hidden>
+                {pr.emoji}
+              </span>
+            )}
             <span className="profile-chip-name">{pr.short}</span>
           </button>
         ))}
@@ -135,9 +145,18 @@ export default function Panel(props: PanelProps) {
                   aria-pressed={on}
                   title={`${meta.name}${meta.years ? ` (${meta.years})` : ""}`}
                 >
-                  <span className="chip-emoji" aria-hidden>
-                    {meta.emoji}
-                  </span>
+                  {meta.avatar ? (
+                    <img
+                      className="chip-avatar"
+                      src={`${import.meta.env.BASE_URL}${meta.avatar}`}
+                      alt=""
+                      loading="lazy"
+                    />
+                  ) : (
+                    <span className="chip-emoji" aria-hidden>
+                      {meta.emoji}
+                    </span>
+                  )}
                   <span className="chip-name">{meta.short}</span>
                   <span className="chip-count">{showCounts[meta.id] ?? 0}</span>
                 </button>

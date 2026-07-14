@@ -13,13 +13,13 @@ type Phase = "intro" | "leaving" | "live";
 const isMobile = () => window.matchMedia("(max-width: 760px)").matches;
 
 export default function App() {
-  const [profileId, setProfileId] = useState("bourdain");
+  const [profileId, setProfileId] = useState("all");
   const [atlas, setAtlas] = useState<Atlas | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [phase, setPhase] = useState<Phase>("intro");
   const [query, setQuery] = useState("");
   const [shows, setShows] = useState<Set<ShowId>>(
-    () => new Set(PROFILE_BY_ID.bourdain.shows.map((s) => s.id)),
+    () => new Set(PROFILE_BY_ID.all.shows.map((s) => s.id)),
   );
   const [country, setCountry] = useState("all");
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -27,6 +27,15 @@ export default function App() {
   const timersRef = useRef<number[]>([]);
 
   const profile = PROFILE_BY_ID[profileId];
+
+  // marker ring styles keyed by the feature's profileId: person faces in the ALL
+  // view, michelin grade colors, WBS year colors — all from the active profile's
+  // `shows`, since each pin carries its show/grade/year id as `profileId`
+  const markerStyles = useMemo(() => {
+    const m: Record<string, { avatar?: string; color: string; emoji: string }> = {};
+    for (const s of profile.shows) m[s.id] = { avatar: s.avatar, color: s.color, emoji: s.emoji };
+    return m;
+  }, [profile]);
 
   useEffect(() => {
     let stale = false;
@@ -131,6 +140,7 @@ export default function App() {
         selected={selected}
         fitToken={`${profileId}|${country}`}
         home={profile.camera}
+        avatars={markerStyles}
         onSelect={handleSelect}
       />
 

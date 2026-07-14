@@ -25,6 +25,8 @@ export interface Profile {
   id: string;
   /** avatar emoji for the switcher rail */
   emoji: string;
+  /** person photo (switcher rail + map markers in the ALL view) */
+  avatar?: string;
   /** short name under the avatar */
   short: string;
   /** brand header */
@@ -43,6 +45,8 @@ export interface Profile {
   footerNote: string;
   /** which map service the place card links to */
   mapService: "google" | "naver";
+  /** "person" profiles join the ALL view as an avatar; "award" ones stay standalone */
+  group?: "person" | "award";
 }
 
 const EN_LABELS: ProfileLabels = {
@@ -69,10 +73,11 @@ const KO_LABELS: ProfileLabels = {
   showMore: "더 보기 👇",
 };
 
-export const PROFILES: Profile[] = [
+const REAL_PROFILES: Profile[] = [
   {
     id: "bourdain",
     emoji: "🧭",
+    avatar: "assets/avatars/bourdain.jpg",
     short: "bourdain",
     kicker: "everywhere tony ate 🌍",
     titleMain: "bourdain",
@@ -93,10 +98,34 @@ export const PROFILES: Profile[] = [
     footerNote:
       "unofficial fan project, made with ❤️ and too many episode rewatches. 😢 = closed for good.",
     mapService: "google",
+    group: "person",
+  },
+  {
+    id: "wiens",
+    emoji: "🍜",
+    avatar: "assets/avatars/wiens.jpg",
+    short: "mark wiens",
+    kicker: "everywhere mark ate 🌶️",
+    titleMain: "mark wiens",
+    titleEm: "map",
+    docTitle: "the mark wiens map 🌶️",
+    bio: "food vlogger mark wiens — 1,000+ street stalls, night markets and restaurants from his videos, worldwide. every pin links the video.",
+    dataUrl: "data/world/wiens.geojson",
+    camera: { center: [60, 18], zoom: 1.6, spin: true },
+    shows: [
+      { id: "MW", name: "Mark Wiens", short: "mark wiens", years: "YouTube", network: "YouTube", color: "#7cb518", emoji: "🍜" },
+    ],
+    labels: EN_LABELS,
+    footerQuote: "“If it's not spicy, I'm not eating.”",
+    footerQuoteBy: "— mark 🌶️",
+    footerNote: "unofficial fan project · pins, ratings & videos from wiensmap.com 🗺️",
+    mapService: "google",
+    group: "person",
   },
   {
     id: "baekban",
     emoji: "🍚",
+    avatar: "assets/avatars/baekban.jpg",
     short: "백반기행",
     kicker: "허영만이 다녀간 전국 백반집 🍚",
     titleMain: "백반기행",
@@ -116,6 +145,7 @@ export const PROFILES: Profile[] = [
   {
     id: "mokeultende",
     emoji: "🎤",
+    avatar: "assets/avatars/mokeultende.jpg",
     short: "먹을텐데",
     kicker: "성시경이 혼자 조용히 다녀온 집 🎤",
     titleMain: "먹을텐데",
@@ -135,6 +165,7 @@ export const PROFILES: Profile[] = [
   {
     id: "choizaroad",
     emoji: "🎧",
+    avatar: "assets/avatars/choizaroad.jpg",
     short: "최자로드",
     kicker: "최자의 찐맛집 로드 🎧",
     titleMain: "최자로드",
@@ -193,6 +224,7 @@ export const PROFILES: Profile[] = [
   {
     id: "koreantable",
     emoji: "🌾",
+    avatar: "assets/avatars/koreantable.jpg",
     short: "한국인의밥상",
     kicker: "최불암과 팔도 밥상 여행 🌾",
     titleMain: "한국인의 밥상",
@@ -209,7 +241,119 @@ export const PROFILES: Profile[] = [
     footerNote: "비공식 팬 프로젝트 · 식당 목록은 다이닝코드 인증맛집 기준 · ❓ = 영업 확인 필요",
     mapService: "naver",
   },
+  {
+    id: "jeongyukwang",
+    emoji: "🥩",
+    avatar: "assets/avatars/jeongyukwang.jpg",
+    short: "정육왕",
+    kicker: "전국 고기 맛집만 판다 🥩",
+    titleMain: "정육왕",
+    titleEm: "atlas",
+    docTitle: "정육왕 아틀라스 🥩",
+    bio: "정육점 출신 유튜버 <정육왕>이 전국을 돌며 직접 검증한 고기 맛집들. 소·돼지·양, 오직 고기. 좌표·영상·사진은 정육왕 지도에서.",
+    dataUrl: "data/kr/jeongyukwang.geojson",
+    camera: { center: [127.4, 36.1], zoom: 5.8 },
+    shows: [
+      { id: "JYW", name: "정육왕", short: "정육왕", years: "YouTube", network: "YouTube", color: "#c0512a", emoji: "🥩" },
+    ],
+    labels: KO_LABELS,
+    footerQuote: "고기 앞에 장사 없다.",
+    footerNote: "비공식 팬 프로젝트 · 식당·좌표·영상은 정육왕(MeatCreator) 유튜브 지도 기준",
+    mapService: "naver",
+    group: "person",
+  },
+  {
+    id: "michelin",
+    emoji: "⭐",
+    short: "michelin",
+    kicker: "every michelin restaurant on earth ⭐",
+    titleMain: "the michelin",
+    titleEm: "guide",
+    docTitle: "the michelin guide 🌟",
+    bio: "every restaurant in the michelin guide, worldwide — three, two and one stars, bib gourmand and the plate. filter by grade, tap through to the guide.",
+    dataUrl: "data/world/michelin.geojson",
+    camera: { center: [10, 32], zoom: 1.6, spin: true },
+    shows: [
+      { id: "M3", name: "Three Stars", short: "3 stars", years: "worth a journey", color: "#c1121f", emoji: "⭐" },
+      { id: "M2", name: "Two Stars", short: "2 stars", years: "worth a detour", color: "#e8702a", emoji: "⭐" },
+      { id: "M1", name: "One Star", short: "1 star", years: "worth a stop", color: "#e0aa1e", emoji: "⭐" },
+      { id: "MB", name: "Bib Gourmand", short: "bib", years: "great value", color: "#4a9d5b", emoji: "😋" },
+      { id: "MS", name: "The Plate", short: "the plate", years: "good cooking", color: "#8a97a8", emoji: "🍽️" },
+    ],
+    labels: EN_LABELS,
+    footerQuote: "“one star: worth a stop. three: worth a special journey.”",
+    footerNote: "unofficial · data from the michelin-my-maps historical database · ⭐ stars, 😋 bib gourmand, 🍽️ the plate",
+    mapService: "google",
+    group: "award",
+  },
+  {
+    id: "worldbeststeaks",
+    emoji: "🥩",
+    short: "best steaks",
+    kicker: "the world's 101 best steak restaurants 🥩",
+    titleMain: "world's best",
+    titleEm: "steaks",
+    docTitle: "world's best steaks 🥩",
+    bio: "the world's 101 best steak restaurants — 2026 edition. from basque asadores to woodfired grills and dry-aged temples, ranked #1 to #101.",
+    dataUrl: "data/world/worldbeststeaks.geojson",
+    camera: { center: [8, 32], zoom: 1.6, spin: true },
+    shows: [
+      { id: "Y2026", name: "2026 List", short: "2026", years: "2026", network: "worldbeststeaks.com", color: "#a4243b", emoji: "🥩" },
+    ],
+    labels: EN_LABELS,
+    footerQuote: "fire, salt, and a great cut.",
+    footerNote: "unofficial · the list from worldbeststeaks.com (2026) · pins forward-geocoded",
+    mapService: "google",
+    group: "award",
+  },
 ];
+
+// distinct ring/chip color per person for the combined ALL view
+const PERSON_COLORS: Record<string, string> = {
+  bourdain: "#e8482f",
+  wiens: "#7cb518",
+  baekban: "#c08a0a",
+  mokeultende: "#4a82e8",
+  choizaroad: "#0fa48f",
+  misikhoe: "#d64d9e",
+  culinarywars: "#7c5cff",
+  koreantable: "#5a8f3c",
+  jeongyukwang: "#b5561f",
+};
+
+// only real people join the ALL map (michelin & world's-best-steaks are awards,
+// not a person, and michelin alone would swamp the aggregate with ~19k pins)
+export const PEOPLE = REAL_PROFILES.filter((p) => p.group !== "award");
+
+// ALL — every person on one map. Each "show" is a person, so the show-filter
+// becomes a people filter and each pin can be keyed to its source by face.
+export const ALL_PROFILE: Profile = {
+  id: "all",
+  emoji: "🌏",
+  short: "전체",
+  kicker: "모두의 맛집 한 지도에 🌏",
+  titleMain: "the foodie",
+  titleEm: "atlas",
+  docTitle: "the foodie atlas 🌏 — 전체",
+  bio: "보데인부터 한국 먹방·방송까지, 모든 인물이 다녀간 맛집을 한 지도에. 핀의 얼굴로 누구의 맛집인지 한눈에 보여요.",
+  dataUrl: "", // aggregated at runtime from every person profile
+  camera: { center: [112, 30], zoom: 2, spin: false },
+  shows: PEOPLE.map((p) => ({
+    id: p.id,
+    name: p.titleMain,
+    short: p.short,
+    color: PERSON_COLORS[p.id] ?? "#2d2a26",
+    emoji: p.emoji,
+    avatar: p.avatar,
+  })),
+  labels: KO_LABELS,
+  footerQuote: "세상은 넓고 맛집은 많다.",
+  footerNote: "비공식 팬 프로젝트 · 핀 얼굴 = 출처(인물) · 필터로 인물을 켜고 끌 수 있어요",
+  mapService: "naver",
+};
+
+export const PROFILES: Profile[] = [ALL_PROFILE, ...REAL_PROFILES];
+export { REAL_PROFILES };
 
 export const PROFILE_BY_ID: Record<string, Profile> = Object.fromEntries(
   PROFILES.map((p) => [p.id, p]),

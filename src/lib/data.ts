@@ -1,5 +1,6 @@
 import type { Place, PlaceProps, ShowId } from "../types";
 import type { Profile } from "../profiles";
+import { PEOPLE } from "../profiles";
 
 export interface CountryCount {
   name: string;
@@ -26,6 +27,7 @@ interface RawFeature {
 }
 
 export async function loadAtlas(profile: Profile): Promise<Atlas> {
+  if (profile.id === "all") return loadAllAtlas();
   const res = await fetch(`${import.meta.env.BASE_URL}${profile.dataUrl}`);
   if (!res.ok) throw new Error(`failed to load atlas data: ${res.status}`);
   const fc = (await res.json()) as { features: RawFeature[] };
@@ -75,6 +77,37 @@ export async function loadAtlas(profile: Profile): Promise<Atlas> {
   };
 }
 
+/** ALL view — load every real profile and merge into one atlas, re-keying each
+ *  place's `shows`/`primaryShow` to its PROFILE id so the people-filter, the
+ *  marker avatars and the source badge all work off a single dimension. */
+async function loadAllAtlas(): Promise<Atlas> {
+  const atlases = await Promise.all(PEOPLE.map((p) => loadAtlas(p)));
+  const places: Place[] = [];
+  atlases.forEach((atlas, i) => {
+    const pid = PEOPLE[i].id;
+    for (const p of atlas.places)
+      places.push({ ...p, profileId: pid, shows: [pid], primaryShow: pid });
+  });
+
+  const byCountry = new Map<string, number>();
+  const episodeKeys = new Set<string>();
+  for (const p of places) {
+    byCountry.set(p.country, (byCountry.get(p.country) ?? 0) + 1);
+    for (const v of p.visits)
+      episodeKeys.add(`${p.profileId}-${v.show}-${v.season ?? "?"}-${v.episode ?? "?"}-${v.title ?? ""}`);
+  }
+  const countries = [...byCountry.entries()]
+    .map(([name, count]) => ({ name, count }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
+  return {
+    profileId: "all",
+    places,
+    countries,
+    stats: { places: places.length, countries: countries.length, episodes: episodeKeys.size },
+  };
+}
+
 const fold = (s: string) =>
   s
     .normalize("NFKD")
@@ -117,6 +150,7 @@ export function toFeatureCollection(places: Place[]) {
         country: p.country,
         emoji: p.emoji ?? "🍽️",
         primaryShow: p.primaryShow,
+        ...(p.profileId ? { profileId: p.profileId } : {}),
       },
     })),
   };

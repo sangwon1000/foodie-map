@@ -9,6 +9,8 @@ export interface ShowMeta {
   network?: string;
   color: string;
   emoji: string;
+  /** person avatar image (ALL view — used as the map marker + filter chip) */
+  avatar?: string;
 }
 
 export interface Visit {
@@ -40,10 +42,28 @@ export interface PlaceProps {
   /** user rating + review count (KR profiles, from DiningCode) */
   rating?: number;
   reviews?: number;
+  /** food/thumbnail image URL (KR profiles, from YouTube-map sources) */
+  image?: string;
+  /** award / grade label — michelin "3 Stars", WBS "World's Best Steaks #7" */
+  award?: string;
+  /** cuisine type (michelin) */
+  cuisine?: string;
+  /** price band, e.g. "$$$$" (michelin) */
+  price?: string;
+  /** michelin green star (sustainability) */
+  greenStar?: boolean;
+  /** ranking position (world's best steaks) */
+  rank?: number;
+  /** external source/detail page — michelin guide, WBS list, google-maps link */
+  sourceUrl?: string;
+  /** the restaurant's own website */
+  websiteUrl?: string;
   visits: Visit[];
   /** denormalized for filtering / styling */
   shows: ShowId[];
   primaryShow: ShowId;
+  /** which real profile this place came from (set in the aggregated ALL view) */
+  profileId?: string;
 }
 
 export interface Place extends PlaceProps {
