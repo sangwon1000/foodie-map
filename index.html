@@ -1,62 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>momokji - Restaurant Finder</title>
-    <link rel="stylesheet" href="index.css">
-    <!-- Include MapTiler SDK -->
-    <script src="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.umd.js"></script>
-    <link href="https://cdn.maptiler.com/maptiler-sdk-js/v1.1.1/maptiler-sdk.css" rel="stylesheet" />
-</head>
-
-<body>
-    <!-- Main container -->
-    <div class="container">
-        <!-- New Left Sidebar -->
-        <div id="left-sidebar" class="sidebar">
-            <h1>momokji</h1>
-            <div class="filter-group">
-                <label for="country-filter">City:</label>
-                <select id="country-filter">
-                    <option value="Hong Kong">Hong Kong</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <input type="search" placeholder="Search restaurants..." class="search-input">
-            </div>
-            <div class="filter-group">
-                <label for="cuisine-filter">Cuisine:</label>
-                <select id="cuisine-filter">
-                    <option value="all">All</option>
-                    <!-- Cuisine options will be dynamically populated -->
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="price-filter">Price Level:</label>
-                <select id="price-filter">
-                    <option value="all">All</option>
-                    <option value="$">$</option>
-                    <option value="$$">$$</option>
-                    <option value="$$$">$$$</option>
-                    <option value="$$$$">$$$$</option>
-                </select>
-            </div>
-        </div>
-        <!-- Existing Sidebar -->
-        <div id="sidebar" class="sidebar">
-            <div id="restaurant-list"></div>
-        </div>
-        <!-- Map container -->
-        <div class="map-container">
-            <div id="map"></div>
-            <!-- Selected restaurant info box -->
-            <div id="selected-restaurant" class="selected-restaurant" style="display: none;"></div>
-        </div>
-    </div>
-
-    <script src="index.js"></script>
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Bourdain Atlas 🍜 everywhere Tony ate</title>
+    <meta
+      name="description"
+      content="1,861 restaurants, bars, markets and street stalls Anthony Bourdain visited across A Cook's Tour, No Reservations, The Layover and Parts Unknown — on one tiny planet."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8D%9C%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

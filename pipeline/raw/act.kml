@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[A Cook's Tour]]></name>
+    <description>Anthony Bourdain Map #2: Mappable locations Tony Bourdain mentions on his first TV show.</description>
+    <Style id="icon-1517-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1517-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1517-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1517-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1517-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1521-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1521-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1521-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1521-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1521-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1523-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1523-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1523-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1523-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1523-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1523-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1523-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1523-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1523-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1523-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1523-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1523-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1523-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1523-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1523-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1530-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1530-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1530-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1530-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1530-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1534-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1534-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1534-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1534-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1534-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1566-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1566-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1566-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1566-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1566-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1573-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1573-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1573-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1573-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1573-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1573-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1573-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1573-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1573-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1573-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-C2185B-nodesc-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1577-C2185B-nodesc-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1577-C2185B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-C2185B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-C2185B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1578-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1578-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-673AB7-nodesc-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1578-673AB7-nodesc-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1578-673AB7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-673AB7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-673AB7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1578-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1578-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-558B2F-nodesc-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1602-558B2F-nodesc-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1602-558B2F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-558B2F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-558B2F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1607-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1607-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1607-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1607-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1607-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1637-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1637-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1640-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1640-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1640-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1640-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1640-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1682-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1682-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1682-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1726-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1726-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1726-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1726-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1726-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1810-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1810-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1810-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1810-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1810-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1812-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1812-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1812-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1812-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1812-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1812-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1812-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1812-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1812-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1812-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1879-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1879-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1879-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1879-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1879-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Disc 1: United States</name>
+      <Placemark>
+        <name><![CDATA[Tail o' the Pup]]></name>
+        <description>Tony ate chili dogs, but craved a hot dog without chili</description>
+        <styleUrl>#icon-1810-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3797688,34.077357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pink's Hot Dogs]]></name>
+        <description>Many hot dog variations. Tony liked the millennium hot dog even though he was skeptical at first.</description>
+        <styleUrl>#icon-1810-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3442797,34.0838505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oki Dog</name>
+        <description><![CDATA[He called the pastrami burrito dog "strange" and said it shattered his newly found appreciation of California]]></description>
+        <styleUrl>#icon-1810-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3612639,34.0870913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campanile</name>
+        <description>Tony did a guest chef spot at this French restaurant. Tony did a guest chef spot at this French restaurant. Classic bistro style food.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3437462,34.0825122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Monica Farmers Market</name>
+        <description>Fresh produce</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4981603,34.0166132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kindle's Donuts]]></name>
+        <styleUrl>#icon-1577-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3004751,33.9452496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fred 62</name>
+        <description>Tony ate a burger</description>
+        <styleUrl>#icon-1530-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2915368,34.104636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The French Laundry</name>
+        <description><![CDATA[Tony was extremely excited to eat at this restaurant, called Thomas Keller "the top of his game" and best chef at that time. Tony eats with Michael Ruhlman, Eric Ripert, and Scott Bryan (who owned Veritas, which was one of Tony's favorite NY restaurants)]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3649712,38.4044403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swan Oyster Depot</name>
+        <description>Oysters, crabs</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4209653,37.7909711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polly Ann Ice Cream</name>
+        <description>Ice cream. Lots of Asian flavors</description>
+        <styleUrl>#icon-1607-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4977105,37.7534713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barney Greengrass</name>
+        <description>Breakfast. Tony ate the smoked sturgeon platter.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9745726,40.7879674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Milling Room</name>
+        <description><![CDATA[On the show he visited Veritas, which is now closed (Scott Bryan's restaurant). This is Scott's new restaurant. Tony said Veritas was one of his favorite NY restaurants]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.974468,40.783747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Murray's Cheese Bar]]></name>
+        <description>Tony did a cheese tasting</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -74.003164,40.731215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papaya King</name>
+        <description><![CDATA[Tony's favorite hot dog. He hated the Upper East Side then; he ended up moving there. He still loved the hot dogs.]]></description>
+        <styleUrl>#icon-1810-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9540821,40.7790673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brasserie Les Halles</name>
+        <description>Restaurant Tony worked at before and during the filming of the show. Permanently closed now.</description>
+        <styleUrl>#icon-1577-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9836056,40.7435588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lobster Pot Restaurant</name>
+        <styleUrl>#icon-1577-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.18534,42.0519967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ciro & Sal's]]></name>
+        <description><![CDATA[Tony's first big break: working as a line cook at this Italian/seafood restaurant. Tony's favorite is the veal marsala.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -70.1808599,42.0557602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Culinary Institute of America</name>
+        <description>Tony visited his alma mater where he went to culinary school and learned classic French techniques</description>
+        <styleUrl>#icon-1726-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            -73.933346,41.745685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bellevue Bar</name>
+        <description>Bar for chefs to wind down</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9934249,40.7569239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Desmond's Tavern]]></name>
+        <description>Tony grabbed beer here after a shift at Les Halles.</description>
+        <styleUrl>#icon-1517-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9832111,40.7441921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Matone Killed Dylan Prime</name>
+        <description>Dylan prime is closed. Tony drank martinis there.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0094,40.7221791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jeremy's Ale House]]></name>
+        <description>Tony drank Guinness here at 8 am!</description>
+        <styleUrl>#icon-1879-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -74.00215,40.707772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corner Bistro</name>
+        <description>Tony ate a burger here</description>
+        <styleUrl>#icon-1517-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0037408,40.7380481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Zeruko</name>
+        <description>One of the many tapas places Tony ate at</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98370799999998,43.3238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yakitori Alley, Memory Lane</name>
+        <description>Grilled meats</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.6995541,35.6928643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rudy's]]></name>
+        <description>Beer and a hot dog</description>
+        <styleUrl>#icon-1879-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9917951,40.7600309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicama (Closed)</name>
+        <description>Used to be Chicama. Closed now. Tony had ceviche and a mojito</description>
+        <styleUrl>#icon-1577-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9895053,40.7379036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mall of America</name>
+        <description><![CDATA["A candy colored nightmare"]]></description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -93.241202,44.856694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vincent A Restaurant</name>
+        <description>Permanently closed; it was a classic French restaurant.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -93.2759009,44.9729392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Cafe</name>
+        <description>Spring rolls, pho, Vietnamese iced coffee</description>
+        <styleUrl>#icon-1640-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -92.5327835,47.5239205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joe's Garage]]></name>
+        <description>Just a good burger</description>
+        <styleUrl>#icon-1530-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -93.5420355,47.1786284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquavit</name>
+        <description><![CDATA[Tony visited the Minneapolis location on the show, but it doesn't appear to exist anymore]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9720839,40.7608582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burns Original BBQ</name>
+        <description>Best ribs in Houston</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -95.420917,29.8769936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Joe's Kansas City Bar-B-Que]]></name>
+        <description>Burnt ends</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -94.6393056,38.9153235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pit Authentic Barbecue</name>
+        <description><![CDATA[Tony visited Mitchell's BBQ which is now closed. This is the newer spot.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -78.6447291,35.7758791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Zam's Swamp Tour]]></name>
+        <description>Boat tour on a swamp</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -90.595157,29.8698859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hansen's Sno-Bliz]]></name>
+        <description>Snow cone with condensed milk and fruit syrups</description>
+        <styleUrl>#icon-1607-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -90.1058748,29.9168919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Igor's Checkpoint Charlie's]]></name>
+        <description>Beer</description>
+        <styleUrl>#icon-1879-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0579669,29.9622543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Harbor (Closed)</name>
+        <description>Used to be a soul food restaurant called The Harbor. Closed now</description>
+        <styleUrl>#icon-1577-BDBDBD</styleUrl>
+        <Point>
+          <coordinates>
+            -90.051112,29.9660415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jacques-Imo's]]></name>
+        <description>Cajun/Creole</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -90.1322295,29.9490517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tee-Eva's]]></name>
+        <description>Creole homecooking. Jambalaya</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -90.1111015,29.9205865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verti Marte</name>
+        <description>Muffaletta and groceries. They deliver!</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0611681,29.9620966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Vaughan's Lounge]]></name>
+        <description>Live jazz bar</description>
+        <styleUrl>#icon-1637-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0336668,29.9619401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disc 2: Mexico and The Americas</name>
+      <Placemark>
+        <name>Taqueria El Compadre</name>
+        <description>Best pork tacos ever</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7195944,17.0601344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel San Francisco</name>
+        <description>Tony ate worms and ant eggs. Would not do it again.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -97.7309153,18.8837709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Freedom Fighter's Ital Shack]]></name>
+        <description>Healthy fresh vegetarian food, fresh juices</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -63.057083,18.030413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Poulet D' Orleans]]></name>
+        <description>Caribbean/Creole seafood</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -63.0308376,18.0746499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Johnny B's Under the Tree]]></name>
+        <description>He moved since the episode aired. This is the new location. Serves ribs and other Caribbean BBQ</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -63.0942823,18.0366332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarché Magasin Général</name>
+        <description>French market with meats and cheeses.</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            10.2057879,36.8666478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gus's Beach Bar]]></name>
+        <description><![CDATA[This was Tony's favorite restaurant on earth. It closed. He was very happy here.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1224632,18.0695012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Joaquim Market</name>
+        <styleUrl>#icon-1578-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -42.8314233,-5.0577831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sorriso da Dadá</name>
+        <description>Famous chef in Brazil.  Bahian food: Crab salad, Redfish wrapped in banana leaf. seafood coconut stew (Moqueca)</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -38.5086475,-12.9730056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sorveteria da Ribeira</name>
+        <description>Ice cream!</description>
+        <styleUrl>#icon-1607-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -38.4943359,-12.9126553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stella Maris</name>
+        <description>Tony went to the beach </description>
+        <styleUrl>#icon-1521-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -38.3415992,-12.9395938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barraca Biruta</name>
+        <description>Vendors on the beach: toasty cheese, shrimp on a skewer, quail egg, sugar cane.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -38.4520733,-3.7405678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acarajé da Dinha</name>
+        <description>Bean paste with shrimp and tomato, fried in spicy oil.  Served with salsa. </description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -38.4918236,-13.0113449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disc 3: Europe</name>
+      <Placemark>
+        <name>Confeitaria Colombo</name>
+        <description><![CDATA["Please God kill me now. Just strike me dead."  Tony said as he sat in an empty cafe. Pastries are good though.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1787459,-22.905202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Mineiro</name>
+        <styleUrl>#icon-1577-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1869042,-22.9210693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Café Français</name>
+        <description>Steak frites</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.578246600000057,44.8382225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waffle Factory Bordeaux</name>
+        <description>Gaufre waffles</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.573551899999984,44.8353341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clarens Sarl</name>
+        <description>Tony and his brother Chris ate some croissants/bread here</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.13045080000006,44.6071596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Bistrot du Port</name>
+        <description>Fish stew</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.14794759999995,44.6569849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arcachon Bay</name>
+        <description>Tony had his first fresh oyster out of the sea here, and he says it was life-changing</description>
+        <styleUrl>#icon-1573-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.11611659999994,44.6764023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie Patisserie Vincent Chérin</name>
+        <description>The Bourdain brothers bought sausage and cheese for a picnic on the beach</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -1.14425919999996,44.6364803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cap Ferret</name>
+        <description>The Bourdains used to play on this beach as kids</description>
+        <styleUrl>#icon-1521-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2516627,44.6548704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Foie Gras Farm</name>
+        <description>Tony visited the duck farm</description>
+        <styleUrl>#icon-1566-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -0.755789999999934,43.749974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto</name>
+        <description>Tony came here to have some roast pig</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -8.62910529999999,41.1579438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurant Chez Yvette</name>
+        <description>Tete de veau (Veal sweetbreads, cheeks, etc)</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.16763400000002,44.660294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bakery and Pastry Shop "Bolhão"]]></name>
+        <description>Salt cod, Portuguese national dish</description>
+        <styleUrl>#icon-1573-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -8.60755349999999,41.1485339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurante Rogério do Redondo</name>
+        <description>Seafood restaurant</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -8.59905400000002,41.1445677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurante Casa Aleixo</name>
+        <description>Specializes in octopus</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -8.58752019999997,41.1473755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jinty McGuinty's Irish Bar]]></name>
+        <description>Guinness.</description>
+        <styleUrl>#icon-1879-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -4.29273369999999,55.8748084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The University Cafe</name>
+        <description>Fish n chips; they ate lots of deep fried things here</description>
+        <styleUrl>#icon-1573-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -4.29769099999999,55.872035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dubh Prais</name>
+        <description>Haggis.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -3.18670829999996,55.9504016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Drynachan Bed & Breakfast]]></name>
+        <description>Tony stayed here</description>
+        <styleUrl>#icon-1602-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -4.76204010000004,57.07942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cawdor Estate</name>
+        <description>Tony hunts rabbits for dinner.</description>
+        <styleUrl>#icon-1812-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -3.92664400000001,57.527092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F. Cooke</name>
+        <description>Meat pies</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0622430999999324,51.5359544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smiths of Smithfield</name>
+        <description>Traditional English breakfast</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.102761399999963,51.5195203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smithfield Market</name>
+        <description>Meat market.</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -0.101346100000001,51.5193108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint John Restaurant</name>
+        <description>Traditional English cuisine </description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0997197000000369,51.5206617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taj Stores</name>
+        <description>Grocery store. They shopped for Indian foods. Tony tried rambutan.</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0717604999999821,51.5199591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Restaurant Gordon Ramsay</name>
+        <description>Self explanatory.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -0.162122700000054,51.4854801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luis Irízar</name>
+        <description>Culinary school</description>
+        <styleUrl>#icon-1682-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98685,43.32251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arzak</name>
+        <description>Nouveau Basque food</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.94923760000006,43.3214402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ganbara</name>
+        <description>Tapas. They specialize in local, wild mushrooms</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98549879999996,43.3234025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar restaurante Astelena</name>
+        <description>Pastele de Pescado</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -2.07474160000004,43.1377793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Lucía</name>
+        <description>Churros and drinking chocolate</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -1.98574889999998,43.3236624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Disc 4: Morocco & Russia]]></name>
+      <Placemark>
+        <name>Fes</name>
+        <description>Center of Moroccan cuisine</description>
+        <styleUrl>#icon-1578-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -5.0075018,34.0181246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sahara Desert Morocco</name>
+        <description>They trekked out to the desert and roasted a whole lamb in the sand. </description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00852009999994,31.0976245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Moscow Kremlin</name>
+        <styleUrl>#icon-1523-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.6174994,55.7520233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Podvor'ye]]></name>
+        <description>Traditional country style Russian food. Russian dumplings, potato pancakes, cabbage</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            30.4382244999999,59.6962983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Resurrection of Christ Marker</name>
+        <description>One of the last czars or Russia, Alexander II, was blown up at this very spot by a terrorist group</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            30.328931,59.940044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Souvenirs Shop</name>
+        <description>Many stands selling wares</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            30.321097,59.936352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ресторан Идиотъ</name>
+        <description>Blintzy - a thin pancake filled with savory or sweet fillings. Tony had one with yogurt and dried apricot.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            30.3031468,59.9302469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catherine Palace</name>
+        <description>Seeing this building makes you understand why the revolution happened</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            30.3956531,59.716123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuznechnyy Rynok</name>
+        <description>Fresh produce, meats, pickled veggies and fruits</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            30.3494291,59.9273194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Marketplace</name>
+        <description>Bought beef for kefta and tagine to make</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -7.61200689999998,33.5947045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dar Diafa دار الضيافة‎</name>
+        <description>Traditional Moroccan feast</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -7.64214900000002,33.516298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riad Dar Cordoba</name>
+        <styleUrl>#icon-1602-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.98006359999999,34.0598535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Russkiy, Restoran</name>
+        <description>A fancy restaurant</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            37.5569452,55.754349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disc 5: Australia and Japan</name>
+      <Placemark>
+        <name>The Outback</name>
+        <description>Tony camped out, ate kangaroo barbecued on the fire.</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            133.775136,-25.274398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silverton Hotel</name>
+        <description>Meat pies</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            141.2221787,-31.8848143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tetsuya's Restaurant]]></name>
+        <description>Fancy. But amazing.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            151.204976,-33.875154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Harry's Cafe de Wheels - Darling Harbour]]></name>
+        <description>Best meat pies. Tony said this is a must visit whenever in Sydney</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            151.1998896,-33.8749756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田川</name>
+        <description>Tagawa Sushi</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.713858,35.710405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arashio-beya Sumo Stable</name>
+        <description>Not open to the public. Tony wanted to find out what the sumo fighters eat.</description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            139.7884682,35.6868268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chanko Edosawa</name>
+        <description>Big pot of soup that you add things to: shrimp, chicken, veggies. This is what sumo fighters eat.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.7945424,35.6950453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Di Stasio Citta</name>
+        <description><![CDATA[Tony ate at this chef's country home]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            144.9743154,-37.8140963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Atlantic Restaurant</name>
+        <description>Tony ate at Ondine Restaurant, which is now closed. This is the current restaurant of the same chef, Donovan Cooke. Tony praised the food for using local ingredients.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            144.958882,-37.822549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ryokan Sekiyou</name>
+        <description>A getaway for affluent Japanese.</description>
+        <styleUrl>#icon-1602-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            139.0706364,35.1510036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>にびき</name>
+        <description>Nibiki Restaurant. They serve fugu here, a fish that can kill you if not cooked properly.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.7846423,35.7238338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hang Meas Hotel & Restaurant]]></name>
+        <description>The only hotel in the town</description>
+        <styleUrl>#icon-1602-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            105.2850525,11.2638962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Honmura An</name>
+        <description>Very good soba noodle. Simple noodle dish served with a duck broth, pieces of duck, and scallion.</description>
+        <styleUrl>#icon-1640-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.731037,35.66347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yakitori Alley</name>
+        <description>Casual Japanese barbecued meats served with beer and sake.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            139.7613973,35.6731906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disc 6: Asia</name>
+      <Placemark>
+        <name>Goodwood Park Hotel</name>
+        <description>Tea in the hotel restaurant</description>
+        <styleUrl>#icon-1602-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            103.8345499,1.3084529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Imperial Restaurant</name>
+        <description>Herbal medicine + food</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            103.8366955,1.2893612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geylang Serai</name>
+        <description>Food market</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            103.8973851,1.3169537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hjh Maimunah Restaurant & Catering Pte Ltd]]></name>
+        <description>Malaysian food: BBQ fish with onion/chili sauce,  beef rendang, fried saltfish, beef liver, oxtail soup, stewed jackfruit</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            103.8978453,1.3155488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tekka Centre</name>
+        <description>Hawker center. Stretch tea. A pocket of dough filled with minced lamb, onion, egg.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            103.850654,1.306251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aroon Rai</name>
+        <description>Northern Thai food, very spicy</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            98.993531,18.78649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanoi</name>
+        <description>Tony visited during Tet, the celebration of the Lunar New Year. He ate at many stands that were put up to celebrate the end of a fast.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            105.8201408,21.0031177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nhà Hàng Thái Hưng Lâu</name>
+        <description>Chicken with Chinese herb broth, served with fried baguette</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            105.8434636,21.0290915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Thanh Market</name>
+        <description>Live poultry, food stalls, produce, other goods</description>
+        <styleUrl>#icon-1578-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            106.6980413,10.7725451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cháo mực Thanh Sơn</name>
+        <description>Chao muc is squid soup</description>
+        <styleUrl>#icon-1640-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            106.6939251,10.7826421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cơm Niêu Sài Gòn</name>
+        <description><![CDATA[Madam Gao was Tony's good friend. She owned the restaurant.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            106.6879689,10.7819713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>84a Nguyễn Du</name>
+        <description>Not sure if this still exists, but this address was the Thu Vien Biblioteque Cafe where Tony drank snake wine and ate lots of French-inspired Vietnamese food.</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            106.6992895,10.7784717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffet Hương Rừng 1</name>
+        <description><![CDATA["Flavors of the forest" as in they serve all kinds of animals. Tony famously ate a still beating cobra heart here.]]></description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            106.6854278,10.7602228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phnom Penh</name>
+        <description>Tony described Cambodian food as light on meat, heavy on vegetables, fruits, and seafood. Visited many food stands.</description>
+        <styleUrl>#icon-1523-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            104.9282099,11.5563738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phnom Penh Shooting Range Cambodia</name>
+        <description>A shooting range with snacks</description>
+        <styleUrl>#icon-1812-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            104.9060462,11.6267791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Angkor Wat</name>
+        <description><![CDATA[Tony called it "endless"]]></description>
+        <styleUrl>#icon-1523-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            103.8669857,13.4124693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Raffles Grand Hotel d'Angkor]]></name>
+        <description>Royal Cambodian meal</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            103.8598609,13.3643452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seafood Market and Restaurant</name>
+        <description>Mega seafood market with food stands and tables. You pick your fish, chilis, ingredients, and how they cook it, they serve it to you.</description>
+        <styleUrl>#icon-1577-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            100.5671877,13.7244781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nefertiti</name>
+        <description>Coffee and hookah</description>
+        <styleUrl>#icon-1534-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            100.5535007,13.7428258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Banana Leaf Apollo</name>
+        <description>Indian food. Fish head curry</description>
+        <styleUrl>#icon-1577-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            103.904877,1.3018403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
