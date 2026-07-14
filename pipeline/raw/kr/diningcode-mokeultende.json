@@ -1,0 +1,6848 @@
+{
+ "source": "diningcode.com 인증맛집",
+ "keyword": "성시경의먹을텐데",
+ "fetched_at": "2026-07-14T08:34:42.856Z",
+ "total_reported": 276,
+ "count": 276,
+ "places": [
+  {
+   "rid": "6EUbNXklTDRE",
+   "name": "홍명",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 37-9",
+   "road_addr": "서울특별시 강남구 논현로131길 10 미현빌딩 1층 홍명",
+   "phone": "02-548-2223",
+   "category": "짜장면, 간짜장",
+   "area": [
+    "학동역"
+   ],
+   "lat": 37.514514,
+   "lng": 127.0295105,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.3,
+   "review_cnt": 41,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260520143127_photo1_4f78d446e36f.webp",
+   "tags": [
+    "식신로드",
+    "가족외식",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "OGEbPVILTEHb",
+   "name": "화목순대국",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 44-14",
+   "road_addr": "서울특별시 영등포구 여의대방로 383 1F (경도상가 1층)",
+   "phone": "02-780-8191",
+   "category": "순대국, 내장탕",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5194005,
+   "lng": 126.9316586,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.1,
+   "review_cnt": 78,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260515104309_photo1_90b4ad93f49f.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "vSWiDSKUJAZ9",
+   "name": "백암왕순대",
+   "branch": null,
+   "addr": "서울 강남구 논현동 242-9",
+   "road_addr": "서울특별시 강남구 선릉로129길 5",
+   "phone": "02-3442-7768",
+   "category": "순대국",
+   "area": [
+    "강남구청역"
+   ],
+   "lat": 37.5161154,
+   "lng": 127.0404677,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.5,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260220072319_photo1_20e8e2fc1a60.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "2nrKYyY3cev7",
+   "name": "산동교자",
+   "branch": null,
+   "addr": "서울특별시 중구 명동2가 105",
+   "road_addr": "서울특별시 중구 남대문로 52-13",
+   "phone": null,
+   "category": "짜장면, 덴뿌라",
+   "area": [
+    "명동"
+   ],
+   "lat": 37.5621349,
+   "lng": 126.9824453,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 3.8,
+   "review_cnt": 28,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260125051801010_photo_6e3f58530398.webp",
+   "tags": [
+    "수요미식회",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "WTjhqhrEKOKe",
+   "name": "권영수대가전골",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 1019 본관1층",
+   "road_addr": "서울특별시 동대문구 고산자로36길 3 본관1층 10057호",
+   "phone": "0507-1345-6043",
+   "category": "전골, 만두전골",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.5793184,
+   "lng": 127.038754,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.3,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260327034713203_photo_98a269f9ef34.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "서민적인",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "OAxlUe6SRL4L",
+   "name": "이품",
+   "branch": null,
+   "addr": "서울특별시 서대문구 연희동 132-19",
+   "road_addr": "서울특별시 서대문구 연희로11길 20",
+   "phone": "02-322-6172",
+   "category": "짜장면, 간짜장",
+   "area": [
+    "연희동"
+   ],
+   "lat": 37.56755,
+   "lng": 126.9300765,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.5,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260324072516_photo1_9664e311d862.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "o5cZTIzdMyHu",
+   "name": "돈키돈가스",
+   "branch": null,
+   "addr": "서울특별시 서초구 방배동 437-4",
+   "road_addr": "서울특별시 서초구 방배천로18길 10 1F 돈키",
+   "phone": "02-599-2747",
+   "category": "돈까스, 갑오징어",
+   "area": [
+    "이수역"
+   ],
+   "lat": 37.4826181,
+   "lng": 126.9832237,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.5,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250624013010631_photo_1bfaecd9e73f.webp",
+   "tags": [
+    "이원일셰프",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "Z9QaHOVpLFod",
+   "name": "효제루",
+   "branch": null,
+   "addr": "서울특별시 종로구 효제동 301-2",
+   "road_addr": "서울특별시 종로구 대학로 18 1층",
+   "phone": "02-6448-0772",
+   "category": "짬뽕, 탕수육",
+   "area": [
+    "종로5가"
+   ],
+   "lat": 37.5726942,
+   "lng": 127.0021758,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.4,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260221112448544_photo_4385e3c36867.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "캐주얼한",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "xHAcBBHlmqfv",
+   "name": "향미",
+   "branch": null,
+   "addr": "서울특별시 중구 명동2가 107-1",
+   "road_addr": "서울특별시 중구 남대문로 52-5 1층",
+   "phone": "02-773-8835",
+   "category": "중식, 조개",
+   "area": [
+    "명동"
+   ],
+   "lat": 37.562083,
+   "lng": 126.9817781,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260106135325_photo1_eb5ad7ac00b8.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "V4ZzjAgRQfxk",
+   "name": "현대순대국",
+   "branch": null,
+   "addr": "서울시 강남구 논현동 161",
+   "road_addr": "서울특별시 강남구 강남대로124길 20 남경빌딩",
+   "phone": "02-515-8708",
+   "category": "순대국, 국밥",
+   "area": [
+    "논현"
+   ],
+   "lat": 37.5090456,
+   "lng": 127.0241084,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.2,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260301073341668_photo_dd4b44833aea.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "uAtV6zlhRSHF",
+   "name": "남원통닭 별관",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 635-4",
+   "road_addr": "서울특별시 동대문구 홍릉로1길 39 (제기동)",
+   "phone": "02-967-9841",
+   "category": "치킨, 통닭",
+   "area": [
+    "청량리"
+   ],
+   "lat": 37.5804379,
+   "lng": 127.0427895,
+   "open_status": "오늘 휴무",
+   "score": 75,
+   "user_score": 4.2,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260418104939_menu1_27adcf2cf87f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "Zgkr9ogokWuG",
+   "name": "먹거리집",
+   "branch": null,
+   "addr": "서울특별시 중랑구 상봉동 113-23",
+   "road_addr": "서울특별시 중랑구 면목로91길 8",
+   "phone": "02-493-3100",
+   "category": "순대국, 수육",
+   "area": [
+    "상봉역"
+   ],
+   "lat": 37.5945544,
+   "lng": 127.0854264,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.2,
+   "review_cnt": 29,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260515064958_photo1_7526f8dd1123.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "bPFkNR85A8aO",
+   "name": "함평국밥",
+   "branch": null,
+   "addr": "서울특별시 중랑구 상봉동 90-64",
+   "road_addr": "서울특별시 중랑구 봉우재로33길 73",
+   "phone": "02-2209-3332",
+   "category": "육회, 육사시미",
+   "area": [
+    "상봉"
+   ],
+   "lat": 37.5954638,
+   "lng": 127.0892363,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.1,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260207163902_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "quRaDEYgpZpE",
+   "name": "수제 별미순대국",
+   "branch": null,
+   "addr": "경기도 의정부시 의정부동 511-4",
+   "road_addr": "경기도 의정부시 신흥로239번길 49-10",
+   "phone": "031-838-1256",
+   "category": "순대국",
+   "area": [
+    "의정부"
+   ],
+   "lat": 37.737076,
+   "lng": 127.0402487,
+   "open_status": "영업 종료",
+   "score": 71,
+   "user_score": 4.5,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505114934_photo1_a40be41a0b3c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "6TF5KIY755DV",
+   "name": "진영면옥",
+   "branch": null,
+   "addr": "서울 금천구 독산동 162-10",
+   "road_addr": "서울특별시 금천구 가산로 22-5",
+   "phone": "0507-1367-2383",
+   "category": "평양냉면",
+   "area": [
+    "독산동"
+   ],
+   "lat": 37.4715782,
+   "lng": 126.9004447,
+   "open_status": "영업 중",
+   "score": 92,
+   "user_score": 4.8,
+   "review_cnt": 41,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510214313_photo1_27ca6b4ffb13.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "ueQ2cWMSHzFT",
+   "name": "신천지대반점",
+   "branch": null,
+   "addr": "울산광역시 남구 달동 1287-1",
+   "road_addr": "울산광역시 남구 꽃대나리로51번길 4",
+   "phone": "052-245-8078",
+   "category": "짜장면, 고기튀김",
+   "area": [
+    "울산삼산"
+   ],
+   "lat": 35.5340764,
+   "lng": 129.3356855,
+   "open_status": "확인필요",
+   "score": 71,
+   "user_score": 4,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260216040938531_photo_c5b03d6eee07.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "지역주민이찾는",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "SzitUX159PY1",
+   "name": "원조신촌설렁탕",
+   "branch": null,
+   "addr": "서울특별시 마포구 공덕동 119-45",
+   "road_addr": "서울특별시 마포구 마포대로14길 16",
+   "phone": "02-712-3300",
+   "category": "설렁탕, 내장곰탕",
+   "area": [
+    "공덕"
+   ],
+   "lat": 37.5483083,
+   "lng": 126.956275,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.1,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260404032415654_photo_b56b766a4c2a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "ry5HPjKQef7Z",
+   "name": "수동상회",
+   "branch": null,
+   "addr": "서울시 송파구 가락동 600 수산시장내",
+   "road_addr": "서울특별시 송파구 양재대로 932 가락몰5관 가락몰회센타1층",
+   "phone": "02-401-0169",
+   "category": "횟집",
+   "area": [
+    "가락시장"
+   ],
+   "lat": 37.4924304,
+   "lng": 127.1171587,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.6,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240914220017_photo1_e247c87602ef.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "24qFtrlTrDi3",
+   "name": "초원",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 80-4",
+   "road_addr": "서울특별시 용산구 한강대로80길 7",
+   "phone": "010-4976-5949",
+   "category": "한우, 우설",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5426589,
+   "lng": 126.9733419,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.3,
+   "review_cnt": 28,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260514040842_photo1_b67f5993efd3.webp",
+   "tags": [
+    "전지적참견시점",
+    "식사모임",
+    "깔끔한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "tLWPXtXCrvJ3",
+   "name": "진미식당",
+   "branch": null,
+   "addr": "서울특별시 용산구 문배동 33-3",
+   "road_addr": "서울특별시 용산구 백범로90길 46",
+   "phone": "02-703-6842",
+   "category": "콩국수, 오징어볶음",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5366941,
+   "lng": 126.9701829,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.2,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511044634_photo1_6ea1c47d50fc.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "hDLnaLSF5Am2",
+   "name": "본가진미간장게장",
+   "branch": null,
+   "addr": "서울특별시 송파구 송파동 134-1",
+   "road_addr": "서울특별시 송파구 백제고분로 420 1층",
+   "phone": "0507-1342-5081",
+   "category": "간장게장",
+   "area": [
+    "송리단길"
+   ],
+   "lat": 37.5083768,
+   "lng": 127.1112659,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420075712_photo1_a79e03498aa7.webp",
+   "tags": [
+    "생생정보통",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "Qa1HSrsHhF8i",
+   "name": "현대순대국",
+   "branch": "2호점",
+   "addr": "서울특별시 강남구 논현동 143-2",
+   "road_addr": "서울특별시 강남구 강남대로128길 6 지하1층",
+   "phone": "0507-1378-8708",
+   "category": "순대국, 국밥",
+   "area": [
+    "논현"
+   ],
+   "lat": 37.5096767,
+   "lng": 127.022887,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260112123041_photo1_673c569024bb.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "GA8ZnapOI09H",
+   "name": "풍성감자탕",
+   "branch": null,
+   "addr": "서울특별시 광진구 구의동 246-16",
+   "road_addr": "서울특별시 광진구 자양로18길 6",
+   "phone": "02-446-0354",
+   "category": "감자탕, 뼈해장국",
+   "area": [
+    "구의역"
+   ],
+   "lat": 37.5373926,
+   "lng": 127.0839845,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.3,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260207151733_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "서민적인",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "7OS8700o2pld",
+   "name": "미소의집",
+   "branch": null,
+   "addr": "서울특별시 서초구 반포동 885",
+   "road_addr": "서울특별시 서초구 신반포로 27-6 한신상가 지하 2층",
+   "phone": "02-537-0547",
+   "category": "떡볶이, 즉석떡볶이",
+   "area": [
+    "반포"
+   ],
+   "lat": 37.5022795,
+   "lng": 126.987604,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.3,
+   "review_cnt": 21,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260130045008_photo1_vHJ0fjMoEgDS.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "cZIoTojCPqpY",
+   "name": "까치네",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 40-4",
+   "road_addr": "서울특별시 용산구 한강대로84길 11-16 까치네",
+   "phone": "02-798-4668",
+   "category": "오징어볶음, 계란범벅",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5443857,
+   "lng": 126.9732428,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250114120816_photo1_91dd7cd26fc0.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "P4QhCTn2wmxv",
+   "name": "연지민물매운탕칼국수",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 611-5",
+   "road_addr": "서울특별시 광진구 자양번영로 56 동와빌딩",
+   "phone": "02-446-2182",
+   "category": "어탕국수, 민물매운탕",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5344591,
+   "lng": 127.0762601,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250130013032883_photo_63220361b30c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "dbHwsadi8j3P",
+   "name": "농부와닭동네",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 21-4",
+   "road_addr": "서울특별시 영등포구 여의나루로 113",
+   "phone": "02-786-9971",
+   "category": "치킨, 치킨떡볶이",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5260281,
+   "lng": 126.9309264,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 3.8,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504041138_photo1_2a53a4afae1b.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "rBntL79xkkxR",
+   "name": "야래향",
+   "branch": "동부이촌동점",
+   "addr": "서울시 용산구 이촌동 301-152 2F (이촌종합상가 2층)",
+   "road_addr": "서울특별시 용산구 이촌로75길 22-5",
+   "phone": "02-797-7179",
+   "category": "짜장면, 유니짜장",
+   "area": [
+    "이촌역"
+   ],
+   "lat": 37.520975,
+   "lng": 126.974758,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 3.5,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251030022725_photo1_7d8ca9bfefa7.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "XyaLLFlYTHrA",
+   "name": "청실홍실",
+   "branch": null,
+   "addr": "서울특별시 서초구 반포동 93-5",
+   "road_addr": "서울특별시 서초구 서래로10길 9",
+   "phone": "02-535-2544",
+   "category": "감자탕, 감자국",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.499564,
+   "lng": 126.998918,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260413092423_photo1_8e524a22bf52.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "0Z2vCXejL5k8",
+   "name": "맛좋은 순대국",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 585-19",
+   "road_addr": "서울특별시 광진구 자양번영로1길 22",
+   "phone": "02-458-5737",
+   "category": "순대국",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.530869,
+   "lng": 127.073634,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250801080426_photo1_73938abd6234.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼술",
+    "서민적인",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "Vs9fVoZhX0ip",
+   "name": "청석골",
+   "branch": null,
+   "addr": "서울 강남구 논현동 64-19",
+   "road_addr": "서울특별시 강남구 도산대로38길 12",
+   "phone": "02-511-9588",
+   "category": "된장찌개, 백반",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.5198526,
+   "lng": 127.0321358,
+   "open_status": "확인필요",
+   "score": 66,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251114024526_photo1_3c76102fd7d1.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "BnimtHfeTr74",
+   "name": "성수아구찜",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동1가 656-564",
+   "road_addr": "서울특별시 성동구 왕십리로8길 4 1층 성수아구찜",
+   "phone": "02-465-4346",
+   "category": "아구찜, 삼겹살",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.546475,
+   "lng": 127.045004,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.1,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260330114321_photo1_1ad612fcd288.webp",
+   "tags": [
+    "수요미식회",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "kXIRtMHhdlAC",
+   "name": "샤오롱바오",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 600",
+   "road_addr": "서울특별시 광진구 자양번영로 20 1층",
+   "phone": "02-447-2155",
+   "category": "딤섬, 샤오롱바오",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5314465,
+   "lng": 127.0753555,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260303025921949_photo_5703b79add97.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "P16GK4qSC2VZ",
+   "name": "일등식당",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 476-1",
+   "road_addr": "서울특별시 마포구 방울내로 82",
+   "phone": "02-333-0361",
+   "category": "해장국, 뼈해장국",
+   "area": [
+    "망원"
+   ],
+   "lat": 37.5606012,
+   "lng": 126.9043521,
+   "open_status": "오늘 휴무",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 29,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260110074814415_photo_7495c6358268.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "1dMCiPYV4XZ9",
+   "name": "충북순대",
+   "branch": null,
+   "addr": "서울 동작구 흑석동 50-24",
+   "road_addr": "서울특별시 동작구 서달로14길 16 1층",
+   "phone": "02-823-0729",
+   "category": "순대국",
+   "area": [
+    "흑석동"
+   ],
+   "lat": 37.5078102,
+   "lng": 126.9638161,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250330045658_photo1_87b24f44814c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "yY6wvvIykmA9",
+   "name": "해남순대국",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 366-9",
+   "road_addr": "서울특별시 중구 다산로8길 8",
+   "phone": "02-2252-1526",
+   "category": "순대국, 수육",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5528936,
+   "lng": 127.0099012,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.3,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251005114805_photo1_eee34574e7a8.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "예약불가"
+   ]
+  },
+  {
+   "rid": "JKfSPlB3bX8b",
+   "name": "춘천막국수",
+   "branch": null,
+   "addr": "서울 중구 신당동 368-86",
+   "road_addr": "서울특별시 중구 다산로10길 6 1층 골목길",
+   "phone": "0507-1306-2969",
+   "category": "막국수, 이북식찜닭",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5534147,
+   "lng": 127.0103314,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.4,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260207091920_photo1_673c569024bb.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "oJ1GPlqxWuiM",
+   "name": "동강나루터",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로2가 101-17",
+   "road_addr": "서울특별시 중구 을지로 99",
+   "phone": "02-2273-5989",
+   "category": "메기탕, 참게메기매운탕",
+   "area": [
+    "을지로3가역"
+   ],
+   "lat": 37.5664523,
+   "lng": 126.9889664,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.1,
+   "review_cnt": 27,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504074921_photo1_050b852ce137.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "Eer8BKiz5AdQ",
+   "name": "전원식당",
+   "branch": null,
+   "addr": "강원도 속초시 동명동 51",
+   "road_addr": "강원도 속초시 영금정로 15",
+   "phone": "010-5505-4881",
+   "category": "두루치기, 된장찌개",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.2129301,
+   "lng": 128.598053,
+   "open_status": "라스트 오더 26분 전",
+   "score": 76,
+   "user_score": 4.1,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260202054658_photo1_27f7fc8e1e17.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "OxqTIjqlUDNJ",
+   "name": "촌촌해녀촌",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 구좌읍 동복리 1502",
+   "road_addr": "제주특별자치도 제주시 구좌읍 동복로 35",
+   "phone": "064-783-4242",
+   "category": "물회, 회국수",
+   "area": [
+    "구좌읍"
+   ],
+   "lat": 33.5536819,
+   "lng": 126.7100896,
+   "open_status": "오늘 휴무",
+   "score": 77,
+   "user_score": 4.5,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260405084434_photo1_83eec82b0027.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "hAebbrQ1gHyi",
+   "name": "서령",
+   "branch": "본점",
+   "addr": "서울특별시 중구 남대문로5가 120 1층",
+   "road_addr": "서울특별시 중구 소월로 10 1층",
+   "phone": "0507-1427-8766",
+   "category": "평양냉면",
+   "area": [
+    "남대문"
+   ],
+   "lat": 37.558538,
+   "lng": 126.9754231,
+   "open_status": "영업 중",
+   "score": 98,
+   "user_score": 4.6,
+   "review_cnt": 78,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429061510_photo1_ae95e664703b.webp",
+   "tags": [
+    "미쉐린빕구르망",
+    "식사모임",
+    "깔끔한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "RfIFC2Hld5qB",
+   "name": "옛날감자전",
+   "branch": null,
+   "addr": "서울시 용산구 남영동 33-2",
+   "road_addr": "서울특별시 용산구 한강대로84길 11-9",
+   "phone": "02-749-0395",
+   "category": "막걸리, 감자전",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5439758,
+   "lng": 126.9731384,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.4,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420090657_photo1_94fe6162d40f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "LuSeZNWqg3Le",
+   "name": "군위식당",
+   "branch": null,
+   "addr": "대구광역시 중구 포정동 21-3",
+   "road_addr": "대구광역시 중구 경상감영길 101 중앙상가",
+   "phone": "053-252-1294",
+   "category": "국밥, 수육",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.8723495,
+   "lng": 128.5931812,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.5,
+   "review_cnt": 54,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260317061446_photo1_25d410228a6f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "Jz1t9XTzGzbH",
+   "name": "서궁",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 43-4 롯데캐슬아이비 지하",
+   "road_addr": "서울특별시 영등포구 국제금융로 86 롯데캐슬아이비 지하 1층",
+   "phone": "02-780-7548",
+   "category": "중식, 오향장육",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5200311,
+   "lng": 126.9319846,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 3.9,
+   "review_cnt": 29,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260322071951020_photo_85f0858ace1d.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "ZidlKeh2NLqt",
+   "name": "성천 막국수",
+   "branch": null,
+   "addr": "서울특별시 동대문구 답십리동 33-28",
+   "road_addr": "서울특별시 동대문구 답십리로48나길 2",
+   "phone": "0507-1329-5529",
+   "category": "막국수, 제육",
+   "area": [
+    "답십리"
+   ],
+   "lat": 37.5699005,
+   "lng": 127.0577734,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.3,
+   "review_cnt": 34,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501121638828_menu_eaf0ecd4b2da.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "MhwOv0XiYL3H",
+   "name": "삼호 짱뚱이",
+   "branch": null,
+   "addr": "서울시 강남구 논현동 64",
+   "road_addr": "서울특별시 강남구 도산대로34길 11 학동역 8번출구, 압구정역 3번출구 방향 600m",
+   "phone": "02-547-1416",
+   "category": "남도음식, 홍어삼합",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.5196641,
+   "lng": 127.0310038,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260107025929_photo1_0d0980314f7e.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "발렛파킹",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "4gZdNmsHfKuc",
+   "name": "압구정진주",
+   "branch": "한남직영점",
+   "addr": "서울특별시 용산구 한남동 631-15",
+   "road_addr": "서울특별시 용산구 대사관로30길 11-6 압구정진주",
+   "phone": "070-8865-8788",
+   "category": "가브리살, 고기집",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5324975,
+   "lng": 127.0058663,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260127082819_photo1_41a656182398.webp",
+   "tags": [
+    "전참시",
+    "회식",
+    "깔끔한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "xSIy4moMqqVA",
+   "name": "부산 갈매기",
+   "branch": null,
+   "addr": "서울시 중구 북창동 94-42",
+   "road_addr": "서울특별시 중구 남대문로 25-20",
+   "phone": "02-773-8146",
+   "category": "생태찌개",
+   "area": [
+    "북창동"
+   ],
+   "lat": 37.562107,
+   "lng": 126.9783839,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260514100620_photo1_dbc0c1f4e10d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "estY2nu0AFxm",
+   "name": "편의방",
+   "branch": null,
+   "addr": "서울특별시 서대문구 연희동 353-94",
+   "road_addr": "서울특별시 서대문구 연희로 36",
+   "phone": "02-363-5887",
+   "category": "짬뽕, 군만두",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5617816,
+   "lng": 126.9275231,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.3,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251109110101_photo1_7a38736fd26c.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "VT9sxn0135MR",
+   "name": "진미평양냉면",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 115-10",
+   "road_addr": "서울특별시 강남구 학동로 305-3",
+   "phone": "02-515-3469",
+   "category": "평양냉면",
+   "area": [
+    "학동역"
+   ],
+   "lat": 37.5161247,
+   "lng": 127.0360501,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.3,
+   "review_cnt": 182,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260506114041_photo1_7765bd5dfec6.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "I4z6nJof0VbR",
+   "name": "상무암뽕순대국밥",
+   "branch": null,
+   "addr": "광주광역시 서구 치평동 1193-6",
+   "road_addr": "광주광역시 서구 천변좌하로 292",
+   "phone": "062-381-3117",
+   "category": "국밥, 암뽕",
+   "area": [
+    "상무지구"
+   ],
+   "lat": 35.160163,
+   "lng": 126.8465569,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251201131837_photo1_43075f2dbbf5.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "4tnoUOSjdKC9",
+   "name": "대우부대찌개",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 641-18",
+   "road_addr": "서울특별시 강남구 테헤란로25길 34",
+   "phone": "02-552-1663",
+   "category": "부대찌개, 미나리",
+   "area": [
+    "역삼역"
+   ],
+   "lat": 37.5027171,
+   "lng": 127.0351854,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 65,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260305010038359_photo_3531ac9257f3.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "HKty0ngODvLB",
+   "name": "제주삼다돈",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 384-10",
+   "road_addr": "서울특별시 마포구 양화로11길 66",
+   "phone": "0507-1472-2140",
+   "category": "삼겹살, 오겹살",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5521542,
+   "lng": 126.9131744,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251230050230_photo1_281cb6ff2717.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "5IQmFU5gVz0j",
+   "name": "상무암뽕순대국밥",
+   "branch": "수완점",
+   "addr": "광주광역시 광산구 장덕동 1535",
+   "road_addr": "광주광역시 광산구 장신로20번안길 44-5 1층 상무암뽕순대국밥 수완점",
+   "phone": "062-531-6640",
+   "category": "순대국밥",
+   "area": [
+    "수완지구"
+   ],
+   "lat": 35.1900786,
+   "lng": 126.8120128,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 4.8,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251009104656_photo1_9aa23c41e2c6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "ZtbwcZ5vd7Gh",
+   "name": "코치",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 565",
+   "road_addr": "서울특별시 성동구 성덕정17길 11 1층",
+   "phone": "070-4242-4604",
+   "category": "야끼토리, 꼬치",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5382184,
+   "lng": 127.0551985,
+   "open_status": "영업 시작 26분 전",
+   "score": 82,
+   "user_score": 4.6,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422071002_photo1_8204f4542d09.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "캐주얼한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "kkIUDZnHBIpt",
+   "name": "함흥냉면",
+   "branch": null,
+   "addr": "서울시 영등포구 영등포동3가 7-32",
+   "road_addr": "서울특별시 영등포구 영등포로42길 6",
+   "phone": "02-2678-2722",
+   "category": "함흥냉면, 회냉면",
+   "area": [
+    "영등포"
+   ],
+   "lat": 37.5189822,
+   "lng": 126.9067909,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.1,
+   "review_cnt": 25,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260430094646_photo1_e28fbf804d0c.webp",
+   "tags": [
+    "백년가게",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "g3fc1L7CcKHB",
+   "name": "주막",
+   "branch": null,
+   "addr": "서울특별시 강북구 미아동 54-259",
+   "road_addr": "서울특별시 강북구 월계로7나길 30-3 1층 주막",
+   "phone": "0507-1330-1680",
+   "category": "막걸리, 술집",
+   "area": [
+    "미아사거리"
+   ],
+   "lat": 37.6127933,
+   "lng": 127.0320212,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429195441_photo1_c8ab6243bcb3.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "칸막이"
+   ]
+  },
+  {
+   "rid": "sp1PUlMLT1ot",
+   "name": "을지칼국수",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로3가 291-45",
+   "road_addr": "서울특별시 중구 충무로 54-3",
+   "phone": "02-2278-5003",
+   "category": "만두국, 손만두칼국수",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5660942,
+   "lng": 126.9929795,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240605014351_photo1_66f359400a65.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "RjlJsy9tf8PE",
+   "name": "신촌즉석생우동",
+   "branch": null,
+   "addr": "서울특별시 마포구 대흥동 801-13 1층",
+   "road_addr": "서울특별시 마포구 대흥로 38",
+   "phone": "0507-1316-7897",
+   "category": "우동, 즉석우동",
+   "area": [
+    "대흥역"
+   ],
+   "lat": 37.5441166,
+   "lng": 126.9387125,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.4,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250617123220886_photo_b8c9c72e4d1e.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "L1RPARi5TO49",
+   "name": "경원식당",
+   "branch": null,
+   "addr": "경기도 의정부시 의정부동 483",
+   "road_addr": "경기도 의정부시 둔야로49번길 21",
+   "phone": "0507-1420-5464",
+   "category": "부대찌개, 라면",
+   "area": [
+    "의정부"
+   ],
+   "lat": 37.7402936,
+   "lng": 127.0382495,
+   "open_status": "오늘 휴무",
+   "score": 83,
+   "user_score": 4.3,
+   "review_cnt": 51,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510200143_photo1_907647df534f.webp",
+   "tags": [
+    "백년가게",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "dXqphFkGHXdI",
+   "name": "다람",
+   "branch": null,
+   "addr": "서울특별시 강동구 성내동 443",
+   "road_addr": "서울특별시 강동구 양재대로85길 29",
+   "phone": "0507-1339-6047",
+   "category": "삼겹살, 김치",
+   "area": [
+    "성내동"
+   ],
+   "lat": 37.524603,
+   "lng": 127.1329286,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250630195555_photo1_d753a4b5aa01.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "lAPybzjJJBIW",
+   "name": "뉴델리",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 613-15",
+   "road_addr": "서울특별시 강남구 논현로176길 28",
+   "phone": "02-541-9300",
+   "category": "인도음식",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5275592,
+   "lng": 127.0306981,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.4,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251210033035_photo1_cd0ac61eb680.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "이국적/이색적",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "yUCJvlj7r8q9",
+   "name": "화진호 이선장네",
+   "branch": null,
+   "addr": "강원도 속초시 교동 964-12",
+   "road_addr": "강원도 속초시 먹거리4길 18-1",
+   "phone": "0507-1417-0750",
+   "category": "생선조림, 가자미",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.1953835,
+   "lng": 128.5732536,
+   "open_status": "영업 종료",
+   "score": 72,
+   "user_score": 4.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251004030504379_photo_75408243525c.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "dMLX7cQ3eoOx",
+   "name": "원조추어탕",
+   "branch": null,
+   "addr": "서울특별시 동작구 사당동 89-15",
+   "road_addr": "서울특별시 동작구 동작대로33가길 4 석원빌딩",
+   "phone": "02-537-9944",
+   "category": "어죽, 추어탕",
+   "area": [
+    "이수역"
+   ],
+   "lat": 37.4895597,
+   "lng": 126.9819178,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.6,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260419082931_photo1_47885fded84a.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "PAapMa7ncrOL",
+   "name": "을지칼국수",
+   "branch": null,
+   "addr": "서울특별시 중구 저동2가 88-10",
+   "road_addr": "서울특별시 중구 마른내로 10",
+   "phone": "02-2266-3494",
+   "category": "만두국, 칼국수",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5645624,
+   "lng": 126.9888693,
+   "open_status": "확인필요",
+   "score": 77,
+   "user_score": 4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251224123203252_photo_49cffb6f5d7c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "qpxxC2UiEFYc",
+   "name": "대성집",
+   "branch": null,
+   "addr": "서울특별시 종로구 행촌동 209-35",
+   "road_addr": "서울특별시 종로구 사직로 5",
+   "phone": "02-735-4259",
+   "category": "도가니탕",
+   "area": [
+    "독립문역"
+   ],
+   "lat": 37.5727012,
+   "lng": 126.9608828,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.4,
+   "review_cnt": 43,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260418041854822_photo_21d7ffa5d1a1.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "3YYzjMMzpJrl",
+   "name": "묵호집",
+   "branch": null,
+   "addr": "서울특별시 중구 북창동 82",
+   "road_addr": "서울특별시 중구 세종대로14길 26",
+   "phone": "02-779-4705",
+   "category": "횟집, 숙성회",
+   "area": [
+    "북창동"
+   ],
+   "lat": 37.5627552,
+   "lng": 126.9781459,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.2,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190827074745_photo1_a2e1b1990f36.webp",
+   "tags": [
+    "최자로드",
+    "점심회식",
+    "고급스러운",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "hRYLsAfXdsU1",
+   "name": "완도전복",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 373-129",
+   "road_addr": "서울특별시 중구 동호로5길 2",
+   "phone": "02-2234-8538",
+   "category": "전복죽",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.552668,
+   "lng": 127.012006,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241023213555_photo1_cf4028d21408.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "낮술",
+    "노포"
+   ]
+  },
+  {
+   "rid": "rbDTcMjaxP6T",
+   "name": "몽골 생소금구이",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 457-11",
+   "road_addr": "서울특별시 마포구 희우정로 93-1",
+   "phone": "0507-1410-3544",
+   "category": "고깃집, 소금구이",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.553664,
+   "lng": 126.9022584,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4.6,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240603023849_photo1_4c71947e039b.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "서민적인",
+    "연탄불"
+   ]
+  },
+  {
+   "rid": "cQ5qKSnRnaGt",
+   "name": "이남장",
+   "branch": null,
+   "addr": "서울시 중구 을지로2가 101-32",
+   "road_addr": "서울특별시 중구 삼일대로12길 16",
+   "phone": "02-2267-4081",
+   "category": "설렁탕",
+   "area": [
+    "을지로3가역"
+   ],
+   "lat": 37.566664,
+   "lng": 126.988662,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 37,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511084229_photo1_f7cdb16ee59c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "3fUdK5E9YyzH",
+   "name": "대운식당",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 830-54",
+   "road_addr": "서울특별시 강남구 역삼로5길 6",
+   "phone": "02-564-4559",
+   "category": "동태탕, 생태탕",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.4942732,
+   "lng": 127.0324393,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 3.9,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241014061512_photo1_5612afd16f14.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "GUvSH7SUZByN",
+   "name": "이조갈비",
+   "branch": null,
+   "addr": "서울특별시 중구 무학동 58",
+   "road_addr": "서울특별시 중구 다산로39길 11-12",
+   "phone": "02-2253-3287",
+   "category": "냉삼, 꽃게탕",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5639534,
+   "lng": 127.0148958,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230218090918263_photo_fabc48758b07.webp",
+   "tags": [
+    "전참시",
+    "해장",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "GVYHvdIFhGB8",
+   "name": "이조순대국",
+   "branch": null,
+   "addr": "서울특별시 용산구 원효로2가 91-10",
+   "road_addr": "서울특별시 용산구 원효로41길 54 이조순대국",
+   "phone": "02-717-3387",
+   "category": "순대국, 순대",
+   "area": [
+    "용문시장"
+   ],
+   "lat": 37.5352498,
+   "lng": 126.9602673,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.8,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260328095635_photo1_857c63fa3eaf.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "서민적인",
+    "셀프코너"
+   ]
+  },
+  {
+   "rid": "y0PHoZs4lsOv",
+   "name": "중앙곰탕",
+   "branch": null,
+   "addr": "부산광역시 중구 중앙동4가 88-18",
+   "road_addr": "부산광역시 중구 충장대로9번길 9",
+   "phone": "0507-1396-4117",
+   "category": "곰탕, 양수백",
+   "area": [
+    "부산중앙동"
+   ],
+   "lat": 35.1061271,
+   "lng": 129.0374199,
+   "open_status": "영업 종료",
+   "score": 71,
+   "user_score": 3.9,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250807063553060_photo_9b8dc24ae091.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "npyaajGwiOMb",
+   "name": "크리스피 포크 타운",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 455-33",
+   "road_addr": "서울특별시 용산구 녹사평대로40길 47 1층",
+   "phone": "0507-1483-2849",
+   "category": "퀘사디아, 타코",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5345147,
+   "lng": 126.9884498,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.4,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260102105937_photo1_4c842165758c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "이국적/이색적",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "uwkPwv8k0sZL",
+   "name": "남도보쌈파전",
+   "branch": null,
+   "addr": "서울 동대문구 장안동 310-3",
+   "road_addr": "서울 동대문구 장한로 160 대진빌딩 1층, 남도보쌈파전",
+   "phone": "0507-1327-3236",
+   "category": "보쌈, 생굴회",
+   "area": [
+    "장안동"
+   ],
+   "lat": 37.5747249,
+   "lng": 127.0722342,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251030093619154_photo_69cf0e26fd34.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "OcTmsqn4Kzav",
+   "name": "막동이회관",
+   "branch": null,
+   "addr": "광주시 동구 소태동 601-2",
+   "road_addr": "광주광역시 동구 남문로 614",
+   "phone": "062-222-0840",
+   "category": "소고기, 생고기",
+   "area": [
+    "광주"
+   ],
+   "lat": 35.125674,
+   "lng": 126.93185,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250806074040_photo1_75f4af50bc50.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "회식",
+    "지역주민이찾는",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "fyyp6Mh5oi67",
+   "name": "행화촌",
+   "branch": null,
+   "addr": "서울특별시 중구 명동2가 107-1",
+   "road_addr": "서울특별시 중구 남대문로 52-5",
+   "phone": "02-771-0172",
+   "category": "짜장면, 라조기",
+   "area": [
+    "명동"
+   ],
+   "lat": 37.5621053,
+   "lng": 126.9817245,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.1,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260110035544_photo1_DFIIFUqTHMj7.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "86swa21VRGsh",
+   "name": "뱃고동",
+   "branch": "본점",
+   "addr": "서울시 강남구 신사동 663",
+   "road_addr": "서울특별시 강남구 언주로172길 54",
+   "phone": "02-514-8008",
+   "category": "오징어, 오징어불고기",
+   "area": [
+    "압구정로데오"
+   ],
+   "lat": 37.5268364,
+   "lng": 127.0379967,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.3,
+   "review_cnt": 60,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519020204089_photo_a6e6409fe7ac.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "5QyATNyYiqvH",
+   "name": "성천막국수",
+   "branch": "논현점",
+   "addr": "서울특별시 서초구 반포동 706-6",
+   "road_addr": "서울특별시 서초구 강남대로 545-12 106호",
+   "phone": "02-548-5529",
+   "category": "막국수, 제육",
+   "area": [
+    "논현역"
+   ],
+   "lat": 37.51037,
+   "lng": 127.0206035,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.2,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240930054123612_photo_07784f130d00.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "73L1PJURt3br",
+   "name": "시경양꼬치",
+   "branch": null,
+   "addr": "서울 강북구 미아동 561-2",
+   "road_addr": "서울 강북구 삼양로24길 19 102동 106호",
+   "phone": "070-4312-9811",
+   "category": "양꼬치, 양갈비",
+   "area": [
+    "미아"
+   ],
+   "lat": 37.6167696,
+   "lng": 127.0220884,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 4.2,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425093253_photo1_f5bafc21f503.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "지역주민이찾는",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "UXtOn4XC0rF1",
+   "name": "주은감자탕",
+   "branch": null,
+   "addr": "서울특별시 송파구 삼전동 132-14",
+   "road_addr": "서울특별시 송파구 삼학사로 71",
+   "phone": "02-413-3670",
+   "category": "감자탕, 해장국",
+   "area": [
+    "석촌고분역"
+   ],
+   "lat": 37.5036876,
+   "lng": 127.0968527,
+   "open_status": "오늘 휴무",
+   "score": 85,
+   "user_score": 4.3,
+   "review_cnt": 51,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260430081145_photo1_12ac5ad54e20.webp",
+   "tags": [
+    "수요미식회",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "SIs9MtG6p53m",
+   "name": "남원통닭",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 635-6",
+   "road_addr": "서울특별시 동대문구 홍릉로1길 47 1층 7호",
+   "phone": "02-968-9841",
+   "category": "후라이드, 양념치킨",
+   "area": [
+    "청량리"
+   ],
+   "lat": 37.5803334,
+   "lng": 127.0424048,
+   "open_status": "오늘 휴무",
+   "score": 80,
+   "user_score": 4.2,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519013123875_photo_659c06041f7a.webp",
+   "tags": [
+    "vj특공대",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "7kGOFfHznat5",
+   "name": "광주홍어회찜",
+   "branch": null,
+   "addr": "서울특별시 성동구 금호동1가 1797-1",
+   "road_addr": "서울특별시 성동구 금호로 66",
+   "phone": "02-2291-1895",
+   "category": "홍어, 홍어삼합",
+   "area": [
+    "금호동"
+   ],
+   "lat": 37.549248,
+   "lng": 127.026152,
+   "open_status": "영업 중",
+   "score": 55,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230730085735_photo1_784925071b2a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "노포"
+   ]
+  },
+  {
+   "rid": "LMdSl90on3Sm",
+   "name": "인천집",
+   "branch": null,
+   "addr": "서울시 중구 다동 60 2F (샌드베리 건물 2층)",
+   "road_addr": "서울특별시 중구 다동길 36",
+   "phone": "02-776-6583",
+   "category": "보쌈, 조개칼국수",
+   "area": [
+    "을지로입구역"
+   ],
+   "lat": 37.567825,
+   "lng": 126.981225,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.1,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260516101557_photo1_3260892a773d.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "시끌벅적한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "g8dQFGA5EPaV",
+   "name": "이가네가마솥설렁탕",
+   "branch": null,
+   "addr": "서울특별시 은평구 녹번동 141-39",
+   "road_addr": "서울특별시 은평구 진흥로 130",
+   "phone": "02-387-2246",
+   "category": "설렁탕, 꼬리찜",
+   "area": [
+    "역촌역"
+   ],
+   "lat": 37.6075458,
+   "lng": 126.9246634,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.9,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241101081510_photo1_6934d6e514cc.webp",
+   "tags": [
+    "맛있는녀석들",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "I6F4IvwRxqsX",
+   "name": "엄마순대",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 239-1",
+   "road_addr": "서울특별시 광진구 뚝섬로 472",
+   "phone": "02-468-5658",
+   "category": "순대국, 머리고기",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5366374,
+   "lng": 127.0628906,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260619104935_photo1_4uBLESlq4QwF.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼술",
+    "술안주"
+   ]
+  },
+  {
+   "rid": "OVxelXQaCqAk",
+   "name": "뫼촌",
+   "branch": null,
+   "addr": "서울특별시 마포구 도화동 184-10",
+   "road_addr": "서울특별시 마포구 새창로6길 18 뫼촌",
+   "phone": "0507-1405-9966",
+   "category": "닭볶음탕, 감자전",
+   "area": [
+    "공덕"
+   ],
+   "lat": 37.5412839,
+   "lng": 126.9526794,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 3.8,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250903203316_photo1_64e31ad400f9.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "BjcKCeulZpCL",
+   "name": "가연국시",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 704-50",
+   "road_addr": "서울특별시 강남구 테헤란로51길 15 남경선능빌딩 1층",
+   "phone": "02-562-7605",
+   "category": "북어구이, 국시",
+   "area": [
+    "선릉역"
+   ],
+   "lat": 37.5048955,
+   "lng": 127.0460566,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 3.9,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260107102134_photo1_673c569024bb.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "NH6pLOypMdmP",
+   "name": "부흥축산",
+   "branch": null,
+   "addr": "서울특별시 중랑구 상봉동 106-6",
+   "road_addr": "서울특별시 중랑구 봉우재로 137 1층",
+   "phone": "0507-1376-8315",
+   "category": "정육식당, 삼겹살",
+   "area": [
+    "상봉"
+   ],
+   "lat": 37.593222,
+   "lng": 127.0880931,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.5,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260401040119_photo1_86705af23e9c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "4db2fDmJxWGo",
+   "name": "대포항",
+   "branch": null,
+   "addr": "서울시 양천구 신정동 994-8",
+   "road_addr": "서울특별시 양천구 오목로50길 1",
+   "phone": "02-2691-0711",
+   "category": "막회, 횟집",
+   "area": [
+    "목동역"
+   ],
+   "lat": 37.5257079,
+   "lng": 126.8637428,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4.4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251228072047518_photo_4ac3678d60a7.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "칸막이"
+   ]
+  },
+  {
+   "rid": "CEdrGiQVc1S8",
+   "name": "서대문 양꼬치 BAR",
+   "branch": null,
+   "addr": "서울특별시 마포구 연남동 255-20",
+   "road_addr": "서울특별시 마포구 동교로 251 2층",
+   "phone": "02-6085-5888",
+   "category": "양꼬치, 양고기",
+   "area": [
+    "연남동"
+   ],
+   "lat": 37.5624137,
+   "lng": 126.9242273,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.2,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250307083710000_photo_fa9e10bbe65d.webp",
+   "tags": [
+    "테이스티로드",
+    "원조",
+    "포장",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "jQIZpNc3hko6",
+   "name": "굴과찜사랑",
+   "branch": null,
+   "addr": "서울특별시 성동구 행당동 298-50",
+   "road_addr": "서울특별시 성동구 행당로17길 23",
+   "phone": "02-2296-9922",
+   "category": "굴찜, 생굴",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5603621,
+   "lng": 127.0329257,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260302012359_photo1_d822b79ae9ef.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "시끌벅적한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "MvFjzr9ewbwN",
+   "name": "월드양념통닭",
+   "branch": null,
+   "addr": "부산광역시 사하구 장림동 792-7",
+   "road_addr": "부산광역시 사하구 장림번영로 22 월드양념통닭",
+   "phone": "051-261-9746",
+   "category": "치킨, 후라이드",
+   "area": [
+    "장림"
+   ],
+   "lat": 35.0808733,
+   "lng": 128.9679369,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.3,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260315121806913_photo_5130559d810f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "CXUkHe9nNT88",
+   "name": "서울집",
+   "branch": null,
+   "addr": "서울시 강남구 역삼동 673-30",
+   "road_addr": "서울특별시 강남구 언주로93길 22-3 지상 1층",
+   "phone": "02-501-2126",
+   "category": "만두국, 만두전골",
+   "area": [
+    "역삼역"
+   ],
+   "lat": 37.5036357,
+   "lng": 127.0399662,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250910172030_photo1_28bef9377b09.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "nsVTrbxvgMbO",
+   "name": "서린낙지",
+   "branch": "견지점",
+   "addr": "서울특별시 종로구 견지동 110",
+   "road_addr": "서울특별시 종로구 삼봉로 95 종로1가 대성 스카이렉스",
+   "phone": "02-733-3800",
+   "category": "낙지볶음, 베이컨",
+   "area": [
+    "종각역"
+   ],
+   "lat": 37.5722311,
+   "lng": 126.9825249,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.2,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240617082520953_photo_9ea905994d0e.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "매콤한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "RCQqQZkIkELY",
+   "name": "영미식당",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 733",
+   "road_addr": "서울특별시 중구 퇴계로83길 10-14",
+   "phone": "02-2234-8087",
+   "category": "갈치구이, 백반",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5660163,
+   "lng": 127.0190568,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240216053656_photo1_00e24bfe1e9c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "5jQw0M3VoQ7Q",
+   "name": "양남한우정육식당",
+   "branch": null,
+   "addr": "서울특별시 영등포구 양평동1가 28-2",
+   "road_addr": "서울특별시 영등포구 선유로24길 8",
+   "phone": "02-2675-6826",
+   "category": "한우, 소고기",
+   "area": [
+    "영등포"
+   ],
+   "lat": 37.5226478,
+   "lng": 126.8909372,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 4.4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220104081320_photo02_f0f08a91881c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "노포",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "qTLEDNIJmIkc",
+   "name": "이남장",
+   "branch": null,
+   "addr": "서울특별시 강남구 삼성동 165-12",
+   "road_addr": "서울특별시 강남구 봉은사로108길 21",
+   "phone": "02-569-8726",
+   "category": "설렁탕, 수육",
+   "area": [
+    "삼성"
+   ],
+   "lat": 37.513631,
+   "lng": 127.0644223,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.1,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423031334839_photo_47bc2c0f2cea.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "CexKfHLT3oiX",
+   "name": "약수순대국",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 857",
+   "road_addr": "서울특별시 중구 동호로7길 14 약수더시티 1층 111호 약수순대국",
+   "phone": "02-2236-5926",
+   "category": "순대, 순대국",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5533049,
+   "lng": 127.0108212,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.1,
+   "review_cnt": 43,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260421113830_photo1_eee34574e7a8.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "hAPq09HmVZQC",
+   "name": "이식당",
+   "branch": null,
+   "addr": "서울특별시 종로구 평창동 152-2",
+   "road_addr": "서울특별시 종로구 평창문화로 94 1F",
+   "phone": "0507-1431-3551",
+   "category": "한우, 갈비덮밥",
+   "area": [
+    "평창동"
+   ],
+   "lat": 37.6069978,
+   "lng": 126.9715667,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 4.2,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221217133728_photo1_e370459635b6.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "술모임",
+    "깔끔한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "m1S5Ajfk8XG0",
+   "name": "화목순대국전문",
+   "branch": null,
+   "addr": "서울특별시 종로구 당주동 40",
+   "road_addr": "서울특별시 종로구 새문안로5길 11",
+   "phone": "02-723-8313",
+   "category": "순대국, 내장탕",
+   "area": [
+    "광화문"
+   ],
+   "lat": 37.5712514,
+   "lng": 126.9747764,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.1,
+   "review_cnt": 54,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508054001_photo1_0b2ea42c4f94.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "VKpUpuILY2Pg",
+   "name": "권영수대가전골",
+   "branch": "종각역점",
+   "addr": "서울특별시 종로구 공평동 80",
+   "road_addr": "서울특별시 종로구 종로9길 11 1층",
+   "phone": "0507-1447-0958",
+   "category": "전골, 만두전골",
+   "area": [
+    "종각"
+   ],
+   "lat": 37.5708688,
+   "lng": 126.9841776,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260627034805_photo1_c0bf746d5fb2.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "점심맛집",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "PbNJPukzWw7A",
+   "name": "서린낙지",
+   "branch": null,
+   "addr": "서울시 종로구 종로1가 24 르메이에르 종로타운 2층",
+   "road_addr": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+   "phone": "02-735-0670",
+   "category": "낙지볶음, 소시지구이",
+   "area": [
+    "광화문"
+   ],
+   "lat": 37.5709094,
+   "lng": 126.9801286,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.2,
+   "review_cnt": 49,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429030401110_photo_fe60da0da79c.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "20GpVMqD6oHt",
+   "name": "도량",
+   "branch": null,
+   "addr": "서울특별시 종로구 통의동 35-12 2, 3층",
+   "road_addr": "서울특별시 종로구 자하문로6길 6 2, 3층",
+   "phone": "0507-1432-0210",
+   "category": "중식, 동파육",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5780066,
+   "lng": 126.9724921,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.6,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260408081351_photo1_719fdd8cf372.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "격식있는"
+   ]
+  },
+  {
+   "rid": "AEL38QLY4wO8",
+   "name": "하이콴",
+   "branch": "대학로점",
+   "addr": "서울특별시 종로구 동숭동 1-73",
+   "road_addr": "서울특별시 종로구 대학로8가길 80 1층",
+   "phone": "02-766-2311",
+   "category": "베트남음식, 쌀국수",
+   "area": [
+    "대학로"
+   ],
+   "lat": 37.5824849,
+   "lng": 127.0033459,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.2,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260302102332_photo1_6ea687f84666.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "U3gNsllc4jJP",
+   "name": "장모님해장국",
+   "branch": null,
+   "addr": "서울시 종로구 구기동 253-1",
+   "road_addr": "서울특별시 종로구 진흥로 421",
+   "phone": "02-379-4294",
+   "category": "해장국, 선지",
+   "area": [
+    "구기동"
+   ],
+   "lat": 37.6089067,
+   "lng": 126.955676,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.3,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250225064229603_photo_fabc48758b07.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "x9ntmQbDeVBc",
+   "name": "버거리",
+   "branch": "종각역점",
+   "addr": "서울특별시 종로구 종로2가 8-4",
+   "road_addr": "서울특별시 종로구 종로 65 장안빌딩 107호",
+   "phone": "02-736-6667",
+   "category": "수제버거",
+   "area": [
+    "종각역"
+   ],
+   "lat": 37.570408,
+   "lng": 126.9848457,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250709054813874_photo_2c2906c7be9f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "5YXFKeJPjOri",
+   "name": "오쁘띠베르",
+   "branch": null,
+   "addr": "서울특별시 종로구 통인동 114",
+   "road_addr": "서울특별시 종로구 자하문로 47-1",
+   "phone": "02-735-7569",
+   "category": "디저트카페, 와인바",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5802722,
+   "lng": 126.9709956,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.3,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511031451_photo1_bd0f9c9e924c.webp",
+   "tags": [
+    "박준우셰프",
+    "차모임",
+    "예쁜",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "hHTBKDeVg8DJ",
+   "name": "이포어묵",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 349",
+   "road_addr": "서울특별시 중구 퇴계로85길 25",
+   "phone": null,
+   "category": "어묵, 수제어묵",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5669259,
+   "lng": 127.0195388,
+   "open_status": "확인필요",
+   "score": 85,
+   "user_score": 4.4,
+   "review_cnt": 28,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260520073523_photo1_62d0c3869ffb.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "fKexxT6hM3la",
+   "name": "디어스베이커리",
+   "branch": "신당점",
+   "addr": "서울특별시 중구 신당동 366-2",
+   "road_addr": "서울특별시 중구 동호로7길 32 1층 디어스베이커리",
+   "phone": "02-2232-1749",
+   "category": "고로케, 빵집",
+   "area": [
+    "약수"
+   ],
+   "lat": 37.552527,
+   "lng": 127.010648,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250408072728_photo1_f99ee823613c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "간식",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "DnjOBJDynHgp",
+   "name": "문화옥",
+   "branch": null,
+   "addr": "서울특별시 중구 주교동 118-3",
+   "road_addr": "서울특별시 중구 창경궁로 62-5",
+   "phone": "02-2265-0322",
+   "category": "설렁탕, 족탕",
+   "area": [
+    "을지로4가"
+   ],
+   "lat": 37.5680851,
+   "lng": 126.9985456,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 3.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260212165915_photo1_8d90eec31f95.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "연탄불"
+   ]
+  },
+  {
+   "rid": "VZdQ2icuRp45",
+   "name": "홍탁목포집",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 307-19",
+   "road_addr": "서울특별시 중구 청구로 86-1",
+   "phone": null,
+   "category": "보쌈, 국수",
+   "area": [
+    "청구역"
+   ],
+   "lat": 37.5607038,
+   "lng": 127.0127888,
+   "open_status": "확인필요",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231106235638_photo1_564e9e33dfa5.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "노포",
+    "와이파이"
+   ]
+  },
+  {
+   "rid": "reUE33WZY1CG",
+   "name": "개화",
+   "branch": null,
+   "addr": "서울특별시 중구 명동2가 107-1",
+   "road_addr": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
+   "phone": "02-776-0508",
+   "category": "짜장면, 중국집",
+   "area": [
+    "명동"
+   ],
+   "lat": 37.5621168,
+   "lng": 126.9818497,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 3.9,
+   "review_cnt": 27,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251223083927074_photo_cbe6058acbb1.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "iANRfIlaZiqe",
+   "name": "청송손칼국수",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로4가 315-1",
+   "road_addr": "서울특별시 중구 을지로18길 5",
+   "phone": "02-2277-6337",
+   "category": "칼국수, 손칼국수",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5661552,
+   "lng": 126.9949822,
+   "open_status": "영업 종료",
+   "score": 66,
+   "user_score": 4.2,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250709220825_photo1_a2e1b1990f36.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "노포",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "zBpX86ajLPjt",
+   "name": "옥경이네 건생선",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 723-2",
+   "road_addr": "서울특별시 중구 퇴계로85길 7",
+   "phone": "02-2233-3494",
+   "category": "갑오징어구이, 생선구이",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5661034,
+   "lng": 127.0195515,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 52,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510114502_photo1_c1300324c884.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "96RN4NBjedzh",
+   "name": "진남포면옥",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 368-89",
+   "road_addr": "서울특별시 중구 다산로 108",
+   "phone": "02-2252-2457",
+   "category": "이북식찜닭",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5534644,
+   "lng": 127.010122,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 3.9,
+   "review_cnt": 22,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518083530378_photo_8d1f27267bdc.webp",
+   "tags": [
+    "수요미식회",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "K0yvR5cu07Z1",
+   "name": "필동면옥",
+   "branch": null,
+   "addr": "서울특별시 중구 필동3가 1-5",
+   "road_addr": "서울특별시 중구 서애로 26",
+   "phone": "02-2266-2611",
+   "category": "평양냉면",
+   "area": [
+    "충무로"
+   ],
+   "lat": 37.5603727,
+   "lng": 126.9969235,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.1,
+   "review_cnt": 138,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260502075943_photo1_3260892a773d.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "JVZvpTAOe6uT",
+   "name": "녹동뻘낙지",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 370-46",
+   "road_addr": "서울특별시 중구 다산로 159",
+   "phone": "02-2233-7130",
+   "category": "산낙지, 낙지탕탕이",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5580196,
+   "lng": 127.0122198,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.1,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240825093741050_photo_cb3c1bc75e7a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "zEMcXf3HgcHq",
+   "name": "춘향미엔",
+   "branch": "신당점",
+   "addr": "서울특별시 중구 신당동 292-111",
+   "road_addr": "서울특별시 중구 다산로 218 1층",
+   "phone": "02-3298-6963",
+   "category": "만두, 온면",
+   "area": [
+    "신당동"
+   ],
+   "lat": 37.5625117,
+   "lng": 127.0154462,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251010074553019_photo_884437afa49f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "XODpdznyJYup",
+   "name": "성원식품",
+   "branch": null,
+   "addr": "서울시 중구 인현동2가 92-10",
+   "road_addr": "서울특별시 중구 을지로20길 36",
+   "phone": "02-2285-3865",
+   "category": "소갈비, LA갈비",
+   "area": [
+    "을지로3가역"
+   ],
+   "lat": 37.5648413,
+   "lng": 126.9954006,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 3.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241011101534299_photo_9b8dc24ae091.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "uqg0wmAnOga2",
+   "name": "원조홍두깨손칼국수",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 740",
+   "road_addr": "서울특별시 중구 퇴계로 421 1층",
+   "phone": "02-2252-6351",
+   "category": "칼국수, 수제비",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5659157,
+   "lng": 127.0183705,
+   "open_status": "영업 종료",
+   "score": 67,
+   "user_score": 4.2,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260311111035_photo1_66f359400a65.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "1znqW1ZlOHds",
+   "name": "삼풍집",
+   "branch": null,
+   "addr": "서울 중구 충무로4가 127-15",
+   "road_addr": "서울특별시 중구 퇴계로41길 7-5",
+   "phone": "02-2269-3405",
+   "category": "감자탕",
+   "area": [
+    "충무로"
+   ],
+   "lat": 37.5621511,
+   "lng": 126.9955216,
+   "open_status": "확인필요",
+   "score": 56,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230721122657564_photo_fabc48758b07.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "dSuzgFcKpGvg",
+   "name": "도리방",
+   "branch": null,
+   "addr": "서울시 중구 다동 60",
+   "road_addr": "서울특별시 중구 다동길 36",
+   "phone": "02-754-9256",
+   "category": "꼬치, 노바다야끼",
+   "area": [
+    "을지로입구역"
+   ],
+   "lat": 37.5678099,
+   "lng": 126.9813287,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190802092707_photo1_a2e1b1990f36.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "간단히한잔",
+    "노포",
+    "야외자리"
+   ]
+  },
+  {
+   "rid": "LFvwK6POnMvQ",
+   "name": "산지",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 844 스포츠센터동 1층 104호",
+   "road_addr": "서울특별시 중구 다산로 32 스포츠센터동 1층 104호",
+   "phone": "0507-1416-7928",
+   "category": "간장게장, 한식",
+   "area": [
+    "버티고개역"
+   ],
+   "lat": 37.5481064,
+   "lng": 127.0086339,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.2,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250909013610_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "최자로드",
+    "단체모임",
+    "예약",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "LLvNByt17NGg",
+   "name": "춘천막국수",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 52-158",
+   "road_addr": "서울특별시 중구 퇴계로80길 45-6 한주빌딩 1층",
+   "phone": "02-2232-7197",
+   "category": "막국수, 이북식찜닭",
+   "area": [
+    "신당동"
+   ],
+   "lat": 37.5631141,
+   "lng": 127.0179072,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "숨은맛집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "G8DceTdN1sf4",
+   "name": "LA갈비 왕소금구이",
+   "branch": null,
+   "addr": "서울특별시 중구 인현동2가 92-11",
+   "road_addr": "서울특별시 중구 을지로20길 36-1",
+   "phone": "02-2274-0549",
+   "category": "소갈비, LA갈비",
+   "area": [
+    "을지로3가역"
+   ],
+   "lat": 37.5647301,
+   "lng": 126.9953853,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "생방송투데이",
+    "낮술",
+    "노포",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "5bBKAiTtTm6L",
+   "name": "시골집",
+   "branch": "2호점",
+   "addr": "서울특별시 중구 인현동1가 4-5",
+   "road_addr": "서울특별시 중구 을지로20길 28-1",
+   "phone": null,
+   "category": "갈비탕, LA갈비",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.565149,
+   "lng": 126.9953525,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "생생정보통",
+    "시골집",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "ADcALn6Qxune",
+   "name": "황금육전",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 391",
+   "road_addr": "서울특별시 중구 퇴계로85길 14 1층",
+   "phone": "010-5684-2568",
+   "category": "전집, 육전",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5664225,
+   "lng": 127.0197965,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "낮술",
+    "배달",
+    "노포"
+   ]
+  },
+  {
+   "rid": "nnNW7sW9CddN",
+   "name": "금천문 오향족발",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 84-8",
+   "road_addr": "서울특별시 용산구 한강대로 268 1층",
+   "phone": "0507-1318-0252",
+   "category": "족발, 오향족발",
+   "area": [
+    "남영역"
+   ],
+   "lat": 37.5422101,
+   "lng": 126.9730906,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250601050008137_photo_sdTm1I1minMx.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "배달",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "tf4qHp60xFSx",
+   "name": "버거스낵",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 565",
+   "road_addr": "서울특별시 용산구 녹사평대로46길 13",
+   "phone": null,
+   "category": "수제버거, 치즈버거",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5373271,
+   "lng": 126.9876165,
+   "open_status": "브레이크 타임",
+   "score": 69,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260120054547_photo1_ccb82158f9ce.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "NY0RRQz4pRuo",
+   "name": "로코스 비비큐",
+   "branch": "본점",
+   "addr": "서울특별시 용산구 이태원동 2-5",
+   "road_addr": "서울특별시 용산구 회나무로 83",
+   "phone": "02-794-3234",
+   "category": "바베큐, 샘플러",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5409757,
+   "lng": 126.9955532,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4,
+   "review_cnt": 22,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260207091431932_photo_33658953578c.webp",
+   "tags": [
+    "맛있는녀석들",
+    "데이트",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "MeaQOAsoLl00",
+   "name": "이태원숯불구이",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 44-13",
+   "road_addr": "서울특별시 용산구 녹사평대로32길 41-5",
+   "phone": "02-797-7777",
+   "category": "등심, 돼지갈비",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.533084,
+   "lng": 126.9909122,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "회식",
+    "노포",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "wiS4AZmL6G7w",
+   "name": "진동세꼬시",
+   "branch": null,
+   "addr": "서울특별시 용산구 후암동 103-10",
+   "road_addr": "서울특별시 용산구 한강대로104길 80 1층",
+   "phone": "02-772-9578",
+   "category": "생선회, 알탕",
+   "area": [
+    "후암동"
+   ],
+   "lat": 37.5500578,
+   "lng": 126.9765709,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "점심회식",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "AoaJU36HV6WO",
+   "name": "부자피자",
+   "branch": "1호점",
+   "addr": "서울특별시 용산구 한남동 743-33",
+   "road_addr": "서울특별시 용산구 이태원로55가길 28",
+   "phone": "02-794-9474",
+   "category": "화덕피자",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5372741,
+   "lng": 126.9998023,
+   "open_status": "오늘 휴무",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 59,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260317164021_photo1_d5b972c1b577.webp",
+   "tags": [
+    "수요미식회",
+    "데이트",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "5ZkxX7H1UXqY",
+   "name": "야스노야",
+   "branch": null,
+   "addr": "서울특별시 용산구 후암동 251-15",
+   "road_addr": "서울특별시 용산구 후암로 8-1 1층",
+   "phone": "02-777-0708",
+   "category": "양고기, 돼지국밥",
+   "area": [
+    "후암동"
+   ],
+   "lat": 37.5466943,
+   "lng": 126.9784126,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.5,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251108075517_photo1_43ac96205572.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "고급스러운",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "QBvb17Suy1t9",
+   "name": "오띠젤리",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 34-50",
+   "road_addr": "서울특별시 용산구 녹사평대로 168-6 1층 O Tigelle",
+   "phone": "02-790-2909",
+   "category": "커피, 카페",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5332223,
+   "lng": 126.9892203,
+   "open_status": "오늘 휴무",
+   "score": 76,
+   "user_score": 4.7,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260309101847_photo1_603608fad10e.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "wwmabiqWB6NC",
+   "name": "삼각정",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로2가 258-6",
+   "road_addr": "서울특별시 용산구 한강대로 151",
+   "phone": "02-798-3666",
+   "category": "특수부위, 돼지특수부위",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5328472,
+   "lng": 126.9710299,
+   "open_status": "영업 중",
+   "score": 55,
+   "user_score": 3.9,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230428124026_photo1_68d1c5bf458f.webp",
+   "tags": [
+    "식신로드",
+    "술모임",
+    "노포",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "qfMCsbwNU6gQ",
+   "name": "한성식당",
+   "branch": "2호점",
+   "addr": "서울특별시 용산구 한강로2가 2-195",
+   "road_addr": "서울특별시 용산구 새창로 213-17",
+   "phone": "02-798-6162",
+   "category": "순대국",
+   "area": [
+    "용산역"
+   ],
+   "lat": 37.5307958,
+   "lng": 126.9678016,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250612021807_photo1_9664e311d862.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "PZCLPHYvQHH1",
+   "name": "남영돈",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 52-2",
+   "road_addr": "서울특별시 용산구 한강대로80길 17 남영돈",
+   "phone": "0507-1351-3598",
+   "category": "삼겹살, 항정살",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5427593,
+   "lng": 126.9738012,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.5,
+   "review_cnt": 83,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424044514_menu1_7cd996863912.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "시끌벅적한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "piFne9BxzGnS",
+   "name": "바바라스 키친",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 685-13",
+   "road_addr": "서울특별시 용산구 대사관로5길 17 1층",
+   "phone": "0507-1326-0908",
+   "category": "떡볶이, 짜장떡볶이",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5350206,
+   "lng": 127.0005577,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.2,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250225102650_photo2_b41c2b524222.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "캐주얼한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "iyUHMTH7ci9Q",
+   "name": "고다이",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 30-4",
+   "road_addr": "서울특별시 용산구 한남대로18길 28 1층 고다이",
+   "phone": "02-749-9299",
+   "category": "양고기, 양갈비",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5346628,
+   "lng": 127.0088354,
+   "open_status": "영업 중",
+   "score": 48,
+   "user_score": 3,
+   "review_cnt": 2,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "기념일",
+    "발렛파킹",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "0tr3gZf0FlTV",
+   "name": "춘향미엔",
+   "branch": "왕십리점",
+   "addr": "서울특별시 성동구 행당동 299-1",
+   "road_addr": "서울특별시 성동구 왕십리로21길 26 1층",
+   "phone": "02-2281-9031",
+   "category": "만두, 온면",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5605097,
+   "lng": 127.0320356,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 45,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510103127_photo1_5757a4538316.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "g1Ko3rKvuKJi",
+   "name": "행복한식당",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 278-5",
+   "road_addr": "서울특별시 성동구 아차산로9길 30",
+   "phone": "02-467-9277",
+   "category": "삼겹살, 생삼겹살",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5466447,
+   "lng": 127.0591309,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.6,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260109050457_photo1_47aa0aaa0a9b.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "시끌벅적한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "2YAqFv8CDLIM",
+   "name": "채원감자탕",
+   "branch": null,
+   "addr": "서울특별시 성동구 금호동2가 488-1",
+   "road_addr": "서울특별시 성동구 금호산길 53-1 1층(금호동2가) 채원감자탕",
+   "phone": "0507-1372-2769",
+   "category": "감자탕, 뼈해장국",
+   "area": [
+    "금호동"
+   ],
+   "lat": 37.5531409,
+   "lng": 127.0192806,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.8,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251202142556_photo1_2a11d30f4cc3.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "jAL2mG45kQKq",
+   "name": "소문난 성수 감자탕",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 315-100",
+   "road_addr": "서울특별시 성동구 연무장길 45",
+   "phone": "02-465-6580",
+   "category": "감자탕, 볶음밥",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.542837,
+   "lng": 127.054387,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4,
+   "review_cnt": 238,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260506085755_photo1_465545536e42.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "식사모임",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "ZEJUhYGsrPpr",
+   "name": "매치스성수",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 271-12",
+   "road_addr": "서울특별시 성동구 뚝섬로13길 36 7층",
+   "phone": "02-6956-8662",
+   "category": "와인바",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5413133,
+   "lng": 127.058055,
+   "open_status": "오늘 휴무",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501092736_photo1_6752362db838.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "발렛파킹",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "7qFNTzZxkI0J",
+   "name": "24시 원조 자양감자탕",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 224-23",
+   "road_addr": "서울특별시 광진구 아차산로 309",
+   "phone": "02-444-5281",
+   "category": "감자탕, 뼈해장국",
+   "area": [
+    "건대"
+   ],
+   "lat": 37.538249,
+   "lng": 127.0773625,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 3.4,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220609125842373_photo_fe60da0da79c.jpg",
+   "tags": [
+    "생방송투데이",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "j8ypikS106HK",
+   "name": "영미오리탕",
+   "branch": null,
+   "addr": "서울특별시 광진구 군자동 467-16",
+   "road_addr": "서울특별시 광진구 동일로60길 53",
+   "phone": "0507-1433-5222",
+   "category": "오리고기, 오리탕",
+   "area": [
+    "군자"
+   ],
+   "lat": 37.557681,
+   "lng": 127.0762309,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.6,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260502042957987_photo_c3062c4619e7.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "8VNC2qyTpU86",
+   "name": "소문난순대국",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 553-150",
+   "road_addr": "서울특별시 광진구 뚝섬로25길 16",
+   "phone": "02-400-7347",
+   "category": "순대국, 닭강정",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5367452,
+   "lng": 127.0650323,
+   "open_status": "확인필요",
+   "score": 55,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220430084941598_photo_fepyMr9BhR0u.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "간식",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "oxIUd2pTUWNz",
+   "name": "먹거리집",
+   "branch": null,
+   "addr": "서울특별시 광진구 구의동 221-28",
+   "road_addr": "서울특별시 광진구 자양로18길 95",
+   "phone": "0507-1453-3448",
+   "category": "순대국",
+   "area": [
+    "구의역"
+   ],
+   "lat": 37.5387467,
+   "lng": 127.0887047,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240611095639_photo1_da68f3fd286b.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "tZE6Uht0kuIz",
+   "name": "큰소문난순대국",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 843-11",
+   "road_addr": "서울특별시 광진구 뚝섬로23길 27 1층",
+   "phone": "02-6368-5482",
+   "category": "순대국",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5372522,
+   "lng": 127.0645082,
+   "open_status": "오늘 휴무",
+   "score": 57,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230507012906_photo1_784925071b2a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "lPVGcdVhFcRY",
+   "name": "마포육곳간",
+   "branch": "구의점",
+   "addr": "서울특별시 광진구 자양동 662-13",
+   "road_addr": "서울특별시 광진구 뚝섬로 670 1층",
+   "phone": "0507-1323-7653",
+   "category": "고깃집, 소고기",
+   "area": [
+    "자양동"
+   ],
+   "lat": 37.5316196,
+   "lng": 127.0840714,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "가성비좋은",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "zLmnRsbLp8oT",
+   "name": "안동집 손칼국시",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 1019",
+   "road_addr": "서울특별시 동대문구 고산자로36길 3 신관 지하1층",
+   "phone": "02-965-3948",
+   "category": "이모카세, 배추전",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.5790378,
+   "lng": 127.0391428,
+   "open_status": "마지막 주문 마감",
+   "score": 85,
+   "user_score": 4.3,
+   "review_cnt": 38,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517081959623_photo_3e0a5f6342ad.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "식사모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "Wphn9urf9Crj",
+   "name": "어머니 대성집",
+   "branch": null,
+   "addr": "서울시 동대문구 용두동 232-26",
+   "road_addr": "서울특별시 동대문구 왕산로11길 4",
+   "phone": "02-923-1718",
+   "category": "해장국, 선지",
+   "area": [
+    "용두동"
+   ],
+   "lat": 37.5774796,
+   "lng": 127.0285888,
+   "open_status": "브레이크 타임",
+   "score": 84,
+   "user_score": 4.2,
+   "review_cnt": 77,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260401012025052_photo_60f8c2cec72c.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "HIxSRGq5F2iC",
+   "name": "오소록",
+   "branch": null,
+   "addr": "서울특별시 동대문구 답십리동 276-24",
+   "road_addr": "서울특별시 동대문구 전농로3길 1-2 1층",
+   "phone": "0507-1342-3547",
+   "category": "고기국수, 돔베고기",
+   "area": [
+    "답십리"
+   ],
+   "lat": 37.5680107,
+   "lng": 127.0566514,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260119064528066_photo_a3e147330c44.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "Rks1rAne2oIc",
+   "name": "한옥정",
+   "branch": null,
+   "addr": "서울특별시 동대문구 답십리동 246-12",
+   "road_addr": "서울특별시 동대문구 답십리로 146-4",
+   "phone": "02-2249-1082",
+   "category": "삼겹살, 갈치조림",
+   "area": [
+    "답십리"
+   ],
+   "lat": 37.572579,
+   "lng": 127.056291,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.7,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260311122111_photo1_e071366ac955.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "놀이방"
+   ]
+  },
+  {
+   "rid": "cZO55r4PPFR7",
+   "name": "신락원",
+   "branch": null,
+   "addr": "서울특별시 동대문구 전농동 60-32",
+   "road_addr": "서울특별시 동대문구 전농로20길 2",
+   "phone": "02-2244-0008",
+   "category": "짜장면, 중화요리",
+   "area": [
+    "전농동"
+   ],
+   "lat": 37.5789172,
+   "lng": 127.0571407,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 3.9,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260319023459578_photo_df5a6de02ae7.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "가족외식",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "f7S4hycGsmPf",
+   "name": "알래스카에서 온 연어가 맛있는 집",
+   "branch": null,
+   "addr": "서울시 동대문구 제기동 136-272",
+   "road_addr": "서울특별시 동대문구 고산자로 553",
+   "phone": "02-929-3401",
+   "category": "연어, 연어회",
+   "area": [
+    "고려대"
+   ],
+   "lat": 37.5887939,
+   "lng": 127.0366276,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.8,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190206162709_photo1_2e6b526c2058.webp",
+   "tags": [
+    "식신로드",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "lM9duOyNpnCS",
+   "name": "전주식당",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 993-5",
+   "road_addr": "서울특별시 동대문구 경동시장로3길 5",
+   "phone": "02-967-6506",
+   "category": "제육볶음",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.5797486,
+   "lng": 127.0404724,
+   "open_status": "확인필요",
+   "score": 55,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240411011240884_photo_7e556335c345.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "2차"
+   ]
+  },
+  {
+   "rid": "4NjcMAA57OBR",
+   "name": "일광쪽갈비",
+   "branch": null,
+   "addr": "서울특별시 동대문구 답십리동 265-1",
+   "road_addr": "서울특별시 동대문구 전농로 48",
+   "phone": "02-489-5055",
+   "category": "쪽갈비, 생쪽갈비",
+   "area": [
+    "답십리"
+   ],
+   "lat": 37.5691033,
+   "lng": 127.0573094,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 4.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210804101645179_photo_CsKJqo3dVYeN.webp",
+   "tags": [
+    "식신로드",
+    "술모임",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "pjqUWTZYgygt",
+   "name": "토성옥",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 892-12",
+   "road_addr": "서울특별시 동대문구 약령서길 28",
+   "phone": "02-966-1839",
+   "category": "도가니탕, 꼬리곰탕",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.579499,
+   "lng": 127.036305,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4.4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231209023318939_photo_zVUZAYkR72md.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "erT4i7etNgXu",
+   "name": "청우식당",
+   "branch": null,
+   "addr": "서울특별시 동대문구 청량리동 199-171",
+   "road_addr": "서울특별시 동대문구 홍릉로 80",
+   "phone": "02-964-2973",
+   "category": "고깃집, 육회",
+   "area": [
+    "청량리"
+   ],
+   "lat": 37.5873913,
+   "lng": 127.0432135,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "회식",
+    "노포"
+   ]
+  },
+  {
+   "rid": "SPEazJrIBriO",
+   "name": "정동진",
+   "branch": null,
+   "addr": "서울특별시 동대문구 답십리동 19-4",
+   "road_addr": "서울특별시 동대문구 전농로4길 1 답십리현대시장",
+   "phone": null,
+   "category": "생선구이, 아구찜",
+   "area": [
+    "답십리"
+   ],
+   "lat": 37.5667819,
+   "lng": 127.0589354,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "동네사람"
+   ]
+  },
+  {
+   "rid": "6RN5Q45LeGSK",
+   "name": "시장닭발",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 630-9",
+   "road_addr": "서울특별시 동대문구 홍릉로1길 38 맛있는시장닭발",
+   "phone": "0507-1414-5614",
+   "category": "닭발, 홍어무침",
+   "area": [
+    "청량리"
+   ],
+   "lat": 37.580603,
+   "lng": 127.0428043,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "다이어트식단",
+    "배달",
+    "저렴"
+   ]
+  },
+  {
+   "rid": "eE9bJV9Yf1He",
+   "name": "원조식당",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 993-5",
+   "road_addr": "서울특별시 동대문구 경동시장로3길 5",
+   "phone": "02-963-0074",
+   "category": "감자탕, 볶음밥",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.5797486,
+   "lng": 127.0404723,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "원조"
+   ]
+  },
+  {
+   "rid": "AGG6HkPviAlM",
+   "name": "홍가네소머리국밥",
+   "branch": null,
+   "addr": "서울특별시 중랑구 면목동 103-1",
+   "road_addr": "서울특별시 중랑구 상봉로11길 37 홍가네 소머리국밥",
+   "phone": "02-436-3497",
+   "category": "소머리국밥, 한우소머리곰탕",
+   "area": [
+    "면목동"
+   ],
+   "lat": 37.5897386,
+   "lng": 127.0914308,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 3.9,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250220103121_photo1_cf2d419a34e5.webp",
+   "tags": [
+    "재래시장맛집",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "VPePEHSwuAO5",
+   "name": "경원식당",
+   "branch": "면목점",
+   "addr": "서울특별시 중랑구 면목동 502-2",
+   "road_addr": "서울특별시 중랑구 면목로 373 1층",
+   "phone": "02-439-9295",
+   "category": "부대찌개, 솥밥",
+   "area": [
+    "면목동"
+   ],
+   "lat": 37.5853774,
+   "lng": 127.0882992,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "mMXjzvXNWLpa",
+   "name": "전주선지순대추어탕",
+   "branch": null,
+   "addr": "서울 도봉구 창동 578-126",
+   "road_addr": "서울 도봉구 덕릉로 229 1층",
+   "phone": "02-987-0008",
+   "category": "순대국, 국밥",
+   "area": [
+    "창동"
+   ],
+   "lat": 37.6385858,
+   "lng": 127.0377719,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210716100239_photo1_6f3d5587c93f.webp",
+   "tags": [
+    "생방송오늘저녁",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "MYJbpsW89I4A",
+   "name": "차돌집",
+   "branch": null,
+   "addr": "서울특별시 도봉구 창동 715-3",
+   "road_addr": "서울특별시 도봉구 해등로 139",
+   "phone": "02-990-1666",
+   "category": "차돌박이, 한우차돌박이",
+   "area": [
+    "창동"
+   ],
+   "lat": 37.655958,
+   "lng": 127.040289,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231204081347_photo1_d49e074f675e.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "노포"
+   ]
+  },
+  {
+   "rid": "hfo4OGUZ4PUD",
+   "name": "옛날 칼국수",
+   "branch": null,
+   "addr": "서울특별시 노원구 상계동 711-13",
+   "road_addr": "서울특별시 노원구 동일로 1417",
+   "phone": "02-939-6169",
+   "category": "칼국수, 얼큰수제비",
+   "area": [
+    "노원역"
+   ],
+   "lat": 37.6549822,
+   "lng": 127.0598493,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4,
+   "review_cnt": 30,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423170335_photo1_907647df534f.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "8mipQVEAhUyD",
+   "name": "서부감자국",
+   "branch": null,
+   "addr": "서울특별시 은평구 녹번동 181",
+   "road_addr": "서울특별시 은평구 서오릉로 8",
+   "phone": "02-356-4555",
+   "category": "감자탕, 감자국",
+   "area": [
+    "녹번"
+   ],
+   "lat": 37.6022569,
+   "lng": 126.9269249,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260224093501_photo1_62d0c3869ffb.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "3rGL8je9jiYN",
+   "name": "멜로즈",
+   "branch": null,
+   "addr": "서울특별시 마포구 아현동 618-19",
+   "road_addr": "서울특별시 마포구 마포대로 173-14 103호 멜로즈",
+   "phone": "0507-1345-0050",
+   "category": "프렌치토스트, 하이라이스",
+   "area": [
+    "공덕"
+   ],
+   "lat": 37.5512371,
+   "lng": 126.9536754,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.3,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250525124751_photo1_0c4a3020ed31.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "qjYYPzWCyinj",
+   "name": "국일순대국",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 449-43",
+   "road_addr": "서울특별시 마포구 월드컵북로5길 22 국일빌딩 1층",
+   "phone": "0507-1335-5823",
+   "category": "순대국",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5570868,
+   "lng": 126.9175999,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221118062156_photo1_6f20c756d5c4.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "점심맛집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "aTbdepkHcgkx",
+   "name": "마포 양지설렁탕",
+   "branch": null,
+   "addr": "서울특별시 마포구 도화동 181-37",
+   "road_addr": "서울특별시 마포구 새창로 6",
+   "phone": "02-716-8616",
+   "category": "설렁탕, 파김치",
+   "area": [
+    "공덕"
+   ],
+   "lat": 37.5420571,
+   "lng": 126.9504338,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.2,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260101100851258_photo_7121220385c7.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "2bRZP3S2n3Kw",
+   "name": "부영각",
+   "branch": null,
+   "addr": "서울특별시 마포구 용강동 494-61",
+   "road_addr": "서울특별시 마포구 토정로 268",
+   "phone": "02-716-2413",
+   "category": "군만두, 볶음밥",
+   "area": [
+    "용강동"
+   ],
+   "lat": 37.5425356,
+   "lng": 126.939484,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251112031025528_photo_f921d706de97.webp",
+   "tags": [
+    "나혼자산다",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "rubeUWb6rDdU",
+   "name": "방화동 교동짬뽕",
+   "branch": null,
+   "addr": "서울특별시 강서구 방화동 323-8",
+   "road_addr": "서울특별시 강서구 금낭화로24나길 21 이루미팰리스 101호",
+   "phone": "0507-1385-5778",
+   "category": "짬뽕, 탕수육",
+   "area": [
+    "방화동"
+   ],
+   "lat": 37.5772666,
+   "lng": 126.815725,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.5,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519022721965_photo_11fb52cd3226.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "xzPPNtyHXaTj",
+   "name": "발산한우진곱창",
+   "branch": null,
+   "addr": "서울특별시 강서구 마곡동 793-9",
+   "road_addr": "서울특별시 강서구 강서로 395 1층 109~110호",
+   "phone": "02-2668-7776",
+   "category": "곱창, 소곱창",
+   "area": [
+    "발산역"
+   ],
+   "lat": 37.5609678,
+   "lng": 126.8384487,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 3.8,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260427035525_photo1_f1d5dffdacf6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "KQcHhvOqt8Qy",
+   "name": "원당곱창",
+   "branch": null,
+   "addr": "서울특별시 강서구 마곡동 722-2",
+   "road_addr": "서울특별시 강서구 강서로 379",
+   "phone": "02-3664-5695",
+   "category": "곱창, 소곱창",
+   "area": [
+    "발산역"
+   ],
+   "lat": 37.5594977,
+   "lng": 126.8383407,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 2.7,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240224013305481_photo_c3062c4619e7.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "시끌벅적한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "kRBcZlrPMlY9",
+   "name": "전주집",
+   "branch": null,
+   "addr": "서울특별시 강서구 방화동 619-38",
+   "road_addr": "서울특별시 강서구 방화동로 19-19",
+   "phone": "02-2666-1156",
+   "category": "순대국",
+   "area": [
+    "송정역"
+   ],
+   "lat": 37.5632398,
+   "lng": 126.8092741,
+   "open_status": "확인필요",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "모임",
+    "노포"
+   ]
+  },
+  {
+   "rid": "33SE15s3DVEq",
+   "name": "중화루",
+   "branch": null,
+   "addr": "서울특별시 구로구 궁동 285-2",
+   "road_addr": "서울특별시 구로구 오리로 1281 남정그린빌라",
+   "phone": "02-2686-7577",
+   "category": "짜장면, 중국집",
+   "area": [
+    "온수역"
+   ],
+   "lat": 37.495931,
+   "lng": 126.8298,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "배달",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "t2fEv1wCRKNh",
+   "name": "은성감자탕",
+   "branch": null,
+   "addr": "서울특별시 영등포구 당산동3가 173",
+   "road_addr": "서울특별시 영등포구 국회대로34길 8-2 세왕빌딩",
+   "phone": "02-2632-0792",
+   "category": "감자탕, 우거지",
+   "area": [
+    "영등포구청"
+   ],
+   "lat": 37.5267036,
+   "lng": 126.8973735,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.2,
+   "review_cnt": 30,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518173454_photo1_be2a6c03d191.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "mryX0DmFPgDy",
+   "name": "본가 성심집",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 50 시범아파트 2동 1층",
+   "road_addr": "서울특별시 영등포구 63로 45 시범아파트 2동 1층",
+   "phone": "02-782-0967",
+   "category": "순대국, 곱창전골",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5206303,
+   "lng": 126.9385332,
+   "open_status": "영업 중",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "전지적참견시점",
+    "해장",
+    "노포",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "h0YFWaovEWpO",
+   "name": "진미순대",
+   "branch": null,
+   "addr": "서울특별시 동작구 흑석동 54-161",
+   "road_addr": "서울특별시 동작구 서달로14나길 24-5 1층",
+   "phone": "0507-1401-0539",
+   "category": "순대국",
+   "area": [
+    "흑석동"
+   ],
+   "lat": 37.5072375,
+   "lng": 126.9628587,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251108040901679_photo_4ac3678d60a7.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "8cxQvYLT7MZP",
+   "name": "시네마 전라도집",
+   "branch": null,
+   "addr": "서울특별시 관악구 신림동 1640-31",
+   "road_addr": "서울특별시 관악구 신림로59길 14 원빌딩 원조민속순대타운 3층 307호",
+   "phone": "02-886-7630",
+   "category": "순대볶음, 백순대",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.4833092,
+   "lng": 126.928777,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4.2,
+   "review_cnt": 26,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251027103908_photo1_c2d707c1216b.webp",
+   "tags": [
+    "생생정보통",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "cXViGG2yBGfT",
+   "name": "신림정",
+   "branch": null,
+   "addr": "서울특별시 관악구 신림동 1428-5",
+   "road_addr": "서울특별시 관악구 봉천로 248",
+   "phone": "02-886-4463",
+   "category": "한우, 생고기",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.4886551,
+   "lng": 126.9288439,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221229113011_photo1_c1ed86d1324a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "회식",
+    "예약",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "Rl2Oz5nokpiz",
+   "name": "호남집영미네",
+   "branch": null,
+   "addr": "서울특별시 관악구 신림동 1640-31",
+   "road_addr": "서울특별시 관악구 신림로59길 14 원빌딩",
+   "phone": "02-874-4414",
+   "category": "순대볶음, 백순대",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.4833092,
+   "lng": 126.928777,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250513112448269_photo_7463425a3ddd.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "원조",
+    "포장"
+   ]
+  },
+  {
+   "rid": "dEqMVUfToEpw",
+   "name": "규씨뭉티기",
+   "branch": "신림본점",
+   "addr": "서울특별시 관악구 신림동 1425-8",
+   "road_addr": "서울특별시 관악구 봉천로12길 42 1층",
+   "phone": "0507-1378-6710",
+   "category": "뭉티기, 육회",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.486829,
+   "lng": 126.9298282,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250215113002_photo1_4446304e361a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "술안주",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "oNfjvof1wdVZ",
+   "name": "장가계 목포",
+   "branch": null,
+   "addr": "서울특별시 관악구 신림동 1640-38",
+   "road_addr": "서울특별시 관악구 신림로59길 12 202호 장가게목포",
+   "phone": "0507-1480-3255",
+   "category": "순대볶음, 오징어볶음",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.483295,
+   "lng": 126.9290551,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 4.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230601114703144_photo_7e931ac0bfcf.webp",
+   "tags": [
+    "vj특공대",
+    "식사모임",
+    "배달",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "PNjW19Kgnn0j",
+   "name": "파이브가이즈",
+   "branch": "강남",
+   "addr": "서울특별시 서초구 서초동 1305-5 주류성빌딩 1층, 2층",
+   "road_addr": "서울특별시 서초구 강남대로 435 주류성빌딩 1층, 2층",
+   "phone": "070-8834-7900",
+   "category": "버거",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.501217,
+   "lng": 127.0256891,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.1,
+   "review_cnt": 103,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503114035_photo1_566e3640e1ff.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "시끌벅적한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "SZOHCY6RZTMd",
+   "name": "성천동치미막국수",
+   "branch": null,
+   "addr": "서울특별시 서초구 양재동 275-1",
+   "road_addr": "서울특별시 서초구 논현로 83 삼호물산빌딩",
+   "phone": "02-589-5689",
+   "category": "막국수, 이북식찜닭",
+   "area": [
+    "양재동"
+   ],
+   "lat": 37.4772111,
+   "lng": 127.0444392,
+   "open_status": "영업 종료",
+   "score": 69,
+   "user_score": 4.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423052605_menu1_27adcf2cf87f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "r2mIcWjUnjhS",
+   "name": "삼계탕마을",
+   "branch": "래미안퍼스티지점",
+   "addr": "서울특별시 서초구 반포동 18-3",
+   "road_addr": "서울특별시 서초구 반포대로 287",
+   "phone": "02-536-7476",
+   "category": "삼계탕, 닭볶음탕",
+   "area": [
+    "반포"
+   ],
+   "lat": 37.5045404,
+   "lng": 127.0005306,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "몸보신",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "bYn5dynEfzx9",
+   "name": "영동설렁탕",
+   "branch": null,
+   "addr": "서울시 서초구 잠원동 10-53",
+   "road_addr": "서울특별시 서초구 강남대로101안길 24",
+   "phone": "02-543-4716",
+   "category": "설렁탕, 수육",
+   "area": [
+    "신사역"
+   ],
+   "lat": 37.5161677,
+   "lng": 127.0173691,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.1,
+   "review_cnt": 40,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251114083853589_photo_e7a12c18c637.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "Ik65JAzFWrQV",
+   "name": "토박이",
+   "branch": null,
+   "addr": "서울시 서초구 반포동 549-16",
+   "road_addr": "서울특별시 서초구 반포대로39길 38 상은빌딩",
+   "phone": "02-532-4837",
+   "category": "집밥, 만두전골",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.498513,
+   "lng": 127.002008,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.7,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250623105835474_photo_3202aa2f5ebe.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "식사모임",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "O7HcdW2IsIet",
+   "name": "삼계탕마을",
+   "branch": "서래마을점",
+   "addr": "서울특별시 서초구 반포동 91-10",
+   "road_addr": "서울특별시 서초구 서래로 38",
+   "phone": "02-593-7476",
+   "category": "삼계탕, 인삼주",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.4984061,
+   "lng": 126.9984879,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "몸보신",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "LerhdjylYrYC",
+   "name": "하이콴",
+   "branch": null,
+   "addr": "서울특별시 서초구 반포동 706-8",
+   "road_addr": "서울특별시 서초구 신반포로 340 1층",
+   "phone": "0507-1358-7778",
+   "category": "쌀국수, 곱창쌀국수",
+   "area": [
+    "논현역"
+   ],
+   "lat": 37.5108132,
+   "lng": 127.0210137,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.1,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425123236801_photo_1224c6a29549.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "cc9HqarHAEw4",
+   "name": "가담",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 608-8",
+   "road_addr": "서울특별시 강남구 언주로167길 35",
+   "phone": "02-545-5163",
+   "category": "중식, 고추탕수육",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.526399,
+   "lng": 127.03027,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260329120139_photo1_6f20c756d5c4.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "UblDh7TaYaJS",
+   "name": "첼시스하이볼",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 122-7",
+   "road_addr": "서울특별시 강남구 도산대로85길 14 1층",
+   "phone": "0507-1496-1308",
+   "category": "하이볼, 술집",
+   "area": [
+    "청담동"
+   ],
+   "lat": 37.5254274,
+   "lng": 127.0492152,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.7,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250525053807_photo1_ff7b03ccf6c8.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "발렛파킹",
+    "배달"
+   ]
+  },
+  {
+   "rid": "OjzZEUVGh53u",
+   "name": "미남옥",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 626-70",
+   "road_addr": "서울특별시 강남구 언주로153길 12 1층",
+   "phone": "02-549-5553",
+   "category": "곰탕, 수육",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5228022,
+   "lng": 127.0322707,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251225065538626_photo_bf09842c7822.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "아이동반",
+    "발렛파킹",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "xQBMOE0PkRF0",
+   "name": "육개옥",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 206-5",
+   "road_addr": "서울특별시 강남구 봉은사로 167",
+   "phone": "02-516-9181",
+   "category": "육개장, 동그랑땡",
+   "area": [
+    "언주역"
+   ],
+   "lat": 37.5072798,
+   "lng": 127.0322571,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.3,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260131065752_photo1_v7ueN3fIzBzB.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "ium8IR0wVw72",
+   "name": "부흥왕족발",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 62-1",
+   "road_addr": "서울특별시 강남구 삼성로146길 8 1층",
+   "phone": "02-546-3727",
+   "category": "족발, 쟁반국수",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5231581,
+   "lng": 127.0487843,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230407084925038_photo_1b7807d55c84.webp",
+   "tags": [
+    "식신로드",
+    "배달",
+    "노포",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "DYRJHk6m8HJp",
+   "name": "와일드버팔로",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 662-15",
+   "road_addr": "서울특별시 강남구 선릉로161길 15 1층",
+   "phone": "0507-1333-7097",
+   "category": "맥주, 버팔로윙",
+   "area": [
+    "압구정로데오"
+   ],
+   "lat": 37.5272685,
+   "lng": 127.0391989,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250525124839_photo1_4c842165758c.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "발렛파킹",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "84i7shf6Mw6S",
+   "name": "한성칼국수",
+   "branch": "논현점",
+   "addr": "서울특별시 강남구 논현동 98-12",
+   "road_addr": "서울특별시 강남구 언주로148길 14 청호상가빌딩 가동 2층",
+   "phone": "02-544-0540",
+   "category": "칼국수, 수육",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.520425,
+   "lng": 127.0355282,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4,
+   "review_cnt": 32,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429113258_photo1_727404d688d2.webp",
+   "tags": [
+    "수요미식회",
+    "식사모임",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "9I6HU19bjjT4",
+   "name": "딸랏",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 658-1",
+   "road_addr": "서울특별시 강남구 압구정로50길 22 2층",
+   "phone": "0507-1470-8782",
+   "category": "태국음식",
+   "area": [
+    "압구정로데오"
+   ],
+   "lat": 37.5268676,
+   "lng": 127.0377153,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.3,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260513105238355_photo_396f478eb263.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "이국적/이색적",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "EXIclXorRrhY",
+   "name": "도명골 청국장",
+   "branch": null,
+   "addr": "서울특별시 강남구 삼성동 166-3",
+   "road_addr": "서울특별시 강남구 봉은사로114길 38 101호 도명골 청국장",
+   "phone": "0507-1457-7015",
+   "category": "청국장, 백반",
+   "area": [
+    "삼성"
+   ],
+   "lat": 37.5126544,
+   "lng": 127.0654242,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.8,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250711075833333_photo_40d40817ae38.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "a9vPqpHf2l07",
+   "name": "신미식당",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 615",
+   "road_addr": "서울특별시 강남구 압구정로 214 현대종합상가빌딩 1층",
+   "phone": "02-516-4900",
+   "category": "삼겹살, 감자탕",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5279515,
+   "lng": 127.0309159,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260224111839_photo1_90fda01b299b.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인",
+    "야외좌석"
+   ]
+  },
+  {
+   "rid": "5mx0QDPxRS5r",
+   "name": "강남 진해장",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 819-4",
+   "road_addr": "서울특별시 강남구 테헤란로5길 11",
+   "phone": "02-557-2662",
+   "category": "해장국, 곱창전골",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.4995538,
+   "lng": 127.0292442,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.1,
+   "review_cnt": 34,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518012737_photo1_25fdbbc86c01.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "rMcuN0OB9Qky",
+   "name": "잔비워",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 100-16",
+   "road_addr": "서울특별시 강남구 압구정로73길 5 지상1층",
+   "phone": "010-4226-5904",
+   "category": "치킨, 후라이드치킨",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5266339,
+   "lng": 127.0462555,
+   "open_status": "영업 중",
+   "score": 55,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240803015424158_photo_558c97a967b6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "모임",
+    "술안주",
+    "포장"
+   ]
+  },
+  {
+   "rid": "bb3kvLfn4iQb",
+   "name": "무교동유정낙지",
+   "branch": "압구정점",
+   "addr": "서울특별시 강남구 신사동 570-6",
+   "road_addr": "서울특별시 강남구 논현로163길 10 베드로빌딩 1층",
+   "phone": "02-543-3037",
+   "category": "낙지볶음",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5241578,
+   "lng": 127.0273024,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 4.1,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240424110301746_photo_0bc2668e1084.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "매콤한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "88gBF37iwHqN",
+   "name": "다미",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 827-1",
+   "road_addr": "서울특별시 강남구 테헤란로4길 25",
+   "phone": "02-566-4574",
+   "category": "쭈꾸미, 불낙",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.4969283,
+   "lng": 127.0305996,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 3.9,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251125032212_photo1_2e0a34e50e59.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "ObWVteqXrbac",
+   "name": "안동국시",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 612-2",
+   "road_addr": "서울특별시 강남구 언주로167길 46 제일빌딩 2층",
+   "phone": "02-548-4986",
+   "category": "안동국시, 국수",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.526603,
+   "lng": 127.029384,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 4.3,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251001095438_photo1_e2382c972105.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "hjzVBu53hn8W",
+   "name": "우정",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 85-13",
+   "road_addr": "서울특별시 강남구 도산대로55길 23 1층 우정",
+   "phone": "0507-1392-1808",
+   "category": "곱창전골, 한우곱창전골",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5250487,
+   "lng": 127.0404261,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250525053705_photo1_ff7b03ccf6c8.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "회식",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "OmYSi39RhdjA",
+   "name": "함흥면옥",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 592-4",
+   "road_addr": "서울특별시 강남구 논현로 826 제이와이빌딩",
+   "phone": "02-515-2505",
+   "category": "냉면, 함흥냉면",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5222379,
+   "lng": 127.0284792,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.2,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250903111603_photo1_8847c8dd80f1.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "B6dWBfg74c60",
+   "name": "송쉐프",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 507-11",
+   "road_addr": "서울특별시 강남구 도산대로1길 40",
+   "phone": "02-546-1178",
+   "category": "중식",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5192808,
+   "lng": 127.0196161,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 3.9,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507014927374_photo_19ac37e3f170.webp",
+   "tags": [
+    "전지적참견시점",
+    "가족외식",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "2QzT6yhHfQdU",
+   "name": "영동장어",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 98-8",
+   "road_addr": "서울특별시 강남구 언주로148길 8",
+   "phone": "0507-1454-9997",
+   "category": "장어, 갯벌장어",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.5203909,
+   "lng": 127.0352931,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.7,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250607062539062_photo_481d7c0025ee.webp",
+   "tags": [
+    "맛있는녀석들",
+    "식사모임",
+    "발렛파킹",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "8WrLdxQ1Paym",
+   "name": "스시스미레",
+   "branch": null,
+   "addr": "서울 강남구 청담동 88-6",
+   "road_addr": "서울특별시 강남구 도산대로55길 18 4층",
+   "phone": "02-547-8807",
+   "category": "스시, 오마카세",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5246312,
+   "lng": 127.0405771,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240822071219_photo1_11fea92dec34.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "발렛파킹",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "y6zAtSdALO0o",
+   "name": "예삐네집",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 145 영동시장",
+   "road_addr": "서울특별시 강남구 학동로4길 31 영동시장",
+   "phone": "02-547-0342",
+   "category": "국밥, 소머리수육",
+   "area": [
+    "논현"
+   ],
+   "lat": 37.5095082,
+   "lng": 127.0238562,
+   "open_status": "확인필요",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "낮술",
+    "노포",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "iGdOlKB19vcj",
+   "name": "왕스덕",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 4-18 하림타워 지하1층",
+   "road_addr": "서울특별시 강남구 도산대로 130 하림타워 지하 1층",
+   "phone": "0507-1422-8524",
+   "category": "베이징덕",
+   "area": [
+    "신사역"
+   ],
+   "lat": 37.5172609,
+   "lng": 127.0230251,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260303171519_photo1_376c99c8dd30.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "CHhh6OKeK05E",
+   "name": "해봉정육",
+   "branch": null,
+   "addr": "서울특별시 강남구 대치동 999-6",
+   "road_addr": "서울특별시 강남구 테헤란로108길 25 대동빌딩 1층",
+   "phone": "0507-1375-9929",
+   "category": "한우, 소고기",
+   "area": [
+    "삼성역"
+   ],
+   "lat": 37.5077019,
+   "lng": 127.0664569,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.2,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250302121648386_photo_239738858ca6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "wirNF15Mg2Z0",
+   "name": "첼시스하이볼",
+   "branch": "가로수길",
+   "addr": "서울특별시 강남구 신사동 545-3",
+   "road_addr": "서울특별시 강남구 도산대로15길 47 1층",
+   "phone": "0507-1307-1033",
+   "category": "하이볼, bar",
+   "area": [
+    "가로수길"
+   ],
+   "lat": 37.521243,
+   "lng": 127.0232728,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "분위기좋은",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "j8AoVnXQbrC5",
+   "name": "광주서울곱창",
+   "branch": null,
+   "addr": "서울특별시 송파구 가락동 97-8",
+   "road_addr": "서울특별시 송파구 송파대로30길 11 이연파레스 107호",
+   "phone": "02-402-1135",
+   "category": "곱창",
+   "area": [
+    "가락"
+   ],
+   "lat": 37.4947051,
+   "lng": 127.1186564,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.6,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260318010606606_photo_d112671ec343.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "Viz64dmpuexv",
+   "name": "돈푸짐감자탕",
+   "branch": null,
+   "addr": "서울특별시 송파구 잠실동 234-14",
+   "road_addr": "서울특별시 송파구 백제고분로 169",
+   "phone": "0507-1392-2035",
+   "category": "뼈해장국, 감자탕",
+   "area": [
+    "삼전역"
+   ],
+   "lat": 37.5052223,
+   "lng": 127.0857265,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 4.2,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241118013749_photo1_6ce3132130b0.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "배달",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "AiG91PmBiAR2",
+   "name": "송파감자탕",
+   "branch": null,
+   "addr": "서울특별시 송파구 송파동 94-9",
+   "road_addr": "서울특별시 송파구 가락로 147",
+   "phone": "02-415-8273",
+   "category": "감자탕, 콩나물",
+   "area": [
+    "송파역"
+   ],
+   "lat": 37.5027417,
+   "lng": 127.1119875,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "야식",
+    "노포"
+   ]
+  },
+  {
+   "rid": "xBOL1Cthz9mL",
+   "name": "이남장",
+   "branch": "명일역점",
+   "addr": "서울특별시 강동구 명일동 312-151",
+   "road_addr": "서울특별시 강동구 고덕로38길 71 1층",
+   "phone": "0507-1343-0530",
+   "category": "곰탕, 설렁탕",
+   "area": [
+    "명일동"
+   ],
+   "lat": 37.551278,
+   "lng": 127.1426773,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "몸보신",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "epO1Q7clfyOl",
+   "name": "옛날손칼국수",
+   "branch": null,
+   "addr": "서울특별시 강동구 상일동 309",
+   "road_addr": "서울특별시 강동구 천호대로219길 10",
+   "phone": "02-426-7401",
+   "category": "칼국수, 들깨수제비",
+   "area": [
+    "상일동"
+   ],
+   "lat": 37.546408,
+   "lng": 127.1705782,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "CXMlDbjGvCRP",
+   "name": "만리향",
+   "branch": null,
+   "addr": "부산광역시 중구 중앙동4가 88-4 1층",
+   "road_addr": "부산광역시 중구 충장대로9번길 9-1 1층",
+   "phone": "051-463-2367",
+   "category": "짜장면, 중국집",
+   "area": [
+    "부산중앙동"
+   ],
+   "lat": 35.1061924,
+   "lng": 129.0374031,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250207091842_photo1_7924dbe2b97d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "1SzmFfRuWOYw",
+   "name": "금손1983",
+   "branch": null,
+   "addr": "부산광역시 수영구 광안동 77-27",
+   "road_addr": "부산광역시 수영구 수영로680번길 54 1층",
+   "phone": "0507-1347-1991",
+   "category": "오마카세, 야키토리",
+   "area": [
+    "수영"
+   ],
+   "lat": 35.1660606,
+   "lng": 129.1179297,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 4.4,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251124082143515_photo_3121f82fa065.webp",
+   "tags": [
+    "오세득셰프",
+    "술모임",
+    "깔끔한",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "KDCsluSx1HtH",
+   "name": "진미언양불고기",
+   "branch": null,
+   "addr": "부산광역시 수영구 광안동 203-21",
+   "road_addr": "부산광역시 수영구 남천바다로33번길 7",
+   "phone": "051-753-1632",
+   "category": "언양불고기",
+   "area": [
+    "광안리"
+   ],
+   "lat": 35.148845,
+   "lng": 129.1141348,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 3.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251221065252620_photo_59256d946fa6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "OPi6BoZca9qt",
+   "name": "나진국밥",
+   "branch": "부산시청점",
+   "addr": "부산광역시 연제구 연산동 867-41",
+   "road_addr": "부산광역시 연제구 연수로11번길 104 1층",
+   "phone": "051-852-9888",
+   "category": "국밥, 수육",
+   "area": [
+    "부산시청"
+   ],
+   "lat": 35.17744,
+   "lng": 129.0758119,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240829111019_photo1_7d5644f9aec5.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "캐주얼한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "lJFz1Do3klKI",
+   "name": "여수에서온나진국밥",
+   "branch": "부산국제금융센터점",
+   "addr": "부산광역시 남구 문현동 1229-1",
+   "road_addr": "부산광역시 남구 문현금융로 40 BIFC상가동 3층 302호",
+   "phone": "0507-1371-0031",
+   "category": "국밥, 수육",
+   "area": [
+    "문현동"
+   ],
+   "lat": 35.1465635,
+   "lng": 129.0657806,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251212114245091_photo_9920cb7bf18d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "zjYAMLO4LFe1",
+   "name": "해진아나고구이",
+   "branch": null,
+   "addr": "부산광역시 수영구 광안동 1075-3",
+   "road_addr": "부산광역시 수영구 광서로10번길 47",
+   "phone": "051-757-9262",
+   "category": "바다장어, 아나고",
+   "area": [
+    "수영"
+   ],
+   "lat": 35.1662717,
+   "lng": 129.1139672,
+   "open_status": "오늘 휴무",
+   "score": 63,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251010082139494_photo_a3745a1ff36a.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "6cmWL0Xo3UDc",
+   "name": "한양각",
+   "branch": null,
+   "addr": "부산광역시 동래구 낙민동 172-3",
+   "road_addr": "부산광역시 동래구 충렬대로 306 동래한양아파트",
+   "phone": "051-552-7400",
+   "category": "짜장면, 탕수육",
+   "area": [
+    "동래"
+   ],
+   "lat": 35.199401,
+   "lng": 129.0923551,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221001123336784_photo_dea771de1115.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "지역주민이찾는",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "uGmAK8lh04RK",
+   "name": "김천통닭",
+   "branch": null,
+   "addr": "부산광역시 사하구 장림동 792-7",
+   "road_addr": "부산광역시 사하구 장림번영로 24 장림시장 내 김천통닭",
+   "phone": "051-261-7945",
+   "category": "치킨, 후라이드",
+   "area": [
+    "장림"
+   ],
+   "lat": 35.0808629,
+   "lng": 128.9679571,
+   "open_status": "영업 중",
+   "score": 44,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "야식",
+    "노포",
+    "매장식사"
+   ]
+  },
+  {
+   "rid": "Q8djJ5WG5MuX",
+   "name": "마산식당",
+   "branch": null,
+   "addr": "대구시 중구 포정동 21-3",
+   "road_addr": "대구광역시 중구 경상감영길 101 중앙상가",
+   "phone": "053-253-6304",
+   "category": "돼지국밥, 수육",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.872285,
+   "lng": 128.5931891,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.7,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503103950_photo1_9704075a0b09.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "3ZGd02OVDk4c",
+   "name": "참조은생고기",
+   "branch": null,
+   "addr": "대구광역시 북구 복현동 266-9",
+   "road_addr": "대구광역시 북구 복현로 78",
+   "phone": "0507-1322-0647",
+   "category": "뭉티기, 생고기",
+   "area": [
+    "대구북구"
+   ],
+   "lat": 35.8986746,
+   "lng": 128.6232284,
+   "open_status": "영업 중",
+   "score": 55,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250518092841_photo1_d5680b4b792d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "EDhCIIpk2yol",
+   "name": "부창반점",
+   "branch": "본점",
+   "addr": "대구광역시 수성구 수성동4가 1028-36",
+   "road_addr": "대구광역시 수성구 들안로67길 30",
+   "phone": "053-741-5252",
+   "category": "중국집, 짜장면",
+   "area": [
+    "대구수성구"
+   ],
+   "lat": 35.8611622,
+   "lng": 128.6168274,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250110075349235_photo_6869a2b21b1d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "BWBL1XPsyV3B",
+   "name": "복해반점",
+   "branch": null,
+   "addr": "대구 중구 종로2가 75-2",
+   "road_addr": "대구광역시 중구 종로 22",
+   "phone": "053-254-8903",
+   "category": "짜장면, 간짜장",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.8678146,
+   "lng": 128.5921244,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 4.9,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220409072319174_photo_JEASEjoS8vkS.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "9UGSTrhQjp0T",
+   "name": "대성식당",
+   "branch": null,
+   "addr": "대구광역시 중구 포정동 21-3",
+   "road_addr": "대구광역시 중구 경상감영길 101 중앙상가",
+   "phone": "0507-1303-2834",
+   "category": "국밥, 수육",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.8727697,
+   "lng": 128.5929966,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220921053424692_photo_eAaL5RZaMe82.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "0RTN1KQbf00N",
+   "name": "까치방식당",
+   "branch": null,
+   "addr": "대구 중구 향촌동 74-7",
+   "road_addr": "대구 중구 중앙대로 439",
+   "phone": "053-255-1350",
+   "category": "찜닭, 닭도리탕",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.8723474,
+   "lng": 128.594021,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "노포"
+   ]
+  },
+  {
+   "rid": "ivKE4QiMAXEi",
+   "name": "술꾼도시순대국",
+   "branch": null,
+   "addr": "인천광역시 계양구 계산동 18-16",
+   "road_addr": "인천광역시 계양구 경명대로1142번길 1 상가동 1층 109호",
+   "phone": "0507-1419-8191",
+   "category": "순대국, 곱창전골",
+   "area": [
+    "계산동"
+   ],
+   "lat": 37.5426841,
+   "lng": 126.733939,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "가성비좋은",
+    "포장"
+   ]
+  },
+  {
+   "rid": "G3tf4ya7RORw",
+   "name": "나진국밥",
+   "branch": "갈산점",
+   "addr": "인천광역시 부평구 갈산동 171",
+   "road_addr": "인천광역시 부평구 주부토로249번길 17",
+   "phone": "032-503-9882",
+   "category": "국밥, 수육",
+   "area": [
+    "부평"
+   ],
+   "lat": 37.5163623,
+   "lng": 126.7260106,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 4.1,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250812062830748_photo_rLWyGnzqKeAW.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "무료주차",
+    "얼큰한"
+   ]
+  },
+  {
+   "rid": "cpIPdscPpMfX",
+   "name": "25시소문난오돌뼈",
+   "branch": null,
+   "addr": "광주 북구 용봉동 1361-5",
+   "road_addr": "광주광역시 북구 저불로69번길 7-6 1층 소문난 오돌뼈",
+   "phone": "0507-1360-5292",
+   "category": "닭발, 오돌뼈",
+   "area": [
+    "용봉동"
+   ],
+   "lat": 35.1805449,
+   "lng": 126.893661,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260604101851_photo1_c5298f6d0389.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "단체모임",
+    "숯불",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "o34riMfbdkjR",
+   "name": "태화장",
+   "branch": null,
+   "addr": "대전 동구 정동 36-32",
+   "road_addr": "대전광역시 동구 중앙로203번길 78 태화장",
+   "phone": "042-256-2407",
+   "category": "짬뽕, 멘보샤",
+   "area": [
+    "대전역"
+   ],
+   "lat": 36.3338073,
+   "lng": 127.4293243,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260426012425_photo1_XLfDdxht9OvI.webp",
+   "tags": [
+    "백년가게",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "OqhHzWiXglhu",
+   "name": "태화장",
+   "branch": null,
+   "addr": "대전광역시 동구 용운동 329-11",
+   "road_addr": "대전광역시 동구 동부로73번길 116",
+   "phone": "042-282-7777",
+   "category": "짬뽕, 멘보샤",
+   "area": [
+    "대전동구"
+   ],
+   "lat": 36.3267658,
+   "lng": 127.4588888,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4.7,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260107103125787_photo_c4556925762d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "rmyTzhroNKey",
+   "name": "상무암뽕순대국밥",
+   "branch": null,
+   "addr": "대전광역시 유성구 문지동 634-6",
+   "road_addr": "대전광역시 유성구 문지로 323-7 1층",
+   "phone": "0507-1370-9301",
+   "category": "국밥, 순대국밥",
+   "area": [
+    "대전유성구"
+   ],
+   "lat": 36.3955881,
+   "lng": 127.4065917,
+   "open_status": "영업 중",
+   "score": 49,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250408074406_photo1_af18fd14cc0d.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "배달",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "eXF3dQqpgnPE",
+   "name": "춘향미엔",
+   "branch": null,
+   "addr": "대전광역시 유성구 궁동 220",
+   "road_addr": "대전광역시 유성구 대학로 99 제1학생관",
+   "phone": "0507-1315-9031",
+   "category": "중식당, 온면",
+   "area": [
+    "대전유성"
+   ],
+   "lat": 36.3677784,
+   "lng": 127.3430405,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "특이한"
+   ]
+  },
+  {
+   "rid": "navJobsI1O2N",
+   "name": "하남숯불닭갈비",
+   "branch": null,
+   "addr": "경기도 하남시 미사동 205-2",
+   "road_addr": "경기도 하남시 미사동로40번길 130",
+   "phone": "0507-1437-0045",
+   "category": "닭갈비, 숯불닭갈비",
+   "area": [
+    "하남미사"
+   ],
+   "lat": 37.5659938,
+   "lng": 127.2055861,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260105061222_photo1_Nm0ULH5g8GOd.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "y4QvyLQxw3iY",
+   "name": "나진국밥",
+   "branch": "파주야당점",
+   "addr": "경기도 파주시 야당동 1054",
+   "road_addr": "경기도 파주시 경의로 1042",
+   "phone": "0507-1467-3313",
+   "category": "국밥, 수육",
+   "area": [
+    "파주"
+   ],
+   "lat": 37.7104201,
+   "lng": 126.7598164,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250317081155632_photo_9cf22dc3cb14.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "무료주차",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "H6vM8beOBeba",
+   "name": "나진국밥",
+   "branch": "안양평촌점",
+   "addr": "경기도 안양시 동안구 관양동 1802",
+   "road_addr": "경기도 안양시 동안구 벌말로 126 131호",
+   "phone": "031-689-5565",
+   "category": "국밥, 수육",
+   "area": [
+    "인덕원"
+   ],
+   "lat": 37.3996436,
+   "lng": 126.9702982,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241208030322_photo1_27f2665f13f2.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "점심맛집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "aa1cr5fQ636r",
+   "name": "경원식당",
+   "branch": "호평점",
+   "addr": "경기도 남양주시 호평동 630-9",
+   "road_addr": "경기도 남양주시 늘을1로16번안길 13-15 1층 경원식당",
+   "phone": "031-592-0410",
+   "category": "부대찌개, 솥밥",
+   "area": [
+    "호평동"
+   ],
+   "lat": 37.6547326,
+   "lng": 127.2417351,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 3.5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260312051812005_photo_a0544f3511d6.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "sWWCV7vJhwQQ",
+   "name": "반구정 나루터집",
+   "branch": null,
+   "addr": "경기도 파주시 문산읍 사목리 208-2",
+   "road_addr": "경기도 파주시 문산읍 반구정로85번길 13",
+   "phone": "031-952-3472",
+   "category": "장어, 장어구이",
+   "area": [
+    "파주"
+   ],
+   "lat": 37.8684353,
+   "lng": 126.7517644,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 3.6,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423031026357_photo_4d4ad76a3003.webp",
+   "tags": [
+    "vj특공대",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "fzoqWsdXOzJz",
+   "name": "미소의집",
+   "branch": null,
+   "addr": "경기도 평택시 신장동 274-49",
+   "road_addr": "경기도 평택시 밀월로 39",
+   "phone": "031-663-3733",
+   "category": "떡볶이, 즉석떡볶이",
+   "area": [
+    "평택"
+   ],
+   "lat": 37.0782893,
+   "lng": 127.0529156,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "깨끗",
+    "바깥자리"
+   ]
+  },
+  {
+   "rid": "20Hkxl7sHCDO",
+   "name": "오복돼지",
+   "branch": null,
+   "addr": "경기 평택시 팽성읍 안정리 41-296",
+   "road_addr": "경기 평택시 팽성읍 안정순환로172번길 57",
+   "phone": null,
+   "category": "삼겹살, 슈하스코",
+   "area": [
+    "평택"
+   ],
+   "lat": 36.961055,
+   "lng": 127.045848,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "단체회식",
+    "남자친구랑"
+   ]
+  },
+  {
+   "rid": "5QcDrPdBnVOa",
+   "name": "삼천냥손칼국수",
+   "branch": null,
+   "addr": "경기도 시흥시 은행동 289-36",
+   "road_addr": "경기도 시흥시 시흥대로1074번길 19",
+   "phone": "031-313-0464",
+   "category": "칼국수, 손칼국수",
+   "area": [
+    "시흥"
+   ],
+   "lat": 37.431445,
+   "lng": 126.7951548,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "동네맛집",
+    "셀프코너"
+   ]
+  },
+  {
+   "rid": "ox5GR0VVGLH7",
+   "name": "참좋은손만두",
+   "branch": null,
+   "addr": "경기도 용인시 처인구 포곡읍 둔전리 201-1",
+   "road_addr": "경기 용인시 처인구 포곡읍 포곡로 167 1층",
+   "phone": "031-321-5583",
+   "category": "만두, 김치만두",
+   "area": [
+    "용인"
+   ],
+   "lat": 37.2728633,
+   "lng": 127.222461,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "배달",
+    "포장"
+   ]
+  },
+  {
+   "rid": "1i796EBNA9GF",
+   "name": "나비골 함평육회 함평국밥",
+   "branch": null,
+   "addr": "경기도 남양주시 진접읍 금곡리 1045-2",
+   "road_addr": "경기도 남양주시 진접읍 해밀예당1로216번길 19-11",
+   "phone": "010-2247-4422",
+   "category": "육회비빔밥, 육회",
+   "area": [
+    "진접"
+   ],
+   "lat": 37.7186674,
+   "lng": 127.2028333,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "MYJYQP7KvaCQ",
+   "name": "인생아구찜",
+   "branch": "평택점",
+   "addr": "경기도 평택시 비전동 854-13",
+   "road_addr": "경기도 평택시 무지개공원2길 16 1층",
+   "phone": "0507-1438-9963",
+   "category": "아구찜, 해물찜",
+   "area": [
+    "평택"
+   ],
+   "lat": 36.9917862,
+   "lng": 127.1092101,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "간식",
+    "배달",
+    "포장"
+   ]
+  },
+  {
+   "rid": "UPbECTr6KaYD",
+   "name": "경원식당",
+   "branch": null,
+   "addr": "경기도 양주시 옥정동 963-10 1층 경원식당",
+   "road_addr": "경기도 양주시 옥정로 204 1층 경원식당",
+   "phone": "0507-1375-7243",
+   "category": "부대찌개, 라면",
+   "area": [
+    "옥정"
+   ],
+   "lat": 37.8198592,
+   "lng": 127.0921715,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "xohAxPMMvXto",
+   "name": "별미순대국",
+   "branch": null,
+   "addr": "강원 춘천시 후평동 291-11",
+   "road_addr": "강원도 춘천시 공단로 20",
+   "phone": "033-254-1777",
+   "category": "순대국",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.8879867,
+   "lng": 127.7498207,
+   "open_status": "영업 종료",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20201105054409907_photo_d449380d36e4.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "dP2drGTq58mZ",
+   "name": "별미순대국",
+   "branch": null,
+   "addr": "강원도 속초시 교동 668-32",
+   "road_addr": "강원도 속초시 청초호반로 201 1층 별미순대국 본점",
+   "phone": "033-633-9454",
+   "category": "순대, 순대국",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.1976135,
+   "lng": 128.5804049,
+   "open_status": "영업 종료",
+   "score": 60,
+   "user_score": 4.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240710104046184_photo_c04874bbd42f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "XrbYgsti2hjx",
+   "name": "갓냉이국수",
+   "branch": null,
+   "addr": "강원도 철원군 서면 자등리 725",
+   "road_addr": "강원도 철원군 서면 자등로 611",
+   "phone": "0507-1309-3178",
+   "category": "버섯전골, 한우버섯전골",
+   "area": [
+    "철원"
+   ],
+   "lat": 38.1666902,
+   "lng": 127.4141619,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 2.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20201202024636302_photo_29f701e6e39f.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "건강식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "5BoySkjSqB9K",
+   "name": "청화집",
+   "branch": null,
+   "addr": "충청남도 천안시 동남구 병천면 병천리 167-6",
+   "road_addr": "충청남도 천안시 동남구 병천면 충절로 1749",
+   "phone": "041-564-1558",
+   "category": "순대국, 병천순대",
+   "area": [
+    "천안"
+   ],
+   "lat": 36.7623395,
+   "lng": 127.2992254,
+   "open_status": "영업 종료",
+   "score": 79,
+   "user_score": 4.5,
+   "review_cnt": 40,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260125072143_photo1_719f75d5d6ae.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "1tyMubx2B6La",
+   "name": "진미식당",
+   "branch": null,
+   "addr": "전라북도 익산시 황등면 황등리 902-11",
+   "road_addr": "전라북도 익산시 황등면 황등로 158",
+   "phone": "063-856-4422",
+   "category": "육회, 육회비빔밥",
+   "area": [
+    "익산"
+   ],
+   "lat": 36.0058328,
+   "lng": 126.9448519,
+   "open_status": "영업 종료",
+   "score": 63,
+   "user_score": 3.2,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240611010931_photo1_26b88878bef8.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "rTykdppGcq7I",
+   "name": "명품맛집",
+   "branch": null,
+   "addr": "전남 여수시 공화동 543",
+   "road_addr": "전라남도 여수시 동문로 129-1",
+   "phone": "061-662-0292",
+   "category": "게장, 게장백반",
+   "area": [
+    "여수"
+   ],
+   "lat": 34.7477868,
+   "lng": 127.7442522,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.5,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250907173143_photo1_6aeaafd979f4.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "oYILMagpuxpN",
+   "name": "나진국밥",
+   "branch": null,
+   "addr": "전라남도 여수시 화양면 나진리 430-4",
+   "road_addr": "전라남도 여수시 화양면 화양로 1391 나진국밥",
+   "phone": "061-683-4425",
+   "category": "국밥, 수육",
+   "area": [
+    "여수"
+   ],
+   "lat": 34.706939,
+   "lng": 127.6133572,
+   "open_status": "오늘 휴무",
+   "score": 78,
+   "user_score": 4.4,
+   "review_cnt": 25,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260302103019_photo1_ffa907c32be3.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "zFkcgwbee0IG",
+   "name": "나진국밥",
+   "branch": "순천점",
+   "addr": "전라남도 순천시 해룡면 신대리 2031-1 1층",
+   "road_addr": "전라남도 순천시 해룡면 매안2길 16-6 1층",
+   "phone": "0507-1442-9904",
+   "category": "국밥, 수육",
+   "area": [
+    "순천"
+   ],
+   "lat": 34.9280963,
+   "lng": 127.5527153,
+   "open_status": "영업 종료",
+   "score": 49,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240704013309_photo1_f276411b8da8.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "UDnZlYkr1Dl2",
+   "name": "한재골가든",
+   "branch": null,
+   "addr": "전라남도 담양군 대전면 평장리 394-1",
+   "road_addr": "전라남도 담양군 대전면 병풍로 374",
+   "phone": "0507-1363-8839",
+   "category": "닭볶음탕, 닭곰탕",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.2942275,
+   "lng": 126.8806525,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 4.9,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240811022810505_photo_aa3ab4516030.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "SUZu8duMkNe5",
+   "name": "신의주찹쌀순대",
+   "branch": "김천점",
+   "addr": "경상북도 김천시 신음동 596-4",
+   "road_addr": "경상북도 김천시 아홉사리길 150",
+   "phone": "054-434-3100",
+   "category": "국밥, 순대국밥",
+   "area": [
+    "김천"
+   ],
+   "lat": 36.1482002,
+   "lng": 128.1170189,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240617064613303_photo_c25177892e47.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "3wvxOeRf3UF5",
+   "name": "버거리",
+   "branch": "안동용상점",
+   "addr": "경상북도 안동시 용상동 1237-2",
+   "road_addr": "경상북도 안동시 경동로 868 1층",
+   "phone": "054-823-2290",
+   "category": "수제버거",
+   "area": [
+    "안동"
+   ],
+   "lat": 36.5592931,
+   "lng": 128.7509863,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "혼밥",
+    "깨끗",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "X396r1kzLJJd",
+   "name": "신평생고기",
+   "branch": null,
+   "addr": "경상북도 구미시 신평동 115-3",
+   "road_addr": "경상북도 구미시 구미대로34길 4",
+   "phone": "054-461-6984",
+   "category": "뭉티기, 생고기",
+   "area": [
+    "구미"
+   ],
+   "lat": 36.1215098,
+   "lng": 128.363171,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "성시경의먹을텐데",
+    "회식",
+    "깔끔한",
+    "칸막이"
+   ]
+  },
+  {
+   "rid": "tpYW5RvE6jTR",
+   "name": "돌다메",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 외도일동 413-5",
+   "road_addr": "제주특별자치도 제주시 우정로4길 16 돌다메",
+   "phone": "0507-1330-4789",
+   "category": "흑돼지, 멜조림",
+   "area": [
+    "제주시"
+   ],
+   "lat": 33.4914231,
+   "lng": 126.4287745,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.4,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260302091257_photo2_15f94719b099.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "YZbeNvJT9TMd",
+   "name": "앞뱅디식당",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 연동 324-1",
+   "road_addr": "제주특별자치도 제주시 선덕로 32",
+   "phone": "064-744-7942",
+   "category": "갈치국, 각재기국",
+   "area": [
+    "연동"
+   ],
+   "lat": 33.4853142,
+   "lng": 126.4999202,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.3,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250202100531_photo1_DFIIFUqTHMj7.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "okWxXUBTOFHQ",
+   "name": "해녀촌",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 구좌읍 동복리 1502-1",
+   "road_addr": "제주 제주시 구좌읍 동복로 33",
+   "phone": "064-783-5438",
+   "category": "물회, 회국수",
+   "area": [
+    "구좌읍"
+   ],
+   "lat": 33.5536666,
+   "lng": 126.7098771,
+   "open_status": "오늘 휴무",
+   "score": 78,
+   "user_score": 4.3,
+   "review_cnt": 51,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420111154_photo1_5533f04153d3.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "FA8b3QDYFf17",
+   "name": "함덕골목",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 조천읍 조천리 1209-13",
+   "road_addr": "제주특별자치도 제주시 조천읍 조천북6길 62",
+   "phone": "0507-1390-5512",
+   "category": "내장탕, 해장국",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.5393555,
+   "lng": 126.6411637,
+   "open_status": "영업 종료",
+   "score": 81,
+   "user_score": 4.7,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250917061955_photo1_3ec146396be9.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "성시경의먹을텐데"
+   ]
+  },
+  {
+   "rid": "RLfnLvNeSXBF",
+   "name": "제주돔베고기집",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 노형동 1279-1",
+   "road_addr": "제주특별자치도 제주시 월랑로4길 6",
+   "phone": "064-713-9949",
+   "category": "돔베고기, 몸국",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.4877908,
+   "lng": 126.4782935,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.6,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505085455_photo1_b29cfe6843fa.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "RAsDO13w9mlj",
+   "name": "함덕골목",
+   "branch": "오라점",
+   "addr": "제주특별자치도 제주시 오라일동 1280 1층",
+   "road_addr": "제주특별자치도 제주시 오라로 124 1층",
+   "phone": "0507-1397-2625",
+   "category": "해장국, 내장탕",
+   "area": [
+    "제주공항"
+   ],
+   "lat": 33.494236,
+   "lng": 126.5158087,
+   "open_status": "오늘 휴무",
+   "score": 59,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508115510_photo1_ceb459b0f451.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "해장",
+    "깔끔한",
+    "셀프바"
+   ]
+  }
+ ]
+}

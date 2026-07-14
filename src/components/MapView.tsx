@@ -15,6 +15,12 @@ const PAPER = "#ffffff";
 
 const WORLD = { center: [16, 21] as [number, number], zoom: 1.6 };
 
+export interface HomeCamera {
+  center: [number, number];
+  zoom: number;
+  spin?: boolean;
+}
+
 /** Render a color emoji to ImageData so MapLibre can use it as a symbol icon. */
 function drawEmoji(emoji: string): ImageData | null {
   const size = 64;
@@ -43,20 +49,25 @@ interface HoverInfo {
 interface MapViewProps {
   data: FeatureCollection;
   selected: Place | null;
-  /** country name or "all" — when it changes, fit the view to the filtered data */
+  /** `${profileId}|${country}` — when it changes, refit the view */
   fitToken: string;
+  /** the active profile's resting camera */
+  home: HomeCamera;
   onSelect: (id: string | null) => void;
 }
 
-export default function MapView({ data, selected, fitToken, onSelect }: MapViewProps) {
+const prefersStill = () =>
+  window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+export default function MapView({ data, selected, fitToken, home, onSelect }: MapViewProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const selMarkerRef = useRef<maplibregl.Marker | null>(null);
   const dataRef = useRef(data);
   const onSelectRef = useRef(onSelect);
-  const spinningRef = useRef(
-    !window.matchMedia("(prefers-reduced-motion: reduce)").matches,
-  );
+  const homeRef = useRef(home);
+  const spinningRef = useRef(!prefersStill());
+  homeRef.current = home;
   const [hover, setHover] = useState<HoverInfo | null>(null);
   const [ready, setReady] = useState(false);
 
@@ -324,7 +335,7 @@ export default function MapView({ data, selected, fitToken, onSelect }: MapViewP
     }
   }, [selected, ready]);
 
-  // ---- fit to filtered data when the country focus changes ----
+  // ---- fit when the profile or country focus changes ----
   const prevFitRef = useRef(fitToken);
   useEffect(() => {
     const map = mapRef.current;
@@ -333,8 +344,13 @@ export default function MapView({ data, selected, fitToken, onSelect }: MapViewP
     prevFitRef.current = fitToken;
     spinningRef.current = false;
 
-    if (fitToken === "all") {
-      map.easeTo({ ...WORLD, duration: 1400 });
+    if (fitToken.endsWith("|all")) {
+      const h = homeRef.current;
+      map.flyTo({ center: h.center, zoom: h.zoom, duration: 1800, essential: true });
+      if (h.spin && !prefersStill()) {
+        // resume the idle spin once we're back on the globe
+        spinningRef.current = true;
+      }
       return;
     }
     const coords = dataRef.current.features

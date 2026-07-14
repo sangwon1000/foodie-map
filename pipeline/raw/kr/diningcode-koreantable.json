@@ -1,0 +1,6760 @@
+{
+ "source": "diningcode.com 인증맛집",
+ "keyword": "한국인의밥상",
+ "fetched_at": "2026-07-14T08:36:59.435Z",
+ "total_reported": 273,
+ "count": 274,
+ "places": [
+  {
+   "rid": "1YqCYlUoXfQ3",
+   "name": "이층횟집",
+   "branch": null,
+   "addr": "경상남도 창원시 마산합포구 진동면 고현리 291-2",
+   "road_addr": "경상남도 창원시 마산합포구 진동면 미더덕로 345-1 이층횟집",
+   "phone": "010-8074-7579",
+   "category": "해산물, 미더덕",
+   "area": [
+    "마산"
+   ],
+   "lat": 35.1013487,
+   "lng": 128.4791875,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.7,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250424134609_profile_photo2_f0c009fd039e.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "oEl7PUZ5RKt0",
+   "name": "청년밥상문간",
+   "branch": null,
+   "addr": "서울특별시 성북구 정릉동 398-8 2층",
+   "road_addr": "서울특별시 성북구 보국문로11길 18-2 2층 청년문간",
+   "phone": "0507-1349-6952",
+   "category": "김치찌개, 라면",
+   "area": [
+    "정릉"
+   ],
+   "lat": 37.6087332,
+   "lng": 127.0091093,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260414123616864_photo_7903a5fdf5e3.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "ePUOxjWTmNum",
+   "name": "쉼터어부식당",
+   "branch": null,
+   "addr": "경기도 연천군 전곡읍 은대리 575-3",
+   "road_addr": "경기도 연천군 전곡읍 은전로 24 임진강 쉼터 어부식당",
+   "phone": "0507-1304-1484",
+   "category": "참게매운탕, 민물매운탕",
+   "area": [
+    "연천"
+   ],
+   "lat": 38.0257951,
+   "lng": 127.0636921,
+   "open_status": "라스트 오더 24분 전",
+   "score": 64,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220521115849211_photo_5e0bf9bca473.webp",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "Uzeq61D5Tyr9",
+   "name": "성환순대두번째집",
+   "branch": null,
+   "addr": "충청남도 천안시 서북구 성환읍 성환리 451-5",
+   "road_addr": "충청남도 천안시 서북구 성환읍 성환1로 293",
+   "phone": "041-581-8822",
+   "category": "순대국",
+   "area": [
+    "천안"
+   ],
+   "lat": 36.9212452,
+   "lng": 127.1272843,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 3.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251014111428686_photo_277d4bf6869c.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "무료주차",
+    "가성비좋은"
+   ]
+  },
+  {
+   "rid": "tEGl1U1eJ3zh",
+   "name": "대원식당",
+   "branch": null,
+   "addr": "전라남도 순천시 장천동 35-11",
+   "road_addr": "전라남도 순천시 장천2길 30-29 대원식당",
+   "phone": "0507-1471-3582",
+   "category": "한정식, 수라상",
+   "area": [
+    "순천"
+   ],
+   "lat": 34.9501174,
+   "lng": 127.490181,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241104051118_photo1_1ab0c5d6e7de.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "XSVnEBC6RTfk",
+   "name": "해오름해물칼국수",
+   "branch": null,
+   "addr": "충청남도 당진시 석문면 교로리 141-1",
+   "road_addr": "충청남도 당진시 석문면 석문해안로 128 해오름해물칼국수",
+   "phone": "0507-1320-5468",
+   "category": "칼국수, 해물칼국수",
+   "area": [
+    "당진"
+   ],
+   "lat": 37.0373872,
+   "lng": 126.5378253,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250524010607875_photo_e1083d16445f.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "inksWc26tc4L",
+   "name": "통영굴강정과친구들",
+   "branch": null,
+   "addr": "경상남도 통영시 중앙동 55",
+   "road_addr": "경상남도 통영시 중앙시장1길 1 104호",
+   "phone": "0507-1390-0073",
+   "category": "굴요리, 닭강정",
+   "area": [
+    "통영"
+   ],
+   "lat": 34.8448435,
+   "lng": 128.4243092,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 3.6,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230723101208980_photo_9c675621823b.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "매콤",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "nuXCk2TfFgCw",
+   "name": "진일기사식당",
+   "branch": null,
+   "addr": "전라남도 순천시 승주읍 신성리 1017",
+   "road_addr": "전라남도 순천시 승주읍 선암사길 48",
+   "phone": "061-754-5320",
+   "category": "백반, 김치찌개",
+   "area": [
+    "순천"
+   ],
+   "lat": 35.0112653,
+   "lng": 127.3839559,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 3.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230211113645952_photo_f231e53407bb.webp",
+   "tags": [
+    "한국인의밥상",
+    "무료주차",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "I1KJ6WF6jibx",
+   "name": "덕호네수산",
+   "branch": null,
+   "addr": "충청남도 홍성군 서부면 남당리 861",
+   "road_addr": "충청남도 홍성군 서부면 남당항로213번길 1 B동 2층 213호",
+   "phone": "0507-1335-4845",
+   "category": "새조개, 대하",
+   "area": [
+    "남당항"
+   ],
+   "lat": 36.5384422,
+   "lng": 126.4712234,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260309085948575_photo_56d3ff6a1da2.webp",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "Ja2E8YLHHLis",
+   "name": "성북동 돼지갈비집",
+   "branch": null,
+   "addr": "서울시 성북구 성북동 114-2",
+   "road_addr": "서울특별시 성북구 성북로 115",
+   "phone": "02-764-2420",
+   "category": "돼지불백, 기사식당",
+   "area": [
+    "성북동"
+   ],
+   "lat": 37.5933105,
+   "lng": 126.9961462,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 3.5,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250714015819_photo1_58560d6ffdb1.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "0NChJUjYm6w2",
+   "name": "섬마을",
+   "branch": null,
+   "addr": "전라북도 무주군 무주읍 읍내리 1357-1",
+   "road_addr": "전라북도 무주군 무주읍 내도로 126",
+   "phone": "063-322-2799",
+   "category": "어죽, 도리뱅뱅이",
+   "area": [
+    "무주"
+   ],
+   "lat": 36.0167782,
+   "lng": 127.6450643,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.6,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250106154804_photo1_1185cbf33bc2.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "GEr5SVE4wXxJ",
+   "name": "동해범바위골장어",
+   "branch": null,
+   "addr": "경상남도 고성군 동해면 내산리 533-1",
+   "road_addr": "경상남도 고성군 동해면 외산1길 5",
+   "phone": "0507-1471-0210",
+   "category": "장어구이",
+   "area": [
+    "경남고성"
+   ],
+   "lat": 35.0494333,
+   "lng": 128.4598685,
+   "open_status": "오늘 휴무",
+   "score": 60,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240710114623660_photo_a7657e9cf260.webp",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "현지인추천",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "rcJuWIBbupWP",
+   "name": "성림",
+   "branch": null,
+   "addr": "경상남도 통영시 도남동 356",
+   "road_addr": "경상남도 통영시 발개로 156",
+   "phone": "055-643-1425",
+   "category": "생선구이",
+   "area": [
+    "통영"
+   ],
+   "lat": 34.8260721,
+   "lng": 128.4212453,
+   "open_status": "영업 종료",
+   "score": 54,
+   "user_score": 4.2,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231119075427464_photo_c9e2753a05ad.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "tYVbFvZgF5x1",
+   "name": "지세포횟집",
+   "branch": null,
+   "addr": "경상남도 거제시 일운면 지세포리 929-45",
+   "road_addr": "경상남도 거제시 일운면 지세포해안로 82-1",
+   "phone": "0507-1372-9532",
+   "category": "횟집, 대방어",
+   "area": [
+    "거제"
+   ],
+   "lat": 34.830328,
+   "lng": 128.7041325,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241223072407826_photo_ecb0512f8655.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "가성비좋은"
+   ]
+  },
+  {
+   "rid": "pvRo7V3cVS3L",
+   "name": "송미옥",
+   "branch": null,
+   "addr": "인천광역시 동구 금곡동 6-4",
+   "road_addr": "인천광역시 동구 화도진로5번길 11-3",
+   "phone": "032-772-9951",
+   "category": "복어, 복어요리",
+   "area": [
+    "인천동구"
+   ],
+   "lat": 37.4733625,
+   "lng": 126.6360955,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260419072841377_photo_4ac3678d60a7.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "ApTL7ogFZAut",
+   "name": "명천식당슈퍼",
+   "branch": null,
+   "addr": "전라북도 김제시 공덕면 제말리 산3-5",
+   "road_addr": "전라북도 김제시 공덕면 청공로 680-1",
+   "phone": "063-542-8486",
+   "category": "제육볶음, 김치찌개",
+   "area": [
+    "김제"
+   ],
+   "lat": 35.886545,
+   "lng": 126.895506,
+   "open_status": "영업 종료",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20201113094157135_photo_197e5ec1085c.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "YR5QgPaFdK6E",
+   "name": "원조장수통닭",
+   "branch": null,
+   "addr": "전라남도 해남군 해남읍 연동리 433-6",
+   "road_addr": "전라남도 해남군 해남읍 고산로 295 장수통닭",
+   "phone": "061-536-4410",
+   "category": "닭, 토종닭",
+   "area": [
+    "해남"
+   ],
+   "lat": 34.5406891,
+   "lng": 126.6125971,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.1,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251010060259278_photo_c7815b99af66.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "tYwaBmHbXSEY",
+   "name": "함흥냉면갈비",
+   "branch": null,
+   "addr": "부산 서구 토성동1가 18-3",
+   "road_addr": "부산광역시 서구 구덕로124번길 55",
+   "phone": "051-254-5642",
+   "category": "함흥냉면",
+   "area": [
+    "토성동"
+   ],
+   "lat": 35.0991987,
+   "lng": 129.022625,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 2,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240612225404_photo1_d1344c9e6ea6.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "K0oE9nqxpUFl",
+   "name": "하모자연산횟집",
+   "branch": null,
+   "addr": "경상남도 고성군 삼산면 두포리 28-5",
+   "road_addr": "경상남도 고성군 삼산면 두포5길 426",
+   "phone": "055-672-2195",
+   "category": "하모샤브샤브, 갯장어",
+   "area": [
+    "경남고성"
+   ],
+   "lat": 34.9172083,
+   "lng": 128.2972835,
+   "open_status": "확인필요",
+   "score": 64,
+   "user_score": 3.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240626153353_photo1_06b776fe1093.webp",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "무료주차",
+    "여름보양식"
+   ]
+  },
+  {
+   "rid": "i75cZXh75XKN",
+   "name": "정순순대",
+   "branch": null,
+   "addr": "전라북도 익산시 창인동1가 103-2",
+   "road_addr": "전라북도 익산시 중앙로1길 24-9",
+   "phone": "063-854-0922",
+   "category": "순대국, 피순대",
+   "area": [
+    "익산"
+   ],
+   "lat": 35.9415884,
+   "lng": 126.949428,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 3.8,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260416052127086_photo_8fbfe9a123f5.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "JZ4mAqcEf6mF",
+   "name": "제일식당",
+   "branch": null,
+   "addr": "경기도 용인시 처인구 백암면 백암리 449-2",
+   "road_addr": "경기도 용인시 처인구 백암면 백암로201번길 11",
+   "phone": "031-332-4608",
+   "category": "순대국",
+   "area": [
+    "용인"
+   ],
+   "lat": 37.1645987,
+   "lng": 127.3736765,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.1,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260326045216522_photo_c4a5a8209ecc.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "LKKifvtowbbU",
+   "name": "꼬예뜰",
+   "branch": null,
+   "addr": "경기도 양평군 단월면 산음리 785",
+   "road_addr": "경기도 양평군 단월면 고북길 215-46 1층",
+   "phone": "010-7640-7060",
+   "category": "산나물전골",
+   "area": [
+    "양평"
+   ],
+   "lat": 37.5923351,
+   "lng": 127.5905998,
+   "open_status": "오늘 휴무",
+   "score": 58,
+   "user_score": 4.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221009053326212_menu_bf09842c7822.webp",
+   "tags": [
+    "다코숨은맛집",
+    "데이트",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "KA9fW1ViPiE7",
+   "name": "신일복집",
+   "branch": null,
+   "addr": "인천 중구 북성동2가 12-26",
+   "road_addr": "인천광역시 중구 차이나타운로44번길 30 신일",
+   "phone": "032-772-6274",
+   "category": "복어, 간장게장",
+   "area": [
+    "차이나타운"
+   ],
+   "lat": 37.4756854,
+   "lng": 126.6177943,
+   "open_status": "확인필요",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "3대째",
+    "포장"
+   ]
+  },
+  {
+   "rid": "S5qwFOY30YE9",
+   "name": "송원식당",
+   "branch": "인천항점",
+   "addr": "인천광역시 중구 항동7가 60",
+   "road_addr": "인천 중구 연안부두로 16 해양센터 1층 송원식당",
+   "phone": "0507-1304-2838",
+   "category": "밴댕이, 밴댕이회무침",
+   "area": [
+    "연안부두"
+   ],
+   "lat": 37.4565647,
+   "lng": 126.6036068,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260111080902_photo1_3f37281b1da0.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "JGPHmoOJRXUX",
+   "name": "구와우순두부",
+   "branch": null,
+   "addr": "강원도 태백시 황지동 289-1",
+   "road_addr": "강원도 태백시 구와우길 49-1 구와우마을 구와우순두부",
+   "phone": "033-554-7223",
+   "category": "두부요리",
+   "area": [
+    "태백"
+   ],
+   "lat": 37.2078523,
+   "lng": 128.9866016,
+   "open_status": "영업 종료",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "시골집"
+   ]
+  },
+  {
+   "rid": "3zjYlQ8Sq0nH",
+   "name": "순흥식당",
+   "branch": null,
+   "addr": "경기도 양평군 청운면 용두리 641-2",
+   "road_addr": "경기도 양평군 청운면 용두로139번길 14",
+   "phone": "031-773-9036",
+   "category": "백반, 백반집",
+   "area": [
+    "양평"
+   ],
+   "lat": 37.5554795,
+   "lng": 127.7091604,
+   "open_status": "영업 종료",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "9dkuJHGTETWs",
+   "name": "수원호",
+   "branch": null,
+   "addr": "인천광역시 강화군 길상면 초지리 616-38",
+   "road_addr": "인천광역시 강화군 길상면 해안동로 96-18 6호",
+   "phone": "032-937-7536",
+   "category": "횟집, 조개구이",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.6355365,
+   "lng": 126.5313941,
+   "open_status": "오늘 휴무",
+   "score": 73,
+   "user_score": 4.5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260104052936_photo1_b2943ef9b91e.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "CWUjnIxLkl1I",
+   "name": "방천찌짐",
+   "branch": null,
+   "addr": "대구광역시 중구 대봉동 12-10",
+   "road_addr": "대구광역시 중구 달구벌대로446길 3",
+   "phone": "053-421-4494",
+   "category": "빈대떡, 찌짐",
+   "area": [
+    "방천시장"
+   ],
+   "lat": 35.8621283,
+   "lng": 128.6060407,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "낮술",
+    "노포"
+   ]
+  },
+  {
+   "rid": "1I9hTpvlGTao",
+   "name": "미영식당",
+   "branch": null,
+   "addr": "인천광역시 옹진군 연평면 연평리 482-5",
+   "road_addr": "인천광역시 옹진군 연평면 연평로137번길 42",
+   "phone": "032-831-4327",
+   "category": "꽃게탕",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.6607739,
+   "lng": 125.7003171,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "배달",
+    "칼칼한국물",
+    "포장"
+   ]
+  },
+  {
+   "rid": "imMhFOWT53RO",
+   "name": "지화자",
+   "branch": null,
+   "addr": "서울특별시 종로구 청운동 48",
+   "road_addr": "서울특별시 종로구 자하문로 125",
+   "phone": "02-2269-5834",
+   "category": "한정식, 궁중음식",
+   "area": [
+    "종로구"
+   ],
+   "lat": 37.5871066,
+   "lng": 126.9693926,
+   "open_status": "오늘 휴무",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "발렛파킹",
+    "정갈한"
+   ]
+  },
+  {
+   "rid": "C0AfEc8l8cIO",
+   "name": "오부자냄비물회",
+   "branch": null,
+   "addr": "강원도 동해시 묵호진동 2-2",
+   "road_addr": "강원도 동해시 일출로 151 삼양비치타워 상가10호",
+   "phone": "033-533-2676",
+   "category": "물회, 냄비물회",
+   "area": [
+    "동해"
+   ],
+   "lat": 37.556411,
+   "lng": 129.120869,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504010343_photo1_b1e052c59c3e.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "iyInilczVqco",
+   "name": "창덕호횟집",
+   "branch": null,
+   "addr": "인천광역시 강화군 삼산면 매음리 855-41",
+   "road_addr": "인천광역시 강화군 삼산면 어류정길177번길 117",
+   "phone": "032-932-3140",
+   "category": "횟집, 쭈꾸미샤브샤브",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.6452102,
+   "lng": 126.3438417,
+   "open_status": "확인필요",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221224051419_photo1_82cf35a97179.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "다양한반찬"
+   ]
+  },
+  {
+   "rid": "qvxyCAY4qRxa",
+   "name": "샘밭막국수",
+   "branch": "본점",
+   "addr": "강원도 춘천시 신북읍 천전리 118-23",
+   "road_addr": "강원도 춘천시 신북읍 신샘밭로 644",
+   "phone": "033-242-1712",
+   "category": "막국수, 순메밀막국수",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.9295269,
+   "lng": 127.7813618,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 3.9,
+   "review_cnt": 34,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260320055503689_photo_GUNfgeez5Gnd.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "WM5IrcQprzKC",
+   "name": "울릉도호박집",
+   "branch": null,
+   "addr": "강원도 삼척시 정상동 389-2",
+   "road_addr": "강원도 삼척시 오십천로 496",
+   "phone": "033-574-3920",
+   "category": "생선조림, 생선찜",
+   "area": [
+    "삼척"
+   ],
+   "lat": 37.437723,
+   "lng": 129.1717911,
+   "open_status": "확인필요",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "할머니손맛"
+   ]
+  },
+  {
+   "rid": "CAD1L8BWSI6a",
+   "name": "삽시도회식당",
+   "branch": null,
+   "addr": "충청남도 보령시 오천면 삽시도리 4-1",
+   "road_addr": "충청남도 보령시 오천면 삽시도1길 168-36",
+   "phone": "041-934-6390",
+   "category": "횟집",
+   "area": [
+    "보령"
+   ],
+   "lat": 36.3467161,
+   "lng": 126.3602685,
+   "open_status": "확인필요",
+   "score": 42,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "회식",
+    "정갈한",
+    "바다가보이는"
+   ]
+  },
+  {
+   "rid": "NthoGMio3EYp",
+   "name": "구룡가식당",
+   "branch": null,
+   "addr": "부산광역시 기장군 일광읍 칠암리 148-1",
+   "road_addr": "부산 기장군 일광읍 박영준길 3",
+   "phone": "051-727-0457",
+   "category": "집밥, 오리불고기",
+   "area": [
+    "기장"
+   ],
+   "lat": 35.2989207,
+   "lng": 129.257629,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250602085427570_photo_a159d5a2cbb3.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "5KbFWkMqqma9",
+   "name": "안일옥",
+   "branch": "본점",
+   "addr": "경기도 안성시 영동 24",
+   "road_addr": "경기도 안성시 중앙로411번길 20",
+   "phone": "031-675-2486",
+   "category": "설렁탕, 국밥",
+   "area": [
+    "안성"
+   ],
+   "lat": 37.0075184,
+   "lng": 127.2728219,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 3.9,
+   "review_cnt": 27,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260115014339106_photo_3d185e226925.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "HKsBNORpXrWJ",
+   "name": "중앙회수산",
+   "branch": null,
+   "addr": "충청남도 홍성군 서부면 남당리 861",
+   "road_addr": "충청남도 홍성군 서부면 남당항로213번길 1",
+   "phone": "0507-1477-8205",
+   "category": "대하, 꽃게탕",
+   "area": [
+    "남당항"
+   ],
+   "lat": 36.5390348,
+   "lng": 126.470241,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 3.5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260220035607_photo1_KvOfSuNnt6JM.webp",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "aPfglnBQTIOP",
+   "name": "용궁가든",
+   "branch": null,
+   "addr": "전라남도 구례군 토지면 송정리 412-3",
+   "road_addr": "전라남도 구례군 토지면 섬진강대로 4559",
+   "phone": "061-782-8440",
+   "category": "참게탕",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.1992468,
+   "lng": 127.5738935,
+   "open_status": "영업 종료",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "얼큰한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "46B159YdhvjN",
+   "name": "대일식당",
+   "branch": null,
+   "addr": "충청남도 청양군 남양면 구룡리 38-17",
+   "road_addr": "충청남도 청양군 남양면 구용길 334 대일식당",
+   "phone": "0507-1369-1396",
+   "category": "순두부찌개",
+   "area": [
+    "청양"
+   ],
+   "lat": 36.4009706,
+   "lng": 126.7757332,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 4.8,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260315113840_photo1_2d0deb365ec7.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "5j9xAp8uu5ZW",
+   "name": "민들레",
+   "branch": null,
+   "addr": "광주시 서구 치평동 1262-1",
+   "road_addr": "광주광역시 서구 상무평화로 137 길가한식",
+   "phone": "062-374-8760",
+   "category": "간장게장",
+   "area": [
+    "상무지구"
+   ],
+   "lat": 35.1500123,
+   "lng": 126.8532294,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보약",
+    "3대째",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "UBJHmvn2GaiN",
+   "name": "오서산억새풀식당",
+   "branch": null,
+   "addr": "충청남도 홍성군 광천읍 담산리 499-4",
+   "road_addr": "충청남도 홍성군 광천읍 오서길351번길 16 오서산산촌마을센터",
+   "phone": "0507-1421-0710",
+   "category": "잔치국수, 들깨칼국수",
+   "area": [
+    "광천"
+   ],
+   "lat": 36.4814961,
+   "lng": 126.6389264,
+   "open_status": "영업 종료",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "로컬푸드"
+   ]
+  },
+  {
+   "rid": "npRNYdR6eeq7",
+   "name": "전류리사랑호",
+   "branch": null,
+   "addr": "경기도 김포시 하성면 전류리 63",
+   "road_addr": "경기도 김포시 하성면 금포로 1923 전류리 사랑호",
+   "phone": "0507-1444-3680",
+   "category": "생선회, 해산물",
+   "area": [
+    "김포"
+   ],
+   "lat": 37.6981364,
+   "lng": 126.6620221,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251019133551_photo1_cbe30effeff0.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "8ektqBxcYfBO",
+   "name": "조계산보리밥집",
+   "branch": null,
+   "addr": "전라남도 순천시 송광면 장안리 518",
+   "road_addr": "전라남도 순천시 송광면 굴목재길 240 1층",
+   "phone": "0507-1447-4170",
+   "category": "보리밥, 파전",
+   "area": [
+    "순천"
+   ],
+   "lat": 34.9849211,
+   "lng": 127.306812,
+   "open_status": "확인필요",
+   "score": 40,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "원조"
+   ]
+  },
+  {
+   "rid": "asBGLoyaHCMf",
+   "name": "하늘마당",
+   "branch": null,
+   "addr": "강원도 인제군 북면 월학리 1825-2",
+   "road_addr": "강원도 인제군 북면 냇강효자길 38",
+   "phone": "070-4133-8322",
+   "category": "막국수, 수육",
+   "area": [
+    "인제"
+   ],
+   "lat": 38.1443233,
+   "lng": 128.1926969,
+   "open_status": "영업 종료",
+   "score": 55,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230921084241139_photo_7bd61576b503.webp",
+   "tags": [
+    "한국인의밥상",
+    "현지인추천",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "DicUihgqn62e",
+   "name": "베드로횟집",
+   "branch": null,
+   "addr": "강원도 고성군 현내면 대진리 183-4",
+   "road_addr": "강원도 고성군 현내면 대진항길 57",
+   "phone": "033-682-0157",
+   "category": "횟집, 물회",
+   "area": [
+    "고성"
+   ],
+   "lat": 38.496916,
+   "lng": 128.427824,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230710073958322_photo_0d0f41d0270b.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "가성비좋은"
+   ]
+  },
+  {
+   "rid": "dUa66JfvDUSe",
+   "name": "하동집",
+   "branch": null,
+   "addr": "경상남도 진주시 대안동 8-425",
+   "road_addr": "경상남도 진주시 진양호로 553",
+   "phone": "055-741-1410",
+   "category": "복어, 복국",
+   "area": [
+    "진주"
+   ],
+   "lat": 35.19476,
+   "lng": 128.084982,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250409091831151_photo_7e931ac0bfcf.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "7SGszI5cPdn7",
+   "name": "솔밭묵집",
+   "branch": null,
+   "addr": "대전 유성구 관평동 542-7",
+   "road_addr": "대전 유성구 관용로 43 맨 밑층",
+   "phone": "0507-1316-5686",
+   "category": "도토리묵, 보리밥",
+   "area": [
+    "대전유성구"
+   ],
+   "lat": 36.4150596,
+   "lng": 127.3822655,
+   "open_status": "확인필요",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508120234_photo1_3331dba97d53.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "BcBtcR283plC",
+   "name": "조희숙의상록수향토음식체험장",
+   "branch": null,
+   "addr": "충청남도 당진시 송악읍 오곡리 120-2",
+   "road_addr": "충청남도 당진시 송악읍 송악로 784-14",
+   "phone": "010-8149-8110",
+   "category": "한정식, 향토음식점",
+   "area": [
+    "당진"
+   ],
+   "lat": 36.942884,
+   "lng": 126.755567,
+   "open_status": "오늘 휴무",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "향토음식"
+   ]
+  },
+  {
+   "rid": "8gokguoWqCnr",
+   "name": "내호냉면",
+   "branch": null,
+   "addr": "부산광역시 남구 우암동 189-671",
+   "road_addr": "부산광역시 남구 우암번영로26번길 17",
+   "phone": "0507-1333-6195",
+   "category": "밀면, 냉면",
+   "area": [
+    "문현동"
+   ],
+   "lat": 35.1264951,
+   "lng": 129.0708567,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.1,
+   "review_cnt": 26,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504102954935_photo_669129db5474.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "혼밥",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "gROQCkd421y6",
+   "name": "산골황태3대식당",
+   "branch": null,
+   "addr": "강원도 인제군 북면 용대리 330",
+   "road_addr": "강원도 인제군 북면 미시령로 1368",
+   "phone": "033-462-9361",
+   "category": "황태, 황태구이",
+   "area": [
+    "인제"
+   ],
+   "lat": 38.2128163,
+   "lng": 128.3592405,
+   "open_status": "오늘 휴무",
+   "score": 63,
+   "user_score": 3.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200826054745_photo1_oB7Vhsap7vlD.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장용",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "E8oWo3bMaNy9",
+   "name": "왕십리소곱창",
+   "branch": null,
+   "addr": "서울특별시 성동구 홍익동 128",
+   "road_addr": "서울특별시 성동구 고산자로 289",
+   "phone": "02-2282-6631",
+   "category": "곱창, 소곱창",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5654619,
+   "lng": 127.0362042,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250417115508_photo1_a0bf52a91216.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "캐주얼한",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "7uZ6dKnP6Eb6",
+   "name": "삽교곱창",
+   "branch": null,
+   "addr": "충청남도 당진시 채운동 268-14",
+   "road_addr": "충청남도 당진시 서부로 242-1",
+   "phone": "041-352-0506",
+   "category": "곱창, 곱창찌개",
+   "area": [
+    "당진"
+   ],
+   "lat": 36.8942545,
+   "lng": 126.6243291,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "노포",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "4kXeJBJOIGJ1",
+   "name": "닭내장탕집",
+   "branch": null,
+   "addr": "서울특별시 성동구 도선동 342",
+   "road_addr": "서울특별시 성동구 무학로2길 11",
+   "phone": "02-2295-9535",
+   "category": "닭요리",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5643174,
+   "lng": 127.0313044,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260430125300_photo1_82b1e9925256.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "POU5pTtjrgEe",
+   "name": "선창횟집",
+   "branch": null,
+   "addr": "경상남도 하동군 금남면 중평리 24",
+   "road_addr": "경상남도 하동군 금남면 중평해안길 139 선창횟집",
+   "phone": "0507-1412-2245",
+   "category": "우럭, 참숭어",
+   "area": [
+    "하동"
+   ],
+   "lat": 34.9737789,
+   "lng": 127.9100923,
+   "open_status": "라스트 오더 24분 전",
+   "score": 66,
+   "user_score": 4.6,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503035413_photo1_d672a5737782.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "경관/야경이좋은"
+   ]
+  },
+  {
+   "rid": "X2CmoIRyjH1d",
+   "name": "모란창평국밥",
+   "branch": null,
+   "addr": "전라남도 담양군 담양읍 객사리 170-3",
+   "road_addr": "전라남도 담양군 담양읍 객사7길 5",
+   "phone": "061-382-2668",
+   "category": "국밥, 암뽕",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.3231527,
+   "lng": 126.9857794,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 3.9,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251008135314_photo1_13346a3efb38.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "0kd9mqLh0KPz",
+   "name": "삼거리먼지막순대국",
+   "branch": null,
+   "addr": "서울특별시 영등포구 대림동 963-9",
+   "road_addr": "서울특별시 영등포구 시흥대로185길 11",
+   "phone": "0507-1310-2469",
+   "category": "순대국, 국밥",
+   "area": [
+    "대림동"
+   ],
+   "lat": 37.4917462,
+   "lng": 126.9072201,
+   "open_status": "오늘 휴무",
+   "score": 76,
+   "user_score": 4.1,
+   "review_cnt": 22,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260203100954_photo1_9d59c50a56ce.webp",
+   "tags": [
+    "수요미식회",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "3YUiPPXCVFIF",
+   "name": "감로헌",
+   "branch": null,
+   "addr": "전북특별자치도 전주시 완산구 경원동3가 14-2",
+   "road_addr": "전북특별자치도 전주시 완산구 현무1길 20 1층 감로헌",
+   "phone": "063-275-8811",
+   "category": "채식",
+   "area": [
+    "전주"
+   ],
+   "lat": 35.8209553,
+   "lng": 127.1490275,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 3.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250726101454_photo1_cb38fe178163.webp",
+   "tags": [
+    "한국인의밥상",
+    "건강식",
+    "건강한음식",
+    "대형룸"
+   ]
+  },
+  {
+   "rid": "q3digx6KWJ2h",
+   "name": "대흥식당",
+   "branch": null,
+   "addr": "강원도 인제군 남면 부평리 1078-1",
+   "road_addr": "강원도 인제군 남면 빙어마을길 28",
+   "phone": "033-461-2599",
+   "category": "메기탕, 메기찜",
+   "area": [
+    "인제"
+   ],
+   "lat": 37.9997556,
+   "lng": 128.1145574,
+   "open_status": "영업 종료",
+   "score": 44,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "향토음식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "SROKvo4xW7M3",
+   "name": "임진대가",
+   "branch": null,
+   "addr": "경기도 파주시 문산읍 임진리 8-21",
+   "road_addr": "경기도 파주시 문산읍 임진나루길 80",
+   "phone": "031-953-5174",
+   "category": "참게탕, 참게매운탕",
+   "area": [
+    "파주"
+   ],
+   "lat": 37.887965,
+   "lng": 126.7962449,
+   "open_status": "영업 중",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "깔끔한",
+    "반려동물동반"
+   ]
+  },
+  {
+   "rid": "Mncc534eXnBi",
+   "name": "제일전복횟집",
+   "branch": null,
+   "addr": "경상남도 사천시 서동 322-30",
+   "road_addr": "경상남도 사천시 어시장길 7 제일전복횟집",
+   "phone": "055-832-2040",
+   "category": "횟집, 하모샤브샤브",
+   "area": [
+    "사천"
+   ],
+   "lat": 34.9272731,
+   "lng": 128.0682092,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250804092111_photo1_e247c87602ef.webp",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "여름보양식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "c9tbR3CVut8b",
+   "name": "나주곰탕 노안집",
+   "branch": null,
+   "addr": "전라남도 나주시 금계동 23-5",
+   "road_addr": "전라남도 나주시 금성관길 1-3",
+   "phone": "061-333-2053",
+   "category": "곰탕, 수육곰탕",
+   "area": [
+    "나주"
+   ],
+   "lat": 35.0315035,
+   "lng": 126.7165259,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.6,
+   "review_cnt": 25,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519113723_photo1_6883ec65ce26.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "ELbGeXcalRfU",
+   "name": "이동부산갈비",
+   "branch": null,
+   "addr": "경기도 포천시 이동면 장암리 477-12",
+   "road_addr": "경기도 포천시 이동면 화동로 2111",
+   "phone": "031-532-4578",
+   "category": "한우, 이동갈비",
+   "area": [
+    "포천이동"
+   ],
+   "lat": 38.0361751,
+   "lng": 127.3665807,
+   "open_status": "영업 중",
+   "score": 48,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_25690215010054_photo1_59a07cdeffa3.webp",
+   "tags": [
+    "한국인의밥상",
+    "회식",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "FaQHPfnsbh0g",
+   "name": "산들바람",
+   "branch": null,
+   "addr": "경상남도 양산시 하북면 순지리 539-1",
+   "road_addr": "경상남도 양산시 하북면 신평강변로 82 산들바람",
+   "phone": "0507-1496-2222",
+   "category": "연잎밥, 민어",
+   "area": [
+    "통도사"
+   ],
+   "lat": 35.4929115,
+   "lng": 129.0812167,
+   "open_status": "오늘 휴무",
+   "score": 54,
+   "user_score": 4.2,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220504071342_photo1_8ae14928509a.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "조용한"
+   ]
+  },
+  {
+   "rid": "vPMEs1Sf8rE6",
+   "name": "정경복궁",
+   "branch": null,
+   "addr": "전라남도 함평군 함평읍 기각리 982-44",
+   "road_addr": "전라남도 함평군 함평읍 시장길 78",
+   "phone": "0507-1301-7983",
+   "category": "비빔밥, 육회비빔밥",
+   "area": [
+    "함평"
+   ],
+   "lat": 35.0636938,
+   "lng": 126.5238758,
+   "open_status": "영업 종료",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240128063439_photo1_f99acd53a503.webp",
+   "tags": [
+    "한국인의밥상",
+    "단체예약",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "41SRfuc2cMtf",
+   "name": "우렁골",
+   "branch": null,
+   "addr": "강원도 철원군 철원읍 화지리 128-17",
+   "road_addr": "강원도 철원군 철원읍 금학로 324 우렁골",
+   "phone": "033-455-8846",
+   "category": "콩국수, 서리태콩국수",
+   "area": [
+    "철원"
+   ],
+   "lat": 38.2164361,
+   "lng": 127.2125173,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210801021833_photo2_b4762f00408c.webp",
+   "tags": [
+    "한국인의밥상",
+    "배달",
+    "넓은",
+    "좌식"
+   ]
+  },
+  {
+   "rid": "gyJXQhauKX8m",
+   "name": "파도식당",
+   "branch": null,
+   "addr": "강원도 강릉시 주문진읍 주문리 270-36",
+   "road_addr": "강원도 강릉시 주문진읍 주문로 168",
+   "phone": "033-662-4166",
+   "category": "대구탕, 복지리",
+   "area": [
+    "주문진"
+   ],
+   "lat": 37.8950912,
+   "lng": 128.8325657,
+   "open_status": "확인필요",
+   "score": 58,
+   "user_score": 4.3,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241020120253_photo1_1f8d9c7d4730.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "jrU42VS0XFeh",
+   "name": "물레방아",
+   "branch": null,
+   "addr": "인천광역시 동구 화수동 35-28",
+   "road_addr": "인천광역시 동구 화수로 80-1",
+   "phone": "010-7373-0265",
+   "category": "한치, 한치무침",
+   "area": [
+    "인천"
+   ],
+   "lat": 37.4852038,
+   "lng": 126.6306071,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 4.1,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241110031556_photo1_2082c6c1bca6.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "술모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "e1XBfjCJTbIo",
+   "name": "두암식당",
+   "branch": null,
+   "addr": "전라남도 무안군 몽탄면 사창리 697-2",
+   "road_addr": "전라남도 무안군 몽탄면 우명길 52 몽탄 두암식당",
+   "phone": "0507-1375-3775",
+   "category": "삼겹살, 짚불구이",
+   "area": [
+    "무안"
+   ],
+   "lat": 34.9654297,
+   "lng": 126.5188828,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.4,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251116092757533_photo_68eaabbd3b73.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "Lkq6lCLJ5Iis",
+   "name": "박가네",
+   "branch": null,
+   "addr": "강원특별자치도 영월군 영월읍 덕포리 574-245",
+   "road_addr": "강원 영월군 영월읍 중앙로 149",
+   "phone": "033-375-6900",
+   "category": "한정식, 수라상",
+   "area": [
+    "영월"
+   ],
+   "lat": 37.1793047,
+   "lng": 128.477396,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.1,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503081920887_photo_a68f35500b4b.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "J5dZLIKoplKu",
+   "name": "텃밭에노는닭",
+   "branch": null,
+   "addr": "강원도 삼척시 도계읍 도계리 312",
+   "road_addr": "강원도 삼척시 도계읍 도계로 334",
+   "phone": "033-541-9989",
+   "category": "물닭갈비",
+   "area": [
+    "삼척"
+   ],
+   "lat": 37.2387459,
+   "lng": 129.0457094,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.8,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260421194947_photo1_302d86d256b9.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "HIEgiJ1JleLH",
+   "name": "송학식당",
+   "branch": null,
+   "addr": "서울특별시 금천구 독산동 292-11",
+   "road_addr": "서울특별시 금천구 범안로21길 8 . 1층 112~113호",
+   "phone": "02-804-7009",
+   "category": "한우, 육사시미",
+   "area": [
+    "독산동"
+   ],
+   "lat": 37.4669428,
+   "lng": 126.8968469,
+   "open_status": "영업 중",
+   "score": 50,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504142237_photo1_b807c02d9fbd.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족모임",
+    "국내산",
+    "포장"
+   ]
+  },
+  {
+   "rid": "hyx8MkCLN6gX",
+   "name": "장단가든",
+   "branch": null,
+   "addr": "경기도 파주시 문산읍 임진리 8-72",
+   "road_addr": "경기도 파주시 문산읍 임진나루길 133-12",
+   "phone": "031-954-1559",
+   "category": "어탕국수, 참게매운탕",
+   "area": [
+    "파주"
+   ],
+   "lat": 37.8860779,
+   "lng": 126.7942769,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250324122853448_photo_70cf6550b64f.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "twRlROQyGLJ6",
+   "name": "남해식당",
+   "branch": null,
+   "addr": "서울특별시 중구 남창동 60-15",
+   "road_addr": "서울특별시 중구 남대문시장4길 42-1",
+   "phone": "02-319-7245",
+   "category": "칼국수, 보리밥",
+   "area": [
+    "남대문시장"
+   ],
+   "lat": 37.5583269,
+   "lng": 126.9770283,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.4,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260219101846532_photo_495fcc50238c.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "fNcFYXRrDWas",
+   "name": "마돈나수산",
+   "branch": null,
+   "addr": "충청남도 홍성군 서부면 남당리 861",
+   "road_addr": "충청남도 홍성군 서부면 남당항로213번길 1 A동 1층 106호 마돈나회수산",
+   "phone": "0507-1370-8311",
+   "category": "새조개, 해산물",
+   "area": [
+    "남당항"
+   ],
+   "lat": 36.5390088,
+   "lng": 126.4702866,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221008071016_photo1_qdWZ8T0B0NQ1.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "2AGO4OrQ3XbI",
+   "name": "뚱뚱이할머니집",
+   "branch": "본점",
+   "addr": "서울특별시 중구 장충동1가 62-10",
+   "road_addr": "서울특별시 중구 장충단로 174-1",
+   "phone": "0507-1333-2714",
+   "category": "족발, 막국수",
+   "area": [
+    "장충동"
+   ],
+   "lat": 37.5604158,
+   "lng": 127.005961,
+   "open_status": "오늘 휴무",
+   "score": 76,
+   "user_score": 3.8,
+   "review_cnt": 28,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260225104529290_photo_2e92e47d9cce.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "배달",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "fy14tf2SlR66",
+   "name": "할머니묵집",
+   "branch": null,
+   "addr": "경기도 파주시 서패동 203-7",
+   "road_addr": "경기도 파주시 돌곶이길 108-5 1층",
+   "phone": "0507-1379-3017",
+   "category": "닭볶음탕, 토종닭볶음탕",
+   "area": [
+    "파주"
+   ],
+   "lat": 37.7139313,
+   "lng": 126.6949422,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 3.7,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250809083649_photo1_5355268cc369.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "1tyMubx2B6La",
+   "name": "진미식당",
+   "branch": null,
+   "addr": "전라북도 익산시 황등면 황등리 902-11",
+   "road_addr": "전라북도 익산시 황등면 황등로 158",
+   "phone": "063-856-4422",
+   "category": "육회, 육회비빔밥",
+   "area": [
+    "익산"
+   ],
+   "lat": 36.0058328,
+   "lng": 126.9448519,
+   "open_status": "영업 종료",
+   "score": 63,
+   "user_score": 3.2,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240611010931_photo1_26b88878bef8.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "wowsT3P2YsG6",
+   "name": "평남면옥",
+   "branch": null,
+   "addr": "경기도 동두천시 생연동 824-27",
+   "road_addr": "경기도 동두천시 생연로 127",
+   "phone": "031-865-2413",
+   "category": "평양냉면",
+   "area": [
+    "동두천"
+   ],
+   "lat": 37.9038952,
+   "lng": 127.0512317,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 3.6,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511070815_photo1_194a0dbe4b3a.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "IOjEE8v9R7aS",
+   "name": "영동횟집",
+   "branch": null,
+   "addr": "강원도 강릉시 강문동 226",
+   "road_addr": "강원도 강릉시 창해로350번길 37 영동횟집",
+   "phone": "0507-1386-6384",
+   "category": "모듬회, 횟집",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.79655,
+   "lng": 128.916643,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251109050425819_photo_7e5a556109af.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "4ztapD5xQCMR",
+   "name": "할매집",
+   "branch": null,
+   "addr": "서울특별시 종로구 내자동 108",
+   "road_addr": "서울특별시 종로구 사직로12길 1-5",
+   "phone": "02-735-2608",
+   "category": "족발, 감자탕",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5756601,
+   "lng": 126.9714754,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.3,
+   "review_cnt": 33,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260205021812_photo1_e4885f69084c.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "Btxf6zxGrI9X",
+   "name": "해성재첩식당",
+   "branch": null,
+   "addr": "경상남도 하동군 하동읍 신기리 346",
+   "road_addr": "경상남도 하동군 하동읍 섬진강대로 1877 해성식당",
+   "phone": "0507-1306-6635",
+   "category": "재첩, 재첩국",
+   "area": [
+    "하동"
+   ],
+   "lat": 35.0584634,
+   "lng": 127.7666799,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507095531_photo1_69c7f5c7e9c7.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "BLfRTDwngjKd",
+   "name": "바다하다",
+   "branch": null,
+   "addr": "전라남도 영광군 법성면 법성리 1228-6",
+   "road_addr": "전라남도 영광군 법성면 법성포로 69 바다하다",
+   "phone": "061-356-8227",
+   "category": "카페, 어묵전문",
+   "area": [
+    "영광"
+   ],
+   "lat": 35.3581514,
+   "lng": 126.4441818,
+   "open_status": "영업 종료",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "데이트코스",
+    "오션뷰",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "99GFycJmN20P",
+   "name": "누운골",
+   "branch": null,
+   "addr": "전라북도 남원시 산내면 부운리 371",
+   "road_addr": "전라북도 남원시 산내면 와운길 253",
+   "phone": "010-6557-1132",
+   "category": "백숙, 도토리묵",
+   "area": [
+    "지리산"
+   ],
+   "lat": 35.3625991,
+   "lng": 127.5924878,
+   "open_status": "확인필요",
+   "score": 49,
+   "user_score": 2.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231012102454_photo1_9f9d4dd606c5.webp",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "계곡",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "Rxr7IeSVO78S",
+   "name": "바우본가",
+   "branch": null,
+   "addr": "충청북도 제천시 의림동 40-8",
+   "road_addr": "충청북도 제천시 숭문로 88-9",
+   "phone": "043-652-9931",
+   "category": "한정식, 약초한정식",
+   "area": [
+    "제천"
+   ],
+   "lat": 37.1409153,
+   "lng": 128.2086625,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "가족모임",
+    "정갈한",
+    "정원"
+   ]
+  },
+  {
+   "rid": "LbUSNfAcRnYa",
+   "name": "세느제과",
+   "branch": null,
+   "addr": "경상북도 상주시 남성동 1-54",
+   "road_addr": "경상북도 상주시 중앙시장길 27",
+   "phone": "054-535-4803",
+   "category": "빵, 찹쌀떡",
+   "area": [
+    "상주"
+   ],
+   "lat": 36.4144157,
+   "lng": 128.16174,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260307104847_photo1_0be737a322c7.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "배달",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "tTFHOu5JDLoD",
+   "name": "간월도 밀양",
+   "branch": null,
+   "addr": "충청남도 서산시 부석면 간월도리 684-2",
+   "road_addr": "충청남도 서산시 부석면 간월도2길 36",
+   "phone": "041-669-1785",
+   "category": "횟집, 굴밥",
+   "area": [
+    "간월도"
+   ],
+   "lat": 36.6059577,
+   "lng": 126.4205202,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240815061332081_photo_c5eaadbdc74b.webp",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "깔끔한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "mu2m5hZGO3UN",
+   "name": "일미화평동냉면",
+   "branch": null,
+   "addr": "인천시 동구 화평동 288-4",
+   "road_addr": "인천광역시 동구 화평로 18",
+   "phone": "032-772-0040",
+   "category": "냉면, 수박",
+   "area": [
+    "동인천역"
+   ],
+   "lat": 37.4785075,
+   "lng": 126.629588,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 3.6,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424124748025_photo_01bed7ef13bf.webp",
+   "tags": [
+    "한국인의밥상",
+    "아이와함께",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "7OmrK5FIKyg9",
+   "name": "평안면옥",
+   "branch": null,
+   "addr": "서울특별시 서초구 서초동 1551-5",
+   "road_addr": "서울특별시 서초구 반포대로28길 31 1층",
+   "phone": "02-583-8892",
+   "category": "평양냉면",
+   "area": [
+    "서초역"
+   ],
+   "lat": 37.4909564,
+   "lng": 127.010124,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.2,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260307023924_photo1_OQsttOHxMH8D.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "깔끔한",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "IiKe0OUpdn9Q",
+   "name": "고두반",
+   "branch": null,
+   "addr": "경상북도 경주시 도지동 156-2",
+   "road_addr": "경상북도 경주시 대기실3길 11 대기실 3길 11",
+   "phone": "0507-1396-7489",
+   "category": "한정식, 농가맛집",
+   "area": [
+    "경주"
+   ],
+   "lat": 35.7940506,
+   "lng": 129.2770946,
+   "open_status": "영업 종료",
+   "score": 59,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250603093238_photo1_7b7f50449820.webp",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "무료주차",
+    "조용한"
+   ]
+  },
+  {
+   "rid": "Sv9vseo6G4Ja",
+   "name": "백암토종순대",
+   "branch": null,
+   "addr": "경기도 이천시 창전동 168-13",
+   "road_addr": "경기도 이천시 중리천로81번길 3",
+   "phone": "031-638-2828",
+   "category": "순대국, 선지",
+   "area": [
+    "이천"
+   ],
+   "lat": 37.2789205,
+   "lng": 127.4460977,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250215072314909_photo_52d0e2fe1873.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "얼큰한"
+   ]
+  },
+  {
+   "rid": "Qeu0zYL9ZjTm",
+   "name": "일직식당",
+   "branch": null,
+   "addr": "경상북도 안동시 운흥동 176-20",
+   "road_addr": "경상북도 안동시 경동로 676 일직식당",
+   "phone": "054-859-6012",
+   "category": "간고등어, 조림",
+   "area": [
+    "안동"
+   ],
+   "lat": 36.5707739,
+   "lng": 128.7791499,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.1,
+   "review_cnt": 37,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511023338_photo1_ad121bcdb7ca.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "kcAA3jG4bdWH",
+   "name": "호원정",
+   "branch": null,
+   "addr": "경상남도 남해군 창선면 지족리 148",
+   "road_addr": "경상남도 남해군 창선면 동부대로 1946",
+   "phone": "0507-1363-4626",
+   "category": "멸치쌈밥, 멸치회무침",
+   "area": [
+    "남해"
+   ],
+   "lat": 34.8367263,
+   "lng": 128.002118,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250619095928_photo1_dea7d8cfaea3.webp",
+   "tags": [
+    "한국인의밥상",
+    "단체예약",
+    "무료주차",
+    "예약"
+   ]
+  },
+  {
+   "rid": "jjHg3owh7WVP",
+   "name": "명월집",
+   "branch": null,
+   "addr": "인천광역시 중구 중앙동3가 4-46",
+   "road_addr": "인천광역시 중구 신포로23번길 41",
+   "phone": "032-773-7890",
+   "category": "백반, 김치찌개",
+   "area": [
+    "인천중구"
+   ],
+   "lat": 37.4720938,
+   "lng": 126.6228038,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 3.3,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240216112103_photo1_b0bd732794ce.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "식사모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "ZjVE2ljcbyrP",
+   "name": "동화가든",
+   "branch": "본점",
+   "addr": "강원도 강릉시 초당동 309-1",
+   "road_addr": "강원도 강릉시 초당순두부길77번길 15 동화가든",
+   "phone": "0507-1432-9885",
+   "category": "짬뽕순두부, 청국장",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7911711,
+   "lng": 128.9146711,
+   "open_status": "영업 중",
+   "score": 91,
+   "user_score": 4.3,
+   "review_cnt": 335,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519032133_photo1_66857bff888a.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "KeTOGdT4Y74G",
+   "name": "창원아구촌",
+   "branch": null,
+   "addr": "경상남도 창원시 의창구 서상동 453-2",
+   "road_addr": "경상남도 창원시 의창구 의창대로211번길 29",
+   "phone": "055-255-3317",
+   "category": "아구찜, 아구요리",
+   "area": [
+    "창원"
+   ],
+   "lat": 35.2642762,
+   "lng": 128.6203662,
+   "open_status": "확인필요",
+   "score": 48,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20201010065551_photo1_f6f01c1a622d.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "qR0HI5KyICoD",
+   "name": "대장군",
+   "branch": null,
+   "addr": "충청북도 충주시 수안보면 안보리 74-55",
+   "road_addr": "충청북도 충주시 수안보면 미륵송계로 105",
+   "phone": "0507-1431-1757",
+   "category": "꿩요리",
+   "area": [
+    "수안보"
+   ],
+   "lat": 36.8417606,
+   "lng": 128.0161749,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260104045830003_photo_96b341cc0f8c.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "lg6bIHYBXzyM",
+   "name": "대원식당",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동3가 1-64",
+   "road_addr": "서울특별시 용산구 한강대로62나길 16-1",
+   "phone": "02-795-1087",
+   "category": "생선구이, 생선구이백반",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5344019,
+   "lng": 126.9746958,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.5,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250421114942_photo1_394db3cb2fa0.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "qDuj0mthVz7t",
+   "name": "어부림",
+   "branch": null,
+   "addr": "경상남도 남해군 삼동면 물건리 261",
+   "road_addr": "경상남도 남해군 삼동면 동부대로 1126 어부림",
+   "phone": "055-867-3362",
+   "category": "멸치쌈밥, 갈치조림",
+   "area": [
+    "남해"
+   ],
+   "lat": 34.7993869,
+   "lng": 128.0438573,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251201073129338_photo_299a8c00fd83.webp",
+   "tags": [
+    "한국인의밥상",
+    "아이동반",
+    "깔끔한",
+    "정원"
+   ]
+  },
+  {
+   "rid": "MJV0vCt3w9v3",
+   "name": "오뎅식당",
+   "branch": null,
+   "addr": "경기도 의정부시 의정부동 220-58",
+   "road_addr": "경기도 의정부시 호국로1309번길 7",
+   "phone": "031-842-0423",
+   "category": "부대찌개, 부대볶음",
+   "area": [
+    "의정부"
+   ],
+   "lat": 37.7440927,
+   "lng": 127.0494505,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.1,
+   "review_cnt": 46,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260228235347_photo1_105bff9671c4.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "TjHHaWq8Ylqt",
+   "name": "우래옥",
+   "branch": "본점",
+   "addr": "서울특별시 중구 주교동 118-1",
+   "road_addr": "서울특별시 중구 창경궁로 62-29",
+   "phone": "02-2265-0151",
+   "category": "평양냉면",
+   "area": [
+    "을지로4가"
+   ],
+   "lat": 37.5682697,
+   "lng": 126.9987029,
+   "open_status": "영업 중",
+   "score": 91,
+   "user_score": 4.3,
+   "review_cnt": 251,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260520103229_photo1_a586c712f552.webp",
+   "tags": [
+    "수요미식회",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "JoJejHek5u8P",
+   "name": "청진옥",
+   "branch": null,
+   "addr": "서울특별시 종로구 청진동 183-1",
+   "road_addr": "서울특별시 종로구 종로3길 32",
+   "phone": "02-735-1690",
+   "category": "해장국, 선지",
+   "area": [
+    "광화문"
+   ],
+   "lat": 37.5717535,
+   "lng": 126.9794207,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.1,
+   "review_cnt": 94,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517121544_photo1_08f6a1973cf7.webp",
+   "tags": [
+    "수요미식회",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "pdVGcp9QJ5Ms",
+   "name": "봉피양",
+   "branch": "본점",
+   "addr": "서울특별시 송파구 방이동 205",
+   "road_addr": "서울특별시 송파구 양재대로71길 1-4",
+   "phone": "02-415-5527",
+   "category": "평양냉면, 돼지갈비",
+   "area": [
+    "방이"
+   ],
+   "lat": 37.510237,
+   "lng": 127.126039,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.1,
+   "review_cnt": 64,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250505004931_photo1_187523595553.jpg",
+   "tags": [
+    "수요미식회",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "8biwbMk3yQZI",
+   "name": "호남집",
+   "branch": null,
+   "addr": "서울시 종로구 종로5가 281-9",
+   "road_addr": "서울특별시 종로구 종로40가길 5",
+   "phone": "02-2279-0996",
+   "category": "생선구이",
+   "area": [
+    "동대문"
+   ],
+   "lat": 37.5702657,
+   "lng": 127.0063922,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 3.6,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260412014654_photo1_8327da1044a9.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "서민적인",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "h3hRx43nD7Vt",
+   "name": "처가집",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 432-117",
+   "road_addr": "서울특별시 중구 동호로11가길 22",
+   "phone": "02-2235-4589",
+   "category": "이북식찜닭, 백숙",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5530495,
+   "lng": 127.0081959,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250921131157_photo1_186410de0bd4.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "NB4eiD60jFmF",
+   "name": "통일집",
+   "branch": null,
+   "addr": "서울특별시 중구 충무로4가 1-20",
+   "road_addr": "서울특별시 중구 마른내로4길 31-3 통일집",
+   "phone": "0507-1467-0833",
+   "category": "한우, 소고기",
+   "area": [
+    "충무로"
+   ],
+   "lat": 37.5628269,
+   "lng": 126.99363,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "수요미식회",
+    "회식장소",
+    "노포",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "7a5MpbFwhGdH",
+   "name": "독립문영천시장 만나팥죽",
+   "branch": null,
+   "addr": "서울특별시 서대문구 영천동 323 영천시장 B열 31호",
+   "road_addr": "서울특별시 서대문구 통일로 189-1 영천시장 B열 31호",
+   "phone": null,
+   "category": "팥죽, 동지팥죽",
+   "area": [
+    "영천시장"
+   ],
+   "lat": 37.5703324,
+   "lng": 126.9618708,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "향토음식"
+   ]
+  },
+  {
+   "rid": "r2247lZhVEn0",
+   "name": "이북 만두",
+   "branch": null,
+   "addr": "서울특별시 중구 무교동 27",
+   "road_addr": "서울특별시 중구 무교로 17-13",
+   "phone": "0507-1410-3432",
+   "category": "만두국, 이북만두",
+   "area": [
+    "무교동"
+   ],
+   "lat": 37.5673053,
+   "lng": 126.9785551,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 2.9,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251117074936600_photo_b1e5aa706078.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "VWwhXZow29YG",
+   "name": "동영해장국",
+   "branch": null,
+   "addr": "서울특별시 성북구 하월곡동 96-87",
+   "road_addr": "서울특별시 성북구 오패산로 6",
+   "phone": null,
+   "category": "해장국, 선지해장국",
+   "area": [
+    "월곡역"
+   ],
+   "lat": 37.6031486,
+   "lng": 127.0381749,
+   "open_status": "확인필요",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "노포"
+   ]
+  },
+  {
+   "rid": "hc8tKwPbSxEp",
+   "name": "순대실록",
+   "branch": null,
+   "addr": "서울 종로구 동숭동 1-44",
+   "road_addr": "서울 종로구 동숭길 113 1층",
+   "phone": "02-742-5338",
+   "category": "순대국, 순대스테이크",
+   "area": [
+    "대학로"
+   ],
+   "lat": 37.5829946,
+   "lng": 127.0036997,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4,
+   "review_cnt": 78,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260426094715_photo1_706c77aaa7b6.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "FtDu3aYFvnyd",
+   "name": "영순이네 곱창",
+   "branch": null,
+   "addr": "서울특별시 종로구 창신동 687-43",
+   "road_addr": "서울특별시 종로구 창신2길 3",
+   "phone": "02-762-3777",
+   "category": "곱창, 야채곱창",
+   "area": [
+    "동대문"
+   ],
+   "lat": 37.572569,
+   "lng": 127.0104459,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220222080456_photo1_1dd1a86fe622.webp",
+   "tags": [
+    "한국인의밥상",
+    "회식장소",
+    "깔끔한",
+    "칸막이"
+   ]
+  },
+  {
+   "rid": "TbHBvvTWVSIo",
+   "name": "유진식당",
+   "branch": null,
+   "addr": "서울특별시 종로구 낙원동 221",
+   "road_addr": "서울특별시 종로구 종로17길 40",
+   "phone": "02-764-2835",
+   "category": "평양냉면",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.5720328,
+   "lng": 126.9882793,
+   "open_status": "오늘 휴무",
+   "score": 79,
+   "user_score": 4,
+   "review_cnt": 61,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260326103103_photo1_b19fa0ac6186.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "KBLEojRFkDKA",
+   "name": "오온",
+   "branch": null,
+   "addr": "서울특별시 종로구 낙원동 59-5 7층",
+   "road_addr": "서울특별시 종로구 삼일대로28길 8 7층",
+   "phone": "0507-1488-5551",
+   "category": "소고기",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.5734176,
+   "lng": 126.9884979,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "기념일",
+    "디너코스",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "NCshEhXNZZU6",
+   "name": "규반",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로1가 87",
+   "road_addr": "서울특별시 중구 을지로 29 1F 규반",
+   "phone": "0507-1322-1555",
+   "category": "파인다이닝, 한식",
+   "area": [
+    "을지로입구역"
+   ],
+   "lat": 37.566491,
+   "lng": 126.9810422,
+   "open_status": "브레이크 타임",
+   "score": 52,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210523204557_photo1_8f3f5f42c63f.webp",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "고급스러운",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "FZmA8yBg4Qfc",
+   "name": "야키토리 묵",
+   "branch": null,
+   "addr": "서울특별시 마포구 연남동 223-102",
+   "road_addr": "서울특별시 마포구 성미산로 165-1 1층 우측",
+   "phone": "0507-1405-2840",
+   "category": "야끼토리, 오마카세",
+   "area": [
+    "연남동"
+   ],
+   "lat": 37.5646016,
+   "lng": 126.9245525,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.6,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251220060627_photo1_ed931f9b415e.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "격식있는",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "ogrkd4BUoOu7",
+   "name": "올되다농장",
+   "branch": null,
+   "addr": "서울특별시 동대문구 장안동 307-4",
+   "road_addr": "서울특별시 동대문구 장한로 137 2층 올되다 농장",
+   "phone": "02-2232-0927",
+   "category": "샐러드, 브런치",
+   "area": [
+    "장안동"
+   ],
+   "lat": 37.5727588,
+   "lng": 127.0712573,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "amIKsofd0OrC",
+   "name": "해물데이트",
+   "branch": null,
+   "addr": "서울특별시 종로구 내자동 174",
+   "road_addr": "서울특별시 종로구 사직로8길 15-4 해물데이트",
+   "phone": "02-722-7722",
+   "category": "해산물, 다찌",
+   "area": [
+    "경복궁역"
+   ],
+   "lat": 37.5748764,
+   "lng": 126.9706136,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.8,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221112084723_photo1_G2xeXMmEOsgO.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "서민적인",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "0Sh2f8IJsOjZ",
+   "name": "따뚱",
+   "branch": null,
+   "addr": "서울특별시 서초구 잠원동 6-1 더리버사이드호텔 본관2층",
+   "road_addr": "서울특별시 서초구 강남대로107길 6 본관 2층",
+   "phone": "02-6710-1888",
+   "category": "베이징덕, 중식당",
+   "area": [
+    "신사역"
+   ],
+   "lat": 37.5186447,
+   "lng": 127.0180922,
+   "open_status": "브레이크 타임",
+   "score": 43,
+   "user_score": 4.2,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20211209071206_photo1_8f33a062ebd0.webp",
+   "tags": [
+    "한국인의밥상",
+    "기념일",
+    "발렛파킹",
+    "배달"
+   ]
+  },
+  {
+   "rid": "nNENluieMEcs",
+   "name": "문츠 바베큐",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동1가 656-1748",
+   "road_addr": "서울특별시 성동구 상원1길 22 1층 101호 문츠바베큐",
+   "phone": "0507-1311-3054",
+   "category": "바베큐, 플래터",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.545754,
+   "lng": 127.0483667,
+   "open_status": "오늘 휴무",
+   "score": 72,
+   "user_score": 4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251124075907542_photo_9f4754943cc7.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "UjUQR8C81b7q",
+   "name": "해변짚불곰장어",
+   "branch": null,
+   "addr": "부산광역시 기장군 기장읍 시랑리 563-1",
+   "road_addr": "부산광역시 기장군 기장읍 공수2길 11 해변짚불곰장어",
+   "phone": "051-721-4539",
+   "category": "꼼장어",
+   "area": [
+    "기장"
+   ],
+   "lat": 35.1854644,
+   "lng": 129.2115888,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 3.8,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250506073956_photo1_36c32c56eef7.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "xLe9skCTbyj9",
+   "name": "밀양집",
+   "branch": null,
+   "addr": "부산광역시 중구 부평동2가 12-7",
+   "road_addr": "부산광역시 중구 중구로47번길 35",
+   "phone": "051-245-5137",
+   "category": "돼지국밥",
+   "area": [
+    "부평동"
+   ],
+   "lat": 35.1021741,
+   "lng": 129.0259595,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260201102937408_photo_5130559d810f.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "80jX1ehlNV0I",
+   "name": "백화양곱창1호",
+   "branch": null,
+   "addr": "부산 중구 남포동6가 32",
+   "road_addr": "부산광역시 중구 자갈치로 23",
+   "phone": "051-257-3352",
+   "category": "양곱창, 양볶음밥",
+   "area": [
+    "자갈치시장"
+   ],
+   "lat": 35.0969449,
+   "lng": 129.0269971,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.2,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251106033605_photo1_47885fded84a.webp",
+   "tags": [
+    "백종원의3대천왕",
+    "술모임",
+    "시끌벅적한",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "kIs9wIrsAmbR",
+   "name": "금수복국",
+   "branch": "해운대본점",
+   "addr": "부산시 해운대구 중동 1394-65",
+   "road_addr": "부산광역시 해운대구 중동1로43번길 23",
+   "phone": "0507-1334-3600",
+   "category": "복어, 복국",
+   "area": [
+    "해운대"
+   ],
+   "lat": 35.1623811,
+   "lng": 129.1644303,
+   "open_status": "영업 중",
+   "score": 89,
+   "user_score": 4.2,
+   "review_cnt": 107,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260513123649_photo1_ae6c59ef90c7.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "5NKMUQXwPQMQ",
+   "name": "일광수산횟집",
+   "branch": null,
+   "addr": "부산광역시 기장군 일광읍 학리 214",
+   "road_addr": "부산 기장군 일광읍 학리등대로 74",
+   "phone": "051-724-4961",
+   "category": "횟집, 물회",
+   "area": [
+    "일광"
+   ],
+   "lat": 35.2577204,
+   "lng": 129.2452707,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4.5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251214075052_photo1_73pMtTnk09f0.webp",
+   "tags": [
+    "한국인의밥상",
+    "모임장소",
+    "오션뷰",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "jFcBEGpqasWi",
+   "name": "달뜨네",
+   "branch": null,
+   "addr": "부산광역시 서구 충무동1가 5-6",
+   "road_addr": "부산광역시 서구 구덕로118번길 18 . 1층 102호",
+   "phone": "051-244-2212",
+   "category": "고등어회",
+   "area": [
+    "자갈치역"
+   ],
+   "lat": 35.0971252,
+   "lng": 129.0240277,
+   "open_status": "오늘 휴무",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "Es9AGNKqAy2d",
+   "name": "몽",
+   "branch": null,
+   "addr": "부산광역시 해운대구 우동 647-7",
+   "road_addr": "부산광역시 해운대구 해운대해변로209번가길 11 . 2층",
+   "phone": "051-742-8994",
+   "category": "일식당, 오마카세",
+   "area": [
+    "해운대"
+   ],
+   "lat": 35.1598372,
+   "lng": 129.1551753,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251116011535_photo1_9e15439428a6.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "고급스러운",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "bG3nOEgOiS5D",
+   "name": "수연횟집",
+   "branch": null,
+   "addr": "부산광역시 강서구 녹산동 60-4",
+   "road_addr": "부산광역시 강서구 낙동남로682번가길 47",
+   "phone": "051-941-4609",
+   "category": "횟집, 수산물",
+   "area": [
+    "부산강서구"
+   ],
+   "lat": 35.1212781,
+   "lng": 128.8939806,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "TBQubwTQHT79",
+   "name": "원조 깡통골목 비빔당면",
+   "branch": null,
+   "addr": "부산광역시 중구 부평동2가 12-15",
+   "road_addr": "부산광역시 중구 중구로47번길 29 1층 원조비빔당면",
+   "phone": "0507-1451-4240",
+   "category": "비빔당면, 김밥",
+   "area": [
+    "부평동"
+   ],
+   "lat": 35.1021579,
+   "lng": 129.0263183,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251101011647105_menu_c0def01f55e0.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "SGmFOZtCZZ8R",
+   "name": "쿠노이치",
+   "branch": null,
+   "addr": "부산광역시 중구 대청동2가 22-7",
+   "road_addr": "부산광역시 중구 광복로49번길 37-3 2층",
+   "phone": "051-255-4255",
+   "category": "이자카야, 모츠나베",
+   "area": [
+    "부산중구"
+   ],
+   "lat": 35.1026282,
+   "lng": 129.0301317,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250318064631114_photo_db2c81a5ed6e.jpg",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "이국적/이색적",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "MQro6Y8dZble",
+   "name": "부산안면옥",
+   "branch": null,
+   "addr": "대구광역시 중구 공평동 8-4",
+   "road_addr": "대구광역시 중구 국채보상로125길 4-1",
+   "phone": "053-424-9389",
+   "category": "평양냉면",
+   "area": [
+    "대구중구"
+   ],
+   "lat": 35.8706355,
+   "lng": 128.5989685,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.3,
+   "review_cnt": 34,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511094733_photo1_69914cec7995.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "YxF37sEnd6vh",
+   "name": "왕거미식당",
+   "branch": null,
+   "addr": "대구시 중구 동인동4가 179",
+   "road_addr": "대구광역시 중구 국채보상로 696-8",
+   "phone": "053-427-6380",
+   "category": "뭉티기, 생고기",
+   "area": [
+    "동인동"
+   ],
+   "lat": 35.8685009,
+   "lng": 128.6067268,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.5,
+   "review_cnt": 31,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260103063832216_photo_QGoV43fH37Pu.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "지역주민이찾는",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "wUfLPTrDjfnj",
+   "name": "국일따로국밥",
+   "branch": null,
+   "addr": "대구광역시 중구 전동 7-1",
+   "road_addr": "대구광역시 중구 국채보상로 571",
+   "phone": "053-253-7623",
+   "category": "국밥, 따로국밥",
+   "area": [
+    "동성로"
+   ],
+   "lat": 35.87107,
+   "lng": 128.5931887,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.2,
+   "review_cnt": 31,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422103331_photo1_b67e52c3cc6c.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "sKHrkV3FMTU2",
+   "name": "제일콩국",
+   "branch": null,
+   "addr": "대구광역시 중구 남산동 2118-2",
+   "road_addr": "대구광역시 중구 남산로6안길 47",
+   "phone": "053-253-4863",
+   "category": "콩국, 토스트",
+   "area": [
+    "대구"
+   ],
+   "lat": 35.8568229,
+   "lng": 128.5862837,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.5,
+   "review_cnt": 25,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503001334_photo1_35e6f86e7d76.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "Iyhc8UTOOKII",
+   "name": "해금강",
+   "branch": null,
+   "addr": "대구광역시 동구 신암동 277-33",
+   "road_addr": "대구광역시 동구 신암남로 133",
+   "phone": "053-954-2323",
+   "category": "복어, 복어요리",
+   "area": [
+    "동대구역"
+   ],
+   "lat": 35.8816826,
+   "lng": 128.6294123,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221124013856_photo1_a2accf8dbf73.webp",
+   "tags": [
+    "한국인의밥상",
+    "접대",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "G3mQnXfjaN4h",
+   "name": "운수좋은날",
+   "branch": null,
+   "addr": "대구시 동구 신암동 597-21",
+   "road_addr": "대구광역시 동구 아양로9길 6-3",
+   "phone": "053-959-2759",
+   "category": "치킨, 닭똥집",
+   "area": [
+    "대구동구"
+   ],
+   "lat": 35.88279,
+   "lng": 128.6193499,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "야식",
+    "배달",
+    "술안주"
+   ]
+  },
+  {
+   "rid": "bYbM26UI7cZI",
+   "name": "유성분식",
+   "branch": null,
+   "addr": "인천시 중구 내동 209-57",
+   "road_addr": "인천광역시 중구 우현로49번길 6",
+   "phone": "032-765-2292",
+   "category": "분식, 떡볶이",
+   "area": [
+    "신포시장"
+   ],
+   "lat": 37.4717633,
+   "lng": 126.6279877,
+   "open_status": "오늘 휴무",
+   "score": 73,
+   "user_score": 3.5,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260114223555_photo1_cf0e7affc2f1.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "서민적인",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "gDj1lm4bIOm3",
+   "name": "풍미",
+   "branch": null,
+   "addr": "인천광역시 중구 선린동 32-6",
+   "road_addr": "인천광역시 중구 차이나타운로 56",
+   "phone": "032-772-2680",
+   "category": "짜장면, 중국집",
+   "area": [
+    "차이나타운"
+   ],
+   "lat": 37.4747816,
+   "lng": 126.61847,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260124153515_photo1_a2e1b1990f36.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "이국적/이색적",
+    "셀프코너"
+   ]
+  },
+  {
+   "rid": "kjdRuYcmryv2",
+   "name": "경인면옥",
+   "branch": null,
+   "addr": "인천광역시 중구 내동 154",
+   "road_addr": "인천광역시 중구 신포로46번길 38",
+   "phone": "0507-1404-5770",
+   "category": "평양냉면",
+   "area": [
+    "신포시장"
+   ],
+   "lat": 37.4725546,
+   "lng": 126.6282491,
+   "open_status": "오늘 휴무",
+   "score": 73,
+   "user_score": 4.2,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504085515_photo1_5e30e3569269.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "3pr7SLQQQnlu",
+   "name": "까치기사식당",
+   "branch": null,
+   "addr": "인천시 부평구 십정동 356-13",
+   "road_addr": "인천광역시 부평구 백범로 526 1층",
+   "phone": "0507-1478-1743",
+   "category": "굴요리, 기사식당",
+   "area": [
+    "부평구"
+   ],
+   "lat": 37.4717323,
+   "lng": 126.6941089,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.3,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250614082045198_photo_64c68c730503.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "u8xAwH8FpOpg",
+   "name": "소망호",
+   "branch": null,
+   "addr": "인천광역시 강화군 길상면 선두리 1043-10",
+   "road_addr": "인천광역시 강화군 길상면 해안남로619번길 24",
+   "phone": "032-937-1228",
+   "category": "생선회, 놀래미",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.5974328,
+   "lng": 126.4956439,
+   "open_status": "영업 중",
+   "score": 54,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "단체예약",
+    "시원",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "3aO8gTel34qA",
+   "name": "소반정",
+   "branch": null,
+   "addr": "인천광역시 강화군 불은면 두운리 927",
+   "road_addr": "인천광역시 강화군 불은면 불은남로477번길 20-1",
+   "phone": "032-937-5547",
+   "category": "젓국갈비, 토속음식",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.6773892,
+   "lng": 126.4916988,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님과함께",
+    "향토음식",
+    "반려동물동반"
+   ]
+  },
+  {
+   "rid": "GQoEucOZ596f",
+   "name": "미미진",
+   "branch": null,
+   "addr": "인천광역시 중구 북성동3가 3-9",
+   "road_addr": "인천광역시 중구 차이나타운로 27 지하 1, 2, 3층",
+   "phone": "0507-1331-8989",
+   "category": "중식당, 딤섬",
+   "area": [
+    "인천차이나타운"
+   ],
+   "lat": 37.4767641,
+   "lng": 126.6193171,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.2,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250907102541_photo1_36ef1db3c1e7.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "이국적/이색적",
+    "포장"
+   ]
+  },
+  {
+   "rid": "DThQVDld99x5",
+   "name": "형제호",
+   "branch": null,
+   "addr": "인천 강화군 하점면 창후리 796-15",
+   "road_addr": "인천광역시 강화군 하점면 창후로 311",
+   "phone": "032-933-6208",
+   "category": "해물요리",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.7694857,
+   "lng": 126.3558571,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "1XacoOR1Wlbk",
+   "name": "영흥가든",
+   "branch": null,
+   "addr": "인천광역시 옹진군 영흥면 내리 11-3",
+   "road_addr": "인천광역시 옹진군 영흥면 영흥북로35번길 80",
+   "phone": "032-886-3911",
+   "category": "칼국수, 꽃게탕",
+   "area": [
+    "영흥도"
+   ],
+   "lat": 37.2595752,
+   "lng": 126.4992497,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "저염식"
+   ]
+  },
+  {
+   "rid": "PQPFnhkioom6",
+   "name": "빛고을흑염소",
+   "branch": null,
+   "addr": "광주광역시 서구 치평동 1002-4",
+   "road_addr": "광주광역시 서구 내방로 19 빛고을흑염소",
+   "phone": "062-384-7300",
+   "category": "흑염소, 흑염소탕",
+   "area": [
+    "상무지구"
+   ],
+   "lat": 35.1591784,
+   "lng": 126.8427311,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "정갈한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "1bUuMDZ3FAv6",
+   "name": "해자네가자",
+   "branch": null,
+   "addr": "대전광역시 서구 괴정동 53-10",
+   "road_addr": "대전광역시 서구 괴정로 107",
+   "phone": "042-525-5629",
+   "category": "민물새우탕, 새뱅이",
+   "area": [
+    "괴정동"
+   ],
+   "lat": 36.3380318,
+   "lng": 127.3853385,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "f7PT8uAvHqgj",
+   "name": "만복래숯불구이",
+   "branch": null,
+   "addr": "울산광역시 울주군 두동면 봉계리 871-7",
+   "road_addr": "울산광역시 울주군 두동면 두동로 1789",
+   "phone": "052-262-7255",
+   "category": "한우, 소고기",
+   "area": [
+    "경주"
+   ],
+   "lat": 35.7098629,
+   "lng": 129.2023684,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "숯불",
+    "유아의자"
+   ]
+  },
+  {
+   "rid": "NMfZNlOGVzQf",
+   "name": "한국인의밥상",
+   "branch": "세종",
+   "addr": "세종특별자치시 연동면 내판리 646-16",
+   "road_addr": "세종특별자치시 연동면 새말다복동길 78-4",
+   "phone": null,
+   "category": "한식",
+   "area": [
+    null
+   ],
+   "lat": 36.5522363,
+   "lng": 127.3200958,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": []
+  },
+  {
+   "rid": "RvwKb86u6ctv",
+   "name": "신동태",
+   "branch": null,
+   "addr": "경기도 화성시 동탄구 장지동 817-1",
+   "road_addr": "경기도 화성시 동탄구 경기동로 491",
+   "phone": "031-378-4682",
+   "category": "동태탕",
+   "area": [
+    "화성"
+   ],
+   "lat": 37.1516938,
+   "lng": 127.124792,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.4,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260127120253140_photo_cb6765d85516.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "pkRzdlg3igr3",
+   "name": "기천맛집",
+   "branch": null,
+   "addr": "경기도 화성시 만세구 팔탄면 기천리 63",
+   "road_addr": "경기도 화성시 만세구 팔탄면 건달산로 186-1",
+   "phone": "031-354-6865",
+   "category": "백숙, 한방누룽지백숙",
+   "area": [
+    "화성"
+   ],
+   "lat": 37.1890616,
+   "lng": 126.9088839,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양음식",
+    "향토음식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "26Iijvftmph1",
+   "name": "예봉산장",
+   "branch": null,
+   "addr": "경기도 남양주시 와부읍 팔당리 13-1",
+   "road_addr": "경기도 남양주시 와부읍 팔당로221번길 11-32 예봉산장",
+   "phone": "031-576-1134",
+   "category": "송어회",
+   "area": [
+    "팔당"
+   ],
+   "lat": 37.5423562,
+   "lng": 127.2561599,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님과함께",
+    "한옥집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "SmQYESdYEwLq",
+   "name": "화이트 크로우 브루잉",
+   "branch": null,
+   "addr": "강원 평창군 방림면 계촌리 2470",
+   "road_addr": "강원도 평창군 방림면 고원로 65 화이트 크로우 브루잉",
+   "phone": "0507-1498-1280",
+   "category": "수제맥주, 부루어리",
+   "area": [
+    "평창"
+   ],
+   "lat": 37.4759877,
+   "lng": 128.2515516,
+   "open_status": "마지막 주문 마감",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230109092149628_photo_21427eb1005c.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "무료주차",
+    "경관/야경이좋은"
+   ]
+  },
+  {
+   "rid": "yRZyI62PRRwd",
+   "name": "아지트",
+   "branch": null,
+   "addr": "강원도 속초시 영랑동 147-118",
+   "road_addr": "강원도 속초시 영랑해안길 133-7",
+   "phone": "033-637-4838",
+   "category": "대하구이, 꽃새우",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.2156805,
+   "lng": 128.5963029,
+   "open_status": "오늘 휴무",
+   "score": 67,
+   "user_score": 3.7,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423200545_photo1_fbe01ddae3a8.webp",
+   "tags": [
+    "한국인의밥상",
+    "시끌벅적한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "2RdYJiHfmGDY",
+   "name": "원조숯불닭불고기",
+   "branch": null,
+   "addr": "강원도 춘천시 중앙로2가 66-2",
+   "road_addr": "강원도 춘천시 낙원길 28-4",
+   "phone": "0507-1362-5326",
+   "category": "닭갈비, 숯불닭갈비",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.8788168,
+   "lng": 127.7253495,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.3,
+   "review_cnt": 56,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251004073022_photo1_d5ed4ff1b35c.webp",
+   "tags": [
+    "수요미식회",
+    "술모임",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "QqWk1YV559NT",
+   "name": "황해횟집",
+   "branch": null,
+   "addr": "강원도 동해시 묵호진동 2-447",
+   "road_addr": "강원도 동해시 일출로 189",
+   "phone": "033-532-7300",
+   "category": "곰치국, 물회",
+   "area": [
+    "동해"
+   ],
+   "lat": 37.5591161,
+   "lng": 129.1199286,
+   "open_status": "영업 종료",
+   "score": 71,
+   "user_score": 4.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251128110035_photo1_657e24cc9614.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "lujQqRKcRp6F",
+   "name": "김서방네 닭갈비",
+   "branch": null,
+   "addr": "강원특별자치도 태백시 황지동 39-33",
+   "road_addr": "강원특별자치도 태백시 시장북2길 5-2",
+   "phone": "033-553-6378",
+   "category": "물닭갈비",
+   "area": [
+    "태백"
+   ],
+   "lat": 37.1735112,
+   "lng": 128.9920832,
+   "open_status": "오늘 휴무",
+   "score": 60,
+   "user_score": 4,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230129093327350_photo_289eb938818f.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "YKWikpJv8mjV",
+   "name": "원조태성실비식당",
+   "branch": null,
+   "addr": "강원도 태백시 황지동 201-3",
+   "road_addr": "강원도 태백시 감천로 4",
+   "phone": "033-552-5287",
+   "category": "한우, 소고기",
+   "area": [
+    "태백"
+   ],
+   "lat": 37.1589514,
+   "lng": 128.9866183,
+   "open_status": "오늘 휴무",
+   "score": 75,
+   "user_score": 4.8,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251229110758_photo1_61e82bf57bc4.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "w9QtJDO9HFoS",
+   "name": "송천약수집",
+   "branch": null,
+   "addr": "강원도 강릉시 연곡면 삼산리 1199",
+   "road_addr": "강원도 강릉시 연곡면 진고개로 594",
+   "phone": "033-661-3333",
+   "category": "백숙, 감자전",
+   "area": [
+    "월정사"
+   ],
+   "lat": 37.8120399,
+   "lng": 128.6302957,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "jl4u6a1EVUdx",
+   "name": "주문진홍게",
+   "branch": null,
+   "addr": "강원도 강릉시 주문진읍 교항리 1252-13",
+   "road_addr": "강원도 강릉시 주문진읍 신리천로 21",
+   "phone": "0507-1463-1153",
+   "category": "홍게, 홍게무한리필",
+   "area": [
+    "주문진"
+   ],
+   "lat": 37.8853175,
+   "lng": 128.828337,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 3.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260106103614_photo1_349862ae8957.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "yEsYGHOVWWSc",
+   "name": "숲밥",
+   "branch": null,
+   "addr": "강원도 양구군 해안면 현리 52",
+   "road_addr": "강원 양구군 해안면 펀치볼로1316번길 14",
+   "phone": null,
+   "category": "콩탕, 화채",
+   "area": [
+    "양구"
+   ],
+   "lat": 38.2859179,
+   "lng": 128.1395844,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "숲속"
+   ]
+  },
+  {
+   "rid": "f8sH3nL29Jmg",
+   "name": "육해공식당",
+   "branch": null,
+   "addr": "강원도 철원군 갈말읍 신철원리 692-4",
+   "road_addr": "강원도 철원군 갈말읍 삼부연로18번길 8-14",
+   "phone": "033-452-2320",
+   "category": "두부두루치기, 능이버섯",
+   "area": [
+    "철원"
+   ],
+   "lat": 38.144941,
+   "lng": 127.3092696,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "배달",
+    "현지인"
+   ]
+  },
+  {
+   "rid": "UykmY0JXJZLF",
+   "name": "우미닭갈비",
+   "branch": "본점",
+   "addr": "강원도 춘천시 조양동 50-4",
+   "road_addr": "강원도 춘천시 금강로62번길 4",
+   "phone": "033-253-2428",
+   "category": "닭갈비, 볶음밥",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.8796219,
+   "lng": 127.7280896,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.8,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251231091835_photo1_5c6e629d6a3e.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "HxetNYGGEVal",
+   "name": "속초우리홍게랑",
+   "branch": null,
+   "addr": "강원특별자치도 속초시 청학동 482-382",
+   "road_addr": "강원특별자치도 속초시 청학로 16 1층",
+   "phone": "0507-1384-8318",
+   "category": "홍게, 대게",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.2011387,
+   "lng": 128.5837702,
+   "open_status": "영업 중",
+   "score": 40,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250129140044_photo1_ec4c48624f21.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "배달",
+    "현지인맛집"
+   ]
+  },
+  {
+   "rid": "BbWDMoK7RFHe",
+   "name": "홍천잣떡",
+   "branch": null,
+   "addr": "강원특별자치도 홍천군 홍천읍 상오안리 612-2",
+   "road_addr": "강원도 홍천군 홍천읍 양지말길 11",
+   "phone": "033-435-2359",
+   "category": "떡집, 김밥",
+   "area": [
+    "홍천"
+   ],
+   "lat": 37.659064,
+   "lng": 127.8300928,
+   "open_status": "영업 종료 24분 전",
+   "score": 74,
+   "user_score": 4.1,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501172004_photo1_be536599d76f.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "F4nEqMhlgB3j",
+   "name": "깨 로스터리 옥희방앗간",
+   "branch": null,
+   "addr": "강원특별자치도 원주시 행구동 1759-1",
+   "road_addr": "강원특별자치도 원주시 행구로 145 (행구동)",
+   "phone": "0507-1302-9246",
+   "category": "카페, 들기름",
+   "area": [
+    "원주"
+   ],
+   "lat": 37.3423642,
+   "lng": 127.9720195,
+   "open_status": "오늘 휴무",
+   "score": 67,
+   "user_score": 5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251105112208_photo1_4ae514f863ee.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "깔끔한",
+    "로스터리"
+   ]
+  },
+  {
+   "rid": "7JyJSdxCuux2",
+   "name": "아마이홍게",
+   "branch": null,
+   "addr": "강원도 속초시 청호동 922",
+   "road_addr": "강원도 속초시 아바이마을길 3-4",
+   "phone": "033-633-9019",
+   "category": "홍게, 홍게라면",
+   "area": [
+    "속초"
+   ],
+   "lat": 38.2018991,
+   "lng": 128.5938257,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 4.1,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230429083414619_photo_2ebc5203c8b2.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "서민적인",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "Ve0oeHEOaiIV",
+   "name": "만항할매닭집",
+   "branch": null,
+   "addr": "강원도 정선군 고한읍 고한리 산214",
+   "road_addr": "강원도 정선군 고한읍 함백산로 1104",
+   "phone": "033-591-3136",
+   "category": "백숙, 녹두오리백숙",
+   "area": [
+    "정선"
+   ],
+   "lat": 37.1590754,
+   "lng": 128.9008747,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "배달",
+    "예약"
+   ]
+  },
+  {
+   "rid": "G0ASXbn6hRgC",
+   "name": "낙타민박",
+   "branch": null,
+   "addr": "강원도 화천군 화천읍 동촌리 2426-2",
+   "road_addr": "강원도 화천군 화천읍 비수구미길 944",
+   "phone": "033-442-0554",
+   "category": "산채백반, 토종닭",
+   "area": [
+    "화천"
+   ],
+   "lat": 38.1596005,
+   "lng": 127.85942,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "owkg4IEyPZEt",
+   "name": "사천물회전문",
+   "branch": null,
+   "addr": "강원도 강릉시 사천면 사천진리 86-69",
+   "road_addr": "강원도 강릉시 사천면 진리항구1길 36",
+   "phone": "033-644-0018",
+   "category": "물회, 전복죽",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.8378409,
+   "lng": 128.8749136,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190910112325_photo1_9b25ac4eeec5.webp",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "깔끔한",
+    "반려동물동반"
+   ]
+  },
+  {
+   "rid": "C6YIyKrCb768",
+   "name": "일출횟집",
+   "branch": null,
+   "addr": "강원도 강릉시 주문진읍 주문리 312-424",
+   "road_addr": "강원도 강릉시 주문진읍 시장2길 4 일출횟집",
+   "phone": "0507-1356-6707",
+   "category": "횟집, 수산",
+   "area": [
+    "주문진"
+   ],
+   "lat": 37.8909943,
+   "lng": 128.8279971,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.8,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260413083548047_photo_d112671ec343.webp",
+   "tags": [
+    "한국인의밥상",
+    "술모임",
+    "배달",
+    "가성비좋은"
+   ]
+  },
+  {
+   "rid": "Hh4g6AyI2oUL",
+   "name": "함흥냉면옥",
+   "branch": null,
+   "addr": "강원도 춘천시 조양동 24-1",
+   "road_addr": "강원도 춘천시 시청길 16-1",
+   "phone": "033-254-4994",
+   "category": "회냉면",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.880309,
+   "lng": 127.7296755,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.1,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240425082433_profile_photo1_AY3vP9Gv91m4.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "시끌벅적한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "mMGBUGPNDamQ",
+   "name": "헌화로횟집",
+   "branch": null,
+   "addr": "강원도 강릉시 강동면 심곡리 99",
+   "road_addr": "강원도 강릉시 강동면 헌화로 645 헌화로횟집",
+   "phone": "0507-1312-5191",
+   "category": "횟집, 물회",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.6649421,
+   "lng": 129.0527187,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "배달",
+    "오션뷰"
+   ]
+  },
+  {
+   "rid": "3pzVCYdEQl8C",
+   "name": "사천포구횟집",
+   "branch": null,
+   "addr": "강원도 강릉시 사천면 사천진리 86-104",
+   "road_addr": "강원도 강릉시 사천면 진리항구길 35 사천포구횟집",
+   "phone": "0507-1347-8183",
+   "category": "물회, 횟집",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.8362394,
+   "lng": 128.8752925,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 3.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251130102600_photo1_7302e9f5a0b9.webp",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "vFgoMB7uluLW",
+   "name": "명성횟집",
+   "branch": null,
+   "addr": "강원도 강릉시 강동면 안인진리 24-1",
+   "road_addr": "강원도 강릉시 강동면 갯목길 62 명성횟집",
+   "phone": "0507-1366-6291",
+   "category": "횟집, 참가자미",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.73863,
+   "lng": 128.9857605,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "3대째",
+    "포장"
+   ]
+  },
+  {
+   "rid": "IkKnetIfTUGy",
+   "name": "깊은산골",
+   "branch": null,
+   "addr": "강원도 홍천군 내면 광원리 452-2",
+   "road_addr": "강원도 홍천군 내면 을수길 96",
+   "phone": "0507-1498-3989",
+   "category": "두부전골, 두부요리",
+   "area": [
+    "홍천"
+   ],
+   "lat": 37.8174011,
+   "lng": 128.4541991,
+   "open_status": "확인필요",
+   "score": 52,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200724094312_photo01_7oVlih8S1sCT.webp",
+   "tags": [
+    "한국인의밥상",
+    "단체회식",
+    "예약",
+    "반려동물동반"
+   ]
+  },
+  {
+   "rid": "pdvaJzgYunJc",
+   "name": "포앤박강릉쌀국수",
+   "branch": null,
+   "addr": "강원특별자치도 강릉시 회산동 195-21",
+   "road_addr": "강원특별자치도 강릉시 관솔길12번길 14-3",
+   "phone": "0507-1387-7179",
+   "category": "쌀국수, 베트남",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7399672,
+   "lng": 128.8676221,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250731104531_photo1_e257cf411672.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "NXGq40sXJri1",
+   "name": "물레방아쉼터",
+   "branch": null,
+   "addr": "강원도 영월군 영월읍 정양리 119",
+   "road_addr": "강원 영월군 영월읍 중앙로 803",
+   "phone": "033-375-6161",
+   "category": "매운탕, 민물매운탕",
+   "area": [
+    "영월"
+   ],
+   "lat": 37.148551,
+   "lng": 128.5179845,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "얼큰한"
+   ]
+  },
+  {
+   "rid": "3ORtrzcna3lv",
+   "name": "할머니의 부엌",
+   "branch": null,
+   "addr": "강원도 삼척시 정하동 143-1",
+   "road_addr": "강원도 삼척시 나리골길 21",
+   "phone": null,
+   "category": "김치찌개, 가자미무침",
+   "area": [
+    "삼척"
+   ],
+   "lat": 37.4395446,
+   "lng": 129.1872826,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "예쁜",
+    "바다가보이는"
+   ]
+  },
+  {
+   "rid": "oDjv18SNOfDO",
+   "name": "성훈",
+   "branch": null,
+   "addr": "강원도 강릉시 견소동 286-4",
+   "road_addr": "강원도 강릉시 창해로14번길 55-7 강릉항회센터 성훈",
+   "phone": "0507-1421-3389",
+   "category": "삼치, 고등어",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7709262,
+   "lng": 128.9514617,
+   "open_status": "확인필요",
+   "score": 40,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "예약",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "noludeDS2jQp",
+   "name": "제천빨간오뎅",
+   "branch": null,
+   "addr": "충청북도 제천시 남천동 1155",
+   "road_addr": "충청북도 제천시 의병대로18길 2",
+   "phone": "010-3570-0601",
+   "category": "떡볶이, 빨간오뎅",
+   "area": [
+    "제천"
+   ],
+   "lat": 37.1355129,
+   "lng": 128.211966,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 3.6,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260406112351965_photo_349be84c2b97.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "6TqVFPvjtdAd",
+   "name": "무진장집",
+   "branch": null,
+   "addr": "충청남도 예산군 예산읍 산성리 755",
+   "road_addr": "충청남도 예산군 예산읍 산성공원2길 16",
+   "phone": "041-332-8112",
+   "category": "백숙, 한방능이오리백숙",
+   "area": [
+    "예산"
+   ],
+   "lat": 36.6923288,
+   "lng": 126.8345758,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240717211831_photo1_07ca29ca9bfa.webp",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "깔끔한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "SO0wCi2nPxqk",
+   "name": "흥업묵집",
+   "branch": null,
+   "addr": "충청남도 보령시 주교면 송학리 422",
+   "road_addr": "충청남도 보령시 주교면 토정로 878-11",
+   "phone": "041-933-7225",
+   "category": "묵무침, 초계탕",
+   "area": [
+    "보령"
+   ],
+   "lat": 36.3833867,
+   "lng": 126.5213336,
+   "open_status": "영업 중",
+   "score": 44,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "정갈한",
+    "정원"
+   ]
+  },
+  {
+   "rid": "Jm8dTgo1ouyH",
+   "name": "이레횟집",
+   "branch": null,
+   "addr": "충청남도 홍성군 서부면 남당리 505-10",
+   "road_addr": "충청남도 홍성군 서부면 남당항로213번길 12",
+   "phone": "041-631-2750",
+   "category": "새조개, 대하",
+   "area": [
+    "남당항"
+   ],
+   "lat": 36.5397252,
+   "lng": 126.4710029,
+   "open_status": "영업 중",
+   "score": 40,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200229013205196_photo_30c87a56028e.webp",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "깔끔한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "8su8nYBJSMgp",
+   "name": "서동한우",
+   "branch": "부여본점",
+   "addr": "충청남도 부여군 부여읍 관북리 118-2",
+   "road_addr": "충청남도 부여군 부여읍 성왕로 256",
+   "phone": "0507-1427-7596",
+   "category": "한우, 숙성한우",
+   "area": [
+    "부여"
+   ],
+   "lat": 36.2831667,
+   "lng": 126.9154104,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 3.6,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250811103122507_photo_3202aa2f5ebe.webp",
+   "tags": [
+    "수요미식회",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "RJxWQQN5AhYY",
+   "name": "해녀서해바다",
+   "branch": null,
+   "addr": "충청남도 태안군 근흥면 신진도리 522-24",
+   "road_addr": "충청남도 태안군 근흥면 신진부두길 108",
+   "phone": "041-675-1032",
+   "category": "횟집, 캠핑",
+   "area": [
+    "태안"
+   ],
+   "lat": 36.681225,
+   "lng": 126.1353389,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.7,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231211083947759_photo_3dbdb59e9149.webp",
+   "tags": [
+    "한국인의밥상",
+    "낮술",
+    "시원한",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "vkGKJ4ihAH3Z",
+   "name": "청수굴집수산",
+   "branch": null,
+   "addr": "충청남도 보령시 천북면 장은리 산205",
+   "road_addr": "충청남도 보령시 천북면 홍보로 1061 6동9호",
+   "phone": "0507-1424-2886",
+   "category": "굴찜, 굴전",
+   "area": [
+    "천북"
+   ],
+   "lat": 36.5071188,
+   "lng": 126.4838605,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 4.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241228060107_photo1_KvOfSuNnt6JM.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "3cC4GNe08T5l",
+   "name": "황산옥",
+   "branch": null,
+   "addr": "충청남도 논산시 강경읍 황산리 81-16",
+   "road_addr": "충청남도 논산시 강경읍 금백로 34",
+   "phone": "041-745-1836",
+   "category": "복어, 복탕",
+   "area": [
+    "논산"
+   ],
+   "lat": 36.1564825,
+   "lng": 127.0093002,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "노포",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "gX8lxuACpf3L",
+   "name": "충남집순대",
+   "branch": null,
+   "addr": "충청남도 천안시 동남구 병천면 병천리 166-21",
+   "road_addr": "충청남도 천안시 동남구 병천면 충절로 1748",
+   "phone": "041-564-1079",
+   "category": "순대국, 병천순대",
+   "area": [
+    "천안"
+   ],
+   "lat": 36.7621932,
+   "lng": 127.2989941,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.2,
+   "review_cnt": 47,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422124309_photo1_d5698c295937.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "kaIko1Rt1mj2",
+   "name": "평양손만두",
+   "branch": null,
+   "addr": "충청남도 홍성군 홍성읍 남장리 74-26",
+   "road_addr": "충남 홍성군 홍성읍 홍장북로 406 103, 104호",
+   "phone": "0507-1354-2948",
+   "category": "북한음식, 비건식당",
+   "area": [
+    "홍성"
+   ],
+   "lat": 36.5910191,
+   "lng": 126.6696703,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "고향의맛",
+    "포장"
+   ]
+  },
+  {
+   "rid": "fRehzdSKi4o4",
+   "name": "대성포장마차",
+   "branch": null,
+   "addr": "충청남도 당진시 송악읍 고대리 166-50",
+   "road_addr": "충청남도 당진시 송악읍 안섬포구길 76",
+   "phone": "010-3413-3800",
+   "category": "칼국수, 해물칼국수",
+   "area": [
+    "당진"
+   ],
+   "lat": 36.9868572,
+   "lng": 126.7389399,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "칼칼한국물",
+    "포장"
+   ]
+  },
+  {
+   "rid": "oi9SM90MXZGc",
+   "name": "최정재시인의마을",
+   "branch": null,
+   "addr": "충청남도 당진시 고대면 장항리 1096-1",
+   "road_addr": "충청남도 당진시 고대면 고대로 457-7",
+   "phone": "010-8997-8057",
+   "category": "백숙, 능이오리백숙",
+   "area": [
+    "당진"
+   ],
+   "lat": 36.948468,
+   "lng": 126.5733154,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "현지인추천",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "uLaOX7DS1ZbT",
+   "name": "천안옛날호두과자",
+   "branch": null,
+   "addr": "충청남도 천안시 동남구 대흥동 57-2",
+   "road_addr": "충청남도 천안시 동남구 대흥로 237-1 천안옛날호두과자 천안역점",
+   "phone": "041-565-5100",
+   "category": "호두과자, 튀김소보로",
+   "area": [
+    "천안역"
+   ],
+   "lat": 36.809136,
+   "lng": 127.147565,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.3,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260406090504359_photo_1394e7f73ffa.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "aPH3KIju6zP4",
+   "name": "만풍호",
+   "branch": null,
+   "addr": "충청남도 서천군 서면 마량리 339-9 7호, 8호",
+   "road_addr": "충청남도 서천군 서면 서인로 64 어촌계수산물센터 7호, 8호",
+   "phone": "010-4880-2459",
+   "category": "매운탕",
+   "area": [
+    "서천"
+   ],
+   "lat": 36.1301148,
+   "lng": 126.5031985,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양음식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "lcwSXYA9r7F1",
+   "name": "서해바다로회센타",
+   "branch": null,
+   "addr": "충청남도 서천군 서면 도둔리 991-55",
+   "road_addr": "충청남도 서천군 서면 홍원길 97",
+   "phone": "041-952-3553",
+   "category": "횟집, 전어",
+   "area": [
+    "서천"
+   ],
+   "lat": 36.1559498,
+   "lng": 126.50022,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "야경",
+    "포장"
+   ]
+  },
+  {
+   "rid": "5B53TPh6FZ3C",
+   "name": "서창집",
+   "branch": null,
+   "addr": "충청남도 논산시 강경읍 서창리 34",
+   "road_addr": "충청남도 논산시 강경읍 계백로167번길 54-49",
+   "phone": "041-745-4614",
+   "category": "민속주점",
+   "area": [
+    "논산"
+   ],
+   "lat": 36.1625293,
+   "lng": 127.0156141,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "soKCJEJbQMCF",
+   "name": "초전부녀회맛집",
+   "branch": null,
+   "addr": "충청남도 보령시 오천면 원산도리 1731-1",
+   "road_addr": "충남 보령시 오천면 원산도5길 89-27",
+   "phone": null,
+   "category": "생선회, 횟집",
+   "area": [
+    "원산도"
+   ],
+   "lat": 36.3814753,
+   "lng": 126.3975965,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "오션뷰",
+    "정원"
+   ]
+  },
+  {
+   "rid": "FdUroK7LkFzB",
+   "name": "아영이네수산",
+   "branch": null,
+   "addr": "충청남도 홍성군 서부면 상황리 706-9",
+   "road_addr": "충청남도 홍성군 서부면 남당항로 617 아영이네수산",
+   "phone": "041-634-2700",
+   "category": "굴칼국수, 바지락칼국수",
+   "area": [
+    "홍성"
+   ],
+   "lat": 36.5706901,
+   "lng": 126.466882,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님과함께",
+    "오션뷰",
+    "바다가보이는"
+   ]
+  },
+  {
+   "rid": "yPpJtuOWycLq",
+   "name": "동백횟집",
+   "branch": null,
+   "addr": "충청남도 태안군 원북면 방갈리 515-106",
+   "road_addr": "충청남도 태안군 원북면 옥파로 1175 동백회수산",
+   "phone": "041-674-1058",
+   "category": "바지락칼국수",
+   "area": [
+    "태안"
+   ],
+   "lat": 36.8995147,
+   "lng": 126.2056308,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님과함께",
+    "현지인맛집"
+   ]
+  },
+  {
+   "rid": "ckYavQm5Wc1O",
+   "name": "해마루횟집",
+   "branch": null,
+   "addr": "충청남도 서천군 서면 도둔리 1222-14",
+   "road_addr": "충청남도 서천군 서면 홍원길 109 해마루횟집 2층",
+   "phone": "041-953-8177",
+   "category": "횟집, 전어",
+   "area": [
+    "서천"
+   ],
+   "lat": 36.1569676,
+   "lng": 126.4995003,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "넓은",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "LElN5QvlE2MA",
+   "name": "진미반점",
+   "branch": null,
+   "addr": "전라북도 전주시 덕진구 인후동2가 1551-2",
+   "road_addr": "전라북도 전주시 덕진구 명주3길 19-2",
+   "phone": "063-246-9295",
+   "category": "짜장면, 물짜장",
+   "area": [
+    "전주"
+   ],
+   "lat": 35.8433801,
+   "lng": 127.1483645,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.3,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507044127_photo1_bb003c580b4d.webp",
+   "tags": [
+    "생활의달인",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "QR8BZcypK49I",
+   "name": "홍가",
+   "branch": null,
+   "addr": "전라북도 고창군 아산면 계산리 439",
+   "road_addr": "전북 고창군 아산면 사신원로 357-7 홍가",
+   "phone": "0507-1481-3226",
+   "category": "백숙, 용봉탕",
+   "area": [
+    "고창"
+   ],
+   "lat": 35.4621929,
+   "lng": 126.6244812,
+   "open_status": "라스트 오더 24분 전",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "현지인맛집"
+   ]
+  },
+  {
+   "rid": "pdcOdSYCsRw8",
+   "name": "거북선숯불풍천장어",
+   "branch": null,
+   "addr": "전라북도 고창군 상하면 자룡리 585-5",
+   "road_addr": "전라북도 고창군 상하면 고리포길 199 거북선숯불장어",
+   "phone": "063-562-0433",
+   "category": "장어, 풍천장어",
+   "area": [
+    "고창"
+   ],
+   "lat": 35.4329618,
+   "lng": 126.4336762,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 3.4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240708075001125_photo_8263324149e9.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "0RSqijZ8nN3I",
+   "name": "빈해원",
+   "branch": null,
+   "addr": "전라북도 군산시 장미동 21-5",
+   "road_addr": "전라북도 군산시 동령길 57",
+   "phone": "063-445-2429",
+   "category": "짬뽕, 물짜장",
+   "area": [
+    "군산"
+   ],
+   "lat": 35.9889339,
+   "lng": 126.7138796,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 3.8,
+   "review_cnt": 58,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511110635778_photo_16c290b1dd3a.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "U2kQDdVl5XBj",
+   "name": "이성당",
+   "branch": null,
+   "addr": "전라북도 군산시 중앙로1가 12-2",
+   "road_addr": "전라북도 군산시 중앙로 177 이성당",
+   "phone": "063-445-2772",
+   "category": "베이커리카페, 카페",
+   "area": [
+    "군산"
+   ],
+   "lat": 35.9872769,
+   "lng": 126.7110764,
+   "open_status": "영업 중",
+   "score": 87,
+   "user_score": 4.2,
+   "review_cnt": 188,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260516080557003_photo_7bb2401a5f1a.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "시끌벅적한",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "inDP1CR2dngZ",
+   "name": "솟을터",
+   "branch": null,
+   "addr": "전북특별자치도 장수군 장계면 금덕리 176-6",
+   "road_addr": "전북특별자치도 장수군 장계면 금남로 243-39 끝집",
+   "phone": "080-333-5262",
+   "category": "한식",
+   "area": [
+    "장수"
+   ],
+   "lat": 35.757412,
+   "lng": 127.5904862,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "ZczGdrw8eLjn",
+   "name": "장터국밥",
+   "branch": null,
+   "addr": "전라북도 무주군 설천면 소천리 904-29",
+   "road_addr": "전라북도 무주군 설천면 삼도봉로 11",
+   "phone": "063-324-0574",
+   "category": "국밥, 장터국밥",
+   "area": [
+    "무주"
+   ],
+   "lat": 36.0099251,
+   "lng": 127.7882336,
+   "open_status": "영업 중",
+   "score": 50,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210503095756927_photo_LE3SlMc9KkvW.webp",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "6kq5PgKysAiX",
+   "name": "지미원",
+   "branch": null,
+   "addr": "전라북도 군산시 나운동 870-10",
+   "road_addr": "전라북도 군산시 부곡1길 6 지미원",
+   "phone": "063-463-3900",
+   "category": "한정식, 궁중음식",
+   "area": [
+    "군산"
+   ],
+   "lat": 35.9571748,
+   "lng": 126.6885498,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "생신",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "Adkkl3smONTG",
+   "name": "무궁화한정식",
+   "branch": null,
+   "addr": "전라북도 전주시 덕진구 덕진동2가 167-47",
+   "road_addr": "전라북도 전주시 덕진구 권삼득로 436",
+   "phone": "063-271-3307",
+   "category": "한정식, 코스요리",
+   "area": [
+    "전주"
+   ],
+   "lat": 35.8500758,
+   "lng": 127.1171621,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "고급스러운",
+    "정원"
+   ]
+  },
+  {
+   "rid": "jieFuGjGOGBA",
+   "name": "섬바위가든",
+   "branch": null,
+   "addr": "전라북도 진안군 용담면 송풍리 1122-1",
+   "road_addr": "전라북도 진안군 용담면 안용로 910",
+   "phone": "063-433-7804",
+   "category": "메기탕, 민물매운탕",
+   "area": [
+    "진안"
+   ],
+   "lat": 35.9560748,
+   "lng": 127.521501,
+   "open_status": "영업 종료",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "연예인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "rUgwoMtVGsWW",
+   "name": "궁",
+   "branch": null,
+   "addr": "전라북도 전주시 완산구 효자동3가 1188-1",
+   "road_addr": "전라북도 전주시 완산구 천잠로 337",
+   "phone": "0507-1421-0844",
+   "category": "한정식, 파이",
+   "area": [
+    "전주"
+   ],
+   "lat": 35.81707,
+   "lng": 127.0932961,
+   "open_status": "브레이크 타임",
+   "score": 55,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230416091315_photo1_R0cOVCZJNhBq.webp",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "발렛파킹",
+    "격식있는"
+   ]
+  },
+  {
+   "rid": "1yzkcu5lRSr7",
+   "name": "수작부리는 카페",
+   "branch": null,
+   "addr": "전북 무주군 적상면 사천리 173",
+   "road_addr": "전라북도 무주군 적상면 서창로 101 수작부리는카페",
+   "phone": "063-324-9031",
+   "category": "커피, 카페",
+   "area": [
+    "무주"
+   ],
+   "lat": 35.9494216,
+   "lng": 127.6721394,
+   "open_status": "오늘 휴무",
+   "score": 51,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200813104446_photo0_1yzkcu5lRSr7.webp",
+   "tags": [
+    "한국인의밥상",
+    "모임",
+    "넓은",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "AJ5GwY1k1d0v",
+   "name": "박토랑",
+   "branch": null,
+   "addr": "전라북도 남원시 금동 41-4",
+   "road_addr": "전라북도 남원시 광한서로 50",
+   "phone": "063-632-6740",
+   "category": "낙지, 낙지불고기",
+   "area": [
+    "남원"
+   ],
+   "lat": 35.405563,
+   "lng": 127.378139,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "몸보신"
+   ]
+  },
+  {
+   "rid": "HgZl2UYl3t0C",
+   "name": "보람횟집",
+   "branch": null,
+   "addr": "전라북도 부안군 부안읍 서외리 21",
+   "road_addr": "전라북도 부안군 부안읍 시장길 6 대우분식",
+   "phone": "063-584-1180",
+   "category": "횟집",
+   "area": [
+    "부안"
+   ],
+   "lat": 35.726685,
+   "lng": 126.733454,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "0piiS5g3SDUg",
+   "name": "전통식당",
+   "branch": null,
+   "addr": "전라남도 담양군 고서면 고읍리 688-1",
+   "road_addr": "전라남도 담양군 고서면 고읍현길 38-4 1층 전통식당",
+   "phone": "0507-1458-3116",
+   "category": "한정식, 떡갈비",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.2079903,
+   "lng": 126.9867276,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.9,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250613110430_photo1_8e768cbd3c12.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "cZyqY5mQ7ngw",
+   "name": "상아식당",
+   "branch": null,
+   "addr": "전라남도 여수시 국동 1082-7",
+   "road_addr": "전라남도 여수시 어항단지로 21",
+   "phone": "061-643-7840",
+   "category": "장어구이, 장어탕",
+   "area": [
+    "여수"
+   ],
+   "lat": 34.725234,
+   "lng": 127.7128126,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.3,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241215083729_photo1_KvOfSuNnt6JM.webp",
+   "tags": [
+    "다코숨은맛집",
+    "아이동반",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "1ta8NxL64tlU",
+   "name": "산수정",
+   "branch": null,
+   "addr": "전라남도 순천시 서면 청소리 170-3",
+   "road_addr": "전라남도 순천시 서면 청소길 442",
+   "phone": "061-755-9933",
+   "category": "닭구이",
+   "area": [
+    "순천"
+   ],
+   "lat": 35.0690952,
+   "lng": 127.5035135,
+   "open_status": "영업 종료 24분 전",
+   "score": 44,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "계곡",
+    "정원"
+   ]
+  },
+  {
+   "rid": "5xX9qiAjOoKu",
+   "name": "나주곰탕 하얀집",
+   "branch": null,
+   "addr": "전라남도 나주시 중앙동 48-17",
+   "road_addr": "전라남도 나주시 금성관길 6-1",
+   "phone": "061-333-4292",
+   "category": "곰탕, 수육곰탕",
+   "area": [
+    "나주"
+   ],
+   "lat": 35.0322285,
+   "lng": 126.716876,
+   "open_status": "영업 중",
+   "score": 85,
+   "user_score": 4.3,
+   "review_cnt": 111,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511013742_photo1_198a6b542736.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "Oc4gADg2D1WC",
+   "name": "조선쫄복탕",
+   "branch": null,
+   "addr": "전남 목포시 금화동 9-7",
+   "road_addr": "전라남도 목포시 해안로 115 조선쫄복탕",
+   "phone": "061-242-8522",
+   "category": "복어, 쫄복탕",
+   "area": [
+    "목포"
+   ],
+   "lat": 34.7808401,
+   "lng": 126.3771138,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250926043004_photo1_c917923ea252.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "kytvNkg3qkGY",
+   "name": "금목서 광양불고기",
+   "branch": null,
+   "addr": "전라남도 광양시 광양읍 칠성리 17-2",
+   "road_addr": "전라남도 광양시 광양읍 읍성길 199",
+   "phone": "0507-1440-3307",
+   "category": "광양불고기",
+   "area": [
+    "광양"
+   ],
+   "lat": 34.9775672,
+   "lng": 127.5871079,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.2,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251024062136_photo1_98413542611a.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "DS9OqmpAdsfP",
+   "name": "죽순닭국수",
+   "branch": null,
+   "addr": "전라남도 담양군 담양읍 객사리 175-14",
+   "road_addr": "전라남도 담양군 담양읍 객사3길 15",
+   "phone": "061-383-3201",
+   "category": "국수, 우리밀",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.3239753,
+   "lng": 126.9826043,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.8,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240407104527_photo1_f498fb41a690.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "lpO8Us99efBE",
+   "name": "월출산힘찬민물장어",
+   "branch": null,
+   "addr": "전라남도 영암군 영암읍 회문리 399-8",
+   "road_addr": "전라남도 영암군 영암읍 영암로 1359-12",
+   "phone": "010-3942-9422",
+   "category": "장어, 민물장어",
+   "area": [
+    "영암"
+   ],
+   "lat": 34.7939098,
+   "lng": 126.678148,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "여름보양식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "nj9rnrv1a4ff",
+   "name": "목월빵집",
+   "branch": null,
+   "addr": "전라남도 구례군 구례읍 봉북리 443-21",
+   "road_addr": "전라남도 구례군 구례읍 서시천로 85 목월빵집",
+   "phone": "0507-1400-1477",
+   "category": "빵",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.2149,
+   "lng": 127.4659766,
+   "open_status": "영업 종료 24분 전",
+   "score": 84,
+   "user_score": 4.3,
+   "review_cnt": 51,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260512065216541_photo_230f6fb7d933.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "무료주차",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "F8w3IQYEfNg5",
+   "name": "쑥꿀레",
+   "branch": null,
+   "addr": "전라남도 목포시 죽동 64-7",
+   "road_addr": "전라남도 목포시 영산로59번길 43-1",
+   "phone": "0507-1486-7915",
+   "category": "디저트, 쑥떡",
+   "area": [
+    "목포"
+   ],
+   "lat": 34.791787,
+   "lng": 126.3831166,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 3.6,
+   "review_cnt": 36,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260310060508_photo1_7aa3f6f73a4a.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "ExkI158cbe2G",
+   "name": "소율횟집",
+   "branch": null,
+   "addr": "전라남도 여수시 돌산읍 율림리 161-5",
+   "road_addr": "전라남도 여수시 돌산읍 소율길 30",
+   "phone": "061-644-2050",
+   "category": "횟집",
+   "area": [
+    "여수"
+   ],
+   "lat": 34.6028895,
+   "lng": 127.795167,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "정갈한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "02jKq0o2JTK2",
+   "name": "하우리부일호횟집",
+   "branch": null,
+   "addr": "전라남도 신안군 임자면 광산리 514-55",
+   "road_addr": "전라남도 신안군 임자면 독우길 234",
+   "phone": "061-261-1210",
+   "category": "민어, 횟집",
+   "area": [
+    "신안"
+   ],
+   "lat": 35.0980036,
+   "lng": 126.0533571,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "배달",
+    "여름보양식"
+   ]
+  },
+  {
+   "rid": "0PP3EtNtt0cP",
+   "name": "갯마을짱뚱어탕",
+   "branch": null,
+   "addr": "전라남도 해남군 황산면 한자리 1084",
+   "road_addr": "전라남도 해남군 황산면 고천암로 767",
+   "phone": "061-535-8705",
+   "category": "짱뚱어탕, 삼겹살",
+   "area": [
+    "해남"
+   ],
+   "lat": 34.523125,
+   "lng": 126.4607316,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식"
+   ]
+  },
+  {
+   "rid": "4x1if6vT2DB0",
+   "name": "청자골 종가집",
+   "branch": null,
+   "addr": "전라남도 강진군 군동면 호계리 599-2",
+   "road_addr": "전라남도 강진군 군동면 종합운동장길 106-11 청자골종가집",
+   "phone": "0507-1355-1100",
+   "category": "한정식, 남도한정식",
+   "area": [
+    "강진"
+   ],
+   "lat": 34.6470714,
+   "lng": 126.7839199,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 3.5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260506184147_photo1_0de737750e29.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "격식있는"
+   ]
+  },
+  {
+   "rid": "asL7bZh2kAhc",
+   "name": "해반",
+   "branch": null,
+   "addr": "전라남도 순천시 해룡면 상내리 833-1",
+   "road_addr": "전라남도 순천시 해룡면 와온길 103",
+   "phone": "061-726-1103",
+   "category": "집밥, 가정식",
+   "area": [
+    "순천"
+   ],
+   "lat": 34.8489572,
+   "lng": 127.5249851,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "건강식",
+    "정갈한",
+    "바다가보이는"
+   ]
+  },
+  {
+   "rid": "Q71WdGxrCvMz",
+   "name": "청솔가든",
+   "branch": null,
+   "addr": "전라남도 곡성군 오곡면 압록리 179",
+   "road_addr": "전라남도 곡성군 오곡면 대황강로 1560",
+   "phone": "061-362-6931",
+   "category": "참게탕",
+   "area": [
+    "곡성"
+   ],
+   "lat": 35.1882225,
+   "lng": 127.3694104,
+   "open_status": "영업 중",
+   "score": 56,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250324103309335_photo_0a24dcc1ad0e.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "B0isDYRwsyRe",
+   "name": "두무포산장",
+   "branch": null,
+   "addr": "전라남도 보성군 벌교읍 호동리 13",
+   "road_addr": "전라남도 보성군 벌교읍 장호길 697-9",
+   "phone": "061-857-5353",
+   "category": "짱뚱어탕",
+   "area": [
+    "벌교"
+   ],
+   "lat": 34.8364319,
+   "lng": 127.411983,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "몸보신",
+    "향토음식"
+   ]
+  },
+  {
+   "rid": "mxPGUE8w94vO",
+   "name": "낭만맛집",
+   "branch": null,
+   "addr": "전라남도 목포시 금동2가 2-2",
+   "road_addr": "전라남도 목포시 만호로 11-1",
+   "phone": "010-3302-6668",
+   "category": "집밥, 톳밥",
+   "area": [
+    "목포"
+   ],
+   "lat": 34.7843857,
+   "lng": 126.3818774,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "건강식",
+    "깔끔한",
+    "장애인편의시설"
+   ]
+  },
+  {
+   "rid": "0EYnXqPOY4oX",
+   "name": "보광식당",
+   "branch": null,
+   "addr": "전라남도 신안군 도초면 발매리 9-12",
+   "road_addr": "전라남도 신안군 도초면 불섬길 85-12",
+   "phone": "061-275-7979",
+   "category": "우럭, 간재미",
+   "area": [
+    "신안"
+   ],
+   "lat": 34.7152127,
+   "lng": 125.9359073,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "현지인추천",
+    "좌식"
+   ]
+  },
+  {
+   "rid": "mrZYShjSt2Uq",
+   "name": "삼거리농원",
+   "branch": null,
+   "addr": "전남 담양군 봉산면 연동리 334-5",
+   "road_addr": "전라남도 담양군 봉산면 면앙정로 155 삼거리 농원",
+   "phone": "0507-1367-8798",
+   "category": "닭볶음탕, 솥뚜껑닭볶음탕",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.2666602,
+   "lng": 126.9608769,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.3,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240303103928_photo1_11e70c846c96.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "C6unLwTlCtsK",
+   "name": "오죽헌",
+   "branch": null,
+   "addr": "전라남도 여수시 학동 211-14",
+   "road_addr": "전라남도 여수시 시청서1길 36",
+   "phone": "0507-1465-1700",
+   "category": "한정식, 보리굴비",
+   "area": [
+    "여수"
+   ],
+   "lat": 34.7583608,
+   "lng": 127.6611191,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 3.6,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230622032334_photo1_63bcd9b6366b.webp",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "고급스러운",
+    "룸식당"
+   ]
+  },
+  {
+   "rid": "Nwvy0tZU7MUX",
+   "name": "목포뻘낙지",
+   "branch": "목포본점",
+   "addr": "전라남도 목포시 산정동 1110-32",
+   "road_addr": "전라남도 목포시 청호로219번길 34-15 C동 116호",
+   "phone": "010-9889-9757",
+   "category": "낙지",
+   "area": [
+    "목포"
+   ],
+   "lat": 34.8078033,
+   "lng": 126.3654647,
+   "open_status": "영업 종료",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장용",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "KldWLm9S0fv6",
+   "name": "관방천국수",
+   "branch": null,
+   "addr": "전라남도 담양군 담양읍 객사리 173-6",
+   "road_addr": "전라남도 담양군 담양읍 객사3길 40",
+   "phone": "061-381-2697",
+   "category": "국수, 열무비빔국수",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.323958,
+   "lng": 126.985042,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250502095716_photo1_0f8f16ade873.webp",
+   "tags": [
+    "한국인의밥상",
+    "서민적인",
+    "야외테라스"
+   ]
+  },
+  {
+   "rid": "M6sr56Rpn08B",
+   "name": "승달가든",
+   "branch": null,
+   "addr": "전라남도 무안군 무안읍 성내리 141-5",
+   "road_addr": "전라남도 무안군 무안읍 면성2길 27",
+   "phone": "061-454-3400",
+   "category": "한우, 한우샤브샤브",
+   "area": [
+    "무안"
+   ],
+   "lat": 34.9906425,
+   "lng": 126.4775032,
+   "open_status": "영업 중",
+   "score": 42,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "단체모임",
+    "넓은",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "KFp0h4xVA8QZ",
+   "name": "매화랑매실이랑",
+   "branch": null,
+   "addr": "전라남도 광양시 옥룡면 추산리 942-4",
+   "road_addr": "전라남도 광양시 옥룡면 백계로318번길 16",
+   "phone": "061-762-1330",
+   "category": "한식",
+   "area": [
+    "광양"
+   ],
+   "lat": 35.0514209,
+   "lng": 127.6001226,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "깨끗",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "ncLaKfz3uCUG",
+   "name": "홀통장횟집",
+   "branch": null,
+   "addr": "전라남도 무안군 현경면 오류리 1367",
+   "road_addr": "전라남도 무안군 현경면 홀통길 198",
+   "phone": "061-452-2043",
+   "category": "횟집, 해파리",
+   "area": [
+    "무안"
+   ],
+   "lat": 35.0615083,
+   "lng": 126.3323037,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님과함께",
+    "바다뷰",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "YW16Khzj5P6D",
+   "name": "카페 쑥부쟁이",
+   "branch": null,
+   "addr": "전라남도 구례군 산동면 외산리 107",
+   "road_addr": "전라남도 구례군 산동면 지리산온천로 72",
+   "phone": "061-781-7235",
+   "category": "베이커리, 머핀",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.3098693,
+   "lng": 127.4387835,
+   "open_status": "영업 종료 24분 전",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "친환경",
+    "포장"
+   ]
+  },
+  {
+   "rid": "YVjlitZfdzWU",
+   "name": "별헤는몰랑",
+   "branch": null,
+   "addr": "전라남도 고흥군 두원면 관덕리 259-1",
+   "road_addr": "전라남도 고흥군 두원면 고흥만로 1645 별헤는몰랑",
+   "phone": "061-835-4793",
+   "category": "카페, 커피",
+   "area": [
+    "고흥"
+   ],
+   "lat": 34.6598989,
+   "lng": 127.2485168,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "뷰맛집",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "XCpoE52r766a",
+   "name": "강촌장어",
+   "branch": null,
+   "addr": "전라남도 나주시 안창동 595-4",
+   "road_addr": "전라남도 나주시 구진포로 157 강촌장어",
+   "phone": "061-334-6383",
+   "category": "장어구이, 장어탕",
+   "area": [
+    "나주"
+   ],
+   "lat": 35.0059314,
+   "lng": 126.68128,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "국내산"
+   ]
+  },
+  {
+   "rid": "BQkJftKVoR1c",
+   "name": "영주칠향계",
+   "branch": null,
+   "addr": "경상북도 영주시 풍기읍 성내리 51-8",
+   "road_addr": "경상북도 영주시 풍기읍 풍기로 57-21",
+   "phone": "054-638-7797",
+   "category": "삼계탕, 찰밥",
+   "area": [
+    "영주"
+   ],
+   "lat": 36.8700436,
+   "lng": 128.5243638,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260209044425_photo1_6883ec65ce26.webp",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "여름보양식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "dN5To85XJgZy",
+   "name": "황남빵",
+   "branch": "본점",
+   "addr": "경상북도 경주시 황오동 347-1",
+   "road_addr": "경상북도 경주시 태종로 783",
+   "phone": "054-749-7000",
+   "category": "경주빵, 황남빵",
+   "area": [
+    "경주"
+   ],
+   "lat": 35.8408903,
+   "lng": 129.2136375,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.5,
+   "review_cnt": 66,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260411074224_photo1_948022f8bee3.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "LLiAhvmoK9iS",
+   "name": "연다라횟집",
+   "branch": null,
+   "addr": "경북 포항시 북구 죽도동 573-4",
+   "road_addr": "경상북도 포항시 북구 죽도시장길 36",
+   "phone": "054-244-7046",
+   "category": "대게, 물회",
+   "area": [
+    "포항"
+   ],
+   "lat": 36.0352359,
+   "lng": 129.3694302,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4.2,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250402052623222_photo_ebef965fd1eb.webp",
+   "tags": [
+    "한국인의밥상",
+    "가족외식",
+    "가성비좋은",
+    "대형룸"
+   ]
+  },
+  {
+   "rid": "1wrK9hH6nwIG",
+   "name": "웰빙하우스",
+   "branch": null,
+   "addr": "경상북도 청송군 청송읍 부곡리 356-31",
+   "road_addr": "경상북도 청송군 청송읍 휴양단지길 34-1",
+   "phone": "054-873-9957",
+   "category": "닭칼국수, 토종닭",
+   "area": [
+    "청송"
+   ],
+   "lat": 36.443343,
+   "lng": 129.07206,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "향토음식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "LKURqXUripZu",
+   "name": "순흥전통묵집",
+   "branch": null,
+   "addr": "경상북도 영주시 순흥면 읍내리 339",
+   "road_addr": "경상북도 영주시 순흥면 순흥로39번길 21",
+   "phone": "054-634-4614",
+   "category": "묵밥, 메밀묵",
+   "area": [
+    "영주"
+   ],
+   "lat": 36.9134136,
+   "lng": 128.5751528,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.5,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260512111234364_photo_f351d5760217.webp",
+   "tags": [
+    "한국인의밥상",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "KUfHeM5mJZne",
+   "name": "농가맛집뜰",
+   "branch": null,
+   "addr": "경상북도 안동시 와룡면 서지리 25-2",
+   "road_addr": "경상북도 안동시 와룡면 왼마길 21-10 농가맛집뜰",
+   "phone": "054-857-6051",
+   "category": "한정식, 꿩",
+   "area": [
+    "안동"
+   ],
+   "lat": 36.605925,
+   "lng": 128.7583393,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "돌잔치",
+    "향토음식",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "xiezZNLnRksD",
+   "name": "김서방대게수산",
+   "branch": null,
+   "addr": "경상북도 영덕군 축산면 경정리 614",
+   "road_addr": "경상북도 영덕군 축산면 경정3길 14-1 김서방대게수산",
+   "phone": "0507-1314-2382",
+   "category": "대게, 홍게",
+   "area": [
+    "영덕"
+   ],
+   "lat": 36.4749636,
+   "lng": 129.433064,
+   "open_status": "영업 중",
+   "score": 48,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210423034804157_photo_d6c0dc66f474.webp",
+   "tags": [
+    "한국인의밥상",
+    "가성비좋은",
+    "반려동물동반"
+   ]
+  },
+  {
+   "rid": "vNETPcEFJ6qv",
+   "name": "흥부네토종한방순대",
+   "branch": null,
+   "addr": "경상북도 예천군 용궁면 읍부리 290-3",
+   "road_addr": "경상북도 예천군 용궁면 용궁로 131",
+   "phone": "054-653-6220",
+   "category": "순대국",
+   "area": [
+    "예천"
+   ],
+   "lat": 36.6078024,
+   "lng": 128.2795381,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "배달",
+    "향토음식"
+   ]
+  },
+  {
+   "rid": "Siuu6o6Q1PmI",
+   "name": "담은청국장",
+   "branch": null,
+   "addr": "경상북도 경주시 천북면 물천리 1071-1",
+   "road_addr": "경상북도 경주시 천북면 옥동길 5",
+   "phone": "054-775-9999",
+   "category": "한정식, 버섯불고기",
+   "area": [
+    "경주"
+   ],
+   "lat": 35.8687144,
+   "lng": 129.2719632,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "부모님",
+    "로컬푸드",
+    "정원"
+   ]
+  },
+  {
+   "rid": "dxn0CWi7Z5ol",
+   "name": "은창호대게",
+   "branch": null,
+   "addr": "경상북도 영덕군 강구면 삼사리 584-10",
+   "road_addr": "경상북도 영덕군 강구면 삼사길 63",
+   "phone": "054-733-3926",
+   "category": "대게, 박달대게",
+   "area": [
+    "영덕"
+   ],
+   "lat": 36.3424169,
+   "lng": 129.3822598,
+   "open_status": "마지막 주문 마감",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보약",
+    "저렴"
+   ]
+  },
+  {
+   "rid": "APbDXMDkZ7Ly",
+   "name": "천금수산",
+   "branch": null,
+   "addr": "경상북도 울릉군 울릉읍 도동리 316-13",
+   "road_addr": "경북 울릉군 울릉읍 봉래길 6",
+   "phone": "0507-1353-0122",
+   "category": "모듬회, 독도새우",
+   "area": [
+    "울릉도"
+   ],
+   "lat": 37.4941432,
+   "lng": 130.9096721,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 3,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241010120852_photo1_dcde82f57a07.webp",
+   "tags": [
+    "한국인의밥상",
+    "식사모임",
+    "경관/야경이좋은",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "R08ZYJB2mywn",
+   "name": "자연산횟집",
+   "branch": null,
+   "addr": "경상북도 포항시 남구 구룡포읍 삼정리 382",
+   "road_addr": "경상북도 포항시 남구 구룡포읍 일출로62번길 9-17",
+   "phone": "054-276-3604",
+   "category": "횟집, 자연산횟집",
+   "area": [
+    "포항"
+   ],
+   "lat": 36.0033171,
+   "lng": 129.5708613,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "야식",
+    "현지맛집"
+   ]
+  },
+  {
+   "rid": "mtZKp9iWgIcm",
+   "name": "복만수산",
+   "branch": null,
+   "addr": "경상북도 포항시 북구 죽도동 2-305",
+   "road_addr": "경상북도 포항시 북구 죽도시장5길 6-16",
+   "phone": "054-248-8260",
+   "category": "해물",
+   "area": [
+    "포항죽도시장"
+   ],
+   "lat": 36.0354403,
+   "lng": 129.3669125,
+   "open_status": "영업 종료 24분 전",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "포장"
+   ]
+  },
+  {
+   "rid": "v5tHJLm32ObT",
+   "name": "진강 수산식당",
+   "branch": null,
+   "addr": "경상북도 포항시 남구 구룡포읍 구룡포리 776-14",
+   "road_addr": "경상북도 포항시 남구 구룡포읍 구룡포길 55-1",
+   "phone": "054-276-6262",
+   "category": "과메기, 아구불고기",
+   "area": [
+    "구룡포"
+   ],
+   "lat": 35.9896596,
+   "lng": 129.552395,
+   "open_status": "영업 중",
+   "score": 44,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "데이트장소",
+    "깔끔한",
+    "셀프코너"
+   ]
+  },
+  {
+   "rid": "OpvpEUNysIeM",
+   "name": "산들내",
+   "branch": null,
+   "addr": "경상북도 봉화군 명호면 도천리 181",
+   "road_addr": "경상북도 봉화군 명호면 청량로 1167 산들내",
+   "phone": "0507-1413-1444",
+   "category": "한식뷔페, 고추부각",
+   "area": [
+    "봉화"
+   ],
+   "lat": 36.8591981,
+   "lng": 128.9004663,
+   "open_status": "영업 종료",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "배달",
+    "점심특선"
+   ]
+  },
+  {
+   "rid": "XRBVDH3aIs7h",
+   "name": "도촌송어회식당",
+   "branch": null,
+   "addr": "경상북도 봉화군 봉화읍 도촌리 109-7",
+   "road_addr": "경상북도 봉화군 봉화읍 마냉이길 48",
+   "phone": "054-672-0567",
+   "category": "송어회",
+   "area": [
+    "봉화"
+   ],
+   "lat": 36.8830701,
+   "lng": 128.6853153,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "어르신",
+    "한적한"
+   ]
+  },
+  {
+   "rid": "ZENp7vythO4Z",
+   "name": "다시식당",
+   "branch": null,
+   "addr": "경상남도 의령군 의령읍 서동리 491-7",
+   "road_addr": "경상남도 의령군 의령읍 의병로18길 6 다시식당",
+   "phone": "055-573-2514",
+   "category": "소바, 온소바",
+   "area": [
+    "의령"
+   ],
+   "lat": 35.3192412,
+   "lng": 128.2603456,
+   "open_status": "오늘 휴무",
+   "score": 65,
+   "user_score": 3.5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251111011133604_photo_3121f82fa065.webp",
+   "tags": [
+    "수요미식회",
+    "서민적인",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "n1SNvqscmk2H",
+   "name": "설송식당",
+   "branch": null,
+   "addr": "경상남도 하동군 화개면 탑리 718-3",
+   "road_addr": "경상남도 하동군 화개면 화개로 6-1",
+   "phone": "0507-1310-1866",
+   "category": "참게탕, 은어회",
+   "area": [
+    "하동"
+   ],
+   "lat": 35.1891835,
+   "lng": 127.6226352,
+   "open_status": "영업 중",
+   "score": 46,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "생활의달인",
+    "해장",
+    "얼큰한국물",
+    "한국인의밥상"
+   ]
+  },
+  {
+   "rid": "x5GK5nswe0tA",
+   "name": "동경복집",
+   "branch": null,
+   "addr": "경상남도 창원시 마산합포구 오동동 251-70",
+   "road_addr": "경상남도 창원시 마산합포구 복요리로 8-2 동경복집",
+   "phone": "0507-1392-3277",
+   "category": "복어, 복국",
+   "area": [
+    "마산"
+   ],
+   "lat": 35.2044084,
+   "lng": 128.5797527,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240608061130576_photo_d03bbd544256.webp",
+   "tags": [
+    "한국인의밥상",
+    "아이동반",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "obRJggAuhzZH",
+   "name": "야소주반",
+   "branch": null,
+   "addr": "경상남도 통영시 산양읍 남평리 646-1",
+   "road_addr": "경상남도 통영시 산양읍 금평길 42-23 1층",
+   "phone": "0507-1343-8680",
+   "category": "위구르요리, 막걸리",
+   "area": [
+    "통영"
+   ],
+   "lat": 34.8064194,
+   "lng": 128.3999569,
+   "open_status": "오늘 휴무",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "상견례",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "UeRT87o6QIoz",
+   "name": "늘비식당",
+   "branch": null,
+   "addr": "경상남도 산청군 생초면 어서리 267-23",
+   "road_addr": "경상남도 산청군 생초면 산수로 1030-18 늘비식당",
+   "phone": "055-972-1903",
+   "category": "어탕국수, 어탕칼국수",
+   "area": [
+    "산청"
+   ],
+   "lat": 35.4925628,
+   "lng": 127.8352678,
+   "open_status": "영업 중",
+   "score": 48,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "해장",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "CjAMNMJNIXic",
+   "name": "은지네굴구이",
+   "branch": null,
+   "addr": "경남 사천시 서포면 비토리 14-17",
+   "road_addr": "경남 사천시 서포면 거북길 468-55 은지네굴구이",
+   "phone": "0507-1460-2755",
+   "category": "굴구이, 굴라면",
+   "area": [
+    "사천"
+   ],
+   "lat": 34.9659721,
+   "lng": 127.9749765,
+   "open_status": "영업 중",
+   "score": 49,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241203112616_photo1_033d28f8cc58.webp",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "원조",
+    "포장"
+   ]
+  },
+  {
+   "rid": "LyA5cIkSjuAz",
+   "name": "봉이포장마차",
+   "branch": null,
+   "addr": "경상남도 통영시 욕지면 동항리 574-34",
+   "road_addr": "경상남도 통영시 욕지면 자부포길 38-16",
+   "phone": null,
+   "category": "고등어회",
+   "area": [
+    "욕지도"
+   ],
+   "lat": 34.6352957,
+   "lng": 128.2695979,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "오션뷰"
+   ]
+  },
+  {
+   "rid": "2nnyX9hIJI4c",
+   "name": "행복베이커리",
+   "branch": null,
+   "addr": "경상남도 남해군 남해읍 북변리 242-5",
+   "road_addr": "경남 남해군 남해읍 화전로 93 1층 행복베이커리",
+   "phone": "055-864-8249",
+   "category": "빵",
+   "area": [
+    "남해"
+   ],
+   "lat": 34.8395325,
+   "lng": 127.8938327,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 4.9,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250127033311626_photo_0fa979e405fe.webp",
+   "tags": [
+    "한국인의밥상",
+    "간식",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "3J97HKb6uq7E",
+   "name": "산삼마루",
+   "branch": null,
+   "addr": "경상남도 하동군 청암면 묵계리 1605-2",
+   "road_addr": "경상남도 하동군 청암면 청학로 2533-7",
+   "phone": "055-883-6628",
+   "category": "한정식, 레몬",
+   "area": [
+    "하동"
+   ],
+   "lat": 35.2417929,
+   "lng": 127.7097405,
+   "open_status": "영업 종료 24분 전",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보약",
+    "몸에좋은음식"
+   ]
+  },
+  {
+   "rid": "ZQVusz2IhISs",
+   "name": "나포리횟집",
+   "branch": null,
+   "addr": "경상남도 고성군 삼산면 두포리 1070-2",
+   "road_addr": "경상남도 고성군 삼산면 두포1길 133",
+   "phone": "055-673-1481",
+   "category": "하모샤브샤브, 하모회",
+   "area": [
+    "경남고성"
+   ],
+   "lat": 34.904907,
+   "lng": 128.2761359,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "보양식",
+    "원조",
+    "포장"
+   ]
+  },
+  {
+   "rid": "R69f0iOIrJym",
+   "name": "한산황복명가",
+   "branch": null,
+   "addr": "경상남도 통영시 한산면 염호리 510",
+   "road_addr": "경상남도 통영시 한산면 여차길 403-21",
+   "phone": "055-649-3089",
+   "category": "복어, 황복",
+   "area": [
+    "통영"
+   ],
+   "lat": 34.8123524,
+   "lng": 128.4770637,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "건강식",
+    "국내산"
+   ]
+  },
+  {
+   "rid": "hP8s36xAoYFC",
+   "name": "거제가자횟집",
+   "branch": null,
+   "addr": "경상남도 거제시 동부면 가배리 693-1",
+   "road_addr": "경상남도 거제시 동부면 가배3길 12 거제가자횟집",
+   "phone": "055-635-2563",
+   "category": "횟집, 벵에돔",
+   "area": [
+    "거제"
+   ],
+   "lat": 34.7843864,
+   "lng": 128.5685422,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "혼자먹기",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "B3mXb6I3o8mt",
+   "name": "풍년옥",
+   "branch": null,
+   "addr": "경상남도 고성군 고성읍 성내리 206-2",
+   "road_addr": "경남 고성군 고성읍 성내로112번길 75-7 풍년옥 고성점",
+   "phone": "010-6222-4642",
+   "category": "칼국수, 가리비칼국수",
+   "area": [
+    "경남고성"
+   ],
+   "lat": 34.9727223,
+   "lng": 128.3231068,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "아이와함께",
+    "배달",
+    "넓은"
+   ]
+  },
+  {
+   "rid": "YvdXD7NLuFof",
+   "name": "신등대민박수산회센타",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 추자면 대서리 5-7",
+   "road_addr": "제주특별자치도 제주시 추자면 추자로 12 1층",
+   "phone": "0507-1412-3868",
+   "category": "굴비정식, 조기매운탕",
+   "area": [
+    "추자도"
+   ],
+   "lat": 33.9633261,
+   "lng": 126.2976206,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "낮술",
+    "얼큰한"
+   ]
+  },
+  {
+   "rid": "zNKOfvN2GdRz",
+   "name": "용림식당",
+   "branch": null,
+   "addr": "제주특별자치도 서귀포시 안덕면 사계리 2032-24",
+   "road_addr": "제주특별자치도 서귀포시 안덕면 사계남로 170-1",
+   "phone": "064-794-3652",
+   "category": "횟집, 흑돼지",
+   "area": [
+    "제주안덕"
+   ],
+   "lat": 33.2284533,
+   "lng": 126.3080262,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20211007143837_photo0_zNKOfvN2GdRz.webp",
+   "tags": [
+    "한국인의밥상",
+    "오션뷰",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "nG9q5ExZU1fW",
+   "name": "귀빈식당",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 추자면 대서리 6",
+   "road_addr": "제주 제주시 추자면 추자로 14-3",
+   "phone": "064-742-4900",
+   "category": "옥돔구이",
+   "area": [
+    "추자도"
+   ],
+   "lat": 33.963706,
+   "lng": 126.2974738,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "한국인의밥상",
+    "혼밥"
+   ]
+  }
+ ]
+}

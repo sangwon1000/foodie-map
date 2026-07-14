@@ -1,0 +1,2118 @@
+[
+  {
+    "season": 1,
+    "chef": "최현석",
+    "tier": "백수저",
+    "result": "탑8",
+    "restaurants": [
+      {
+        "name": "쵸이닷",
+        "area": "서울 청담동"
+      },
+      {
+        "name": "달리아 다이닝",
+        "area": "서울 강남"
+      },
+      {
+        "name": "중앙감속기",
+        "area": "서울 을지로"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "에드워드 리",
+    "tier": "백수저",
+    "result": "준우승",
+    "restaurants": [
+      {
+        "name": "610 매그놀리아",
+        "area": "미국 루이빌"
+      },
+      {
+        "name": "나미 모던 코리안 스테이크하우스",
+        "area": "미국 루이빌"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "정지선",
+    "tier": "백수저",
+    "result": "탑7",
+    "restaurants": [
+      {
+        "name": "티엔미미",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "장호준",
+    "tier": "백수저",
+    "result": "탑5",
+    "restaurants": [
+      {
+        "name": "네기 스키야키",
+        "area": "서울 강남"
+      },
+      {
+        "name": "네기 다이닝 라운지",
+        "area": "서울 강남"
+      },
+      {
+        "name": "네기 라이브",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "최강록",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "식당 네오",
+        "area": "서울 송파구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "김도윤",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "윤서울",
+        "area": "서울 강남"
+      },
+      {
+        "name": "면서울",
+        "area": "서울 강남"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "여경래",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "홍보각",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "안유성",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "가매일식",
+        "area": "광주 서구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "방기수",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "비채나",
+        "area": "서울 잠실"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "조은주",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "터치 더 스카이",
+        "area": "서울 여의도"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "최지형",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "리북방",
+        "area": "서울 마포구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "조셉 리저우드",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "에빗",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "파브리치오 페라리",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "파브리키친",
+        "area": "서울 용산"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "황진선",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "진진",
+        "area": "서울 서교동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "남정석",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "로컬릿",
+        "area": "서울 성동구"
+      },
+      {
+        "name": "그린볼",
+        "area": "강원 강릉"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "오세득",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "친밀",
+        "area": "제주"
+      },
+      {
+        "name": "오팬파이어",
+        "area": "제주 조천읍"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "박준우",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "카페 오쁘띠베르",
+        "area": "서울 종로구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "김승민",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "모리노아루요",
+        "area": "제주 애월"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "이영숙",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "나경버섯",
+        "area": "충남 부여"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "선경 롱게스트",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": []
+  },
+  {
+    "season": 1,
+    "chef": "나폴리 맛피아",
+    "tier": "흑수저",
+    "result": "우승",
+    "restaurants": [
+      {
+        "name": "비아 톨레도 파스타바",
+        "area": "서울 용산구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "트리플스타",
+    "tier": "흑수저",
+    "result": "탑3",
+    "restaurants": [
+      {
+        "name": "트리드",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "요리하는 돌아이",
+    "tier": "흑수저",
+    "result": "탑4",
+    "restaurants": [
+      {
+        "name": "디핀 옥수",
+        "area": "서울 옥수동"
+      },
+      {
+        "name": "디핀",
+        "area": "서울 신당동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "이모카세 1호",
+    "tier": "흑수저",
+    "result": "탑6",
+    "restaurants": [
+      {
+        "name": "즐거운술상",
+        "area": "서울 도봉구"
+      },
+      {
+        "name": "안동집",
+        "area": "서울 경동시장"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "철가방 요리사",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "도량",
+        "area": "서울 서촌"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "만찢남",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "조광201",
+        "area": "서울 송파구"
+      },
+      {
+        "name": "조광101",
+        "area": "서울 송파구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "히든천재",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "포노 부오노",
+        "area": "서울 압구정"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "장사천재 조사장",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "을지로보석",
+        "area": "서울 을지로"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "반찬 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "마마리마켓",
+        "area": "서울 성수동"
+      },
+      {
+        "name": "마마리다이닝",
+        "area": "서울 여의도"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "야키토리왕",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "야키토리 묵",
+        "area": "서울 연남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "간귀",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "에다마메 남영",
+        "area": "서울 남영동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "영탉",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "남영탉",
+        "area": "서울 남영동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "고기깡패",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "군몽",
+        "area": "서울 한남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "셀럽의 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "부토",
+        "area": "서울 한남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "원투쓰리",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "본연",
+        "area": "서울 논현동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "키친 갱스터",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "나우 남영",
+        "area": "서울 남영동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "승우아빠",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "키친 마이야르",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "중식 여신",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "그랜드 마제스틱 쓰촨",
+        "area": "홍콩"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "불꽃남자",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "비스트로 스파크",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "국내파스타",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "줄라이",
+        "area": "서울 서래마을"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "유비빔",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "전주비빔소리",
+        "area": "전북 전주"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "남극 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "남극의순대국",
+        "area": "경기 안양"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "골목식당 1호",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "가야가야",
+        "area": "서울 이대"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "광속 요리사",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "논데",
+        "area": "서울 종로"
+      },
+      {
+        "name": "스낵바 논데",
+        "area": "서울 왕십리"
+      },
+      {
+        "name": "참치 논데",
+        "area": "서울 군자"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "돌아온 소년",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "에이넷",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "멜버른 베스트",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "윰드",
+        "area": "서울 강남"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "방구석 다이닝",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "소셜다이닝 피델리오",
+        "area": "서울 망원동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "봉주부",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "블그레",
+        "area": "서울 신사동"
+      },
+      {
+        "name": "라운지 바이 블그레",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "뷔페집 둘째딸",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "마늘집",
+        "area": "서울 합정동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "시크릿 코스",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "로기",
+        "area": "서울 한남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "잠봉뵈르맨",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "소금집델리",
+        "area": "서울 망원동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "제주 게하 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "언니네 시골집",
+        "area": "제주 한경면"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "짹짹이",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "잭잭",
+        "area": "서울 이태원"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "슈퍼땅콩",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "B3713",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "안산 백종원",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "뽁식당",
+        "area": "경기 안산"
+      },
+      {
+        "name": "오복당",
+        "area": "경기 안산"
+      },
+      {
+        "name": "카사 데 타코",
+        "area": "경기 안산"
+      },
+      {
+        "name": "소굿",
+        "area": "경기 안산"
+      },
+      {
+        "name": "보꾸",
+        "area": "경기 안산"
+      },
+      {
+        "name": "핀깔소",
+        "area": "경기 안산"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "일식 타짜",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "나카지마고에몽",
+        "area": "서울 영등포"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "제빵 요리사",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "아오이토리",
+        "area": "서울 홍대"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "청와대 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "미트컬쳐",
+        "area": "강원 강릉"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "치킨 대통령",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "101 치킨",
+        "area": "미국 뉴저지"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "캠핑맨",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "미미옥",
+        "area": "서울 용산"
+      },
+      {
+        "name": "버거보이",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "쿠킹텔러",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "와일드플라워",
+        "area": "서울 방배동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "통닭맨",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "아타리",
+        "area": "서울 성수"
+      },
+      {
+        "name": "야키토리 혼바",
+        "area": "서울 후암동"
+      },
+      {
+        "name": "야키토리 코치",
+        "area": "서울 영등포"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "평가절하",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "포그",
+        "area": "서울 마포"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "풀메 요리사",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "이야이야앤프렌즈",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "한식 꼰대",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "더다믐",
+        "area": "서울 마포"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "후포리 촌놈",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "제이드앤워터",
+        "area": "서울 성동구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "B급 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "넘은봄",
+        "area": "제주 구좌"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "4.8.100",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "고씨네 고추장찌개",
+        "area": null
+      },
+      {
+        "name": "남영동 양문",
+        "area": "서울 남영동"
+      },
+      {
+        "name": "천하제일솥뚜껑",
+        "area": null
+      },
+      {
+        "name": "넛츠비어",
+        "area": null
+      },
+      {
+        "name": "불끈",
+        "area": null
+      },
+      {
+        "name": "휘뚜루",
+        "area": null
+      },
+      {
+        "name": "방아실",
+        "area": null
+      },
+      {
+        "name": "대엽",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "코리안 타코킹",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "엘몰리노",
+        "area": "서울 성수"
+      },
+      {
+        "name": "라까예",
+        "area": "서울 신당"
+      },
+      {
+        "name": "에스콘디도",
+        "area": "서울 한남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "포커페이스",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "코리",
+        "area": "서울 강남"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "프렌치돌",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "샤브서울",
+        "area": "서울 논현동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "해피버스데이",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "더 시옷",
+        "area": "서울 을지로3가"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "황금삽",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "장화",
+        "area": "경남 양산"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "KO든램지",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "스시해화",
+        "area": "서울 연남동"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "300억 반찬 CEO",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "도시곳간",
+        "area": "서울 광진구"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "50억 초밥왕",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "오늘의초밥",
+        "area": "경기 수원 광교"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "chef": "공사판 셰프",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "트리플본국밥",
+        "area": "서울 문정동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "최강록",
+    "tier": "백수저",
+    "result": "우승",
+    "restaurants": []
+  },
+  {
+    "season": 2,
+    "chef": "김도윤",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "윤서울",
+        "area": "서울 강남"
+      },
+      {
+        "name": "면서울",
+        "area": "서울 강남"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "후덕죽",
+    "tier": "백수저",
+    "result": "탑3",
+    "restaurants": [
+      {
+        "name": "호빈",
+        "area": "서울 장충동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "정호영",
+    "tier": "백수저",
+    "result": "탑4",
+    "restaurants": [
+      {
+        "name": "카덴",
+        "area": "서울 연남동"
+      },
+      {
+        "name": "우동 카덴",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "선재스님",
+    "tier": "백수저",
+    "result": "탑6",
+    "restaurants": []
+  },
+  {
+    "season": 2,
+    "chef": "임성근",
+    "tier": "백수저",
+    "result": "탑7",
+    "restaurants": []
+  },
+  {
+    "season": 2,
+    "chef": "이준",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "스와니예",
+        "area": "서울"
+      },
+      {
+        "name": "도우룸",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "손종원",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "이타닉 가든",
+        "area": "서울 역삼"
+      },
+      {
+        "name": "라망 시크레",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김성운",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "테이블 포 포",
+        "area": "서울 한남동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김희은",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "소울",
+        "area": "서울 용산"
+      },
+      {
+        "name": "에그앤플라워",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김건",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "고료리 켄",
+        "area": "서울 압구정"
+      },
+      {
+        "name": "이치에",
+        "area": "서울"
+      },
+      {
+        "name": "회현식당",
+        "area": "서울 회현동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "박효남",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "콩두",
+        "area": "서울 명동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "제니 월덴",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "나무 (Namu)",
+        "area": "스웨덴 말뫼"
+      },
+      {
+        "name": "가지 (Gaji)",
+        "area": "스웨덴 말뫼"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "심성철",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "코치 (Kochi)",
+        "area": "미국 뉴욕"
+      },
+      {
+        "name": "마리 (Mari)",
+        "area": "미국 뉴욕"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "샘 킴",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "오스테리아 샘킴",
+        "area": "서울 합정"
+      },
+      {
+        "name": "뜨라또리아 샘킴",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "레이먼 킴",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "시리얼 고메 2.0",
+        "area": "경기 동탄"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "송훈",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "크라운돼지",
+        "area": "제주"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "이금희",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "봉래헌",
+        "area": "서울 강서구"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "천상현",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "천상현의 천상",
+        "area": "경기 가평"
+      },
+      {
+        "name": "상춘재",
+        "area": "서울 양재"
+      },
+      {
+        "name": "천상현의 천상 영암멋집",
+        "area": "전남 영암"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "최유강",
+    "tier": "백수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "코자차",
+        "area": "서울 강남"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "요리 괴물",
+    "tier": "흑수저",
+    "result": "준우승",
+    "restaurants": [
+      {
+        "name": "오야트 (Oyatte)",
+        "area": "미국 뉴욕"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "술 빚는 윤주모",
+    "tier": "흑수저",
+    "result": "탑5",
+    "restaurants": [
+      {
+        "name": "윤주당",
+        "area": "서울 해방촌"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "아기 맹수",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "솔밤",
+        "area": "서울 논현동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "중식 폭주족",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "계향각",
+        "area": "서울 대학로"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "4평 외톨이",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "독도16도",
+        "area": "서울 서촌"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "프렌치 파파",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "비스트로 드 욘트빌",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "바베큐연구소장",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "유용욱바베큐연구소",
+        "area": "서울 남영동"
+      },
+      {
+        "name": "이목 스모크 다이닝",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "뉴욕에 간 돼지곰탕",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "옥동식",
+        "area": "서울 서교동"
+      },
+      {
+        "name": "옥동식그릴",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "무쇠팔",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "소바쥬",
+        "area": "서울 도화동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "부채도사",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "동경밥상",
+        "area": "부산 남천동"
+      },
+      {
+        "name": "오코메",
+        "area": "부산"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "서울엄마",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "수퍼판",
+        "area": "서울 신사동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "천생연분",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "드레스덴 그린",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "칼마카세",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "모노로그",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "안녕 봉주르",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "셰누 프라이빗 키친",
+        "area": "서울 이태원"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "키친보스",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "더 이탈리안 클럽",
+        "area": "서울 잠실"
+      },
+      {
+        "name": "호시우보",
+        "area": null
+      },
+      {
+        "name": "중식당 청",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "삐딱한 천재",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "오리지널 넘버스",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "유행왕",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "쌤쌤쌤",
+        "area": "서울 용산"
+      },
+      {
+        "name": "테디뵈르하우스",
+        "area": "서울 용산"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "중식 마녀",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "금룡",
+        "area": "서울 워커힐"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "요리과학자",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "멘야 미코",
+        "area": null
+      },
+      {
+        "name": "당옥",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "망원시장 히어로",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "바삭마차",
+        "area": "서울 망원시장"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "뉴욕 기사식당",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "기사 (Kisa)",
+        "area": "미국 뉴욕"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "이정수",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "온6.5",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "윤대현",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "옥돌현옥",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "남성렬",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "신안가옥",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "명현지",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "아선재",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "채명희",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "은진포차",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "권옥식",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "급이 다른 부대찌개",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "방효숙",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "구들장흑도야지",
+        "area": "경기 용인"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "이정서",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "힙한식",
+        "area": "경남 남해"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "유금안",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "외암파전상전",
+        "area": "충남 아산"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김효숙",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "절라도",
+        "area": "전남 담양"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "황지훈",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "숯",
+        "area": "서울 여의도"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "최규덕",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "미가키",
+        "area": "서울 청담동"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "나원계",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "호루몬",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "배재훈",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "갓포 아키",
+        "area": null
+      },
+      {
+        "name": "타카",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "윤태호",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "키이로",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "박세효",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "죠죠",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "권민택",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "고미태",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "윤석환",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "칸세이",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "장보원",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "보보식당",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "담소룡",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "동보성",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "윤진원",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "무탄",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김혜규",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "뼈대있는짬뽕",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "임홍근",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "페리지",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "전지호",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "랑빠스81",
+        "area": "서울 이태원"
+      },
+      {
+        "name": "바라핀부쉬",
+        "area": "서울"
+      },
+      {
+        "name": "이태원실비",
+        "area": "서울 이태원"
+      },
+      {
+        "name": "디스코",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "이재훈",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "까델루뽀",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "윤아름",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "비스트로 앤트로",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김석현",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "몽도",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김진래",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "서울다이닝",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "황제",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "래빗홀 버거",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "손영철",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "보타르가 비노",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김준형",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "레스토랑 온",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "송호윤",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "양출서울",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "안진호",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "무슈벤자민",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "용석원",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "퍼셉션",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김재호",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "디어그랜마",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김도형",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "만가타",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "원성훈",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "라오삐약",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김용성",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "중앙감속기",
+        "area": "서울 을지로"
+      },
+      {
+        "name": "중앙가속기",
+        "area": "서울"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "김두래",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "떡산",
+        "area": null
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "정시우",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "삼미분식",
+        "area": "경기 이천"
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "chef": "임하선",
+    "tier": "흑수저",
+    "result": null,
+    "restaurants": [
+      {
+        "name": "파티세리 후르츠",
+        "area": "서울"
+      },
+      {
+        "name": "피엔에이",
+        "area": null
+      }
+    ]
+  }
+]

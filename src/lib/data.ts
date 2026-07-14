@@ -1,5 +1,5 @@
 import type { Place, PlaceProps, ShowId } from "../types";
-import { SHOW_ORDER } from "../types";
+import type { Profile } from "../profiles";
 
 export interface CountryCount {
   name: string;
@@ -13,6 +13,7 @@ export interface AtlasStats {
 }
 
 export interface Atlas {
+  profileId: string;
   places: Place[];
   countries: CountryCount[];
   stats: AtlasStats;
@@ -24,10 +25,11 @@ interface RawFeature {
   properties: PlaceProps;
 }
 
-export async function loadAtlas(): Promise<Atlas> {
-  const res = await fetch(`${import.meta.env.BASE_URL}data/restaurants.geojson`);
+export async function loadAtlas(profile: Profile): Promise<Atlas> {
+  const res = await fetch(`${import.meta.env.BASE_URL}${profile.dataUrl}`);
   if (!res.ok) throw new Error(`failed to load atlas data: ${res.status}`);
   const fc = (await res.json()) as { features: RawFeature[] };
+  const showOrder = profile.shows.map((s) => s.id);
 
   const places: Place[] = fc.features
     .filter((f) => f.geometry?.type === "Point")
@@ -37,12 +39,12 @@ export async function loadAtlas(): Promise<Atlas> {
       const shows =
         p.shows && p.shows.length > 0
           ? p.shows
-          : SHOW_ORDER.filter((s) => visits.some((v) => v.show === s));
+          : showOrder.filter((s) => visits.some((v) => v.show === s));
       return {
         ...p,
         visits,
         shows,
-        primaryShow: p.primaryShow ?? shows[shows.length - 1] ?? "PU",
+        primaryShow: p.primaryShow ?? shows[shows.length - 1] ?? showOrder[0],
         lng: f.geometry.coordinates[0],
         lat: f.geometry.coordinates[1],
       };
@@ -62,6 +64,7 @@ export async function loadAtlas(): Promise<Atlas> {
     .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 
   return {
+    profileId: profile.id,
     places,
     countries,
     stats: {
@@ -81,7 +84,9 @@ const fold = (s: string) =>
 export function matchesQuery(p: Place, q: string): boolean {
   if (!q) return true;
   const hay = fold(
-    `${p.name} ${p.city} ${p.country} ${p.visits.map((v) => v.title ?? "").join(" ")}`,
+    `${p.name} ${p.city} ${p.country} ${p.kind ?? ""} ${p.note ?? ""} ${p.visits
+      .map((v) => v.title ?? "")
+      .join(" ")}`,
   );
   return fold(q)
     .split(/\s+/)
@@ -117,7 +122,11 @@ export function toFeatureCollection(places: Place[]) {
   };
 }
 
-export function googleMapsUrl(p: Place): string {
+export function placeMapUrl(p: Place, service: "google" | "naver"): string {
+  if (service === "naver") {
+    const q = encodeURIComponent(`${p.name} ${p.city.split(" ")[0] ?? ""}`.trim());
+    return `https://map.naver.com/p/search/${q}`;
+  }
   const q = encodeURIComponent(`${p.name}, ${p.city}, ${p.country}`);
   return `https://www.google.com/maps/search/?api=1&query=${q}`;
 }

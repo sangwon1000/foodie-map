@@ -1,0 +1,4547 @@
+{
+ "source": "diningcode.com 인증맛집",
+ "keyword": "최자로드",
+ "fetched_at": "2026-07-14T08:34:09.665Z",
+ "total_reported": 184,
+ "count": 184,
+ "places": [
+  {
+   "rid": "H3qa1IlpUsIk",
+   "name": "월래순 교자관",
+   "branch": null,
+   "addr": "서울특별시 구로구 가리봉동 127-5",
+   "road_addr": "서울특별시 구로구 디지털로19길 13 1층",
+   "phone": "02-855-8488",
+   "category": "중식, 군만두",
+   "area": [
+    "가리봉"
+   ],
+   "lat": 37.4802835,
+   "lng": 126.8898292,
+   "open_status": "영업 중",
+   "score": 87,
+   "user_score": 4.2,
+   "review_cnt": 85,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429082738_photo2_640fde2914ca.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "b3DDsiDJxXYE",
+   "name": "산수갑산",
+   "branch": null,
+   "addr": "서울특별시 중구 인현동1가 15-4",
+   "road_addr": "서울특별시 중구 을지로20길 24",
+   "phone": "02-2275-6654",
+   "category": "순대국",
+   "area": [
+    "을지로3가역"
+   ],
+   "lat": 37.5653833,
+   "lng": 126.9953138,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.1,
+   "review_cnt": 101,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260410012818059_photo_d3690de6f179.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "6HnUMdLDBNm7",
+   "name": "호수집",
+   "branch": null,
+   "addr": "서울특별시 중구 중림동 61-4",
+   "road_addr": "서울특별시 중구 청파로 443",
+   "phone": "02-392-0695",
+   "category": "닭꼬치, 닭도리탕",
+   "area": [
+    "서울역"
+   ],
+   "lat": 37.5590788,
+   "lng": 126.9686858,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.2,
+   "review_cnt": 44,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260426090302_photo1_favHrqinbple.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "연탄불"
+   ]
+  },
+  {
+   "rid": "Rh4z6YncoGIv",
+   "name": "장어구이",
+   "branch": "본점",
+   "addr": "서울특별시 성동구 행당동 19-54",
+   "road_addr": "서울특별시 성동구 마조로 17",
+   "phone": "02-2294-8999",
+   "category": "김치찌개",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5594699,
+   "lng": 127.0405517,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.4,
+   "review_cnt": 30,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260421023446_photo1_1e29f9d4fd31.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "야외자리"
+   ]
+  },
+  {
+   "rid": "OVxelXQaCqAk",
+   "name": "뫼촌",
+   "branch": null,
+   "addr": "서울특별시 마포구 도화동 184-10",
+   "road_addr": "서울특별시 마포구 새창로6길 18 뫼촌",
+   "phone": "0507-1405-9966",
+   "category": "닭볶음탕, 감자전",
+   "area": [
+    "공덕"
+   ],
+   "lat": 37.5412839,
+   "lng": 126.9526794,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 3.8,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250903203316_photo1_64e31ad400f9.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "SlU4iocpXug7",
+   "name": "중화요리 팔공",
+   "branch": null,
+   "addr": "서울특별시 관악구 신림동 10-621",
+   "road_addr": "서울특별시 관악구 남부순환로 1680",
+   "phone": "0507-1307-9815",
+   "category": "짜장면, 유린기",
+   "area": [
+    "신림"
+   ],
+   "lat": 37.4841255,
+   "lng": 126.9371352,
+   "open_status": "영업 중",
+   "score": 87,
+   "user_score": 4.6,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260515102550294_photo_c1fc6b1682a4.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "wsBFwjywe3HV",
+   "name": "신당한우곱창",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 102-1",
+   "road_addr": "서울특별시 중구 다산로 236",
+   "phone": "0507-1364-7850",
+   "category": "곱창, 소곱창",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5639669,
+   "lng": 127.0161636,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251003093611_photo1_f99ee823613c.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "Jphc2tv0Mepk",
+   "name": "평사리참숯뒷통구이",
+   "branch": null,
+   "addr": "경상남도 김해시 삼방동 680-15",
+   "road_addr": "경상남도 김해시 삼안로217번길 22",
+   "phone": "055-335-1252",
+   "category": "뒷고기, 뒷통구이",
+   "area": [
+    "김해"
+   ],
+   "lat": 35.2469548,
+   "lng": 128.9089591,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250822111317_photo1_77eb4f7febb4.webp",
+   "tags": [
+    "최자로드",
+    "회식",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "81is8vSMCFEK",
+   "name": "장미식당",
+   "branch": null,
+   "addr": "서울특별시 성동구 금호동1가 1763",
+   "road_addr": "서울특별시 성동구 금호로 84",
+   "phone": null,
+   "category": "찌개, 한식",
+   "area": [
+    "금호동"
+   ],
+   "lat": 37.5508377,
+   "lng": 127.0258904,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 3.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260125124703819_photo_a7657e9cf260.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "VwBkYhBvwHHM",
+   "name": "금강산",
+   "branch": null,
+   "addr": "서울특별시 용산구 청파동2가 114-3",
+   "road_addr": "서울특별시 용산구 청파로 303",
+   "phone": "02-713-6650",
+   "category": "묵은지, 묵은지삼겹살",
+   "area": [
+    "숙대"
+   ],
+   "lat": 37.54665,
+   "lng": 126.9700499,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.3,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260428112630_photo1_cea289ae800e.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "kSl5OntmqnhC",
+   "name": "대머리식당",
+   "branch": null,
+   "addr": "서울특별시 성북구 장위동 75-1",
+   "road_addr": "서울특별시 성북구 돌곶이로 162",
+   "phone": "02-915-9233",
+   "category": "생선구이, 돌솥밥",
+   "area": [
+    "장위동"
+   ],
+   "lat": 37.6158615,
+   "lng": 127.0510732,
+   "open_status": "영업 종료",
+   "score": 65,
+   "user_score": 3.5,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240228021107_photo1_1f27c01fd12a.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "lNOd8dd2QB02",
+   "name": "줘마양다리구이",
+   "branch": null,
+   "addr": "서울특별시 영등포구 대림동 1056-7",
+   "road_addr": "서울특별시 영등포구 도림천로11길 13",
+   "phone": "02-831-3078",
+   "category": "양꼬치, 양다리",
+   "area": [
+    "대림역"
+   ],
+   "lat": 37.4915781,
+   "lng": 126.8972469,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260514102303_photo1_fd6cc2dcf726.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "5DZ32G1vo9tF",
+   "name": "산동만두",
+   "branch": null,
+   "addr": "서울특별시 용산구 후암동 244-86 107호 산동만두",
+   "road_addr": "서울특별시 용산구 후암로28길 10 107호 산동만두",
+   "phone": "02-3789-8285",
+   "category": "만두, 군만두",
+   "area": [
+    "후암동"
+   ],
+   "lat": 37.5499617,
+   "lng": 126.977746,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251228152604_photo1_d03bd9d10f3b.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "배달",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "ljSWJfmbtRXd",
+   "name": "초가",
+   "branch": null,
+   "addr": "강원도 춘천시 신북읍 율문리 275-1",
+   "road_addr": "강원도 춘천시 신북읍 율문길 107-1",
+   "phone": "033-241-0078",
+   "category": "김치찌개, 라면",
+   "area": [
+    "춘천"
+   ],
+   "lat": 37.9249704,
+   "lng": 127.7497027,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.7,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260513033346_photo1_p9b1B20DfjLS.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "GRYst7cOyZZo",
+   "name": "대성칼치찌개구이",
+   "branch": null,
+   "addr": "부산광역시 기장군 기장읍 대변리 308",
+   "road_addr": "부산광역시 기장군 기장읍 대변2길 9 대성갈치찌개구이",
+   "phone": "051-721-2289",
+   "category": "멸치쌈밥, 멸치회",
+   "area": [
+    "부산기장"
+   ],
+   "lat": 35.2237426,
+   "lng": 129.2313444,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.6,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505122009_photo1_3c6f73eb140a.webp",
+   "tags": [
+    "최자로드",
+    "가족외식",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "jLoJIbaU57cZ",
+   "name": "가마솥소머리국밥",
+   "branch": null,
+   "addr": "전라남도 구례군 구례읍 봉동리 211-13",
+   "road_addr": "전라남도 구례군 구례읍 5일시장길 7",
+   "phone": "061-783-7117",
+   "category": "소머리국밥, 돼지수육",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.2101237,
+   "lng": 127.4692247,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.7,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250505022042_photo1_b19fa0ac6186.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "8DMmBKVR6rAd",
+   "name": "연정식당",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 연동 256",
+   "road_addr": "제주특별자치도 제주시 신광로10길 29",
+   "phone": "064-747-3959",
+   "category": "삼겹살, 가브리살",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.48376,
+   "lng": 126.486755,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.3,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260412122214_photo1_9f5daf2324bf.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "무료주차",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "szamW2FGIXqT",
+   "name": "대화정 진짜해장국",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로6가 18-85",
+   "road_addr": "서울특별시 중구 장충단로 249-20 1층",
+   "phone": "0507-1348-8485",
+   "category": "해장국, 선지",
+   "area": [
+    "동대문"
+   ],
+   "lat": 37.5675754,
+   "lng": 127.0077551,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.1,
+   "review_cnt": 32,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260520050749_photo1_f68a0699b1ff.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "CK7l26yHgnou",
+   "name": "광명식당",
+   "branch": null,
+   "addr": "제주특별자치도 서귀포시 중앙동 274-14",
+   "road_addr": "제주 서귀포시 중앙로42번길 18",
+   "phone": "064-762-4204",
+   "category": "국밥, 찹쌀순대",
+   "area": [
+    "올레시장"
+   ],
+   "lat": 33.2484965,
+   "lng": 126.5636458,
+   "open_status": "확인필요",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251001092224690_photo_672ad78ce5df.webp",
+   "tags": [
+    "최자로드",
+    "해장",
+    "동네맛집"
+   ]
+  },
+  {
+   "rid": "cZIoTojCPqpY",
+   "name": "까치네",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 40-4",
+   "road_addr": "서울특별시 용산구 한강대로84길 11-16 까치네",
+   "phone": "02-798-4668",
+   "category": "오징어볶음, 계란범벅",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5443857,
+   "lng": 126.9732428,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250114120816_photo1_91dd7cd26fc0.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "jIie8APoi9NP",
+   "name": "삼각지 신림 순대볶음",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로1가 231-23",
+   "road_addr": "서울특별시 용산구 한강대로62길 18 상가아파트",
+   "phone": "02-749-6388",
+   "category": "순대볶음, 곱창볶음",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5341783,
+   "lng": 126.9732547,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 3.6,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250912011722_photo1_3236b00bc262.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "노포",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "F0vutocZKsZz",
+   "name": "목로",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 577-12",
+   "road_addr": "서울특별시 강남구 압구정로28길 18",
+   "phone": "02-548-7500",
+   "category": "만두국, 평양만두",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5254979,
+   "lng": 127.027579,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 2.9,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251126015609_photo1_73pMtTnk09f0.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "무료주차",
+    "노포"
+   ]
+  },
+  {
+   "rid": "Kszd2vZwcgPI",
+   "name": "신비갈비살",
+   "branch": "본점",
+   "addr": "서울특별시 강남구 신사동 508-9",
+   "road_addr": "서울특별시 강남구 강남대로158길 15 1층",
+   "phone": "0507-1331-5992",
+   "category": "짝갈비, 한우갈비",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5190656,
+   "lng": 127.0201825,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.2,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250819113944395_photo_d39e533b6ba1.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "가성비좋은",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "lXXTBW3Gzmpy",
+   "name": "시장국밥",
+   "branch": null,
+   "addr": "광주광역시 광산구 송정동 813-7",
+   "road_addr": "광주광역시 광산구 내상로 56-7",
+   "phone": "0507-1394-0958",
+   "category": "국밥, 선지",
+   "area": [
+    "광주송정역"
+   ],
+   "lat": 35.1373708,
+   "lng": 126.797625,
+   "open_status": "오늘 휴무",
+   "score": 76,
+   "user_score": 4.4,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260423015433_photo1_90b4ad93f49f.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "nSeHJFqNOfkd",
+   "name": "카와카츠",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 465-1",
+   "road_addr": "서울특별시 마포구 동교로 126 1층 102호",
+   "phone": "0507-1415-2064",
+   "category": "카츠, 돈까스",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5547417,
+   "lng": 126.9160867,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.5,
+   "review_cnt": 38,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260331202618_photo1_05ed76225727.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "깔끔한",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "kjTtKepwjpo3",
+   "name": "의령식당",
+   "branch": null,
+   "addr": "부산광역시 해운대구 우동 456-11",
+   "road_addr": "부산광역시 해운대구 우동1로50번길 15",
+   "phone": "051-746-9661",
+   "category": "돼지국밥",
+   "area": [
+    "해리단길"
+   ],
+   "lat": 35.1664921,
+   "lng": 129.158347,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.5,
+   "review_cnt": 26,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425134132_photo1_f5550a7b8c9c.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "jxTobrrzZM77",
+   "name": "오죽이네",
+   "branch": null,
+   "addr": "서울특별시 종로구 익선동 156",
+   "road_addr": "서울특별시 종로구 돈화문로11가길 25",
+   "phone": "02-741-8874",
+   "category": "닭매운탕",
+   "area": [
+    "익선동"
+   ],
+   "lat": 37.5738124,
+   "lng": 126.9908395,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.4,
+   "review_cnt": 71,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505024736_photo1_54fece98a292.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "GyE8HKoRjM4J",
+   "name": "삼정면옥",
+   "branch": null,
+   "addr": "충청북도 충주시 성서동 312",
+   "road_addr": "충청북도 충주시 관아3길 21",
+   "phone": "043-847-4882",
+   "category": "평양냉면",
+   "area": [
+    "충주"
+   ],
+   "lat": 36.9712473,
+   "lng": 127.9338667,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 3.9,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250610033500452_photo_ede22f9c815d.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "yT9gg1wptVDR",
+   "name": "홍지로스",
+   "branch": null,
+   "addr": "서울 종로구 낙원동 288",
+   "road_addr": "서울 종로구 삼일대로 428 1층",
+   "phone": "0507-1377-0115",
+   "category": "삼겹살, 차돌박이",
+   "area": [
+    "낙원상가"
+   ],
+   "lat": 37.5730389,
+   "lng": 126.9881561,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.2,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260405090619_photo1_547f133c2068.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "시끌벅적한",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "boGSOK53tQSl",
+   "name": "대물섬",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 73-1",
+   "road_addr": "서울특별시 용산구 독서당로 65-11 1층",
+   "phone": "0507-1335-2367",
+   "category": "횟집, 광어",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5340564,
+   "lng": 127.0081191,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.6,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424014243_photo1_6761b5ba598e.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "발렛파킹",
+    "시끌벅적한"
+   ]
+  },
+  {
+   "rid": "40k6MeZiv7eV",
+   "name": "이화횟집",
+   "branch": null,
+   "addr": "경기도 화성시 만세구 우정읍 이화리 1099-6",
+   "road_addr": "경기 화성시 만세구 우정읍 매화길 2",
+   "phone": "031-358-0807",
+   "category": "생선회, 매운탕",
+   "area": [
+    "화성"
+   ],
+   "lat": 37.0272788,
+   "lng": 126.7953025,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 3.4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250130115627_photo1_8ce0f4adbb15.webp",
+   "tags": [
+    "최자로드",
+    "해장",
+    "무료주차",
+    "오래된맛집"
+   ]
+  },
+  {
+   "rid": "LaCbGCkor2wo",
+   "name": "진국밥",
+   "branch": null,
+   "addr": "대구광역시 달서구 신당동 1087-13",
+   "road_addr": "대구광역시 달서구 달구벌대로 1168 진국밥",
+   "phone": "053-558-1188",
+   "category": "순대국밥, 돼지국밥",
+   "area": [
+    "대구달서구"
+   ],
+   "lat": 35.8511316,
+   "lng": 128.4950868,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230517101835_photo1_d520456e856f.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "2ILs8Ar9RqvR",
+   "name": "사랑방 참숯화로구이",
+   "branch": null,
+   "addr": "서울특별시 용산구 후암동 415-39",
+   "road_addr": "서울특별시 용산구 신흥로36길 4",
+   "phone": "02-774-5950",
+   "category": "삼겹살, 화로구이",
+   "area": [
+    "후암동"
+   ],
+   "lat": 37.5464295,
+   "lng": 126.9817622,
+   "open_status": "오늘 휴무",
+   "score": 54,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210409092822065_photo_c845dff72267.webp",
+   "tags": [
+    "최자로드",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "gCaYErjZnm07",
+   "name": "남북통일",
+   "branch": null,
+   "addr": "서울시 마포구 서교동 375-26",
+   "road_addr": "서울특별시 마포구 동교로18길 37",
+   "phone": "02-3141-4113",
+   "category": "만두국, 만두전골",
+   "area": [
+    "서교동"
+   ],
+   "lat": 37.553806,
+   "lng": 126.917918,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.1,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260401025710_photo1_4a81a845dcd2.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "MddtGwvmfOcA",
+   "name": "순창갈비",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 연동 261-56",
+   "road_addr": "제주특별자치도 제주시 신광로4길 11 순창갈비",
+   "phone": "0507-1337-6440",
+   "category": "곱창전골, 소고기전골",
+   "area": [
+    "제주연동"
+   ],
+   "lat": 33.4887182,
+   "lng": 126.4886743,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 3.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20191123013647_photo1_bnXN4prTVIaG.webp",
+   "tags": [
+    "최자로드",
+    "무료주차",
+    "노포"
+   ]
+  },
+  {
+   "rid": "zg6B6cugOeJn",
+   "name": "우촌숯불갈비",
+   "branch": null,
+   "addr": "서울특별시 성동구 금호동4가 1119-2 금남시장",
+   "road_addr": "서울특별시 성동구 장터길 44",
+   "phone": "02-2292-9072",
+   "category": "삼겹살, 우렁된장찌개",
+   "area": [
+    "금호동"
+   ],
+   "lat": 37.5482259,
+   "lng": 127.020751,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.8,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260512010053_photo1_7463425a3ddd.webp",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "시끌벅적한",
+    "유아의자"
+   ]
+  },
+  {
+   "rid": "KhCvIeW4YVI7",
+   "name": "미성옥",
+   "branch": null,
+   "addr": "서울특별시 중구 명동1가 54-6",
+   "road_addr": "서울특별시 중구 명동길 25-11",
+   "phone": "02-776-8929",
+   "category": "설렁탕, 수육",
+   "area": [
+    "명동"
+   ],
+   "lat": 37.5641835,
+   "lng": 126.9839596,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.3,
+   "review_cnt": 48,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260304110924244_photo_d0aae9ecf5e6.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "VRC9Jdw55NqC",
+   "name": "최가네 황소곱창",
+   "branch": null,
+   "addr": "서울특별시 종로구 종로3가 156-2",
+   "road_addr": "서울특별시 종로구 돈화문로4길 27 최가네황소곱창",
+   "phone": "02-2274-6683",
+   "category": "곱창, 소곱창",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.5701342,
+   "lng": 126.9938645,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260401094120452_photo_b13d2d3f7891.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "fjSqYyUsflKH",
+   "name": "신토불이감자옹심이",
+   "branch": null,
+   "addr": "강원도 속초시 중앙동 471-4 종합중앙시장상가 내부 1층 55호",
+   "road_addr": "강원도 속초시 중앙로147번길 16 속초중앙시장 종합중앙시장상가 내부 1층 55호",
+   "phone": "0507-1316-9432",
+   "category": "감자옹심이, 아바이순대",
+   "area": [
+    "속초중앙시장"
+   ],
+   "lat": 38.2041399,
+   "lng": 128.5904458,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.5,
+   "review_cnt": 33,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260430105042_photo1_932310554177.webp",
+   "tags": [
+    "최자로드",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "fgn1s1W6QaPw",
+   "name": "금돼지식당",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 370-69",
+   "road_addr": "서울특별시 중구 다산로 149",
+   "phone": "0507-1307-8750",
+   "category": "삼겹살, 꽃목살",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5570932,
+   "lng": 127.0116976,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 113,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518022917841_photo_a589bba09177.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "시끌벅적한",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "AX9fkrVHGeQk",
+   "name": "문배동육칼",
+   "branch": "본점",
+   "addr": "서울특별시 용산구 문배동 34-1",
+   "road_addr": "서울특별시 용산구 백범로90길 50",
+   "phone": "02-713-6204",
+   "category": "육개장칼국수, 육칼",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.536633,
+   "lng": 126.9703366,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.1,
+   "review_cnt": 47,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508073711_photo1_b849a64c0996.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "4yFOrcbcWkba",
+   "name": "조선옥",
+   "branch": null,
+   "addr": "서울특별시 중구 을지로3가 229-1",
+   "road_addr": "서울특별시 중구 을지로15길 6-5",
+   "phone": "02-2266-0333",
+   "category": "양념갈비, 갈비탕",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5667917,
+   "lng": 126.9934389,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.8,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250228093232_photo1_606b69bc599a.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "서민적인",
+    "연탄불"
+   ]
+  },
+  {
+   "rid": "aUg8nUcPBfJG",
+   "name": "닭진미강원집",
+   "branch": null,
+   "addr": "서울특별시 중구 남창동 34-138",
+   "road_addr": "서울특별시 중구 남대문시장길 22-20",
+   "phone": "02-753-9063",
+   "category": "닭곰탕",
+   "area": [
+    "남대문시장"
+   ],
+   "lat": 37.5595669,
+   "lng": 126.9770411,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 30,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260208203116_photo1_f7cdb16ee59c.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "kvLwWl7ktvDM",
+   "name": "청도돼지국밥",
+   "branch": null,
+   "addr": "대구광역시 남구 봉덕동 948-87",
+   "road_addr": "대구광역시 남구 대봉로 65",
+   "phone": "053-474-3703",
+   "category": "돼지국밥",
+   "area": [
+    "대구남구"
+   ],
+   "lat": 35.8447271,
+   "lng": 128.603799,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.6,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260204232311_photo1_7d778118a681.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "nuce2ggMEvAq",
+   "name": "분식",
+   "branch": null,
+   "addr": "서울특별시 마포구 연남동 487-21",
+   "road_addr": "서울특별시 마포구 성미산로17길 115 1층 우측 103호",
+   "phone": "070-7627-1216",
+   "category": "파스타, 분식",
+   "area": [
+    "연남동"
+   ],
+   "lat": 37.5666138,
+   "lng": 126.9169411,
+   "open_status": "영업 시작 27분 전",
+   "score": 61,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260407060830_photo1_04cd80139479.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "예약",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "Yjzcw6R50T2U",
+   "name": "브리즈 버거",
+   "branch": null,
+   "addr": "서울특별시 서초구 방배동 935-20",
+   "road_addr": "서울특별시 서초구 방배로19길 14 1층",
+   "phone": "0507-1339-4232",
+   "category": "수제버거",
+   "area": [
+    "내방역"
+   ],
+   "lat": 37.4853086,
+   "lng": 126.994226,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.9,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250119220731_photo1_d7d578b999f9.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "JZyVu9xbyG9q",
+   "name": "덕정면옥",
+   "branch": null,
+   "addr": "경상남도 김해시 관동동 468-11",
+   "road_addr": "경상남도 김해시 덕정로 202 덕정면옥",
+   "phone": "055-909-0102",
+   "category": "막국수, 항정살",
+   "area": [
+    "김해"
+   ],
+   "lat": 35.1750225,
+   "lng": 128.8033509,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.3,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260705090645962_photo_wP3KozDlpWwg.webp",
+   "tags": [
+    "최자로드",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "U3U6yEcQWsya",
+   "name": "까치둥지",
+   "branch": null,
+   "addr": "강원도 원주시 단구동 500-1",
+   "road_addr": "강원도 원주시 치악로 1731",
+   "phone": "033-761-8008",
+   "category": "알탕, 곤이",
+   "area": [
+    "원주"
+   ],
+   "lat": 37.3369007,
+   "lng": 127.9561076,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.6,
+   "review_cnt": 58,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429094003_photo1_ed9ca6d92457.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "PK4is85vqSxe",
+   "name": "닭내장집",
+   "branch": null,
+   "addr": "서울특별시 서대문구 남가좌동 291-28",
+   "road_addr": "서울특별시 서대문구 수색로 28-5",
+   "phone": "02-303-4578",
+   "category": "닭발, 닭내장탕",
+   "area": [
+    "가좌역"
+   ],
+   "lat": 37.5696453,
+   "lng": 126.9156393,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.1,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250725092035368_photo_fa9e10bbe65d.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "rLGXhPfOnPdg",
+   "name": "창성옥",
+   "branch": "본점",
+   "addr": "서울특별시 용산구 용문동 25-16",
+   "road_addr": "서울특별시 용산구 새창로 124-10 1층",
+   "phone": "02-718-2878",
+   "category": "해장국, 뼈전골",
+   "area": [
+    "용문시장"
+   ],
+   "lat": 37.5363864,
+   "lng": 126.9604033,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.2,
+   "review_cnt": 26,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250401111210_photo1_06d69fb0c864.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "QbJIKeEGeQQE",
+   "name": "오산횟집",
+   "branch": null,
+   "addr": "강원도 양양군 손양면 동호리 1-4",
+   "road_addr": "강원 양양군 손양면 선사유적로 306-7",
+   "phone": "0507-1352-4168",
+   "category": "섭국, 섭죽",
+   "area": [
+    "양양"
+   ],
+   "lat": 38.057483,
+   "lng": 128.682413,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 2.8,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190916070055303_photo_dE2Lvni1pX5E.webp",
+   "tags": [
+    "최자로드",
+    "해장",
+    "배달",
+    "현지인"
+   ]
+  },
+  {
+   "rid": "2iiz5VSRp65Y",
+   "name": "봉구네가마솥순대국",
+   "branch": null,
+   "addr": "서울특별시 서대문구 남가좌동 325-2",
+   "road_addr": "서울특별시 서대문구 증가로10길 50",
+   "phone": "02-373-1170",
+   "category": "순대국",
+   "area": [
+    "명지대"
+   ],
+   "lat": 37.5791807,
+   "lng": 126.9247584,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "배달",
+    "로컬맛집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "VoTGxwaUvxIW",
+   "name": "장어구이",
+   "branch": "2호점",
+   "addr": "서울특별시 성동구 행당동 19-49",
+   "road_addr": "서울특별시 성동구 마조로 19-10",
+   "phone": "02-2296-5160",
+   "category": "김치찌개, 장어구이",
+   "area": [
+    "왕십리"
+   ],
+   "lat": 37.5597688,
+   "lng": 127.040528,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "노포",
+    "포장"
+   ]
+  },
+  {
+   "rid": "Ds2VpfRAwBWx",
+   "name": "영동식당",
+   "branch": null,
+   "addr": "대전광역시 중구 오류동 153-25",
+   "road_addr": "대전광역시 중구 계룡로874번길 27-9 1층 영동식당",
+   "phone": "042-531-6016",
+   "category": "닭볶음탕",
+   "area": [
+    "대전오류동"
+   ],
+   "lat": 36.3226509,
+   "lng": 127.4098953,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210403100736_photo1_6bb9e1ff14ff.webp",
+   "tags": [
+    "최자로드",
+    "연말회식",
+    "노포",
+    "포장"
+   ]
+  },
+  {
+   "rid": "BFNtmhjHH199",
+   "name": "티티그릴",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 589-18",
+   "road_addr": "서울특별시 강남구 논현로152길 37 1층",
+   "phone": "0507-1347-5130",
+   "category": "태국음식",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5217414,
+   "lng": 127.0311539,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260608025236_photo1_e024c003c2c8.webp",
+   "tags": [
+    "최자로드",
+    "이국적인",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "h9RMNSObxaCA",
+   "name": "포크80",
+   "branch": "제주공항점",
+   "addr": "제주특별자치도 제주시 노형동 914-7",
+   "road_addr": "제주특별자치도 제주시 노연로 37-1 1층",
+   "phone": "0507-1406-1528",
+   "category": "흑돼지, 멜조림",
+   "area": [
+    "노형"
+   ],
+   "lat": 33.4861811,
+   "lng": 126.4841718,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.6,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260421092250_photo1_31750b7e4116.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "jYKppLiH5gkN",
+   "name": "명화 식육식당",
+   "branch": null,
+   "addr": "광주광역시 광산구 명화동 225-1",
+   "road_addr": "광주광역시 광산구 평동로 421",
+   "phone": "062-943-7760",
+   "category": "애호박찌개, 국밥",
+   "area": [
+    "광산구"
+   ],
+   "lat": 35.1229514,
+   "lng": 126.7222856,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4,
+   "review_cnt": 42,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508143638_photo1_ab5ba0997538.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "zmP72vSnQszk",
+   "name": "노형순창갈비",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 노형동 752-4",
+   "road_addr": "제주특별자치도 제주시 진군3길 1",
+   "phone": "064-743-6468",
+   "category": "곱창전골, 안창살",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.4774968,
+   "lng": 126.4805569,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "제주도식",
+    "포장"
+   ]
+  },
+  {
+   "rid": "jJy7kwO3M9WR",
+   "name": "모코시야",
+   "branch": null,
+   "addr": "서울특별시 용산구 원효로1가 43-3",
+   "road_addr": "서울특별시 용산구 백범로87길 50-1 1층",
+   "phone": "0507-1398-8021",
+   "category": "라멘, 마제멘",
+   "area": [
+    "남영역"
+   ],
+   "lat": 37.5394321,
+   "lng": 126.9694896,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251028054014_photo1_66f359400a65.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "캐주얼한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "XyaLLFlYTHrA",
+   "name": "청실홍실",
+   "branch": null,
+   "addr": "서울특별시 서초구 반포동 93-5",
+   "road_addr": "서울특별시 서초구 서래로10길 9",
+   "phone": "02-535-2544",
+   "category": "감자탕, 감자국",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.499564,
+   "lng": 126.998918,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260413092423_photo1_8e524a22bf52.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "nJGTJLXC8dJ9",
+   "name": "곰막",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 구좌읍 동복리 667-1",
+   "road_addr": "제주특별자치도 제주시 구좌읍 구좌해안로 64",
+   "phone": "064-727-5111",
+   "category": "물회, 회국수",
+   "area": [
+    "구좌읍"
+   ],
+   "lat": 33.5568699,
+   "lng": 126.7206056,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.4,
+   "review_cnt": 65,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420101309_photo1_5e6d718c640f.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "KVxliDL16kgC",
+   "name": "은주정",
+   "branch": null,
+   "addr": "서울특별시 중구 주교동 43-23",
+   "road_addr": "서울특별시 중구 창경궁로8길 32",
+   "phone": "0507-1406-4669",
+   "category": "김치찌개, 쌈",
+   "area": [
+    "을지로4가"
+   ],
+   "lat": 37.5686783,
+   "lng": 126.9997477,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.3,
+   "review_cnt": 63,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251024235000_photo1_fdac8eebdeeb.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "배달",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "9Ry4hXLZkK6r",
+   "name": "영이네",
+   "branch": null,
+   "addr": "서울시 용산구 한남동 683-124",
+   "road_addr": "서울특별시 용산구 이태원로 230-1",
+   "phone": "02-793-0301",
+   "category": "포차, 꽁치김치찌개",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5355185,
+   "lng": 126.9993303,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260404095627_photo1_cc61f21f0db2.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "TbHBvvTWVSIo",
+   "name": "유진식당",
+   "branch": null,
+   "addr": "서울특별시 종로구 낙원동 221",
+   "road_addr": "서울특별시 종로구 종로17길 40",
+   "phone": "02-764-2835",
+   "category": "평양냉면",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.5720328,
+   "lng": 126.9882793,
+   "open_status": "오늘 휴무",
+   "score": 79,
+   "user_score": 4,
+   "review_cnt": 61,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260326103103_photo1_b19fa0ac6186.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "4Nx92bEtCXSm",
+   "name": "황부자네 돌담집",
+   "branch": null,
+   "addr": "경기도 가평군 설악면 창의리 431-3",
+   "road_addr": "경기도 가평군 설악면 한서로 106 돌담집",
+   "phone": null,
+   "category": "백숙, 닭도리탕",
+   "area": [
+    "가평"
+   ],
+   "lat": 37.6726934,
+   "lng": 127.5033339,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "배달",
+    "얼큰한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "C6HfrPqwiU56",
+   "name": "영주식당",
+   "branch": null,
+   "addr": "경상북도 포항시 북구 장성동 866-152",
+   "road_addr": "경상북도 포항시 북구 삼흥로35번길 14-9",
+   "phone": "054-248-8447",
+   "category": "고래고기, 고래수육",
+   "area": [
+    "포항"
+   ],
+   "lat": 36.0657777,
+   "lng": 129.3772305,
+   "open_status": "확인필요",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "2차"
+   ]
+  },
+  {
+   "rid": "quUV0RZTdKJl",
+   "name": "남궁장어구이",
+   "branch": null,
+   "addr": "부산광역시 서구 남부민동 523-60",
+   "road_addr": "부산광역시 서구 등대로 109-1",
+   "phone": "051-242-0107",
+   "category": "장어구이",
+   "area": [
+    "부산송도"
+   ],
+   "lat": 35.0853457,
+   "lng": 129.0264202,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "노포",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "T4SmyWWtSsHe",
+   "name": "창석원조닭알탕",
+   "branch": null,
+   "addr": "인천광역시 동구 송림동 55-1",
+   "road_addr": "인천광역시 동구 샛골로 169",
+   "phone": "032-764-6160",
+   "category": "닭알탕, 오징어볶음",
+   "area": [
+    "인천동구"
+   ],
+   "lat": 37.4776314,
+   "lng": 126.6447975,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.3,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422045036_photo1_d5cea0b8b910.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "uGBszVJqbmBH",
+   "name": "명랑막국수",
+   "branch": null,
+   "addr": "강원도 원주시 학성동 311-18",
+   "road_addr": "강원도 원주시 원일로 180-1",
+   "phone": "0507-1358-6805",
+   "category": "막국수, 편육",
+   "area": [
+    "원주"
+   ],
+   "lat": 37.3539588,
+   "lng": 127.9459596,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511075707_photo1_clDFNaQXgsfB.webp",
+   "tags": [
+    "생활의달인",
+    "해장",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "XAvq642kep8q",
+   "name": "대박포차",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로1가 231-9",
+   "road_addr": "서울특별시 용산구 한강대로62길 52",
+   "phone": "02-793-5965",
+   "category": "술집, 포차",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5326476,
+   "lng": 126.9733812,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.2,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260514024618_photo1_2db56f9cc8a3.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "콜키지프리"
+   ]
+  },
+  {
+   "rid": "aAVJN2oQmyNY",
+   "name": "홍제동30년우동국수",
+   "branch": null,
+   "addr": "서울 은평구 갈현동 325-5",
+   "road_addr": "서울특별시 은평구 서오릉로 242",
+   "phone": "0507-1378-5929",
+   "category": "우동, 국수",
+   "area": [
+    "은평구"
+   ],
+   "lat": 37.6163615,
+   "lng": 126.9078196,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260204054730_photo1_vHJ0fjMoEgDS.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "5qVteRBsP5eH",
+   "name": "엄마네 돼지찌개",
+   "branch": null,
+   "addr": "광주광역시 동구 금동 77",
+   "road_addr": "광주광역시 동구 문화전당로23번길 33",
+   "phone": "0507-1400-7082",
+   "category": "돼지찌개",
+   "area": [
+    "충장로"
+   ],
+   "lat": 35.1437295,
+   "lng": 126.9161391,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.3,
+   "review_cnt": 38,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501124539_photo1_155abd0eee69.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "VCLdYSWFgweT",
+   "name": "동문가든",
+   "branch": null,
+   "addr": "충청남도 보령시 오천면 소성리 117",
+   "road_addr": "충청남도 보령시 오천면 충청수영로 729",
+   "phone": "041-933-9671",
+   "category": "삼계탕, 보신탕",
+   "area": [
+    "보령"
+   ],
+   "lat": 36.4353251,
+   "lng": 126.5279708,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "몸보신",
+    "예약",
+    "포장"
+   ]
+  },
+  {
+   "rid": "SWZGgDzDA1lg",
+   "name": "통일면옥",
+   "branch": null,
+   "addr": "대전시 대덕구 중리동 406-13",
+   "road_addr": "대전광역시 대덕구 한밭대로1117번길 17",
+   "phone": "042-627-2315",
+   "category": "빈대떡, 회막국수",
+   "area": [
+    "대전중리동"
+   ],
+   "lat": 36.3597452,
+   "lng": 127.4225422,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.2,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425110910_photo1_9f6ae780001c.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "mAjAHRmThMO8",
+   "name": "삼창교자",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 517-34 1층",
+   "road_addr": "서울특별시 강남구 강남대로156길 33 1층",
+   "phone": "0507-1473-5588",
+   "category": "딤섬, 우니",
+   "area": [
+    "가로수길"
+   ],
+   "lat": 37.5188658,
+   "lng": 127.0217772,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 3.7,
+   "review_cnt": 32,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260324101929_photo1_ac328496e987.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "발렛파킹",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "DDnZtdYIIpap",
+   "name": "장다리",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 372-453",
+   "road_addr": "서울특별시 중구 동호로7길 13-6",
+   "phone": "02-2234-2220",
+   "category": "곱창, 소곱창",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.553148,
+   "lng": 127.01134,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 3.8,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260123173313_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "시끌벅적한",
+    "야외자리"
+   ]
+  },
+  {
+   "rid": "RGZqC2MoMMTg",
+   "name": "원성반점",
+   "branch": null,
+   "addr": "서울시 도봉구 쌍문동 85-27",
+   "road_addr": "서울특별시 도봉구 노해로 233-1",
+   "phone": "02-992-4955",
+   "category": "짜장면, 간짜장",
+   "area": [
+    "쌍문역"
+   ],
+   "lat": 37.6513737,
+   "lng": 127.0341375,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 3.6,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230220125241203_photo_322a34c010ca.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "3YYzjMMzpJrl",
+   "name": "묵호집",
+   "branch": null,
+   "addr": "서울특별시 중구 북창동 82",
+   "road_addr": "서울특별시 중구 세종대로14길 26",
+   "phone": "02-779-4705",
+   "category": "횟집, 숙성회",
+   "area": [
+    "북창동"
+   ],
+   "lat": 37.5627552,
+   "lng": 126.9781459,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.2,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190827074745_photo1_a2e1b1990f36.webp",
+   "tags": [
+    "최자로드",
+    "점심회식",
+    "고급스러운",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "Lsx4ut62QDf7",
+   "name": "도두횟집",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 도두일동 2558-1",
+   "road_addr": "제주특별자치도 제주시 도두3길 48",
+   "phone": "010-3694-4767",
+   "category": "횟집, 다금바리",
+   "area": [
+    "도두"
+   ],
+   "lat": 33.5039713,
+   "lng": 126.4674984,
+   "open_status": "오늘 휴무",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "연예인",
+    "와인콜키지"
+   ]
+  },
+  {
+   "rid": "n7AkvhE9CiYA",
+   "name": "현정이네 철판두루치기",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 394-87",
+   "road_addr": "서울특별시 마포구 포은로 65 1층",
+   "phone": "0507-1384-7895",
+   "category": "두루치기, 철판두루치기",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.553126,
+   "lng": 126.906207,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.5,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260130014539_photo1_249bf04e1ef3.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "서민적인",
+    "칸막이"
+   ]
+  },
+  {
+   "rid": "VCtnj5BbkkDk",
+   "name": "철뚝소머리국밥",
+   "branch": null,
+   "addr": "강원도 강릉시 주문진읍 주문리 326-2",
+   "road_addr": "강원도 강릉시 주문진읍 철둑길 42",
+   "phone": "033-662-3747",
+   "category": "소머리국밥",
+   "area": [
+    "주문진"
+   ],
+   "lat": 37.8920811,
+   "lng": 128.8243847,
+   "open_status": "영업 종료",
+   "score": 78,
+   "user_score": 4.3,
+   "review_cnt": 31,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260305121001_photo1_d13d818fc457.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "IzkibBQLcEVC",
+   "name": "재벌식당",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 연동 1965-4",
+   "road_addr": "제주특별자치도 제주시 도령로7길 20 신광아파트",
+   "phone": "0507-1382-0613",
+   "category": "곰탕, 김치",
+   "area": [
+    "연동"
+   ],
+   "lat": 33.4908353,
+   "lng": 126.4845618,
+   "open_status": "영업 종료",
+   "score": 69,
+   "user_score": 4,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260404112344_photo1_b58e24e2fdbc.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "R6DEckemtusl",
+   "name": "정성듬뿍 제주국",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 삼도이동 1069-2",
+   "road_addr": "제주특별자치도 제주시 무근성7길 16 1층 정성듬뿍제주국",
+   "phone": "064-755-9388",
+   "category": "갈치국, 각재기국",
+   "area": [
+    "제주공항근처"
+   ],
+   "lat": 33.5140356,
+   "lng": 126.5202116,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240528080158102_photo_d15487220fbd.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "Aarj3tolhlC8",
+   "name": "등대할매집",
+   "branch": null,
+   "addr": "부산광역시 서구 남부민동 523-28",
+   "road_addr": "부산광역시 서구 등대로 107",
+   "phone": "051-246-9289",
+   "category": "장어구이",
+   "area": [
+    "부산송도"
+   ],
+   "lat": 35.0853858,
+   "lng": 129.0264682,
+   "open_status": "확인필요",
+   "score": 53,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250105234618_photo1_88362811e364.webp",
+   "tags": [
+    "최자로드",
+    "야장",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "zBpX86ajLPjt",
+   "name": "옥경이네 건생선",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 723-2",
+   "road_addr": "서울특별시 중구 퇴계로85길 7",
+   "phone": "02-2233-3494",
+   "category": "갑오징어구이, 생선구이",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5661034,
+   "lng": 127.0195515,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 52,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510114502_photo1_c1300324c884.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "kStEOCthxfAP",
+   "name": "백학정",
+   "branch": null,
+   "addr": "전라북도 정읍시 태인면 태성리 532",
+   "road_addr": "전라북도 정읍시 태인면 태인로 29-3 백학정",
+   "phone": "063-534-4290",
+   "category": "떡갈비, 백반",
+   "area": [
+    "정읍"
+   ],
+   "lat": 35.6519321,
+   "lng": 126.9418625,
+   "open_status": "영업 종료",
+   "score": 66,
+   "user_score": 3.7,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420101147_photo1_XwBUxFtiFlIY.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "4tnoUOSjdKC9",
+   "name": "대우부대찌개",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 641-18",
+   "road_addr": "서울특별시 강남구 테헤란로25길 34",
+   "phone": "02-552-1663",
+   "category": "부대찌개, 미나리",
+   "area": [
+    "역삼역"
+   ],
+   "lat": 37.5027171,
+   "lng": 127.0351854,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 65,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260305010038359_photo_3531ac9257f3.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "4PvrQG5zRQFe",
+   "name": "청수장",
+   "branch": null,
+   "addr": "서울특별시 성북구 정릉동 416-27",
+   "road_addr": "서울특별시 성북구 정릉로 237-2",
+   "phone": "0507-1323-6176",
+   "category": "돼지갈비",
+   "area": [
+    "정릉"
+   ],
+   "lat": 37.605465,
+   "lng": 127.0107375,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 3.1,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260208085342_photo1_d853fdeb330f.webp",
+   "tags": [
+    "최자로드",
+    "가족외식",
+    "무료주차",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "De2399Ys5sap",
+   "name": "창수린",
+   "branch": null,
+   "addr": "서울특별시 용산구 후암동 194-15",
+   "road_addr": "서울특별시 용산구 두텁바위로 55",
+   "phone": "02-3789-7625",
+   "category": "태국음식, 똠양꿍",
+   "area": [
+    "후암동"
+   ],
+   "lat": 37.5460121,
+   "lng": 126.9782135,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260213065440_photo1_3b72fc9c7c39.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "현지인"
+   ]
+  },
+  {
+   "rid": "PTfVpdWgYryf",
+   "name": "원조소금구이",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 184-29",
+   "road_addr": "서울특별시 강남구 봉은사로1길 18",
+   "phone": "02-511-0036",
+   "category": "삼겹살, 짜글이",
+   "area": [
+    "신논현역"
+   ],
+   "lat": 37.505975,
+   "lng": 127.024825,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.6,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251020085329_photo1_d2aa4a257e69.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "zihzSn5DRB7O",
+   "name": "진국밥",
+   "branch": null,
+   "addr": "경기도 수원시 장안구 천천동 502-7",
+   "road_addr": "경기도 수원시 장안구 정자로 28-1 1층",
+   "phone": "0507-1487-8308",
+   "category": "돼지국밥, 수육",
+   "area": [
+    "수원"
+   ],
+   "lat": 37.3002746,
+   "lng": 126.9801574,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240503120106_photo1_987a5e52fb0f.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "깔끔한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "0lGqO5yHWoyR",
+   "name": "함경도부침",
+   "branch": null,
+   "addr": "강원특별자치도 홍천군 홍천읍 신장대리 8-124",
+   "road_addr": "강원 홍천군 홍천읍 홍천로7길 16",
+   "phone": null,
+   "category": "평양냉면, 북한식",
+   "area": [
+    "홍천"
+   ],
+   "lat": 37.6906848,
+   "lng": 127.8862229,
+   "open_status": "확인필요",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "Tsi1JsE4pReY",
+   "name": "진주집",
+   "branch": null,
+   "addr": "서울특별시 중구 남창동 34-31",
+   "road_addr": "서울특별시 중구 남대문시장길 22-2 .",
+   "phone": "0507-1339-9813",
+   "category": "꼬리곰탕, 꼬리찜",
+   "area": [
+    "남대문시장"
+   ],
+   "lat": 37.560009,
+   "lng": 126.9770936,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.6,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260315011657292_photo_db9cb5b34043.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "5CQmRX7zr0Pm",
+   "name": "진향",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 375-32",
+   "road_addr": "서울특별시 마포구 월드컵북로1길 62 1층",
+   "phone": "070-8713-8888",
+   "category": "짜장면, 중식당",
+   "area": [
+    "서교동"
+   ],
+   "lat": 37.5536618,
+   "lng": 126.9183578,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.5,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250612033258_photo1_20e4d9748a66.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "D6nC7rTyp1GG",
+   "name": "봉자마라탕",
+   "branch": null,
+   "addr": "서울특별시 광진구 자양동 12-5",
+   "road_addr": "서울특별시 광진구 동일로18길 22",
+   "phone": "02-499-8889",
+   "category": "마라탕, 즈란양고기",
+   "area": [
+    "건대"
+   ],
+   "lat": 37.539681,
+   "lng": 127.064105,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260419091155_photo1_07789d971208.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "서민적인",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "eVSXdzJKBlzz",
+   "name": "꿉당",
+   "branch": "성수점",
+   "addr": "서울특별시 성동구 성수동2가 273-24",
+   "road_addr": "서울특별시 성동구 성수이로20길 10 경협회관 104호",
+   "phone": "0507-1358-6564",
+   "category": "돼지고기, 고기집",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5432305,
+   "lng": 127.0575635,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.3,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260410101733_photo1_e75afe546d99.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "upxBw6dyDWDO",
+   "name": "도쿄 멘친테이 혼포",
+   "branch": null,
+   "addr": "서울특별시 강남구 대치동 922-17",
+   "road_addr": "서울특별시 강남구 선릉로64길 11-5 1층 102호",
+   "phone": "02-6013-2217",
+   "category": "라멘, 아부라소바",
+   "area": [
+    "한티역"
+   ],
+   "lat": 37.4982345,
+   "lng": 127.05298,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "아담한",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "dAZsc4Op383k",
+   "name": "은성집",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 40-4",
+   "road_addr": "서울특별시 용산구 한강대로84길 11-16",
+   "phone": "02-797-2855",
+   "category": "스테이크, 부대찌개",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5443823,
+   "lng": 126.9732133,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251103102859322_photo_6624c2839efa.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "노포",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "gf8KrP5dQOyG",
+   "name": "창신동매운족발",
+   "branch": null,
+   "addr": "서울특별시 종로구 창신동 581-5",
+   "road_addr": "서울특별시 종로구 종로51길 23",
+   "phone": "02-3675-9689",
+   "category": "족발, 매운족발",
+   "area": [
+    "동대문"
+   ],
+   "lat": 37.5730483,
+   "lng": 127.011522,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.4,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260509064109676_photo_15c6130a88cf.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "9BGmRkD8HaiJ",
+   "name": "황토마당",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동3가 1-1",
+   "road_addr": "서울특별시 용산구 한강대로62나길 20",
+   "phone": "010-7669-0568",
+   "category": "홍어, 홍어라면",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5343856,
+   "lng": 126.9748525,
+   "open_status": "영업 시작 27분 전",
+   "score": 57,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231105011859898_photo_c10fa390751e.webp",
+   "tags": [
+    "최자로드",
+    "노포"
+   ]
+  },
+  {
+   "rid": "tEBvUNZoJNq9",
+   "name": "하나면옥",
+   "branch": null,
+   "addr": "서울특별시 종로구 장사동 80",
+   "road_addr": "서울특별시 종로구 돈화문로4길 30",
+   "phone": "0507-1400-5821",
+   "category": "쫄갈비, 당면",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.5700333,
+   "lng": 126.993875,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240801052226101_photo_1dd93dd73705.webp",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "노포"
+   ]
+  },
+  {
+   "rid": "8FaBr1jzsm6X",
+   "name": "강촌쌈밥",
+   "branch": null,
+   "addr": "서울특별시 종로구 평창동 460-1",
+   "road_addr": "서울특별시 종로구 평창30길 9 강촌쌈밥",
+   "phone": "02-395-6467",
+   "category": "쌈밥, 쌈밥정식",
+   "area": [
+    "평창동"
+   ],
+   "lat": 37.6108914,
+   "lng": 126.9747212,
+   "open_status": "영업 종료",
+   "score": 66,
+   "user_score": 4.3,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260222020116_photo1_f8b2787e0c73.webp",
+   "tags": [
+    "다코숨은맛집",
+    "가족외식",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "E3auZWq6OSx0",
+   "name": "모던샤브하우스",
+   "branch": "광화문D타워점",
+   "addr": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 5층",
+   "road_addr": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 5층",
+   "phone": "02-2251-8501",
+   "category": "샤브샤브, 샤브샤브무한리필",
+   "area": [
+    "광화문"
+   ],
+   "lat": 37.5710184,
+   "lng": 126.9789694,
+   "open_status": "영업 중",
+   "score": 90,
+   "user_score": 4.6,
+   "review_cnt": 47,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260216011352_photo1_58560d6ffdb1.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "vHkrIvubqMpn",
+   "name": "안동집",
+   "branch": null,
+   "addr": "서울특별시 중구 인현동2가 189-26",
+   "road_addr": "서울특별시 중구 마른내로6길 34",
+   "phone": "02-2273-4298",
+   "category": "해물모듬, 갑오징어",
+   "area": [
+    "충무로"
+   ],
+   "lat": 37.5627219,
+   "lng": 126.9951375,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.3,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260405103935_photo1_c10fa390751e.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "slnxSFdvf22K",
+   "name": "닭칼원조집",
+   "branch": null,
+   "addr": "서울특별시 중구 중림동 471",
+   "road_addr": "서울특별시 중구 청파로 457-1",
+   "phone": "02-392-1134",
+   "category": "닭한마리, 닭칼국수",
+   "area": [
+    "충정로"
+   ],
+   "lat": 37.5602567,
+   "lng": 126.9678328,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.3,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241030092018_photo1_43ac96205572.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "IqGjznzijBZL",
+   "name": "금산제면소",
+   "branch": null,
+   "addr": "서울특별시 중구 회현동2가 31-1",
+   "road_addr": "서울특별시 중구 소공로6길 13",
+   "phone": null,
+   "category": "탄탄면",
+   "area": [
+    "중구"
+   ],
+   "lat": 37.5586242,
+   "lng": 126.9837742,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 3.9,
+   "review_cnt": 38,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250918110419829_photo_2396b69de04a.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "조용한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "cVshl9xkCQHm",
+   "name": "홍탁집",
+   "branch": null,
+   "addr": "서울특별시 중구 주교동 239",
+   "road_addr": "서울특별시 중구 을지로27길 18-2",
+   "phone": "02-2266-5816",
+   "category": "홍어, 홍어삼합",
+   "area": [
+    "을지로4가"
+   ],
+   "lat": 37.5675571,
+   "lng": 126.9992768,
+   "open_status": "확인필요",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "단체예약",
+    "노포"
+   ]
+  },
+  {
+   "rid": "2IYLFd1tWM9K",
+   "name": "을지로보석",
+   "branch": null,
+   "addr": "서울특별시 중구 저동2가 84-11 3층",
+   "road_addr": "서울특별시 중구 마른내로 11-10 3층",
+   "phone": "063-9070-7070",
+   "category": "한식오마카세, 사케",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5651478,
+   "lng": 126.9892464,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420104813_photo1_c95006c5ac92.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "예약",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "LFvwK6POnMvQ",
+   "name": "산지",
+   "branch": null,
+   "addr": "서울특별시 중구 신당동 844 스포츠센터동 1층 104호",
+   "road_addr": "서울특별시 중구 다산로 32 스포츠센터동 1층 104호",
+   "phone": "0507-1416-7928",
+   "category": "간장게장, 한식",
+   "area": [
+    "버티고개역"
+   ],
+   "lat": 37.5481064,
+   "lng": 127.0086339,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4.2,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250909013610_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "최자로드",
+    "단체모임",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "CXea8Aw2mdq5",
+   "name": "여수댁",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 274-7",
+   "road_addr": "서울특별시 용산구 녹사평대로52길 17",
+   "phone": null,
+   "category": "덕자찜",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5390381,
+   "lng": 126.9882182,
+   "open_status": "영업 중",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241217013246_photo1_205fae5ae727.webp",
+   "tags": [
+    "최자로드",
+    "혼술",
+    "노포",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "2GoOEJGIk3cD",
+   "name": "야상해",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 119-16",
+   "road_addr": "서울특별시 용산구 이태원로23길 6",
+   "phone": "0507-1442-8666",
+   "category": "딤섬, 중국식만두",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.534789,
+   "lng": 126.9927928,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.5,
+   "review_cnt": 78,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507083332761_photo_44af273e3690.webp",
+   "tags": [
+    "다코숨은맛집",
+    "식사모임",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "CWwUnYKcGeG9",
+   "name": "대박이네",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 273-12",
+   "road_addr": "서울특별시 용산구 녹사평대로54길 19",
+   "phone": "02-797-2588",
+   "category": "닭볶음탕, 포차",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5392218,
+   "lng": 126.9883988,
+   "open_status": "확인필요",
+   "score": 54,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20221023095102868_photo_c10fa390751e.webp",
+   "tags": [
+    "최자로드",
+    "간단히한잔",
+    "안주",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "DbZXmDoGdzTT",
+   "name": "고가길9공탄",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로1가 252-4",
+   "road_addr": "서울특별시 용산구 백범로99길 48",
+   "phone": "0507-1356-1675",
+   "category": "삼겹살, 항정살",
+   "area": [
+    "삼각지"
+   ],
+   "lat": 37.5360986,
+   "lng": 126.9721324,
+   "open_status": "영업 중",
+   "score": 60,
+   "user_score": 3.8,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240604033512_photo1_44aa3bfd25f4.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "시끌벅적한",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "PZCLPHYvQHH1",
+   "name": "남영돈",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 52-2",
+   "road_addr": "서울특별시 용산구 한강대로80길 17 남영돈",
+   "phone": "0507-1351-3598",
+   "category": "삼겹살, 항정살",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5427593,
+   "lng": 126.9738012,
+   "open_status": "영업 중",
+   "score": 88,
+   "user_score": 4.5,
+   "review_cnt": 83,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424044514_menu1_7cd996863912.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "시끌벅적한",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "PNRvLKUi195L",
+   "name": "맛나분식",
+   "branch": null,
+   "addr": "서울특별시 용산구 원효로1가 105-1",
+   "road_addr": "서울특별시 용산구 원효로97길 21 1층",
+   "phone": null,
+   "category": "해물볶음밥, 분식",
+   "area": [
+    "남영역"
+   ],
+   "lat": 37.5418367,
+   "lng": 126.9693093,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220625103036_profile_photo1_f2dc89cbba2d.webp",
+   "tags": [
+    "최자로드",
+    "야식",
+    "노포"
+   ]
+  },
+  {
+   "rid": "GvkrygSNTlnr",
+   "name": "레오레오캅",
+   "branch": null,
+   "addr": "서울특별시 용산구 서빙고동 293",
+   "road_addr": "서울특별시 용산구 서빙고로51길 64 104호 레오레오캅",
+   "phone": "02-792-7776",
+   "category": "태국음식, 똠얌쌀국수",
+   "area": [
+    "서빙고역"
+   ],
+   "lat": 37.5231269,
+   "lng": 126.9910515,
+   "open_status": "오늘 휴무",
+   "score": 73,
+   "user_score": 4.4,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260321120022_photo1_d3f3db7e6fa5.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "G7JpljlGnJRz",
+   "name": "노스트레스버거",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동2가 24-17",
+   "road_addr": "서울특별시 용산구 신흥로 62",
+   "phone": "0507-1313-3370",
+   "category": "버거, 치즈버거",
+   "area": [
+    "해방촌"
+   ],
+   "lat": 37.5438198,
+   "lng": 126.9873804,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.2,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260330094028_photo1_6fba47a312f9.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "Px5rlUqZmKed",
+   "name": "맥파이 브루샵",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 691",
+   "road_addr": "서울특별시 용산구 녹사평대로 244-1 1층",
+   "phone": "0507-1342-2703",
+   "category": "수제맥주",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5394439,
+   "lng": 126.9874816,
+   "open_status": "오늘 휴무",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240328120306_photo1_f657d3fcf443.webp",
+   "tags": [
+    "다코숨은맛집",
+    "술모임",
+    "캐주얼한",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "BIV8RDbQo43C",
+   "name": "다운타우너",
+   "branch": "한남",
+   "addr": "서울특별시 용산구 한남동 684-77",
+   "road_addr": "서울특별시 용산구 대사관로5길 12 1층 다운타우너 한남점",
+   "phone": "070-8806-3696",
+   "category": "수제버거, 아보카도버거",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5348368,
+   "lng": 127.0008698,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.5,
+   "review_cnt": 108,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260603080843241_photo_c73a7585800a.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "86PDqrIJfK56",
+   "name": "현선이네",
+   "branch": "용산본점",
+   "addr": "서울특별시 용산구 한강로2가 305-1",
+   "road_addr": "서울특별시 용산구 한강대로39길 2-13",
+   "phone": "0507-1361-8901",
+   "category": "떡볶이, 즉석떡볶이",
+   "area": [
+    "신용산역"
+   ],
+   "lat": 37.5311551,
+   "lng": 126.9692251,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.4,
+   "review_cnt": 50,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260407100604_photo1_dbeff4e2e0e9.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "GtlimvPHZhkh",
+   "name": "마케나이데",
+   "branch": null,
+   "addr": "서울특별시 성동구 금호동4가 800",
+   "road_addr": "서울특별시 성동구 독서당로 270 대우 월드타운 상가 1층 106호",
+   "phone": "02-2299-0527",
+   "category": "이자카야, 쿠시아게",
+   "area": [
+    "금호역"
+   ],
+   "lat": 37.5466712,
+   "lng": 127.0194396,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231002025046138_photo_fabc48758b07.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "fVAygIz9ZtNb",
+   "name": "옥스라이브파이어그릴 성수",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 700-1 1층",
+   "road_addr": "서울특별시 성동구 둘레15길 11 1층",
+   "phone": "0507-1406-0600",
+   "category": "한우오마카세, 랍스터",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.535717,
+   "lng": 127.0555392,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260330090345_photo1_1d6f2f7140e2.webp",
+   "tags": [
+    "최자로드",
+    "기념일",
+    "디너코스",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "fvjwH25Y4hUI",
+   "name": "순금이 떡볶이",
+   "branch": "아차산점",
+   "addr": "서울특별시 광진구 구의동 53-14",
+   "road_addr": "서울특별시 광진구 자양로43길 43",
+   "phone": "02-455-8090",
+   "category": "떡볶이, 튀김",
+   "area": [
+    "아차산"
+   ],
+   "lat": 37.5525171,
+   "lng": 127.0902,
+   "open_status": "오늘 휴무",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 49,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505091857_menu1_130ac3ad5885.webp",
+   "tags": [
+    "최자로드",
+    "간식",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "OGS1MPhBp0Gh",
+   "name": "일미간장게장",
+   "branch": null,
+   "addr": "서울시 동대문구 장안동 367-3",
+   "road_addr": "서울특별시 동대문구 장한로24길 7",
+   "phone": "02-2242-4338",
+   "category": "간장게장",
+   "area": [
+    "장안동"
+   ],
+   "lat": 37.570859,
+   "lng": 127.071378,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.2,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240620023746_photo1_de9ec8cbc5fa.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "eMHdwoY3Ebgm",
+   "name": "불티나 이모네전",
+   "branch": null,
+   "addr": "서울특별시 은평구 응암동 754-1",
+   "road_addr": "서울특별시 은평구 응암로4길 24 1층 3호 불티나이모네전",
+   "phone": "0507-1325-1076",
+   "category": "한식오마카세",
+   "area": [
+    "응암동"
+   ],
+   "lat": 37.5869711,
+   "lng": 126.9174038,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260504212537_photo1_481dad36f074.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "배달",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "J4yGuohmtXvk",
+   "name": "와우 양철통소금구이",
+   "branch": null,
+   "addr": "서울특별시 은평구 불광동 141-2",
+   "road_addr": "서울특별시 은평구 연서로34길 23",
+   "phone": "0507-1330-8342",
+   "category": "삼겹살, 소금구이",
+   "area": [
+    "불광동"
+   ],
+   "lat": 37.621424,
+   "lng": 126.9288744,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "노포",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "mHj0rUiTyT5b",
+   "name": "이나닭강정",
+   "branch": "가좌역점",
+   "addr": "서울특별시 서대문구 남가좌동 291-45",
+   "road_addr": "서울특별시 서대문구 수색로 28-5 1층 이나닭강정 가좌역점",
+   "phone": "0507-1476-3536",
+   "category": "닭강정, 호떡",
+   "area": [
+    "가좌역"
+   ],
+   "lat": 37.5694372,
+   "lng": 126.915728,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "배달",
+    "특이한",
+    "포장"
+   ]
+  },
+  {
+   "rid": "L0v1LqE4R8e4",
+   "name": "맛이차이나",
+   "branch": null,
+   "addr": "서울특별시 마포구 상수동 321-1 2층",
+   "road_addr": "서울특별시 마포구 독막로 68",
+   "phone": "010-9822-2653",
+   "category": "중식, 탕수육",
+   "area": [
+    "상수"
+   ],
+   "lat": 37.5476115,
+   "lng": 126.9208635,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 56,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260220071332626_photo_9b8dc24ae091.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "발렛파킹",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "XnLi76NnbffX",
+   "name": "평안도 상원냉면",
+   "branch": null,
+   "addr": "서울특별시 마포구 동교동 165-8 지하1층",
+   "road_addr": "서울특별시 마포구 양화로 156 지하 1층, 푸드코트",
+   "phone": "02-332-8935",
+   "category": "평양냉면",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5561103,
+   "lng": 126.9234586,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260314103441627_photo_73c7c2d42a9e.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "3YIj9DHaaWWO",
+   "name": "고미태",
+   "branch": null,
+   "addr": "서울특별시 마포구 합정동 427-18",
+   "road_addr": "서울특별시 마포구 월드컵로 41 1층 고미태",
+   "phone": "010-4876-8432",
+   "category": "라멘, 콩국수",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5529842,
+   "lng": 126.9118914,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.6,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250928035650976_photo_ad775f649dfc.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "깔끔한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "oR8t8WrOtkHJ",
+   "name": "멘야준",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 465-2",
+   "road_addr": "서울특별시 마포구 동교로 128",
+   "phone": "0507-1401-0743",
+   "category": "라멘, 시오라멘",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5549263,
+   "lng": 126.9164357,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.3,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508114631638_photo_e1c1624692c4.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "깔끔한",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "BzD5wp9tYtfR",
+   "name": "내고기",
+   "branch": null,
+   "addr": "서울특별시 마포구 토정동 3-15 1층",
+   "road_addr": "서울특별시 마포구 대흥로4길 78 1층",
+   "phone": "02-323-3280",
+   "category": "한우, 소고기구이",
+   "area": [
+    "마포역"
+   ],
+   "lat": 37.5404154,
+   "lng": 126.9406797,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241216061313_photo1_4c71947e039b.webp",
+   "tags": [
+    "최자로드",
+    "소개팅",
+    "조용한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "sJckuOBjDjnF",
+   "name": "위에라이슌쟈오즈관",
+   "branch": null,
+   "addr": "서울특별시 구로구 가리봉동 131-22",
+   "road_addr": "서울특별시 구로구 디지털로19길 12",
+   "phone": null,
+   "category": "만두, 소룡포",
+   "area": [
+    "가리봉"
+   ],
+   "lat": 37.4803387,
+   "lng": 126.8900881,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "ilCpoOtr5BSz",
+   "name": "송강",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 45-19",
+   "road_addr": "서울특별시 영등포구 여의대방로65길 17 서린빌딩 2층 송강",
+   "phone": "02-780-0868",
+   "category": "복튀김, 갯벌장어",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5197456,
+   "lng": 126.9292276,
+   "open_status": "영업 중",
+   "score": 40,
+   "user_score": 1,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "회식",
+    "깔끔한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "v2vLRCv55ngC",
+   "name": "애플하우스",
+   "branch": null,
+   "addr": "서울특별시 동작구 사당동 138-4",
+   "road_addr": "서울특별시 동작구 동작대로27다길 29 2층",
+   "phone": "02-595-1629",
+   "category": "떡볶이, 무침군만두",
+   "area": [
+    "이수역"
+   ],
+   "lat": 37.4863013,
+   "lng": 126.9806796,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 3.9,
+   "review_cnt": 225,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519061113_photo1_d9c6aa6a8eb4.webp",
+   "tags": [
+    "최자로드",
+    "간식",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "hndVxi6zC458",
+   "name": "송강",
+   "branch": "방배동점",
+   "addr": "서울시 서초구 방배동 1002-1",
+   "road_addr": "서울특별시 서초구 명달로9길 5 정호빌딩1층",
+   "phone": "0507-1448-9288",
+   "category": "복어, 황복",
+   "area": [
+    "방배동"
+   ],
+   "lat": 37.4819669,
+   "lng": 127.0044945,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 3.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251201195047_photo1_d1937b2f75f1.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "BOIoEkwfxxLb",
+   "name": "볼라레",
+   "branch": null,
+   "addr": "서울시 서초구 반포동 107-2",
+   "road_addr": "서울특별시 서초구 사평대로20길 8 성훈빌딩",
+   "phone": "02-537-1100",
+   "category": "화덕피자, 나폴리피자",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.4990969,
+   "lng": 126.9969746,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 3.8,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260209033006982_photo_3dbdb59e9149.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "발렛파킹",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "3uS8vM9Tj8LR",
+   "name": "비야게레로",
+   "branch": null,
+   "addr": "서울특별시 강남구 삼성동 118-21",
+   "road_addr": "서울특별시 강남구 봉은사로78길 12 101호",
+   "phone": "02-538-8915",
+   "category": "타코, 멕시칸",
+   "area": [
+    "삼성동"
+   ],
+   "lat": 37.5119508,
+   "lng": 127.0528549,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.1,
+   "review_cnt": 50,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517054207332_photo_cc1ebd0ff88a.webp",
+   "tags": [
+    "생활의달인",
+    "혼밥",
+    "이국적/이색적",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "BFKq5HT6GciV",
+   "name": "스시702",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 583-1",
+   "road_addr": "서울특별시 강남구 압구정로28길 31 B1",
+   "phone": "0507-1331-7028",
+   "category": "스시, 캘리포니아롤",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5242431,
+   "lng": 127.0278084,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "발렛파킹",
+    "예약"
+   ]
+  },
+  {
+   "rid": "18R74AU5VTi6",
+   "name": "두레국수",
+   "branch": "본점",
+   "addr": "서울특별시 강남구 신사동 626-79",
+   "road_addr": "서울특별시 강남구 도산대로37길 28",
+   "phone": "02-3444-1421",
+   "category": "국수, 비빔밥",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.522871,
+   "lng": 127.031503,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 3.6,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20211220015539_photo1_dc485b8024a5.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "wGjHNg5ohB0b",
+   "name": "원스타 올드패션드 햄버거",
+   "branch": null,
+   "addr": "서울특별시 강남구 도곡동 424-11",
+   "road_addr": "서울특별시 강남구 논현로26길 23",
+   "phone": "0507-1448-4377",
+   "category": "수제버거, 햄버거",
+   "area": [
+    "도곡"
+   ],
+   "lat": 37.4828438,
+   "lng": 127.0444028,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4.3,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260409035241_photo1_7aa3f6f73a4a.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "배달",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "0o8rYAaRdECF",
+   "name": "우정양곱창",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 67-11",
+   "road_addr": "서울특별시 강남구 도산대로30길 23 1층 우정양곱창",
+   "phone": "02-6083-5830",
+   "category": "곱창, 소곱창",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.5184492,
+   "lng": 127.0300737,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251210063218585_photo_28c00c4fba1d.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "발렛파킹",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "8VhGLbpIvSD0",
+   "name": "서강쇠떡볶이",
+   "branch": "본점",
+   "addr": "서울특별시 강남구 역삼동 832-31",
+   "road_addr": "서울특별시 강남구 강남대로66길 11",
+   "phone": "02-501-7728",
+   "category": "떡볶이, 가래떡떡볶이",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.4919683,
+   "lng": 127.0318235,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 3.6,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260303123129679_photo_7495c6358268.webp",
+   "tags": [
+    "최자로드",
+    "간식",
+    "서민적인",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "IyEzwPWQxBLf",
+   "name": "보보식당",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 640-2 로빈명품관 1층 103호",
+   "road_addr": "서울특별시 강남구 언주로174길 30 로빈명품관 1층 103호",
+   "phone": "0507-1346-7436",
+   "category": "동파육, 중식당",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5279048,
+   "lng": 127.0363201,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260309062403_photo1_45bed72ed285.webp",
+   "tags": [
+    "최자로드",
+    "접대",
+    "발렛파킹",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "HnGIlmCt6tYi",
+   "name": "브루클린더버거조인트",
+   "branch": "가로수길점",
+   "addr": "서울특별시 강남구 신사동 540-11",
+   "road_addr": "서울특별시 강남구 도산대로15길 12 가로수빌딩 1층",
+   "phone": "02-545-0718",
+   "category": "수제버거",
+   "area": [
+    "가로수길"
+   ],
+   "lat": 37.5191126,
+   "lng": 127.0240337,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.4,
+   "review_cnt": 82,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250228021838_photo1_c7987e47105a.webp",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "발렛파킹",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "g3nm2CiyxFFF",
+   "name": "아라도",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 577",
+   "road_addr": "서울특별시 강남구 논현로175길 25",
+   "phone": "02-545-6875",
+   "category": "이자카야, 로바다야끼",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5255099,
+   "lng": 127.0266561,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190105100643_photo3_4uBLESlq4QwF.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "발렛파킹",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "bgRRMy8S3FmW",
+   "name": "영동포차나",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 98-12 나동 2층 208호",
+   "road_addr": "서울특별시 강남구 언주로148길 14 나동 2층 208호",
+   "phone": "0507-1355-4883",
+   "category": "태국음식",
+   "area": [
+    "논현동"
+   ],
+   "lat": 37.5206302,
+   "lng": 127.0361626,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251012100319_photo1_b83fe38a9b24.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "uY64P8f7Xevu",
+   "name": "떡존",
+   "branch": "신사점",
+   "addr": "서울특별시 강남구 신사동 552-5",
+   "road_addr": "서울특별시 강남구 논현로161길 37",
+   "phone": "0507-1423-2606",
+   "category": "분식, 카레떡볶이",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5230355,
+   "lng": 127.0251525,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "저렴",
+    "셀프코너"
+   ]
+  },
+  {
+   "rid": "nQcNfpl8SFwl",
+   "name": "함경도 찹쌀순대",
+   "branch": null,
+   "addr": "서울특별시 송파구 가락동 79-7",
+   "road_addr": "서울특별시 송파구 송파대로28길 32",
+   "phone": "02-403-8822",
+   "category": "순대국",
+   "area": [
+    "가락시장역"
+   ],
+   "lat": 37.4948188,
+   "lng": 127.1213661,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.3,
+   "review_cnt": 87,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501114424_photo1_9318c0f83aeb.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "yHfRcOaN9L5G",
+   "name": "다도집",
+   "branch": null,
+   "addr": "부산광역시 서구 충무동1가 1-2",
+   "road_addr": "부산광역시 서구 자갈치로 14-8",
+   "phone": "051-246-2611",
+   "category": "꼼장어",
+   "area": [
+    "자갈치시장"
+   ],
+   "lat": 35.0959987,
+   "lng": 129.0259572,
+   "open_status": "영업 중",
+   "score": 64,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260404083027242_photo_fe8ff07245e0.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "서민적인",
+    "연탄구이"
+   ]
+  },
+  {
+   "rid": "V76pCnmrTaNq",
+   "name": "화전",
+   "branch": null,
+   "addr": "부산광역시 중구 부평동3가 63-13",
+   "road_addr": "부산광역시 중구 흑교로17번길 12-1",
+   "phone": null,
+   "category": "실비집, 술집",
+   "area": [
+    "부평동"
+   ],
+   "lat": 35.101128,
+   "lng": 129.0239187,
+   "open_status": "확인필요",
+   "score": 54,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230901105727_photo1_51ea15dd1ca4.webp",
+   "tags": [
+    "최자로드",
+    "간단하게한잔",
+    "실비집"
+   ]
+  },
+  {
+   "rid": "aeUyKqiI1YRo",
+   "name": "멕시칸치킨",
+   "branch": "범5점",
+   "addr": "부산광역시 동구 좌천동 1074",
+   "road_addr": "부산광역시 동구 성남이로37번길 24",
+   "phone": "051-636-1511",
+   "category": "치킨, 후라이드",
+   "area": [
+    "부산동구"
+   ],
+   "lat": 35.132917,
+   "lng": 129.0555319,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260302023642425_photo_085f56636f10.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "서민적인",
+    "야외자리"
+   ]
+  },
+  {
+   "rid": "irtFw3LkpTII",
+   "name": "빨간떡볶이",
+   "branch": null,
+   "addr": "부산 해운대구 우동 552-2",
+   "road_addr": "부산광역시 해운대구 우동1로20번가길 4",
+   "phone": "051-743-2814",
+   "category": "떡볶이, 순대",
+   "area": [
+    "해운대"
+   ],
+   "lat": 35.165492,
+   "lng": 129.1605505,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 47,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420123829_menu1_d119ce93303f.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "서민적인",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "BhBwuXsa4O23",
+   "name": "초연",
+   "branch": null,
+   "addr": "부산광역시 부산진구 초읍동 269-46",
+   "road_addr": "부산광역시 부산진구 성지로153번길 170 1층 우측",
+   "phone": "0507-1387-2889",
+   "category": "카페, 커피",
+   "area": [
+    "초읍"
+   ],
+   "lat": 35.1743783,
+   "lng": 129.0497323,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "술안주",
+    "포장"
+   ]
+  },
+  {
+   "rid": "SgebG0pCw4pT",
+   "name": "의령돼지국밥",
+   "branch": null,
+   "addr": "부산광역시 북구 구포동 1223-10",
+   "road_addr": "부산광역시 북구 시랑로79번길 20-6",
+   "phone": "051-333-4798",
+   "category": "돼지국밥",
+   "area": [
+    "구포"
+   ],
+   "lat": 35.1984157,
+   "lng": 129.0069668,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "해장",
+    "오빠랑"
+   ]
+  },
+  {
+   "rid": "RCU6lXFcW5f0",
+   "name": "선창횟집",
+   "branch": null,
+   "addr": "부산광역시 서구 남부민동 523-61",
+   "road_addr": "부산광역시 서구 등대로 109-2 선창횟집",
+   "phone": "051-244-5512",
+   "category": "장어구이",
+   "area": [
+    "부산송도"
+   ],
+   "lat": 35.085239,
+   "lng": 129.0263395,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "데이트",
+    "발렛파킹",
+    "야장"
+   ]
+  },
+  {
+   "rid": "qVTuehZ6DRS3",
+   "name": "현대호",
+   "branch": null,
+   "addr": "부산광역시 남구 용호동 973",
+   "road_addr": "부산광역시 남구 섶자리길 111 용호어민활어센터 9호",
+   "phone": "0507-1424-4510",
+   "category": "장어구이",
+   "area": [
+    "용호동"
+   ],
+   "lat": 35.1289909,
+   "lng": 129.1172202,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "배달",
+    "노포"
+   ]
+  },
+  {
+   "rid": "qqfhQvAhr26S",
+   "name": "미승식당",
+   "branch": null,
+   "addr": "대구광역시 중구 동인동4가 2-2",
+   "road_addr": "대구광역시 중구 동덕로36길 42",
+   "phone": null,
+   "category": "순두부찌개",
+   "area": [
+    "동인동"
+   ],
+   "lat": 35.8699696,
+   "lng": 128.6066595,
+   "open_status": "확인필요",
+   "score": 52,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20231102134120_photo1_7a5b94021aa8.webp",
+   "tags": [
+    "최자로드",
+    "점심회식",
+    "노포",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "vNz4UFOuD2h5",
+   "name": "남동공단떡볶이",
+   "branch": null,
+   "addr": "인천광역시 남동구 논현동 450",
+   "road_addr": "인천광역시 남동구 남동서로 226",
+   "phone": "032-821-5566",
+   "category": "떡볶이",
+   "area": [
+    "인천논현"
+   ],
+   "lat": 37.4093705,
+   "lng": 126.6939153,
+   "open_status": "영업 중",
+   "score": 87,
+   "user_score": 4.3,
+   "review_cnt": 93,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260519013630627_photo_659c06041f7a.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "무료주차",
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "zTC34ArWPfms",
+   "name": "가마솥보리밥",
+   "branch": null,
+   "addr": "인천광역시 부평구 부평동 521-3",
+   "road_addr": "인천광역시 부평구 장제로101번길 17",
+   "phone": "032-525-8543",
+   "category": "집밥, 보리밥",
+   "area": [
+    "부평"
+   ],
+   "lat": 37.494582,
+   "lng": 126.7288915,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "얼큰한"
+   ]
+  },
+  {
+   "rid": "DT3nUtxs1MqO",
+   "name": "한우촌",
+   "branch": null,
+   "addr": "광주광역시 서구 쌍촌동 873-19",
+   "road_addr": "광주광역시 서구 운천로162번길 10",
+   "phone": "062-376-9886",
+   "category": "한우, 생고기",
+   "area": [
+    "광주서구"
+   ],
+   "lat": 35.1472978,
+   "lng": 126.8579024,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240913111753_photo1_878071fee0b7.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "시끌벅적한",
+    "예약가능"
+   ]
+  },
+  {
+   "rid": "6vM1SPjuc7r1",
+   "name": "이화횟집",
+   "branch": null,
+   "addr": "울산광역시 중구 학산동 3-30",
+   "road_addr": "울산광역시 중구 새치로 33",
+   "phone": "052-296-8278",
+   "category": "낙지볶음, 낙지전골",
+   "area": [
+    "울산중구"
+   ],
+   "lat": 35.5549712,
+   "lng": 129.33157,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "얼큰"
+   ]
+  },
+  {
+   "rid": "MJV0vCt3w9v3",
+   "name": "오뎅식당",
+   "branch": null,
+   "addr": "경기도 의정부시 의정부동 220-58",
+   "road_addr": "경기도 의정부시 호국로1309번길 7",
+   "phone": "031-842-0423",
+   "category": "부대찌개, 부대볶음",
+   "area": [
+    "의정부"
+   ],
+   "lat": 37.7440927,
+   "lng": 127.0494505,
+   "open_status": "영업 중",
+   "score": 83,
+   "user_score": 4.1,
+   "review_cnt": 46,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260228235347_photo1_105bff9671c4.webp",
+   "tags": [
+    "최자로드",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "BorELewtqiyQ",
+   "name": "떡존",
+   "branch": null,
+   "addr": "경기도 용인시 처인구 삼가동 552",
+   "road_addr": "경기도 용인시 처인구 중부대로1158번길 22 행정타운늘푸른오스카빌아파트",
+   "phone": "031-323-1799",
+   "category": "분식, 카레떡볶이",
+   "area": [
+    "용인시청"
+   ],
+   "lat": 37.2377276,
+   "lng": 127.1724435,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "kM5O7TyBSnBW",
+   "name": "줘마양다리구이",
+   "branch": null,
+   "addr": "경기도 군포시 산본동 98-5",
+   "road_addr": "경기도 군포시 산본천로229번길 5 1층",
+   "phone": "031-393-6166",
+   "category": "양꼬치, 양다리",
+   "area": [
+    "금정역"
+   ],
+   "lat": 37.3729216,
+   "lng": 126.9420762,
+   "open_status": "영업 중",
+   "score": 42,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "예약",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "LphqUtfrnEd2",
+   "name": "한자루체험농원",
+   "branch": null,
+   "addr": "강원특별자치도 인제군 기린면 방동리 68-3",
+   "road_addr": "강원특별자치도 인제군 기린면 방동약수로 68",
+   "phone": "033-463-6273",
+   "category": "캠핑, 데킬라",
+   "area": [
+    "인제"
+   ],
+   "lat": 37.9468827,
+   "lng": 128.3878899,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드"
+   ]
+  },
+  {
+   "rid": "EeuFyCc2rUts",
+   "name": "산골면옥춘천막국수",
+   "branch": null,
+   "addr": "충청북도 충주시 교현동 487-63",
+   "road_addr": "충청북도 충주시 교현신촌1길 9-18",
+   "phone": null,
+   "category": "막국수, 한우오마카세",
+   "area": [
+    "충주"
+   ],
+   "lat": 36.979825,
+   "lng": 127.940264,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "실비집"
+   ]
+  },
+  {
+   "rid": "fkFGslRraT2B",
+   "name": "할머니토종순대",
+   "branch": null,
+   "addr": "충청남도 논산시 연무읍 안심리 14-111",
+   "road_addr": "충청남도 논산시 연무읍 연무로184번길 14-5",
+   "phone": "041-742-0403",
+   "category": "순대국, 백반",
+   "area": [
+    "논산"
+   ],
+   "lat": 36.1299998,
+   "lng": 127.0984418,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "노포"
+   ]
+  },
+  {
+   "rid": "V4yk4XQk4JXJ",
+   "name": "영야식",
+   "branch": null,
+   "addr": "충청남도 천안시 동남구 영성동 94-9",
+   "road_addr": "충청남도 천안시 동남구 미나릿길 25-1 2동 1층",
+   "phone": "0507-1419-7842",
+   "category": "냉삼",
+   "area": [
+    "천안중앙시장"
+   ],
+   "lat": 36.8015187,
+   "lng": 127.1517197,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "회식",
+    "노포",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "NMfZwv3bFR2Z",
+   "name": "본토박이곰탕",
+   "branch": null,
+   "addr": "충청남도 아산시 탕정면 호산리 324-1",
+   "road_addr": "충청남도 아산시 탕정면 탕정면로 311",
+   "phone": "041-533-3567",
+   "category": "짜글이, 소머리국밥",
+   "area": [
+    "아산"
+   ],
+   "lat": 36.8143979,
+   "lng": 127.0807194,
+   "open_status": "영업 종료 26분 전",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "현지인맛집"
+   ]
+  },
+  {
+   "rid": "rnOmfkXjlauU",
+   "name": "해태식당",
+   "branch": null,
+   "addr": "전라남도 고흥군 고흥읍 남계리 460-1",
+   "road_addr": "전라남도 고흥군 고흥읍 흥양길 25 일반음식점",
+   "phone": "061-835-4637",
+   "category": "한정식, 선어",
+   "area": [
+    "고흥"
+   ],
+   "lat": 34.6100939,
+   "lng": 127.28633,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "회식",
+    "현지인맛집"
+   ]
+  },
+  {
+   "rid": "GTwm2RTi3460",
+   "name": "해태닭집",
+   "branch": null,
+   "addr": "전라남도 구례군 구례읍 봉동리 311-3",
+   "road_addr": "전라남도 구례군 구례읍 상설시장길 4 지도",
+   "phone": "061-782-1999",
+   "category": "치킨, 통닭",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.2098744,
+   "lng": 127.4651307,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "야식",
+    "현지인맛집",
+    "포장전문"
+   ]
+  },
+  {
+   "rid": "xGCJ80wDx40l",
+   "name": "삼겹살데이",
+   "branch": null,
+   "addr": "전라남도 구례군 구례읍 봉동리 190-1",
+   "road_addr": "전라남도 구례군 5일시장작은길 20",
+   "phone": "061-783-5831",
+   "category": "삼겹살, 솥뚜껑삼겹살",
+   "area": [
+    "구례"
+   ],
+   "lat": 35.2101485,
+   "lng": 127.4700793,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "로컬맛집"
+   ]
+  },
+  {
+   "rid": "J34oT31VG7DX",
+   "name": "장원돼지국밥",
+   "branch": null,
+   "addr": "경상남도 창원시 의창구 팔용동 181-11",
+   "road_addr": "경상남도 창원시 의창구 남산로17번길 13 삼화빌딩",
+   "phone": "055-293-9044",
+   "category": "돼지국밥",
+   "area": [
+    "창원"
+   ],
+   "lat": 35.2606264,
+   "lng": 128.6130045,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 3.9,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20190902115159547_photo_GNtCRjNogBBb.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "서민적인",
+    "좌식테이블"
+   ]
+  },
+  {
+   "rid": "6fCAL4ptoKGi",
+   "name": "전앙장",
+   "branch": null,
+   "addr": "경상남도 창원시 마산합포구 중앙동1가 7-18 주택",
+   "road_addr": "경상남도 창원시 마산합포구 3·15대로 116 주택",
+   "phone": "055-246-3857",
+   "category": "짜장면, 중국집",
+   "area": [
+    "마산"
+   ],
+   "lat": 35.189531,
+   "lng": 128.5624026,
+   "open_status": "영업 중",
+   "score": 45,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "낮술",
+    "배달",
+    "노포"
+   ]
+  },
+  {
+   "rid": "yvlAj67HEt5Q",
+   "name": "명가피자",
+   "branch": null,
+   "addr": "경상남도 김해시 한림면 장방리 1313-144",
+   "road_addr": "경상남도 김해시 한림면 한림로422번길 4-18",
+   "phone": "055-342-6888",
+   "category": "고기국수",
+   "area": [
+    "김해"
+   ],
+   "lat": 35.323467,
+   "lng": 128.801215,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "제주향토음식"
+   ]
+  },
+  {
+   "rid": "KuBcZndO19Ob",
+   "name": "산지해장국",
+   "branch": "삼양점",
+   "addr": "제주특별자치도 제주시 삼양이동 2143-4",
+   "road_addr": "제주특별자치도 제주시 일주동로 332-1 1층",
+   "phone": "0507-1377-5220",
+   "category": "내장탕, 해장국",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.5210456,
+   "lng": 126.5803847,
+   "open_status": "오늘 휴무",
+   "score": 65,
+   "user_score": 4.6,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260521040224075_photo_a155775261f5.webp",
+   "tags": [
+    "최자로드",
+    "해장",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "K0mkSSm3di01",
+   "name": "일억조",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 한림읍 한림리 905-3",
+   "road_addr": "제주특별자치도 제주시 한림읍 한림상로 140 1층 일억조",
+   "phone": "0507-1492-0563",
+   "category": "접짝뼈국, 짜글이",
+   "area": [
+    "한림"
+   ],
+   "lat": 33.4113018,
+   "lng": 126.2675381,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.5,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425060745_photo1_745622b70943.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "xEP4utjBoic6",
+   "name": "골목식당",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 이도1동 1347-1",
+   "road_addr": "제주특별자치도 제주시 중앙로 63-9",
+   "phone": "064-757-4890",
+   "category": "꿩, 꿩요리",
+   "area": [
+    "제주시"
+   ],
+   "lat": 33.5117938,
+   "lng": 126.5250247,
+   "open_status": "영업 중",
+   "score": 50,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20170709182408_photo1_fot6xa0pcZ2j.webp",
+   "tags": [
+    "최자로드",
+    "제주향토음식"
+   ]
+  },
+  {
+   "rid": "iGOHCdf4Bqwm",
+   "name": "넝쿨하눌가든",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 아라일동 2898-2",
+   "road_addr": "제주특별자치도 제주시 대원북길 21 ,",
+   "phone": "064-744-7555",
+   "category": "오리고기, 오리탕",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.4760509,
+   "lng": 126.5322761,
+   "open_status": "영업 종료",
+   "score": 60,
+   "user_score": 4.8,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240614154418_photo1_cede4f54f9cc.webp",
+   "tags": [
+    "최자로드",
+    "가족외식",
+    "서민적인",
+    "대형룸"
+   ]
+  },
+  {
+   "rid": "5PVCZgtc1dat",
+   "name": "광동식당",
+   "branch": null,
+   "addr": "제주특별자치도 서귀포시 표선면 세화리 1152-4",
+   "road_addr": "제주특별자치도 서귀포시 표선면 세성로 272 돈볶 (구 )광동식당",
+   "phone": "064-787-2843",
+   "category": "두루치기, 흑돼지두루치기",
+   "area": [
+    "표선"
+   ],
+   "lat": 33.3291437,
+   "lng": 126.798258,
+   "open_status": "오늘 휴무",
+   "score": 53,
+   "user_score": 3.3,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220530021441_photo1_6b569d75a83f.webp",
+   "tags": [
+    "최자로드",
+    "로컬맛집",
+    "포장"
+   ]
+  },
+  {
+   "rid": "FywhgQ61mhQI",
+   "name": "맥파이",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 삼도이동 1260-5",
+   "road_addr": "제주특별자치도 제주시 탑동로2길 7 2층",
+   "phone": "0507-1342-2849",
+   "category": "수제맥주, 피자",
+   "area": [
+    "제주시"
+   ],
+   "lat": 33.5179873,
+   "lng": 126.5233594,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241017220913_photo1_6c7510d6698c.webp",
+   "tags": [
+    "최자로드",
+    "술모임",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "SNdcro4rOCKP",
+   "name": "솔도토종닭",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 애월읍 봉성리 산25-1",
+   "road_addr": "제주 제주시 애월읍 화전길 271",
+   "phone": "064-792-8799",
+   "category": "백숙, 토종닭",
+   "area": [
+    "애월"
+   ],
+   "lat": 33.3452893,
+   "lng": 126.3868827,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "몸보신",
+    "현지인맛집",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "urYP8cbPvqyZ",
+   "name": "원조하나로국밥",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 건입동 984-36",
+   "road_addr": "제주특별자치도 제주시 임항로 70 건양빌딩",
+   "phone": "064-758-2292",
+   "category": "국밥, 고기국밥",
+   "area": [
+    "제주시"
+   ],
+   "lat": 33.5166586,
+   "lng": 126.5323077,
+   "open_status": "확인필요",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최자로드",
+    "해장",
+    "제주도식"
+   ]
+  }
+ ]
+}

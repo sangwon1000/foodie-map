@@ -1,12 +1,14 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { Place, ShowId } from "../types";
-import { SHOWS, SHOW_ORDER } from "../types";
+import type { Profile } from "../profiles";
 import type { AtlasStats, CountryCount } from "../lib/data";
 
 const PAGE = 160;
 
 interface PanelProps {
   open: boolean;
+  profile: Profile;
+  profiles: Profile[];
   query: string;
   shows: Set<ShowId>;
   country: string;
@@ -15,6 +17,7 @@ interface PanelProps {
   visible: Place[];
   stats: AtlasStats;
   selectedId: string | null;
+  onProfile: (id: string) => void;
   onQuery: (q: string) => void;
   onToggleShow: (s: ShowId) => void;
   onCountry: (c: string) => void;
@@ -24,6 +27,8 @@ interface PanelProps {
 export default function Panel(props: PanelProps) {
   const {
     open,
+    profile,
+    profiles,
     query,
     shows,
     country,
@@ -32,12 +37,16 @@ export default function Panel(props: PanelProps) {
     visible,
     stats,
     selectedId,
+    onProfile,
     onQuery,
-    onToggleShow,
     onCountry,
+    onToggleShow,
     onSelect,
   } = props;
   const [limit, setLimit] = useState(PAGE);
+  const L = profile.labels;
+
+  useEffect(() => setLimit(PAGE), [profile.id]);
 
   const sorted = useMemo(() => {
     return [...visible].sort(
@@ -52,16 +61,36 @@ export default function Panel(props: PanelProps) {
 
   return (
     <aside className={`panel ${open ? "is-open" : ""}`}>
+      <nav className="profile-rail" aria-label="Profiles">
+        {profiles.map((pr) => (
+          <button
+            key={pr.id}
+            className={`profile-chip ${pr.id === profile.id ? "is-active" : ""}`}
+            onClick={() => onProfile(pr.id)}
+            aria-pressed={pr.id === profile.id}
+            title={pr.docTitle}
+          >
+            <span className="profile-chip-emoji" aria-hidden>
+              {pr.emoji}
+            </span>
+            <span className="profile-chip-name">{pr.short}</span>
+          </button>
+        ))}
+      </nav>
+
       <header className="brand">
-        <p className="brand-kicker">everywhere tony ate 🌍</p>
+        <p className="brand-kicker">{profile.kicker}</p>
         <h1 className="brand-title">
-          bourdain <em>atlas</em>
+          {profile.titleMain} <em>{profile.titleEm}</em>
         </h1>
         <p className="brand-sub">
-          <span>🍜 {stats.places.toLocaleString()} spots</span>
-          <span>🗺️ {stats.countries} countries</span>
-          <span>📺 {stats.episodes} episodes</span>
+          <span>🍜 {stats.places.toLocaleString()} {L.spots}</span>
+          <span>🗺️ {stats.countries} {L.regions}</span>
+          {stats.episodes > 0 && (
+            <span>📺 {stats.episodes.toLocaleString()} {L.episodes}</span>
+          )}
         </p>
+        <p className="brand-bio">{profile.bio}</p>
       </header>
 
       <div className="controls">
@@ -72,7 +101,7 @@ export default function Panel(props: PanelProps) {
           <input
             type="search"
             value={query}
-            placeholder="find a spot, city, episode…"
+            placeholder={L.searchPlaceholder}
             onChange={(e) => {
               setLimit(PAGE);
               onQuery(e.target.value);
@@ -80,43 +109,44 @@ export default function Panel(props: PanelProps) {
           />
         </div>
 
-        <div className="show-filter" role="group" aria-label="Filter by show">
-          {SHOW_ORDER.map((id) => {
-            const meta = SHOWS[id];
-            const on = shows.has(id);
-            return (
-              <button
-                key={id}
-                className={`show-chip ${on ? "is-on" : ""}`}
-                style={{ ["--chip" as string]: meta.color }}
-                onClick={() => {
-                  setLimit(PAGE);
-                  onToggleShow(id);
-                }}
-                aria-pressed={on}
-                title={`${meta.name} (${meta.years})`}
-              >
-                <span className="chip-emoji" aria-hidden>
-                  {meta.emoji}
-                </span>
-                <span className="chip-name">{meta.short}</span>
-                <span className="chip-count">{showCounts[id]}</span>
-              </button>
-            );
-          })}
-        </div>
+        {profile.shows.length > 1 && (
+          <div className="show-filter" role="group" aria-label="Filter by show">
+            {profile.shows.map((meta) => {
+              const on = shows.has(meta.id);
+              return (
+                <button
+                  key={meta.id}
+                  className={`show-chip ${on ? "is-on" : ""}`}
+                  style={{ ["--chip" as string]: meta.color }}
+                  onClick={() => {
+                    setLimit(PAGE);
+                    onToggleShow(meta.id);
+                  }}
+                  aria-pressed={on}
+                  title={`${meta.name}${meta.years ? ` (${meta.years})` : ""}`}
+                >
+                  <span className="chip-emoji" aria-hidden>
+                    {meta.emoji}
+                  </span>
+                  <span className="chip-name">{meta.short}</span>
+                  <span className="chip-count">{showCounts[meta.id] ?? 0}</span>
+                </button>
+              );
+            })}
+          </div>
+        )}
 
         <label className="country-select">
-          <span aria-hidden>🌍</span>
+          <span aria-hidden>{L.regionIcon}</span>
           <select
             value={country}
-            aria-label="Country"
+            aria-label="Region"
             onChange={(e) => {
               setLimit(PAGE);
               onCountry(e.target.value);
             }}
           >
-            <option value="all">everywhere</option>
+            <option value="all">{L.everywhere}</option>
             {countries.map((c) => (
               <option key={c.name} value={c.name}>
                 {c.name} ({c.count})
@@ -127,9 +157,7 @@ export default function Panel(props: PanelProps) {
       </div>
 
       <div className="list" role="listbox" aria-label="Places">
-        {rows.length === 0 && (
-          <p className="list-empty">nothing here 😅 — try loosening the filters</p>
-        )}
+        {rows.length === 0 && <p className="list-empty">{L.listEmpty}</p>}
         {rows.map((p) => (
           <button
             key={p.id}
@@ -151,30 +179,30 @@ export default function Panel(props: PanelProps) {
               </span>
               <span className="row-meta">
                 {[p.city, p.country].filter(Boolean).join(" · ")}
+                {p.kind ? ` · ${p.kind}` : ""}
               </span>
             </span>
             <span className="row-shows" aria-hidden>
-              {SHOW_ORDER.filter((s) => p.shows.includes(s)).map((s) => (
-                <i key={s}>{SHOWS[s].emoji}</i>
-              ))}
+              {profile.shows
+                .filter((s) => p.shows.includes(s.id))
+                .map((s) => (
+                  <i key={s.id}>{s.emoji}</i>
+                ))}
             </span>
           </button>
         ))}
         {sorted.length > limit && (
           <button className="list-more" onClick={() => setLimit((n) => n + PAGE)}>
-            show more 👇 ({(sorted.length - limit).toLocaleString()} left)
+            {L.showMore} ({(sorted.length - limit).toLocaleString()})
           </button>
         )}
       </div>
 
       <footer className="panel-footer">
         <p className="footer-quote">
-          “If I'm an advocate for anything, it's to move.” <span>— tony ✈️</span>
+          {profile.footerQuote} {profile.footerQuoteBy && <span>{profile.footerQuoteBy}</span>}
         </p>
-        <p className="footer-note">
-          unofficial fan project, made with ❤️ and too many episode rewatches.
-          😢 = closed for good.
-        </p>
+        <p className="footer-note">{profile.footerNote}</p>
       </footer>
     </aside>
   );

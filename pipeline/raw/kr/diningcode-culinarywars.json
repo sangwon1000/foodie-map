@@ -1,0 +1,4778 @@
+{
+ "source": "diningcode.com 인증맛집",
+ "keyword": "흑백요리사",
+ "fetched_at": "2026-07-14T08:36:45.274Z",
+ "total_reported": 191,
+ "count": 191,
+ "places": [
+  {
+   "rid": "6mufoSr4FzxH",
+   "name": "헤키",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 379-25",
+   "road_addr": "서울특별시 마포구 동교로9길 33 1층 헤키",
+   "phone": "070-7773-9870",
+   "category": "카츠, 히레카츠",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.5552506,
+   "lng": 126.9098333,
+   "open_status": "오늘 휴무",
+   "score": 90,
+   "user_score": 4.6,
+   "review_cnt": 63,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510183948_photo1_96e5903fc6cc.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "깔끔한",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "zLmnRsbLp8oT",
+   "name": "안동집 손칼국시",
+   "branch": null,
+   "addr": "서울특별시 동대문구 제기동 1019",
+   "road_addr": "서울특별시 동대문구 고산자로36길 3 신관 지하1층",
+   "phone": "02-965-3948",
+   "category": "이모카세, 배추전",
+   "area": [
+    "경동시장"
+   ],
+   "lat": 37.5790378,
+   "lng": 127.0391428,
+   "open_status": "마지막 주문 마감",
+   "score": 85,
+   "user_score": 4.3,
+   "review_cnt": 38,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517081959623_photo_3e0a5f6342ad.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "식사모임",
+    "서민적인",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "LUCktS2bFTVP",
+   "name": "오늘의초밥",
+   "branch": null,
+   "addr": "경기도 수원시 영통구 이의동 1306-20",
+   "road_addr": "경기도 수원시 영통구 센트럴파크로127번길 18 1층 오늘의초밥",
+   "phone": "0507-1401-9468",
+   "category": "스시, 후토마끼",
+   "area": [
+    "광교"
+   ],
+   "lat": 37.2953144,
+   "lng": 127.0552644,
+   "open_status": "오늘 휴무",
+   "score": 86,
+   "user_score": 4.6,
+   "review_cnt": 46,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501090528_photo1_0ceb032806e7.webp",
+   "tags": [
+    "다코숨은맛집",
+    "데이트",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "20GpVMqD6oHt",
+   "name": "도량",
+   "branch": null,
+   "addr": "서울특별시 종로구 통의동 35-12 2, 3층",
+   "road_addr": "서울특별시 종로구 자하문로6길 6 2, 3층",
+   "phone": "0507-1432-0210",
+   "category": "중식, 동파육",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5780066,
+   "lng": 126.9724921,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.6,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260408081351_photo1_719fdd8cf372.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "식사모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "EB6YSXOtEOA6",
+   "name": "키보 에다마메",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 97-5",
+   "road_addr": "서울특별시 용산구 한강대로76길 11-40 1층",
+   "phone": "0507-1452-1745",
+   "category": "이자카야, 마파두부",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5424309,
+   "lng": 126.9737183,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.5,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260410092218753_photo_7c3cfe4bcba1.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "캐주얼한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "wQbWmxxFiaQv",
+   "name": "옥돌현옥",
+   "branch": null,
+   "addr": "서울 송파구 문정동 624",
+   "road_addr": "서울 송파구 법원로 55 송파아이파크 D존 1층 옥돌현옥",
+   "phone": "0507-1383-4824",
+   "category": "평양냉면",
+   "area": [
+    "문정"
+   ],
+   "lat": 37.4798639,
+   "lng": 127.1217612,
+   "open_status": "영업 중",
+   "score": 86,
+   "user_score": 4.5,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260323121015_photo1_favHrqinbple.webp",
+   "tags": [
+    "미쉐린빕구르망",
+    "식사모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "deLs35hMcPFD",
+   "name": "티엔미미",
+   "branch": "강남점",
+   "addr": "서울특별시 서초구 서초동 1332-4",
+   "road_addr": "서울특별시 서초구 사임당로 143 104-1, 104-2, 104-3호",
+   "phone": "0507-1476-1686",
+   "category": "딤섬, 중식당",
+   "area": [
+    "강남역"
+   ],
+   "lat": 37.4918114,
+   "lng": 127.0253676,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.4,
+   "review_cnt": 48,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251227031350277_photo_533c6cd51e0c.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "eVzRQ81FaAZT",
+   "name": "떡산",
+   "branch": null,
+   "addr": "서울특별시 은평구 불광동 310-192",
+   "road_addr": "서울특별시 은평구 연서로 247-1",
+   "phone": "0507-1479-4321",
+   "category": "떡볶이, 순대",
+   "area": [
+    "연신내"
+   ],
+   "lat": 37.6195928,
+   "lng": 126.9224109,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.5,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260502024143_photo1_ea7a04ea7056.webp",
+   "tags": [
+    "흑백요리사",
+    "간식",
+    "배달",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "nMZhZnoE7QCX",
+   "name": "을지깐깐",
+   "branch": null,
+   "addr": "서울시 중구 을지로3가 323",
+   "road_addr": "서울특별시 중구 을지로12길 12 202호 을지깐깐",
+   "phone": "010-5421-6788",
+   "category": "베트남음식, 쌀국수",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5657466,
+   "lng": 126.9910634,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 48,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260325101915_photo1_ba57e98369e5.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "uet0aE6xhoiT",
+   "name": "힙한식",
+   "branch": null,
+   "addr": "경상남도 남해군 미조면 송정리 615-1",
+   "road_addr": "경상남도 남해군 미조면 동부대로 2",
+   "phone": "0507-1354-1966",
+   "category": "솥밥, 해물파전",
+   "area": [
+    "남해"
+   ],
+   "lat": 34.7286352,
+   "lng": 128.0314655,
+   "open_status": "오늘 휴무",
+   "score": 83,
+   "user_score": 4.7,
+   "review_cnt": 28,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501095732_photo1_87299a6af684.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "95i2bwctB9do",
+   "name": "미트컬쳐",
+   "branch": null,
+   "addr": "강원도 강릉시 견소동 178",
+   "road_addr": "강원도 강릉시 경강로 2629 1층",
+   "phone": "0507-1318-5439",
+   "category": "파스타, 미트볼",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7721643,
+   "lng": 128.9467866,
+   "open_status": "오늘 휴무",
+   "score": 82,
+   "user_score": 4.7,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260501105105_photo1_0fed4ece776d.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "FZmA8yBg4Qfc",
+   "name": "야키토리 묵",
+   "branch": null,
+   "addr": "서울특별시 마포구 연남동 223-102",
+   "road_addr": "서울특별시 마포구 성미산로 165-1 1층 우측",
+   "phone": "0507-1405-2840",
+   "category": "야끼토리, 오마카세",
+   "area": [
+    "연남동"
+   ],
+   "lat": 37.5646016,
+   "lng": 126.9245525,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.6,
+   "review_cnt": 16,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251220060627_photo1_ed931f9b415e.webp",
+   "tags": [
+    "한국인의밥상",
+    "데이트",
+    "격식있는",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "9Gaa5tirg2om",
+   "name": "면서울",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 666-8 1층",
+   "road_addr": "서울특별시 강남구 선릉로 805 1층",
+   "phone": "0507-1449-8878",
+   "category": "국수, 들기름",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5241152,
+   "lng": 127.0390649,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.2,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260404115832_photo1_ed931f9b415e.webp",
+   "tags": [
+    "미쉐린빕구르망",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "0zjDpvDKNUF7",
+   "name": "미미옥",
+   "branch": "신용산점",
+   "addr": "서울 용산구 한강로3가 40-463",
+   "road_addr": "서울특별시 용산구 한강대로15길 27",
+   "phone": "0507-1376-0819",
+   "category": "차돌양지쌀국수, 한국식쌀국수",
+   "area": [
+    "용산역"
+   ],
+   "lat": 37.5262852,
+   "lng": 126.9630047,
+   "open_status": "영업 중",
+   "score": 85,
+   "user_score": 4.2,
+   "review_cnt": 57,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505101748_photo1_a2817ffb6761.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "깔끔한",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "KfbXDqFqylm0",
+   "name": "쇼니노",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로3가 40-126",
+   "road_addr": "서울특별시 용산구 한강대로21길 17-18 1층",
+   "phone": "0507-1390-5629",
+   "category": "브런치, 레몬버터치킨",
+   "area": [
+    "용산역"
+   ],
+   "lat": 37.5263864,
+   "lng": 126.963325,
+   "open_status": "브레이크 타임",
+   "score": 83,
+   "user_score": 4.6,
+   "review_cnt": 24,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517112544997_photo_a3eabb01edf3.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "예쁜",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "4fgdW6Inktww",
+   "name": "옥동식",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 385-6",
+   "road_addr": "서울특별시 마포구 양화로7길 44-10",
+   "phone": "010-5571-9915",
+   "category": "곰탕, 돼지곰탕",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5526833,
+   "lng": 126.9144811,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.2,
+   "review_cnt": 91,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260611084838_photo1_b19fa0ac6186.webp",
+   "tags": [
+    "다코숨은맛집",
+    "혼밥",
+    "조용한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "Nz9QLMri9Pfn",
+   "name": "티엔미미",
+   "branch": "홍대점",
+   "addr": "서울특별시 마포구 동교동 162-5 SMT 라운지 머큐어 앰배서더 4층(L)",
+   "road_addr": "서울특별시 마포구 양화로 144 머큐어 앰버서더 호텔 4층",
+   "phone": "010-8823-1070",
+   "category": "딤섬, 중식당",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5553242,
+   "lng": 126.9224091,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 34,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424180917_photo1_1217a3962612.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "NZWW3ZN1ENkq",
+   "name": "진진",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 375-35 1층 진진",
+   "road_addr": "서울특별시 마포구 월드컵북로1길 60 1층 진진",
+   "phone": "0507-1447-8879",
+   "category": "중식, 멘보샤",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.5537804,
+   "lng": 126.918479,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.2,
+   "review_cnt": 40,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260514065227_photo1_0b2ea42c4f94.webp",
+   "tags": [
+    "수요미식회",
+    "식사모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "5owyTlBPVsSe",
+   "name": "쌤쌤쌤",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로2가 47-3",
+   "road_addr": "서울특별시 용산구 한강대로50길 25 1층",
+   "phone": "0507-1309-1103",
+   "category": "뇨끼, 라자냐",
+   "area": [
+    "용리단길"
+   ],
+   "lat": 37.5315768,
+   "lng": 126.972159,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 94,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503100035_photo1_4b558629238f.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "이국적/이색적",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "jMFCzpZFt3Wg",
+   "name": "더 이탈리안 클럽",
+   "branch": null,
+   "addr": "서울특별시 송파구 신천동 29-1 소피텔 앰버서더 서울",
+   "road_addr": "서울특별시 송파구 잠실로 209 KT송파타워 2층 더 이탈리안 클럽",
+   "phone": "0507-1330-3238",
+   "category": "어란파스타, 이탈리안레스토랑",
+   "area": [
+    "잠실"
+   ],
+   "lat": 37.513871,
+   "lng": 127.1063644,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507022327_photo1_c1ed86d1324a.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "sLOXZpk9aTmU",
+   "name": "죠죠",
+   "branch": "용산점",
+   "addr": "서울특별시 용산구 한강로2가 249-1 1, 2층",
+   "road_addr": "서울특별시 용산구 한강대로 135 1, 2층",
+   "phone": "0507-1439-8757",
+   "category": "오코노미야키, 야끼소바",
+   "area": [
+    "신용산역"
+   ],
+   "lat": 37.5316047,
+   "lng": 126.9698608,
+   "open_status": "영업 중",
+   "score": 81,
+   "user_score": 4.2,
+   "review_cnt": 36,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260515123336_photo1_6fba47a312f9.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "캐주얼한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "nXBlHiYpE3ET",
+   "name": "저저",
+   "branch": null,
+   "addr": "서울특별시 중구 인현동2가 182-2",
+   "road_addr": "서울특별시 중구 퇴계로41길 31 . 1층 101호",
+   "phone": "0507-1400-0492",
+   "category": "돼지국밥, 쌀국수",
+   "area": [
+    "인현시장"
+   ],
+   "lat": 37.5631923,
+   "lng": 126.9955378,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260305062835_photo1_e3d1c7b20e32.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "FYadEgI1zgjS",
+   "name": "조광201",
+   "branch": null,
+   "addr": "서울특별시 송파구 문정동 77-5 2층",
+   "road_addr": "서울특별시 송파구 새말로8길 13 2층",
+   "phone": "0507-1392-0503",
+   "category": "중식, 동파육",
+   "area": [
+    "장지역"
+   ],
+   "lat": 37.4815362,
+   "lng": 127.1267899,
+   "open_status": "영업 시작 24분 전",
+   "score": 77,
+   "user_score": 4.4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260419113728_photo1_0a906e94283d.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "데이트",
+    "이국적/이색적",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "JNDks9wGnchQ",
+   "name": "디핀옥수",
+   "branch": null,
+   "addr": "서울특별시 성동구 옥수동 244-10 지하1층",
+   "road_addr": "서울특별시 성동구 독서당로 194 지하1층",
+   "phone": "0507-1331-4410",
+   "category": "파스타, 생면파스타",
+   "area": [
+    "옥수역"
+   ],
+   "lat": 37.5427547,
+   "lng": 127.0126618,
+   "open_status": "브레이크 타임",
+   "score": 81,
+   "user_score": 4.4,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260521025209612_photo_d9d50453827f.webp",
+   "tags": [
+    "전지적참견시점",
+    "데이트",
+    "고급스러운",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "ISfK6PsiO3vl",
+   "name": "멘쇼쿠",
+   "branch": null,
+   "addr": "서울특별시 서초구 잠원동 20-8",
+   "road_addr": "서울특별시 서초구 강남대로99길 10 2F",
+   "phone": "010-5545-7226",
+   "category": "라멘, 츠케멘",
+   "area": [
+    "신사역"
+   ],
+   "lat": 37.5153573,
+   "lng": 127.0188836,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 4.3,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503102016_photo1_818cee4b0525.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "TL7JyVZ1myjK",
+   "name": "에그앤플라워",
+   "branch": null,
+   "addr": "서울 용산구 용산동2가 1-549",
+   "road_addr": "서울특별시 용산구 신흥로26길 35 2층",
+   "phone": "0507-1328-7681",
+   "category": "생면파스타, 파스타",
+   "area": [
+    "해방촌"
+   ],
+   "lat": 37.5453932,
+   "lng": 126.9844401,
+   "open_status": "영업 중",
+   "score": 79,
+   "user_score": 4,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251218084026967_photo_dba9ef52d0c6.webp",
+   "tags": [
+    "샘킴셰프",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "hndW98hGZ7L3",
+   "name": "한국횟집",
+   "branch": null,
+   "addr": "서울특별시 중랑구 중화동 300-38",
+   "road_addr": "서울특별시 중랑구 중랑역로 34 1층",
+   "phone": "010-9492-3557",
+   "category": "오마카세, 횟집",
+   "area": [
+    "중랑역"
+   ],
+   "lat": 37.5970979,
+   "lng": 127.076209,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.5,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260109060927_photo1_bb003c580b4d.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "배달",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "BR3ILO1WHjhw",
+   "name": "라망 시크레",
+   "branch": null,
+   "addr": "서울특별시 중구 회현동1가 210",
+   "road_addr": "서울특별시 중구 퇴계로 67 레스케이프 호텔 26층",
+   "phone": "02-317-4003",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "회현역"
+   ],
+   "lat": 37.5596664,
+   "lng": 126.9795418,
+   "open_status": "브레이크 타임",
+   "score": 85,
+   "user_score": 4.8,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505031515_photo1_4fae39c490fd.webp",
+   "tags": [
+    "미쉐린1스타",
+    "기념일",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "dOxhmjwMzxcE",
+   "name": "더 시옷",
+   "branch": null,
+   "addr": "서울특별시 중구 저동2가 47-15",
+   "road_addr": "서울특별시 중구 수표로 30 OK빌딩 2층",
+   "phone": "0507-1310-9814",
+   "category": "파스타, 트러플파스타",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5638355,
+   "lng": 126.9903062,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.5,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260509014255_photo1_744aaff45050.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "깔끔한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "hcbKs6qeAwKd",
+   "name": "촨촨지우바",
+   "branch": null,
+   "addr": "서울특별시 중구 산림동 207-2 대림상가 3층",
+   "road_addr": "서울특별시 중구 을지로 157 대림상가 3층 가358,359",
+   "phone": "0507-1432-9038",
+   "category": "중식당, 꿔바로우",
+   "area": [
+    "세운상가"
+   ],
+   "lat": 37.5670649,
+   "lng": 126.9954936,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.6,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251221013547_photo1_19b94da963f6.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "이국적/이색적",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "I2CdpsBGyLWo",
+   "name": "아오이토리",
+   "branch": null,
+   "addr": "서울특별시 마포구 서교동 327-17",
+   "road_addr": "서울특별시 마포구 와우산로29길 8 K.C빌딩",
+   "phone": "02-333-0421",
+   "category": "빵, 야키소바빵",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.554751,
+   "lng": 126.9294621,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.2,
+   "review_cnt": 59,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422013125_photo2_ea7a04ea7056.webp",
+   "tags": [
+    "다코숨은맛집",
+    "간식",
+    "가성비좋은",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "Xyr5UzYDlqY3",
+   "name": "고씨네 고추장찌개",
+   "branch": null,
+   "addr": "서울특별시 중구 저동2가 48-7",
+   "road_addr": "서울특별시 중구 수표로 26 1층",
+   "phone": "010-7111-4328",
+   "category": "찌개, 고추장찌개",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5635255,
+   "lng": 126.9903747,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 3.9,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251023104112_photo1_f2d259a9a9d6.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "서민적인",
+    "야외테이블"
+   ]
+  },
+  {
+   "rid": "mpH6NuQf5y9n",
+   "name": "마마리마켓",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 256-3",
+   "road_addr": "서울특별시 성동구 연무장18길 16 1층 마마리마켓",
+   "phone": "0507-1383-2163",
+   "category": "반찬가게, 닭강정",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5393358,
+   "lng": 127.0620111,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260521113053_photo1_c6aba00cc080.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "INwf2iaArWxU",
+   "name": "래빗홀 버거컴퍼니",
+   "branch": null,
+   "addr": "서울특별시 광진구 화양동 490-2",
+   "road_addr": "서울특별시 광진구 광나루로 424 1층",
+   "phone": "0507-1304-0424",
+   "category": "버거, 수제버거",
+   "area": [
+    "건대"
+   ],
+   "lat": 37.5460742,
+   "lng": 127.0765351,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.3,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260517113827741_photo_8de4c3974a4b.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "a0q0qFlHArgg",
+   "name": "동경밥상",
+   "branch": null,
+   "addr": "부산광역시 수영구 남천동 3-25",
+   "road_addr": "부산광역시 수영구 남천바다로 34-6 1층",
+   "phone": "0507-1320-1428",
+   "category": "장어덮밥",
+   "area": [
+    "광안리"
+   ],
+   "lat": 35.1483966,
+   "lng": 129.113852,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4,
+   "review_cnt": 35,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260325024419_photo2_7d72becd0645.webp",
+   "tags": [
+    "미쉐린빕구르망",
+    "데이트",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "MgrpsKVYHNpv",
+   "name": "중앙감속기",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 301-98",
+   "road_addr": "서울특별시 성동구 성수일로6길 7-1 1층 중앙감속기",
+   "phone": "0507-1316-9628",
+   "category": "중식, 퓨전중식",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5455322,
+   "lng": 127.0511192,
+   "open_status": "영업 중",
+   "score": 84,
+   "user_score": 4.2,
+   "review_cnt": 47,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260405092007_photo1_0ceb032806e7.webp",
+   "tags": [
+    "최현석셰프",
+    "데이트",
+    "캐주얼한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "WtSfbrhBPIsL",
+   "name": "홍보각",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 603",
+   "road_addr": "서울특별시 강남구 봉은사로 130 노보텔 앰배서더 강남 LL층",
+   "phone": "0507-1381-6479",
+   "category": "중식, 짬뽕",
+   "area": [
+    "신논현"
+   ],
+   "lat": 37.5053621,
+   "lng": 127.0290189,
+   "open_status": "브레이크 타임",
+   "score": 77,
+   "user_score": 5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511012657_photo1_119dcb8ecdc1.webp",
+   "tags": [
+    "최현석셰프",
+    "식사모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "7PLYGYJMXNHc",
+   "name": "래빗홀버거",
+   "branch": "성수",
+   "addr": "서울특별시 성동구 성수동1가 656-1018",
+   "road_addr": "서울특별시 성동구 상원1길 35-23 1층",
+   "phone": "0507-1464-0682",
+   "category": "버거, 수제버거",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5461358,
+   "lng": 127.0472014,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251228104429393_photo_6179af52ff54.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "zHqFJLqq6Wk5",
+   "name": "엄마밥상",
+   "branch": null,
+   "addr": "경상북도 칠곡군 동명면 기성리 651",
+   "road_addr": "경상북도 칠곡군 동명면 팔공산로 157",
+   "phone": "054-973-8144",
+   "category": "한정식, 굴전",
+   "area": [
+    "팔공산"
+   ],
+   "lat": 35.9994573,
+   "lng": 128.6063172,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.1,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251214123434_photo1_df02ad8e8b2f.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "ZtbwcZ5vd7Gh",
+   "name": "코치",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 565",
+   "road_addr": "서울특별시 성동구 성덕정17길 11 1층",
+   "phone": "070-4242-4604",
+   "category": "야끼토리, 꼬치",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5382184,
+   "lng": 127.0551985,
+   "open_status": "영업 시작 24분 전",
+   "score": 82,
+   "user_score": 4.6,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422071002_photo1_8204f4542d09.webp",
+   "tags": [
+    "성시경의먹을텐데",
+    "데이트",
+    "캐주얼한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "LFIcKXdrgcBZ",
+   "name": "엘몰리노",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동1가 685-325",
+   "road_addr": "서울특별시 성동구 서울숲2길 19-18 1층",
+   "phone": "0507-1329-0793",
+   "category": "멕시코요리, 위스키",
+   "area": [
+    "서울숲"
+   ],
+   "lat": 37.5474505,
+   "lng": 127.0411536,
+   "open_status": "영업 시작 9분 전",
+   "score": 77,
+   "user_score": 4.5,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250906035741_photo1_v7ueN3fIzBzB.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "이국적/이색적",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "RORgdS6JIWZd",
+   "name": "은진포차",
+   "branch": null,
+   "addr": "서울특별시 영등포구 문래동2가 39-1",
+   "road_addr": "서울특별시 영등포구 도림로133길 20",
+   "phone": "0507-1477-7079",
+   "category": "횟집, 병어조림",
+   "area": [
+    "문래"
+   ],
+   "lat": 37.513839,
+   "lng": 126.8947937,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.2,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260430102603090_photo_f370236a03ff.webp",
+   "tags": [
+    "식객허영만의백반기행",
+    "술모임",
+    "서민적인",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "NldO6WsBowyp",
+   "name": "라오삐약",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 396-27",
+   "road_addr": "서울특별시 마포구 희우정로10길 5",
+   "phone": "02-322-7735",
+   "category": "라오스음식",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.5527753,
+   "lng": 126.9044693,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.1,
+   "review_cnt": 21,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260306052858_photo1_b72f1b427237.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "ECucMx3YQmVd",
+   "name": "이치에",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 656-7 2층",
+   "road_addr": "서울특별시 강남구 선릉로155길 23-3 2층",
+   "phone": "070-4273-4087",
+   "category": "이자카야, 덴뿌라",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5253741,
+   "lng": 127.0376944,
+   "open_status": "영업 시작 24분 전",
+   "score": 74,
+   "user_score": 4.4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250726094104459_photo_f137134b9faf.webp",
+   "tags": [
+    "수요미식회",
+    "술모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "9iGxafb65q4A",
+   "name": "바삭마차",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 412-52",
+   "road_addr": "서울특별시 마포구 월드컵로13길 64 바삭마차",
+   "phone": "0507-1335-4486",
+   "category": "돈까스, 아이스크림",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.5553289,
+   "lng": 126.9065291,
+   "open_status": "영업 중",
+   "score": 77,
+   "user_score": 3.9,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260521022003_photo1_d2945d695908.webp",
+   "tags": [
+    "생방송투데이",
+    "간식",
+    "서민적인",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "aOqcVQguhymv",
+   "name": "외암파전 상전",
+   "branch": null,
+   "addr": "충남 아산시 송악면 역촌리 84-10 아산 외암마을 저잣거리",
+   "road_addr": "충청남도 아산시 송악면 외암로 1030-14 14동 1층",
+   "phone": "041-541-2545",
+   "category": "파전, 해물파전",
+   "area": [
+    "아산"
+   ],
+   "lat": 36.7270988,
+   "lng": 127.0132201,
+   "open_status": "영업 중",
+   "score": 75,
+   "user_score": 4.1,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260412084252455_photo_197e5ec1085c.webp",
+   "tags": [
+    "생활의달인",
+    "술모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "m6114r11kSzH",
+   "name": "깃든",
+   "branch": null,
+   "addr": "서울특별시 강북구 미아동 54-188",
+   "road_addr": "서울특별시 강북구 월계로7나길 46-5 1층 깃든",
+   "phone": "02-987-1025",
+   "category": "해산물, 소갈비",
+   "area": [
+    "미아사거리"
+   ],
+   "lat": 37.6132653,
+   "lng": 127.0316888,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.6,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260310051449994_photo_ba616760f4e0.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "배달",
+    "지역주민이찾는"
+   ]
+  },
+  {
+   "rid": "Fzt80mXv7Jvh",
+   "name": "대엽",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동1가 656-1661",
+   "road_addr": "서울특별시 성동구 왕십리로2길 36 1층 3호",
+   "phone": "0507-1397-2006",
+   "category": "평양냉면, 한식",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5426468,
+   "lng": 127.0485989,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.7,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260510085655_photo1_19b94da963f6.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "M6AqqsBZm29t",
+   "name": "로컬릿",
+   "branch": null,
+   "addr": "강원 강릉시 초당동 103-1",
+   "road_addr": "강원 강릉시 초당원길 32-2",
+   "phone": "0507-1354-3399",
+   "category": "비건",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7847667,
+   "lng": 128.9162531,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 4.1,
+   "review_cnt": 17,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250318092837_photo1_25abdc51862b.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "5r6TgJrT5Gsb",
+   "name": "심야식당 세이지",
+   "branch": null,
+   "addr": "서울특별시 은평구 갈현동 483-3",
+   "road_addr": "서울특별시 은평구 연서로27길 13-6 심야식당세이지",
+   "phone": "0507-1403-7910",
+   "category": "이자카야, 일본",
+   "area": [
+    "연신내"
+   ],
+   "lat": 37.617901,
+   "lng": 126.9176295,
+   "open_status": "영업 시작 24분 전",
+   "score": 75,
+   "user_score": 4.1,
+   "review_cnt": 14,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507101712_photo1_6e3ac7057705.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "캐주얼한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "SHNUPC85Oarj",
+   "name": "파브리키친",
+   "branch": null,
+   "addr": "서울특별시 용산구 한강로3가 40-174 1층",
+   "road_addr": "서울특별시 용산구 한강대로15길 23-6 1층",
+   "phone": "070-7576-4830",
+   "category": "파스타, 이태리가정식",
+   "area": [
+    "용산역"
+   ],
+   "lat": 37.5261526,
+   "lng": 126.9627526,
+   "open_status": "오늘 휴무",
+   "score": 74,
+   "user_score": 4.2,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425094828_photo1_afab7cc1005a.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "가성비좋은",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "t4UPUVomeEhp",
+   "name": "무탄",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 613-2",
+   "road_addr": "서울특별시 강남구 논현로176길 22 1층",
+   "phone": "0507-1313-9339",
+   "category": "중식",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5273824,
+   "lng": 127.0302963,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 3.9,
+   "review_cnt": 31,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260108082239_photo1_044bc70bacb1.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "배달"
+   ]
+  },
+  {
+   "rid": "epJ4fstzgKq1",
+   "name": "회현식당",
+   "branch": null,
+   "addr": "서울특별시 중구 남창동 205-72",
+   "road_addr": "서울특별시 중구 퇴계로2길 9-8",
+   "phone": "02-318-8011",
+   "category": "일본요리, 제철생선",
+   "area": [
+    "회현"
+   ],
+   "lat": 37.5570139,
+   "lng": 126.977707,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.1,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420043902490_photo_7bb2401a5f1a.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "캐주얼한",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "oCNe33h5PsXJ",
+   "name": "소울 다이닝",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동2가 1-549",
+   "road_addr": "서울특별시 용산구 신흥로26길 35 바나힐 지하1층 소울",
+   "phone": "0507-1335-7685",
+   "category": "퓨전한식, 양식",
+   "area": [
+    "해방촌"
+   ],
+   "lat": 37.5453624,
+   "lng": 126.984487,
+   "open_status": "오늘 휴무",
+   "score": 77,
+   "user_score": 4.6,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250423010627_photo1_c1ed86d1324a.webp",
+   "tags": [
+    "미쉐린1스타",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "ZJQbygyORHX8",
+   "name": "계향각",
+   "branch": null,
+   "addr": "서울특별시 종로구 동숭동 31-37",
+   "road_addr": "서울특별시 종로구 동숭길 86 1층",
+   "phone": "0507-1319-7830",
+   "category": "중식, 동파육",
+   "area": [
+    "대학로"
+   ],
+   "lat": 37.5820757,
+   "lng": 127.0042485,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.1,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260407070531442_photo_75063d57986e.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "발렛파킹",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "7kUENgdsENVw",
+   "name": "천상현의 천상",
+   "branch": null,
+   "addr": "서울특별시 서초구 양재동 215",
+   "road_addr": "서울특별시 서초구 매헌로 16",
+   "phone": "02-2155-2404",
+   "category": "중식",
+   "area": [
+    "양재"
+   ],
+   "lat": 37.4631951,
+   "lng": 127.0366233,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260428045549529_photo_3202aa2f5ebe.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "ifpWsTLFWoEm",
+   "name": "가야가야",
+   "branch": null,
+   "addr": "서울 마포구 서교동 395-171",
+   "road_addr": "서울 마포구 양화로10길 15 1층",
+   "phone": "02-363-7877",
+   "category": "라멘, 돈코츠라멘",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5509935,
+   "lng": 126.9173641,
+   "open_status": "확인필요",
+   "score": 71,
+   "user_score": 3.8,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250520032003710_photo_36c31d0ac7f1.webp",
+   "tags": [
+    "백종원의골목식당",
+    "혼밥",
+    "이국적/이색적",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "KsTxblCuwBQw",
+   "name": "군몽",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 729-32",
+   "road_addr": "서울특별시 용산구 한남대로27가길 15 2층 군몽",
+   "phone": "070-8287-0437",
+   "category": "스테이크, 티본스테이크",
+   "area": [
+    "한남"
+   ],
+   "lat": 37.5373938,
+   "lng": 127.0029219,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260424082015791_photo_322a34c010ca.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "고급스러운",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "Io88aVf03oHb",
+   "name": "비아 톨레도 파스타바",
+   "branch": null,
+   "addr": "서울특별시 용산구 원효로1가 51-2",
+   "road_addr": "서울특별시 용산구 원효로83길 7-2 1층",
+   "phone": "0507-1384-0986",
+   "category": "파스타, 코스요리",
+   "area": [
+    "약수역"
+   ],
+   "lat": 37.5575268,
+   "lng": 127.0139659,
+   "open_status": "영업 전",
+   "score": 70,
+   "user_score": 5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251030101941708_photo_60df54d1ae48.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "다이닝",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "D95aB35cpe0c",
+   "name": "스낵바세이지",
+   "branch": null,
+   "addr": "서울특별시 은평구 갈현동 483-17",
+   "road_addr": "서울특별시 은평구 연서로25길 20-4 스낵바세이지 어부바",
+   "phone": "0507-1422-8487",
+   "category": "이자카야, 숙성회",
+   "area": [
+    "연신내"
+   ],
+   "lat": 37.6174215,
+   "lng": 126.9171433,
+   "open_status": "영업 시작 24분 전",
+   "score": 73,
+   "user_score": 4.4,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503144537_photo1_346b61fbc099.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "시끌벅적한",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "4XAsVpVwzvTC",
+   "name": "소금집 델리",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 57-38",
+   "road_addr": "서울특별시 마포구 월드컵로19길 14 2층",
+   "phone": "0507-1305-2617",
+   "category": "샌드위치, 잠봉뵈르",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.5568392,
+   "lng": 126.9082146,
+   "open_status": "영업 중",
+   "score": 85,
+   "user_score": 4.2,
+   "review_cnt": 75,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260427064510_photo1_ed2d29ea3bc2.webp",
+   "tags": [
+    "수요미식회",
+    "데이트",
+    "배달",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "FT1AF7seU92r",
+   "name": "아타리",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 331-162",
+   "road_addr": "서울특별시 성동구 성덕정19길 13 1층",
+   "phone": "0507-1345-4604",
+   "category": "야끼토리, 오마카세",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5375638,
+   "lng": 127.0566907,
+   "open_status": "영업 시작 24분 전",
+   "score": 73,
+   "user_score": 4.3,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260503132157_photo1_e75afe546d99.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "캐주얼한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "AdG73qEMxzfN",
+   "name": "포그",
+   "branch": null,
+   "addr": "서울 마포구 합정동 371-1",
+   "road_addr": "서울 마포구 독막로2길 34 1층",
+   "phone": "0507-1383-1088",
+   "category": "화덕피자",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5471565,
+   "lng": 126.9142857,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260309065311_photo1_8c4fdc178767.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "예약",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "3YIj9DHaaWWO",
+   "name": "고미태",
+   "branch": null,
+   "addr": "서울특별시 마포구 합정동 427-18",
+   "road_addr": "서울특별시 마포구 월드컵로 41 1층 고미태",
+   "phone": "010-4876-8432",
+   "category": "라멘, 콩국수",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5529842,
+   "lng": 126.9118914,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.6,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250928035650976_photo_ad775f649dfc.webp",
+   "tags": [
+    "최자로드",
+    "혼밥",
+    "깔끔한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "cZkLK2IP3ysU",
+   "name": "광주옥1947",
+   "branch": null,
+   "addr": "광주광역시 서구 농성동 649-6",
+   "road_addr": "광주광역시 서구 상무대로 1104-20",
+   "phone": "062-362-1616",
+   "category": "평양냉면",
+   "area": [
+    "광주"
+   ],
+   "lat": 35.1526675,
+   "lng": 126.883266,
+   "open_status": "오늘 휴무",
+   "score": 73,
+   "user_score": 4.1,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260508082358936_photo_7ed5003ffa43.webp",
+   "tags": [
+    "흑백요리사",
+    "가족외식",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "IyEzwPWQxBLf",
+   "name": "보보식당",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 640-2 로빈명품관 1층 103호",
+   "road_addr": "서울특별시 강남구 언주로174길 30 로빈명품관 1층 103호",
+   "phone": "0507-1346-7436",
+   "category": "동파육, 중식당",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5279048,
+   "lng": 127.0363201,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4.1,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260309062403_photo1_45bed72ed285.webp",
+   "tags": [
+    "최자로드",
+    "접대",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "lhbTduLZRVYj",
+   "name": "비스트로 드 욘트빌",
+   "branch": null,
+   "addr": "서울시 강남구 청담동 83-6 1F 이안빌딩1층",
+   "road_addr": "서울특별시 강남구 선릉로158길 13-7 이안빌딩 1층",
+   "phone": "0507-1448-1552",
+   "category": "프렌치레스토랑",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.526056,
+   "lng": 127.041267,
+   "open_status": "브레이크 타임",
+   "score": 74,
+   "user_score": 4.2,
+   "review_cnt": 20,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250928043455250_photo_e59f981b5fcd.webp",
+   "tags": [
+    "다코숨은맛집",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "73vLU2RsiYLa",
+   "name": "삼미분식",
+   "branch": null,
+   "addr": "경기도 이천시 관고동 10-10",
+   "road_addr": "경기도 이천시 중리천로21번길 9",
+   "phone": "0507-1399-5057",
+   "category": "닭발, 분식",
+   "area": [
+    "이천"
+   ],
+   "lat": 37.2809084,
+   "lng": 127.4404216,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 3.8,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260408102524191_photo_b11f577078d5.webp",
+   "tags": [
+    "생활의달인",
+    "간식",
+    "배달",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "KeCmjfB7mBVp",
+   "name": "네기 스키야키",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 603 안다즈호텔",
+   "road_addr": "서울특별시 강남구 논현로 854 지하1층 네기스키야키",
+   "phone": "02-543-1060",
+   "category": "스키야키, 스키야키코스",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5253216,
+   "lng": 127.0288651,
+   "open_status": "영업 중",
+   "score": 72,
+   "user_score": 4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260421080438_photo1_9bac82oGH42q.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "YvDaO77YCq2v",
+   "name": "갓포아키",
+   "branch": "삼성점",
+   "addr": "서울특별시 강남구 대치동 995-16 글래드코엑스센터 B2",
+   "road_addr": "서울특별시 강남구 테헤란로 610 글래드코엑스센터 B2",
+   "phone": "02-6203-8660",
+   "category": "이자카야, 카이센동",
+   "area": [
+    "삼성역"
+   ],
+   "lat": 37.5089404,
+   "lng": 127.0645821,
+   "open_status": "영업 중",
+   "score": 76,
+   "user_score": 4.4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251105104343_photo1_bffad7ff1a79.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "qUFY964Ed1cd",
+   "name": "와일드 플라워",
+   "branch": null,
+   "addr": "서울특별시 서초구 방배동 850-32",
+   "road_addr": "서울특별시 서초구 방배로26길 19 1층",
+   "phone": "0507-1311-2574",
+   "category": "파스타, 레스토랑",
+   "area": [
+    "내방역"
+   ],
+   "lat": 37.4894042,
+   "lng": 126.9939611,
+   "open_status": "브레이크 타임",
+   "score": 71,
+   "user_score": 4.4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251130041741_photo1_ba84fe37b2e4.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "KjpOtmbh5D5T",
+   "name": "도우룸",
+   "branch": null,
+   "addr": "서울특별시 서초구 방배동 797-20 2층",
+   "road_addr": "서울특별시 서초구 동광로 99 2층",
+   "phone": "02-535-9386",
+   "category": "파스타, 생면파스타",
+   "area": [
+    "서래마을"
+   ],
+   "lat": 37.4938433,
+   "lng": 126.993367,
+   "open_status": "오늘 휴무",
+   "score": 72,
+   "user_score": 4.4,
+   "review_cnt": 23,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260109095915_photo1_21dfcde4afc6.webp",
+   "tags": [
+    "수요미식회",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "w4pm4ueSaRzc",
+   "name": "리북방",
+   "branch": null,
+   "addr": "서울특별시 마포구 용강동 50-16",
+   "road_addr": "서울특별시 마포구 마포대로1길 16 2층 리북방",
+   "phone": "0507-1421-2347",
+   "category": "위구르요리, 순대",
+   "area": [
+    "마포역"
+   ],
+   "lat": 37.5397175,
+   "lng": 126.9431357,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 5,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250521105944_photo1_56333eeb58da.webp",
+   "tags": [
+    "맛있는녀석들",
+    "회식",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "PAzWbQCWj7pg",
+   "name": "랑빠스81",
+   "branch": null,
+   "addr": "서울특별시 마포구 동교동 149-11",
+   "road_addr": "서울특별시 마포구 동교로30길 17-1 101호",
+   "phone": "070-7779-8181",
+   "category": "프랑스, 샤퀴테리",
+   "area": [
+    "홍대"
+   ],
+   "lat": 37.560215,
+   "lng": 126.9252059,
+   "open_status": "오늘 휴무",
+   "score": 71,
+   "user_score": 3.7,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251016213155_photo1_05ed76225727.webp",
+   "tags": [
+    "수요미식회",
+    "데이트",
+    "이국적/이색적",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "RKfe2NVnHqGC",
+   "name": "라까예",
+   "branch": null,
+   "addr": "서울특별시 중구 황학동 458",
+   "road_addr": "서울특별시 중구 퇴계로85길 42 1층 라까예",
+   "phone": "070-7776-8777",
+   "category": "타코, 멕시칸",
+   "area": [
+    "신당역"
+   ],
+   "lat": 37.5676378,
+   "lng": 127.0197723,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505054114882_photo_7495c6358268.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "캐주얼한",
+    "테이크아웃"
+   ]
+  },
+  {
+   "rid": "HrMAjuRISV5U",
+   "name": "미미옥 ",
+   "branch": "강남 신논현점",
+   "addr": "서울특별시 강남구 역삼동 810-12",
+   "road_addr": "서울특별시 강남구 봉은사로4길 24 1층",
+   "phone": "0507-1318-1975",
+   "category": "샤브샤브, 쌀국수",
+   "area": [
+    "신논현"
+   ],
+   "lat": 37.5033015,
+   "lng": 127.0265061,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.4,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260425094849_photo1_4d3dd19ac037.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "깔끔한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "UPO0ewSCkOTn",
+   "name": "루드베키아",
+   "branch": null,
+   "addr": "서울특별시 종로구 세종로 100",
+   "road_addr": "서울특별시 종로구 세종대로 178 1층 별관 (KT 광화문빌딩 West)",
+   "phone": "0507-1313-9386",
+   "category": "브런치",
+   "area": [
+    "광화문"
+   ],
+   "lat": 37.5721619,
+   "lng": 126.9780625,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.3,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260216015202243_photo_21d7ffa5d1a1.webp",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "GtTcC7J2MLJh",
+   "name": "포노 부오노",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 651-6 2층",
+   "road_addr": "서울특별시 강남구 도산대로45길 8-7 2층",
+   "phone": "0507-1361-4501",
+   "category": "파스타, 알리오올리오",
+   "area": [
+    "도산공원"
+   ],
+   "lat": 37.523039,
+   "lng": 127.0364118,
+   "open_status": "영업 시작 24분 전",
+   "score": 68,
+   "user_score": 4.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250907113710_photo1_2QrHLUYBJKJc.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "w1udlQTzeOeH",
+   "name": "오스테리아 샘킴",
+   "branch": null,
+   "addr": "서울특별시 마포구 합정동 386-37",
+   "road_addr": "서울특별시 마포구 양화로3길 55",
+   "phone": "02-324-3338",
+   "category": "파스타, 멜란자네",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5500843,
+   "lng": 126.9125646,
+   "open_status": "브레이크 타임",
+   "score": 75,
+   "user_score": 3.7,
+   "review_cnt": 30,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518000200_photo1_616743bf2b15.webp",
+   "tags": [
+    "샘킴셰프",
+    "데이트",
+    "깔끔한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "zeTb9wEeFoRX",
+   "name": "가매일식",
+   "branch": null,
+   "addr": "광주시 서구 농성동 649-1",
+   "road_addr": "광주광역시 서구 상무대로 1104-26",
+   "phone": "062-352-7711",
+   "category": "일식당, 텐동",
+   "area": [
+    "광주"
+   ],
+   "lat": 35.1525347,
+   "lng": 126.8838724,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260204013456_photo1_6ed733eaac18.webp",
+   "tags": [
+    "백년가게",
+    "가족외식",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "MlStbbimmX8C",
+   "name": "급이다른부대찌개",
+   "branch": null,
+   "addr": "대전광역시 유성구 지족동 912-6",
+   "road_addr": "대전광역시 유성구 은구비서로23번길 8-14 1층",
+   "phone": "0507-1475-0462",
+   "category": "부대찌개, 수제햄",
+   "area": [
+    "유성구"
+   ],
+   "lat": 36.3748804,
+   "lng": 127.320331,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251112024414844_photo_.webp",
+   "tags": [
+    "흑백요리사",
+    "무료주차",
+    "서민적인",
+    "포장"
+   ]
+  },
+  {
+   "rid": "YjUCilg7PRL6",
+   "name": "즐거운 술상",
+   "branch": null,
+   "addr": "서울특별시 도봉구 창동 338",
+   "road_addr": "서울특별시 도봉구 노해로 341 117호 창동, 신원리베르텔)",
+   "phone": "010-7539-2020",
+   "category": "요리주점",
+   "area": [
+    "창동"
+   ],
+   "lat": 37.6515261,
+   "lng": 127.0460172,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250401110631_photo1_06d69fb0c864.webp",
+   "tags": [
+    "최현석셰프",
+    "술모임",
+    "예약",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "4GLhQzr9He7Q",
+   "name": "8nrm 팔도강산버거",
+   "branch": "연남점",
+   "addr": "서울특별시 마포구 연남동 454-16",
+   "road_addr": "서울특별시 마포구 성미산로27길 71 1층",
+   "phone": "070-7808-8243",
+   "category": "버거, 수제버거",
+   "area": [
+    "연남동"
+   ],
+   "lat": 37.5663888,
+   "lng": 126.9201195,
+   "open_status": "오늘 휴무",
+   "score": 70,
+   "user_score": 3.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251019022727_photo1_9664e311d862.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "gvl9cDelqwdJ",
+   "name": "이목스모크다이닝",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 505-7",
+   "road_addr": "서울특별시 강남구 압구정로2길 6 지하1층",
+   "phone": "0507-1341-4729",
+   "category": "바베큐, 파인다이닝",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5211262,
+   "lng": 127.0191253,
+   "open_status": "영업 시작 24분 전",
+   "score": 72,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260108111919656_photo_3852e1d80637.webp",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "eukYxrRFZCkU",
+   "name": "멘야미코",
+   "branch": "청담역점",
+   "addr": "서울특별시 강남구 삼성동 65",
+   "road_addr": "서울특별시 강남구 삼성로 642 삼성빌딩 103호",
+   "phone": "02-511-1227",
+   "category": "일본가정식, 가라아게",
+   "area": [
+    "삼성동"
+   ],
+   "lat": 37.5174727,
+   "lng": 127.0512543,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.1,
+   "review_cnt": 9,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260505102402948_photo_5a7ba9dec0d5.webp",
+   "tags": [
+    "최현석셰프",
+    "혼밥",
+    "배달",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "LzuRtSyDn1pM",
+   "name": "참치논데",
+   "branch": null,
+   "addr": "서울특별시 광진구 중곡동 639-20",
+   "road_addr": "서울특별시 광진구 능동로37길 35 2층",
+   "phone": "010-7706-2890",
+   "category": "오마카세, 참치",
+   "area": [
+    "군자"
+   ],
+   "lat": 37.5585345,
+   "lng": 127.0779077,
+   "open_status": "영업 시작 24분 전",
+   "score": 69,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251002085342_photo1_d2aa4a257e69.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "고급스러운",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "g7pFlLyRM2TM",
+   "name": "버거보이",
+   "branch": "성수낙낙점",
+   "addr": "서울특별시 성동구 성수동2가 280",
+   "road_addr": "서울특별시 성동구 아차산로17길 48 1층 R113호",
+   "phone": "0507-1423-2001",
+   "category": "수제버거",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5465379,
+   "lng": 127.0658039,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 3.9,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518023248_photo1_162087b67628.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "BUgxszvjhp9y",
+   "name": "트리플본국밥",
+   "branch": null,
+   "addr": "서울특별시 송파구 문정동 644",
+   "road_addr": "서울특별시 송파구 법원로11길 11 문정현대지식산업센터 A동 107호",
+   "phone": "0507-1383-3920",
+   "category": "국밥, 국밥집",
+   "area": [
+    "문정"
+   ],
+   "lat": 37.4851056,
+   "lng": 127.117858,
+   "open_status": "브레이크 타임",
+   "score": 68,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241016112241_photo1_c2d707c1216b.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "고급스러운",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "AS64WXfyhraG",
+   "name": "마늘집",
+   "branch": null,
+   "addr": "서울특별시 마포구 합정동 387-20",
+   "road_addr": "서울특별시 마포구 양화로3길 15 2층 201호",
+   "phone": "0507-1437-0663",
+   "category": "닭볶음탕",
+   "area": [
+    "합정"
+   ],
+   "lat": 37.5495837,
+   "lng": 126.9115575,
+   "open_status": "영업 중",
+   "score": 70,
+   "user_score": 4.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260107112156_photo1_6ea687f84666.webp",
+   "tags": [
+    "생방송투데이",
+    "회식장소",
+    "예약",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "c9RlDE7IXmLT",
+   "name": "우동 카덴",
+   "branch": null,
+   "addr": "서울특별시 서대문구 연희동 81-1",
+   "road_addr": "서울특별시 서대문구 연희로 173 거화빌딩 1층",
+   "phone": "02-337-6360",
+   "category": "우동, 냉우동",
+   "area": [
+    "연희동"
+   ],
+   "lat": 37.5724062,
+   "lng": 126.9350663,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.1,
+   "review_cnt": 49,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429113822_photo1_dbc0c1f4e10d.webp",
+   "tags": [
+    "정호영셰프",
+    "데이트",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "6UKa9UfTQ3Hl",
+   "name": "야키토리 묵",
+   "branch": "신사점",
+   "addr": "서울특별시 강남구 신사동 512-11",
+   "road_addr": "서울특별시 강남구 강남대로152길 23 지하 1층 야키토리묵 신사",
+   "phone": "0507-1446-3433",
+   "category": "야키토리, 일식당",
+   "area": [
+    "신사동"
+   ],
+   "lat": 37.5176509,
+   "lng": 127.0212754,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260422014721_photo1_8e524a22bf52.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "고급스러운",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "Pewm3YQ6pBsJ",
+   "name": "트리드",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 83-12 2층",
+   "road_addr": "서울특별시 강남구 선릉로162길 16 2층",
+   "phone": "02-512-8312",
+   "category": "파인다이닝",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5267128,
+   "lng": 127.0417427,
+   "open_status": "브레이크 타임",
+   "score": 70,
+   "user_score": 4.2,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260124081305_photo1_v7ueN3fIzBzB.webp",
+   "tags": [
+    "미쉐린가이드",
+    "식사모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "mGmC0WUeek9h",
+   "name": "JADE&WATER",
+   "branch": null,
+   "addr": "서울특별시 성동구 옥수동 291",
+   "road_addr": "서울특별시 성동구 한림말3길 21-1 지층",
+   "phone": "0507-1446-3005",
+   "category": "브런치, 몬테크리스토",
+   "area": [
+    "옥수역"
+   ],
+   "lat": 37.542897,
+   "lng": 127.0154849,
+   "open_status": "영업 중",
+   "score": 78,
+   "user_score": 4.4,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260215010802_photo1_6f20c756d5c4.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "evDOLXLfkfx6",
+   "name": "그린볼",
+   "branch": null,
+   "addr": "강원특별자치도 강릉시 포남동 1219-2 1층",
+   "road_addr": "강원도 강릉시 산양큰길22번길 30 1층",
+   "phone": "0507-1323-3663",
+   "category": "뇨끼, 레스토랑",
+   "area": [
+    "강릉"
+   ],
+   "lat": 37.7787343,
+   "lng": 128.9174958,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 3.9,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507074715194_photo_b56b766a4c2a.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "QfXLXI5lbSZU",
+   "name": "여의주훠궈관",
+   "branch": "을지로본점",
+   "addr": "서울특별시 중구 을지로3가 323",
+   "road_addr": "서울특별시 중구 을지로12길 12 4층 403호",
+   "phone": "010-4189-8210",
+   "category": "훠궈, 버섯탕",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5657466,
+   "lng": 126.9910635,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420104646_photo1_74a2a2c6e45a.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "캐주얼한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "QM328G3y0GIB",
+   "name": "팟카파우",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동2가 1-510 신흥시장안 2층",
+   "road_addr": "서울특별시 용산구 신흥로 97-6 신흥시장안 2층",
+   "phone": "0507-1312-2521",
+   "category": "태국음식, 팟타이",
+   "area": [
+    "해방촌"
+   ],
+   "lat": 37.5451846,
+   "lng": 126.9849107,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.7,
+   "review_cnt": 26,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260213023832088_photo_62c9c6fd2409.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "이국적/이색적",
+    "야외테라스"
+   ]
+  },
+  {
+   "rid": "1lqoP8UibSmD",
+   "name": "모던오뎅",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 561-8",
+   "road_addr": "서울특별시 강남구 도산대로17길 10 1층 모던오뎅",
+   "phone": "02-543-0809",
+   "category": "이자카야, 오뎅바",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5193643,
+   "lng": 127.0249041,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.5,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260201020715_photo1_21dfcde4afc6.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "깔끔한",
+    "바테이블"
+   ]
+  },
+  {
+   "rid": "ynCFFTSBUsec",
+   "name": "디핀",
+   "branch": null,
+   "addr": "서울특별시 중구 흥인동 63",
+   "road_addr": "서울특별시 중구 퇴계로 411 1층 디핀",
+   "phone": "02-3298-5046",
+   "category": "와인바",
+   "area": [
+    "신당"
+   ],
+   "lat": 37.5658388,
+   "lng": 127.0172547,
+   "open_status": "영업 시작 24분 전",
+   "score": 71,
+   "user_score": 4.8,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260110104843172_photo_7c3cfe4bcba1.webp",
+   "tags": [
+    "전지적참견시점",
+    "기념일",
+    "고급스러운",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "wGgPAjM3ENPs",
+   "name": "쵸이닷",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 98-7 3층",
+   "road_addr": "서울특별시 강남구 도산대로 457 3층",
+   "phone": "02-518-0318",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5244174,
+   "lng": 127.0465576,
+   "open_status": "브레이크 타임",
+   "score": 74,
+   "user_score": 4,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260306061712_photo1_21dfcde4afc6.webp",
+   "tags": [
+    "최현석셰프",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "MRXjUV6ZahxY",
+   "name": "온6.5",
+   "branch": null,
+   "addr": "서울특별시 종로구 안국동 75-5 . 지상1층() 온6.5",
+   "road_addr": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
+   "phone": "010-4278-2024",
+   "category": "김치, 한식",
+   "area": [
+    "안국역"
+   ],
+   "lat": 37.5773758,
+   "lng": 126.9842814,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.5,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260429205410_photo1_b45763cc008c.webp",
+   "tags": [
+    "전지적참견시점",
+    "술모임",
+    "깔끔한",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "5YXFKeJPjOri",
+   "name": "오쁘띠베르",
+   "branch": null,
+   "addr": "서울특별시 종로구 통인동 114",
+   "road_addr": "서울특별시 종로구 자하문로 47-1",
+   "phone": "02-735-7569",
+   "category": "디저트카페, 와인바",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5802722,
+   "lng": 126.9709956,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.3,
+   "review_cnt": 19,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260511031451_photo1_bd0f9c9e924c.webp",
+   "tags": [
+    "박준우셰프",
+    "차모임",
+    "예쁜",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "9W6tLI5KvDiY",
+   "name": "논데",
+   "branch": null,
+   "addr": "서울특별시 종로구 관수동 98-1 하이뷰디아트 2층",
+   "road_addr": "서울특별시 종로구 종로18길 37 하이뷰디아트 2층",
+   "phone": "0507-1301-6867",
+   "category": "스시, 오마카세",
+   "area": [
+    "종로3가"
+   ],
+   "lat": 37.568671,
+   "lng": 126.9915039,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4.2,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251031074226368_photo_c59b452c7ed1.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "고급스러운",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "PFDFWaK2sqlD",
+   "name": "까델루뽀",
+   "branch": null,
+   "addr": "서울특별시 종로구 효자동 39-1",
+   "road_addr": "서울특별시 종로구 자하문로16길 5-5",
+   "phone": "0507-1412-5233",
+   "category": "레스토랑, 파인다이닝",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5818165,
+   "lng": 126.9714259,
+   "open_status": "브레이크 타임",
+   "score": 62,
+   "user_score": 3.4,
+   "review_cnt": 8,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230403104343_photo1_311569ff0135.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "CZ38i9Xb9MqE",
+   "name": "온지음",
+   "branch": null,
+   "addr": "서울특별시 종로구 창성동 17-1",
+   "road_addr": "서울특별시 종로구 효자로 49 온지음 4층",
+   "phone": "02-6952-0024",
+   "category": "위구르요리, 레스토랑",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5804848,
+   "lng": 126.9734438,
+   "open_status": "브레이크 타임",
+   "score": 65,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240321025733_photo1_79ac497a70a7.webp",
+   "tags": [
+    "미쉐린1스타",
+    "데이트",
+    "고급스러운",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "UrmDCDERY6Hi",
+   "name": "소금집 델리",
+   "branch": "안국점",
+   "addr": "서울특별시 종로구 계동 101-12 1층",
+   "road_addr": "서울특별시 종로구 북촌로4길 19 1층",
+   "phone": "0507-1317-2617",
+   "category": "샌드위치, 잠봉뵈르",
+   "area": [
+    "안국"
+   ],
+   "lat": 37.5794136,
+   "lng": 126.9863175,
+   "open_status": "영업 중",
+   "score": 82,
+   "user_score": 4.3,
+   "review_cnt": 97,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260516012329_photo1_29ca1f5d0fc4.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "UupxossXhSyx",
+   "name": "팔발라",
+   "branch": "삼청본점",
+   "addr": "서울특별시 종로구 팔판동 161",
+   "road_addr": "서울특별시 종로구 삼청로 61",
+   "phone": "02-723-8885",
+   "category": "프렌치레스토랑",
+   "area": [
+    "삼청동"
+   ],
+   "lat": 37.5813351,
+   "lng": 126.9806419,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 3.5,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260413115330_photo1_64ad5325097d.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "격식있는"
+   ]
+  },
+  {
+   "rid": "CYmo1N6m5rQ8",
+   "name": "독도16도",
+   "branch": null,
+   "addr": "서울특별시 종로구 누하동 56-1",
+   "road_addr": "서울특별시 종로구 필운대로5가길 2 3층",
+   "phone": "0507-1359-1811",
+   "category": "한식, 술집",
+   "area": [
+    "서촌"
+   ],
+   "lat": 37.5794702,
+   "lng": 126.9685771,
+   "open_status": "영업 전",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "다이닝",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "2IYLFd1tWM9K",
+   "name": "을지로보석",
+   "branch": null,
+   "addr": "서울특별시 중구 저동2가 84-11 3층",
+   "road_addr": "서울특별시 중구 마른내로 11-10 3층",
+   "phone": "063-9070-7070",
+   "category": "한식오마카세, 사케",
+   "area": [
+    "을지로3가"
+   ],
+   "lat": 37.5651478,
+   "lng": 126.9892464,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.5,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420104813_photo1_c95006c5ac92.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "예약",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "QWc8yhpKP6uW",
+   "name": "묵정",
+   "branch": null,
+   "addr": "서울특별시 중구 묵정동 28-14",
+   "road_addr": "서울특별시 중구 퇴계로48길 17 1층",
+   "phone": "0507-1436-0494",
+   "category": "파인다이닝, 한식다이닝",
+   "area": [
+    "동국대"
+   ],
+   "lat": 37.5618161,
+   "lng": 127.0005226,
+   "open_status": "영업 중",
+   "score": 66,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250524194816_photo1_187523595553.webp",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "BhexgcOScSyh",
+   "name": "호빈",
+   "branch": null,
+   "addr": "서울특별시 중구 장충동2가 186-54",
+   "road_addr": "서울특별시 중구 동호로 287 앰배서더 서울특별시 풀만 호텔 2층",
+   "phone": "02-2270-3141",
+   "category": "중식당",
+   "area": [
+    "장충동"
+   ],
+   "lat": 37.5602762,
+   "lng": 127.0023153,
+   "open_status": "브레이크 타임",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230621011102480_photo_nHsPdBtUHr4V.webp",
+   "tags": [
+    "미쉐린가이드",
+    "모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "4pAfEDxTORZ7",
+   "name": "서울다이닝",
+   "branch": null,
+   "addr": "서울특별시 중구 장충동2가 190-10",
+   "road_addr": "서울특별시 중구 동호로 272 디자인하우스",
+   "phone": "02-6325-6321",
+   "category": "파인다이닝, 캐쥬얼다이닝",
+   "area": [
+    "장충동"
+   ],
+   "lat": 37.5592501,
+   "lng": 127.0038405,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260401035939_photo1_d822b79ae9ef.webp",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "9unVYWgiNQAi",
+   "name": "윤주당",
+   "branch": null,
+   "addr": "서울특별시 용산구 용산동2가 18-2",
+   "road_addr": "서울특별시 용산구 신흥로 81-1 1층",
+   "phone": "0507-1420-5765",
+   "category": "요리주점, 전통주",
+   "area": [
+    "해방촌"
+   ],
+   "lat": 37.5453594,
+   "lng": 126.9859913,
+   "open_status": "확인필요",
+   "score": 65,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260103041702_photo1_040b60e0ee46.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "깔끔한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "tRTJzQaKcnlL",
+   "name": "잭잭",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 292-4",
+   "road_addr": "서울특별시 용산구 회나무로6길 21 1층",
+   "phone": "0507-1452-0717",
+   "category": "버거, 치즈스틱",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.537988,
+   "lng": 126.9888507,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250805115957_photo1_8f9a02a7680e.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "배달",
+    "예약"
+   ]
+  },
+  {
+   "rid": "kLbhFojIzL0q",
+   "name": "야키토리혼바",
+   "branch": null,
+   "addr": "서울특별시 용산구 동자동 2-5",
+   "road_addr": "서울특별시 용산구 후암로 79 (3층)",
+   "phone": "0507-1315-6820",
+   "category": "이자카야, 야키토리",
+   "area": [
+    "서울역"
+   ],
+   "lat": 37.5528666,
+   "lng": 126.9764372,
+   "open_status": "영업 시작 24분 전",
+   "score": 69,
+   "user_score": 4.8,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260308113236_photo1_6189ecfec22c.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "깔끔한",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "iR2TDgFovuUt",
+   "name": "테이블포포",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 657-138",
+   "road_addr": "서울특별시 용산구 대사관로31길 25-12 5층, 테이블포포",
+   "phone": "0507-1365-6832",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5346781,
+   "lng": 127.0052443,
+   "open_status": "브레이크 타임",
+   "score": 70,
+   "user_score": 4.9,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241004112742920_photo_751019922db9.webp",
+   "tags": [
+    "미쉐린가이드",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "QZ3absmy9ebD",
+   "name": "어물전 청",
+   "branch": "한남점",
+   "addr": "서울특별시 용산구 한남동 722-16",
+   "road_addr": "서울특별시 용산구 한남대로 104 2층",
+   "phone": "0507-1355-7253",
+   "category": "한식다이닝",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5377494,
+   "lng": 127.0049992,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.8,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260131112146_photo1_e3d1c7b20e32.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "4SypS2PNOCoa",
+   "name": "SMT 차이나룸",
+   "branch": "몬드리안호텔점",
+   "addr": "서울특별시 용산구 이태원동 22-76 몬드리안호텔 2층",
+   "road_addr": "서울특별시 용산구 장문로 23 몬드리안호텔 2층",
+   "phone": "02-749-3396",
+   "category": "중식",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5285578,
+   "lng": 126.9930935,
+   "open_status": "영업 중",
+   "score": 69,
+   "user_score": 4.3,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250711074005_photo1_ccb82158f9ce.webp",
+   "tags": [
+    "흑백요리사",
+    "접대",
+    "무료주차",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "9Yq66jutCaW7",
+   "name": "부토",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 729-91",
+   "road_addr": "서울특별시 용산구 한남대로27가길 32 지2층",
+   "phone": "02-6052-7785",
+   "category": "와인바, 사시미",
+   "area": [
+    "한남"
+   ],
+   "lat": 37.5380824,
+   "lng": 127.0025886,
+   "open_status": "영업 시작 24분 전",
+   "score": 62,
+   "user_score": 4.4,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250331110141_photo1_2be20b43e141.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "다이닝",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "F8tDM9uZ7Pq1",
+   "name": "유용욱 바베큐연구소",
+   "branch": null,
+   "addr": "서울특별시 용산구 남영동 28-11",
+   "road_addr": "서울특별시 용산구 한강대로84길 5-7 남영아케이드",
+   "phone": "0507-1309-4325",
+   "category": "바베큐",
+   "area": [
+    "남영동"
+   ],
+   "lat": 37.5439572,
+   "lng": 126.9727818,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 2,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "점심회식",
+    "디너코스",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "6djv6e1WvtPq",
+   "name": "로기",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 729-91 201호",
+   "road_addr": "서울특별시 용산구 한남대로27가길 32 201호 로기",
+   "phone": "0507-1333-4895",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "한남"
+   ],
+   "lat": 37.5381203,
+   "lng": 127.0025674,
+   "open_status": "오늘 휴무",
+   "score": 60,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250802054124774_photo_5dea67da88c8.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "다이닝",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "WMCvLsWbLr6d",
+   "name": "바 라핀부쉬",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 136-6",
+   "road_addr": "서울특별시 용산구 우사단로14길 4 103호",
+   "phone": "0507-1441-1576",
+   "category": "와인바, 칵테일",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5338874,
+   "lng": 126.9959408,
+   "open_status": "영업 중",
+   "score": 59,
+   "user_score": 4.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250514014943_photo1_23173dbda7ce.webp",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "발렛파킹",
+    "이국적/이색적"
+   ]
+  },
+  {
+   "rid": "MOVdK4qXqVo7",
+   "name": "나우 남영",
+   "branch": null,
+   "addr": "서울특별시 용산구 원효로1가 48-15",
+   "road_addr": "서울특별시 용산구 원효로89길 23 2층",
+   "phone": "0507-1346-0639",
+   "category": "와인바, 레몬치즈",
+   "area": [
+    "남영역"
+   ],
+   "lat": 37.5407387,
+   "lng": 126.9677201,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "예약",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "agmmw3Drv5OS",
+   "name": "셰누프라이빗키친",
+   "branch": null,
+   "addr": "서울특별시 용산구 이태원동 421-1",
+   "road_addr": "서울특별시 용산구 녹사평대로 210-6 마이하우스 3층",
+   "phone": "070-8624-8907",
+   "category": "프렌치레스토랑",
+   "area": [
+    "이태원"
+   ],
+   "lat": 37.5363416,
+   "lng": 126.9873967,
+   "open_status": "영업 시작 24분 전",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "다이닝",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "JG1JIDgZnU3x",
+   "name": "동남방앗간",
+   "branch": "한남점",
+   "addr": "서울특별시 용산구 한남동 274-14",
+   "road_addr": "서울특별시 용산구 유엔빌리지길 20 지하1층",
+   "phone": "0507-1424-1224",
+   "category": "와인바",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5337671,
+   "lng": 127.0098359,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260127083132_photo1_41a656182398.webp",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "발렛파킹",
+    "분위기좋은"
+   ]
+  },
+  {
+   "rid": "e1nbttyqArIH",
+   "name": "에스콘디도",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 32-48",
+   "road_addr": "서울특별시 용산구 한남대로20길 61-7 지하 1층",
+   "phone": "02-2038-8994",
+   "category": "멕시칸음식, 파인다이닝",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.5351791,
+   "lng": 127.0104879,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "미쉐린1스타",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "jCvzN0Rkux7j",
+   "name": "오이너구리",
+   "branch": null,
+   "addr": "서울특별시 용산구 보광동 214-4",
+   "road_addr": "서울특별시 용산구 장문로6길 110 1층",
+   "phone": "010-2985-6608",
+   "category": "와인, 와인바",
+   "area": [
+    "보광동"
+   ],
+   "lat": 37.525847,
+   "lng": 126.9969818,
+   "open_status": "영업 시작 24분 전",
+   "score": 50,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210726011622_photo2_17fb6187f390.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "분위기좋은",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "OaMiM1xyhDGW",
+   "name": "옹이",
+   "branch": null,
+   "addr": "서울특별시 용산구 한남동 76-6",
+   "road_addr": "서울특별시 용산구 한남대로 57 2층 210호",
+   "phone": "0507-1438-5544",
+   "category": "파인다이닝, 한식",
+   "area": [
+    "한남동"
+   ],
+   "lat": 37.533675,
+   "lng": 127.0067829,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "디너코스",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "oBuySg0DfCT5",
+   "name": "네기라이브",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 315-108",
+   "road_addr": "서울특별시 성동구 성수이로 97 5층 일부",
+   "phone": "02-466-2490",
+   "category": "대게, 오마카세",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5436565,
+   "lng": 127.0566125,
+   "open_status": "브레이크 타임",
+   "score": 69,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260121025835_photo1_162087b67628.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "발렛파킹",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "g1UIAHR4j9Ug",
+   "name": "천하제일 솥뚜껑",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동2가 333-140",
+   "road_addr": "서울특별시 성동구 성수이로7길 27 1층 105-1호",
+   "phone": "0507-1422-2092",
+   "category": "삼겹살, 솥뚜껑삼겹살",
+   "area": [
+    "성수"
+   ],
+   "lat": 37.5415662,
+   "lng": 127.0537461,
+   "open_status": "영업 중",
+   "score": 80,
+   "user_score": 4.5,
+   "review_cnt": 13,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260512114810_photo1_174aff66d3b4.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "배달",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "gcQMT2lWCyzk",
+   "name": "스낵바 논데",
+   "branch": null,
+   "addr": "서울특별시 성동구 성수동1가 656-3 1층",
+   "road_addr": "서울특별시 성동구 왕십리로 58 1층 108호",
+   "phone": "0507-1471-2083",
+   "category": "스시, 오마카세",
+   "area": [
+    "서울숲"
+   ],
+   "lat": 37.5427172,
+   "lng": 127.0452444,
+   "open_status": "브레이크 타임",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "혼술",
+    "예약",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "dIO0nVuyNP6o",
+   "name": "후후세이지",
+   "branch": null,
+   "addr": "서울특별시 성북구 정릉동 474-2",
+   "road_addr": "서울특별시 성북구 정릉로26길 32",
+   "phone": "0507-1449-5112",
+   "category": "이자카야",
+   "area": [
+    "정릉"
+   ],
+   "lat": 37.6036016,
+   "lng": 127.0118195,
+   "open_status": "영업 시작 24분 전",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240808122153_photo1_3f37281b1da0.webp",
+   "tags": [
+    "흑백요리사",
+    "혼술",
+    "이국적/이색적",
+    "바자리"
+   ]
+  },
+  {
+   "rid": "dIKjgdphbWXR",
+   "name": "야끼니꾸 세이지",
+   "branch": null,
+   "addr": "서울특별시 은평구 갈현동 483-3 심야식당 세이지 옆",
+   "road_addr": "서울특별시 은평구 연서로27길 13-6 야키니쿠세이지",
+   "phone": "0507-1472-8488",
+   "category": "야끼니꾸",
+   "area": [
+    "연신내"
+   ],
+   "lat": 37.6178748,
+   "lng": 126.9176027,
+   "open_status": "오늘 휴무",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 4,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "시끌벅적한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "4iDxBqe0gqWA",
+   "name": "이자카야 카덴",
+   "branch": null,
+   "addr": "서울특별시 서대문구 연희동 81-1",
+   "road_addr": "서울특별시 서대문구 연희로 173 거화빌딩",
+   "phone": "02-3142-6362",
+   "category": "이자카야, 우동",
+   "area": [
+    "연희동"
+   ],
+   "lat": 37.5725753,
+   "lng": 126.9350879,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.7,
+   "review_cnt": 12,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250406035142_photo1_fcad65884a8e.webp",
+   "tags": [
+    "정호영셰프",
+    "데이트",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "88Q4p1xvnor2",
+   "name": "소바쥬",
+   "branch": null,
+   "addr": "서울특별시 마포구 도화동 538",
+   "road_addr": "서울특별시 마포구 큰우물로 75 상가 지하1층 22호",
+   "phone": "070-8676-0218",
+   "category": "메밀국수",
+   "area": [
+    "마포역"
+   ],
+   "lat": 37.5412649,
+   "lng": 126.9462973,
+   "open_status": "오늘 휴무",
+   "score": 67,
+   "user_score": 4.6,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260119034340_photo1_8b2fd21e3e11.webp",
+   "tags": [
+    "미쉐린가이드",
+    "데이트",
+    "고급스러운",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "m9UYDLr0dQpu",
+   "name": "불끈",
+   "branch": null,
+   "addr": "서울특별시 마포구 용강동 512",
+   "road_addr": "서울특별시 마포구 토정로35길 11 지1층 B01호",
+   "phone": "0507-1468-1998",
+   "category": "장어구이",
+   "area": [
+    "마포역"
+   ],
+   "lat": 37.5405085,
+   "lng": 126.9439265,
+   "open_status": "브레이크 타임",
+   "score": 66,
+   "user_score": 3.7,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251006034249_photo1_06d69fb0c864.webp",
+   "tags": [
+    "흑백요리사",
+    "회식",
+    "예약",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "nbXYNxlKWEhi",
+   "name": "피델리오",
+   "branch": null,
+   "addr": "서울특별시 마포구 망원동 57-57 3층",
+   "road_addr": "서울특별시 마포구 월드컵로19길 31-1 3층",
+   "phone": "0507-1392-6839",
+   "category": "와인바, 코스요리",
+   "area": [
+    "망원동"
+   ],
+   "lat": 37.5560099,
+   "lng": 126.9079759,
+   "open_status": "영업 전",
+   "score": 64,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "다이닝"
+   ]
+  },
+  {
+   "rid": "kV0MWJHGLgm6",
+   "name": "서촌김씨 오스테리아",
+   "branch": null,
+   "addr": "서울특별시 강서구 마곡동 774-1",
+   "road_addr": "서울특별시 강서구 공항대로 209 지엠지 엘스타 2층 208호",
+   "phone": "070-7788-7316",
+   "category": "와인, 이탈리안레스토랑",
+   "area": [
+    "마곡"
+   ],
+   "lat": 37.5597183,
+   "lng": 126.8308927,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260209112009932_photo_2f50fd31593a.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "디너코스",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "4HsIClKxshAp",
+   "name": "메이필드호텔 봉래헌",
+   "branch": null,
+   "addr": "서울특별시 강서구 외발산동 426",
+   "road_addr": "서울특별시 강서구 방화대로 94 메이필드호텔 봉래헌",
+   "phone": "0507-1420-9020",
+   "category": "한정식, 쇼콜라",
+   "area": [
+    "강서구"
+   ],
+   "lat": 37.5478974,
+   "lng": 126.8179709,
+   "open_status": "브레이크 타임",
+   "score": 52,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20180301083758_photo1_HwEe1brFved2.webp",
+   "tags": [
+    "흑백요리사",
+    "돌잔치",
+    "생신",
+    "정원"
+   ]
+  },
+  {
+   "rid": "mBvBDxfOVA56",
+   "name": "이도",
+   "branch": "여의도",
+   "addr": "서울특별시 영등포구 여의도동 34-7",
+   "road_addr": "서울특별시 영등포구 국제금융로8길 2 지하1층 B107호",
+   "phone": "0507-1349-3573",
+   "category": "퓨전한식, 한식다이닝",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5220183,
+   "lng": 126.93006,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 4.6,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260131103930_photo1_21549ecc19be.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "다이닝",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "Z0Ioni1UANe8",
+   "name": "콘래드서울 37그릴앤바",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 23 서울 국제금융 센터 37층",
+   "road_addr": "서울특별시 영등포구 국제금융로 10 서울특별시 국제금융 센터",
+   "phone": "02-6137-7110",
+   "category": "레스토랑, 애프터눈티",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5255568,
+   "lng": 126.9265524,
+   "open_status": "브레이크 타임",
+   "score": 76,
+   "user_score": 4.1,
+   "review_cnt": 18,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260307070437_photo1_241adfd1b236.webp",
+   "tags": [
+    "생활의달인",
+    "데이트",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "em4lWvi45y5n",
+   "name": "호시우보",
+   "branch": "여의도TP타워점",
+   "addr": "서울특별시 영등포구 여의도동 27-2",
+   "road_addr": "서울특별시 영등포구 의사당대로 96 2층 203, 204호",
+   "phone": "02-6373-2203",
+   "category": "한우, 숙성한우",
+   "area": [
+    "여의도"
+   ],
+   "lat": 37.5215212,
+   "lng": 126.9228725,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250726093510481_photo_f137134b9faf.webp",
+   "tags": [
+    "흑백요리사",
+    "접대",
+    "다이닝",
+    "개별룸"
+   ]
+  },
+  {
+   "rid": "OyytfcezsvYj",
+   "name": "터치더스카이",
+   "branch": null,
+   "addr": "서울특별시 영등포구 여의도동 60",
+   "road_addr": "서울특별시 영등포구 63로 50 한화금융센터_63",
+   "phone": "0507-1337-5761",
+   "category": "파인다이닝, 와인",
+   "area": [
+    "63빌딩"
+   ],
+   "lat": 37.5198158,
+   "lng": 126.9403139,
+   "open_status": "영업 중",
+   "score": 68,
+   "user_score": 4.8,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250103011800_photo1_619d0e463c75.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "경관/야경이좋은"
+   ]
+  },
+  {
+   "rid": "gMwymYnBpBzR",
+   "name": "일도강정",
+   "branch": null,
+   "addr": "서울특별시 관악구 봉천동 927-20",
+   "road_addr": "서울특별시 관악구 장군봉1길 43 1층",
+   "phone": "0507-1341-7650",
+   "category": "닭강정, 바오번",
+   "area": [
+    "봉천역"
+   ],
+   "lat": 37.4817147,
+   "lng": 126.9424655,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "야식",
+    "배달",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "mQKLMB036qiB",
+   "name": "몽도",
+   "branch": null,
+   "addr": "서울특별시 서초구 잠원동 31-1",
+   "road_addr": "서울특별시 서초구 나루터로10길 29 107, 108호",
+   "phone": "0507-1446-8016",
+   "category": "파스타, pub",
+   "area": [
+    "신사역"
+   ],
+   "lat": 37.5135978,
+   "lng": 127.0164255,
+   "open_status": "오늘 휴무",
+   "score": 49,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240405092650_photo1_6761b5ba598e.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "디너코스",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "tkJ8FFi86Rsl",
+   "name": "키이로",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 504-11",
+   "road_addr": "서울특별시 강남구 강남대로 652 2층206호",
+   "phone": "070-4413-1160",
+   "category": "텐동, 오마카세",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5196035,
+   "lng": 127.0190762,
+   "open_status": "확인필요",
+   "score": 70,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260323030603_photo1_b58e24e2fdbc.webp",
+   "tags": [
+    "흑백요리사",
+    "술모임",
+    "고급스러운",
+    "예약필수"
+   ]
+  },
+  {
+   "rid": "yEJcWxHLHvn7",
+   "name": "페리지",
+   "branch": null,
+   "addr": "서울특별시 강남구 삼성동 114-40",
+   "road_addr": "서울특별시 강남구 봉은사로68길 6-5 1층",
+   "phone": "010-6550-8912",
+   "category": "양식, 생면파스타",
+   "area": [
+    "선정릉역"
+   ],
+   "lat": 37.511277,
+   "lng": 127.0494975,
+   "open_status": "영업 중",
+   "score": 67,
+   "user_score": 3.9,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260518022111_photo1_3e33c99ea171.webp",
+   "tags": [
+    "미쉐린가이드",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "CDRpf5krhlrG",
+   "name": "윰드",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 22-14",
+   "road_addr": "서울특별시 강남구 도산대로58길 18 1층",
+   "phone": "02-544-1106",
+   "category": "브런치",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5220281,
+   "lng": 127.0412263,
+   "open_status": "영업 종료",
+   "score": 73,
+   "user_score": 4,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240917095508_photo1_4c842165758c.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "발렛파킹",
+    "캐주얼한"
+   ]
+  },
+  {
+   "rid": "StxHT742CAYq",
+   "name": "윤서울",
+   "branch": null,
+   "addr": "서울시 강남구 신사동 666-8",
+   "road_addr": "서울특별시 강남구 선릉로 805 1층",
+   "phone": "010-6742-4205",
+   "category": "파인다이닝, 한식",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.524135,
+   "lng": 127.038998,
+   "open_status": "확인필요",
+   "score": 68,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260201012842_photo1_b58e24e2fdbc.webp",
+   "tags": [
+    "미쉐린1스타",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "kAy3glndPUhY",
+   "name": "모노로그",
+   "branch": null,
+   "addr": "서울 강남구 청담동 4-1",
+   "road_addr": "서울 강남구 도산대로 442 하우스오브신세계청담 1층",
+   "phone": "010-4228-7226",
+   "category": "스시오마카세",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5233218,
+   "lng": 127.0441055,
+   "open_status": "영업 전",
+   "score": 65,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20241210122336198_photo_f36ee5025da3.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "발렛파킹",
+    "다이닝"
+   ]
+  },
+  {
+   "rid": "ZLTOfGZgTKUQ",
+   "name": "캐비스트리",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 594-13 1층",
+   "road_addr": "서울특별시 강남구 도산대로37길 21 1층 캐비스트리",
+   "phone": "0507-1468-2253",
+   "category": "와인바, 오마카세",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5225019,
+   "lng": 127.0312486,
+   "open_status": "오늘 휴무",
+   "score": 66,
+   "user_score": 3.6,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260303021500_photo1_85f75a521a0b.webp",
+   "tags": [
+    "최현석셰프",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "OFwgnvb9uWVU",
+   "name": "수퍼판",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 570-3",
+   "road_addr": "서울특별시 강남구 논현로167길 15 휴에프빌딩 2층",
+   "phone": "02-515-3848",
+   "category": "퓨전음식, 리조또",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.524445,
+   "lng": 127.0268549,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 3.5,
+   "review_cnt": 4,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250615085540_photo1_311569ff0135.webp",
+   "tags": [
+    "전지적참견시점",
+    "가족외식",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "TEigqqEWwhnM",
+   "name": "달리아 다이닝",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 650-16 2층",
+   "road_addr": "서울특별시 강남구 도산대로45길 14 2층 달리아 다이닝",
+   "phone": "070-4482-0102",
+   "category": "라자냐, 비건레스토랑",
+   "area": [
+    "도산공원"
+   ],
+   "lat": 37.5232039,
+   "lng": 127.0357525,
+   "open_status": "브레이크 타임",
+   "score": 68,
+   "user_score": 4.2,
+   "review_cnt": 11,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250808122942_photo1_3d05abf8c0e9.webp",
+   "tags": [
+    "최현석셰프",
+    "데이트",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "14Vzi3znlhyx",
+   "name": "이도 청담",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 97 M빌딩 2층",
+   "road_addr": "서울특별시 강남구 도산대로 445 M빌딩 2층",
+   "phone": "0507-1382-2143",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5242627,
+   "lng": 127.0448853,
+   "open_status": "영업 중",
+   "score": 71,
+   "user_score": 4.4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260305065150242_photo_9323dca31cf9.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "발렛파킹",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "QOF1O7dieOwi",
+   "name": "사브서울",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 580-5",
+   "road_addr": "서울특별시 강남구 논현로175길 6 B1",
+   "phone": "02-512-4939",
+   "category": "와인바",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.526372,
+   "lng": 127.0279356,
+   "open_status": "영업 시작 24분 전",
+   "score": 69,
+   "user_score": 4.7,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420134158_photo1_b45763cc008c.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "고급스러운"
+   ]
+  },
+  {
+   "rid": "YxZAtY3a6f2D",
+   "name": "동보성",
+   "branch": "강남점",
+   "addr": "서울특별시 강남구 대치동 889-5",
+   "road_addr": "서울특별시 강남구 테헤란로 406 A동 2층",
+   "phone": "02-587-8000",
+   "category": "중식",
+   "area": [
+    "선릉역"
+   ],
+   "lat": 37.5044459,
+   "lng": 127.0498437,
+   "open_status": "영업 중",
+   "score": 65,
+   "user_score": 4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250808012936638_photo_e63477a5917c.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "zQzPIiClgNq7",
+   "name": "크라운돼지",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 510-9",
+   "road_addr": "서울특별시 강남구 강남대로156길 17-1",
+   "phone": "0507-1489-5700",
+   "category": "고깃집, 흑돼지",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.518497,
+   "lng": 127.0205026,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260507083854_photo1_60f9965713e9.webp",
+   "tags": [
+    "정호영셰프",
+    "식사모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "09Q9nJBIV7rX",
+   "name": "본연",
+   "branch": null,
+   "addr": "서울특별시 강남구 논현동 66-24",
+   "road_addr": "서울특별시 강남구 논현로 742 7층",
+   "phone": "0507-1434-0923",
+   "category": "파인다이닝, 한식",
+   "area": [
+    "논현"
+   ],
+   "lat": 37.5182879,
+   "lng": 127.0292407,
+   "open_status": "영업 중",
+   "score": 61,
+   "user_score": 4.5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250212112009_photo1_e884e62a1ff7.webp",
+   "tags": [
+    "최현석셰프",
+    "기념일",
+    "다이닝",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "bsjCHCjU7o4g",
+   "name": "이타닉 가든",
+   "branch": null,
+   "addr": "서울특별시 강남구 역삼동 676 조선팰리스호텔 36층",
+   "road_addr": "서울특별시 강남구 테헤란로 231 조선팰리스 36층",
+   "phone": "02-727-7610",
+   "category": "파인다이닝, 와인",
+   "area": [
+    "역삼동"
+   ],
+   "lat": 37.502967,
+   "lng": 127.0410206,
+   "open_status": "오늘 휴무",
+   "score": 68,
+   "user_score": 4.4,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260126043833142_photo_f2f1138769f2.webp",
+   "tags": [
+    "미쉐린1스타",
+    "식사모임",
+    "무료주차",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "zLezhjQ9eEF7",
+   "name": "파티세리후르츠",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 655-7",
+   "road_addr": "서울특별시 강남구 선릉로155길 13-1 1층 파티세리 후르츠",
+   "phone": "02-6015-0314",
+   "category": "카페, 디저트",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5252048,
+   "lng": 127.0385168,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260311102026_photo1_311569ff0135.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "배달"
+   ]
+  },
+  {
+   "rid": "NUEgSCwTfYb8",
+   "name": "블그레",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 525-12",
+   "road_addr": "서울특별시 강남구 논현로175길 101-4 4층",
+   "phone": "0507-1401-7940",
+   "category": "와인바",
+   "area": [
+    "가로수길"
+   ],
+   "lat": 37.5224806,
+   "lng": 127.0210251,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240416102732_photo1_8e524a22bf52.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "다이닝"
+   ]
+  },
+  {
+   "rid": "SMYj2hOIDpiX",
+   "name": "미가키",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 88-19",
+   "road_addr": "서울특별시 강남구 선릉로158길 14-2 4층",
+   "phone": "0507-1343-5014",
+   "category": "스시오마카세, 가이세키",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5251733,
+   "lng": 127.0409667,
+   "open_status": "브레이크 타임",
+   "score": 60,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240707052540_photo2_v7ueN3fIzBzB.webp",
+   "tags": [
+    "생활의달인",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "7BaZDsNqZJGG",
+   "name": "이야이야앤프렌즈",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 654-18 1-4층",
+   "road_addr": "서울특별시 강남구 도산대로51길 22 1-4층",
+   "phone": "070-8645-0448",
+   "category": "브런치, 올리브",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5244925,
+   "lng": 127.0380024,
+   "open_status": "영업 중",
+   "score": 73,
+   "user_score": 4.3,
+   "review_cnt": 10,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251209120715_photo1_f61763817ea6.webp",
+   "tags": [
+    "강레오셰프",
+    "차모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "9wFrABeUlLLU",
+   "name": "드레스덴 그린",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 3",
+   "road_addr": "서울특별시 강남구 도산대로 420 청담스퀘어 B동, 2층 222호",
+   "phone": "0507-1452-8872",
+   "category": "양식",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5230216,
+   "lng": 127.0422013,
+   "open_status": "브레이크 타임",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220427024607_photo1_f9531a15356a.webp",
+   "tags": [
+    "샘킴셰프",
+    "기념일",
+    "디너코스",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "en6kJFjBcSf6",
+   "name": "레스토랑 온",
+   "branch": null,
+   "addr": "서울 강남구 청담동 19-17",
+   "road_addr": "서울 강남구 선릉로148길 48 미준빌딩 3층",
+   "phone": "02-547-0467",
+   "category": "레스토랑, 프렌치레스토랑",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5227758,
+   "lng": 127.0434229,
+   "open_status": "브레이크 타임",
+   "score": 58,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251210050921584_photo_7d4bbf6dc907.webp",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "디너코스",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "eTGBFR1e1gee",
+   "name": "스와니예",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 504-11",
+   "road_addr": "서울특별시 강남구 강남대로 652 신사스퀘어 2층",
+   "phone": "02-3477-9386",
+   "category": "파인다이닝, 와인",
+   "area": [
+    "신사"
+   ],
+   "lat": 37.5196632,
+   "lng": 127.0190103,
+   "open_status": "브레이크 타임",
+   "score": 56,
+   "user_score": 3.8,
+   "review_cnt": 7,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20230827024509017_photo_408d3d3f6fc0.webp",
+   "tags": [
+    "미쉐린2스타",
+    "식사모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "dxEeo97O1X74",
+   "name": "호루몬",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 631-17",
+   "road_addr": "서울특별시 강남구 언주로152길 11-5 2층",
+   "phone": "010-2893-7873",
+   "category": "오마카세, 내장",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5230048,
+   "lng": 127.0345014,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210704102719050_photo_.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "발렛파킹",
+    "다이닝"
+   ]
+  },
+  {
+   "rid": "ARAyuvSdv56M",
+   "name": "뜨라또리아 샘킴",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 653-12",
+   "road_addr": "서울특별시 강남구 도산대로49길 10-3 2층 뜨라또리아샘킴",
+   "phone": "02-511-3334",
+   "category": "레스토랑, 파인다이닝",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5238115,
+   "lng": 127.03769,
+   "open_status": "브레이크 타임",
+   "score": 55,
+   "user_score": 3.5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20240327025537_photo1_f1ddac56ad26.webp",
+   "tags": [
+    "샘킴셰프",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "N7T3g1cZoo3a",
+   "name": "비스트로 앤트로",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 567-25",
+   "road_addr": "서울특별시 강남구 논현로159길 12 1층 비스트로앤트로",
+   "phone": "02-6448-1887",
+   "category": "와인, 레스토랑",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5230667,
+   "lng": 127.0271815,
+   "open_status": "영업 중",
+   "score": 53,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20210909052725_photo2_e55fe9c410c3.webp",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "발렛파킹",
+    "다이닝"
+   ]
+  },
+  {
+   "rid": "pQyUPEeWOpLu",
+   "name": "양출",
+   "branch": "서울",
+   "addr": "서울특별시 강남구 논현동 77-8",
+   "road_addr": "서울특별시 강남구 언주로135길 34",
+   "phone": "0507-1466-4420",
+   "category": "와인바, 채식",
+   "area": [
+    "학동역"
+   ],
+   "lat": 37.5166188,
+   "lng": 127.0324592,
+   "open_status": "영업 시작 24분 전",
+   "score": 54,
+   "user_score": 4,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20220313021632_photo1_6dc878d60e43.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "깔끔한",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "fcq7D6KhBGPA",
+   "name": "에빗",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 650-13",
+   "road_addr": "서울특별시 강남구 도산대로45길 10-5 1층 EVETT",
+   "phone": "0507-1399-1029",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "도산공원"
+   ],
+   "lat": 37.5234319,
+   "lng": 127.0362071,
+   "open_status": "영업 중",
+   "score": 55,
+   "user_score": 5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20211208124617459_photo_d505ff0358c2.webp",
+   "tags": [
+    "미쉐린2스타",
+    "식사모임",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "66pKsaQv3daH",
+   "name": "아선재",
+   "branch": null,
+   "addr": "서울특별시 강남구 대치동 968-4",
+   "road_addr": "서울특별시 강남구 영동대로 333 지하1층",
+   "phone": "0507-1323-1114",
+   "category": "한정식, 갈비찜",
+   "area": [
+    "삼성역"
+   ],
+   "lat": 37.5042117,
+   "lng": 127.0650301,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 4.5,
+   "review_cnt": 3,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20251215094846_photo1_444eef61e045.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "a6PSSkZnReGZ",
+   "name": "고료리 켄",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 631-28 2층",
+   "road_addr": "서울특별시 강남구 언주로152길 15-3 2층",
+   "phone": "02-511-7809",
+   "category": "오마카세, 일식",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5230037,
+   "lng": 127.0348312,
+   "open_status": "영업 전",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "미쉐린1스타",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "xI4P18VZ5m9d",
+   "name": "오리지널 넘버스",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 88-2",
+   "road_addr": "서울특별시 강남구 도산대로55길 24",
+   "phone": "02-545-1777",
+   "category": "파인다이닝, 성게알",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.525115,
+   "lng": 127.0406841,
+   "open_status": "브레이크 타임",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "미쉐린가이드",
+    "기념일",
+    "발렛파킹",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "CWCgw4vP1fgl",
+   "name": "코자차",
+   "branch": null,
+   "addr": "서울특별시 강남구 청담동 70-6",
+   "road_addr": "서울특별시 강남구 학동로97길 17 1층 코자차",
+   "phone": "010-9023-7771",
+   "category": "중식, 파인다이닝",
+   "area": [
+    "청담"
+   ],
+   "lat": 37.5208918,
+   "lng": 127.0552938,
+   "open_status": "브레이크 타임",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최현석셰프",
+    "상견례",
+    "디너코스",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "dtfnXzLyED00",
+   "name": "에이넷",
+   "branch": null,
+   "addr": "서울특별시 강남구 신사동 551-32",
+   "road_addr": "서울특별시 강남구 논현로159길 46-6 1층",
+   "phone": "0507-1409-5892",
+   "category": "와인바, 비스마르크피자",
+   "area": [
+    "압구정"
+   ],
+   "lat": 37.5223862,
+   "lng": 127.0244796,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "분위기좋은",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "bV3lbX7Vo2B4",
+   "name": "칸세이",
+   "branch": null,
+   "addr": "서울특별시 송파구 가락동 74",
+   "road_addr": "서울특별시 송파구 송파대로30길 41-7 1층 102호",
+   "phone": "0507-1455-0243",
+   "category": "라멘, 비스트로",
+   "area": [
+    "가락동"
+   ],
+   "lat": 37.4964898,
+   "lng": 127.1211308,
+   "open_status": "브레이크 타임",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "디너코스",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "RlQhma4a5amh",
+   "name": "마라전설",
+   "branch": null,
+   "addr": "대구광역시 서구 평리동 1229-22",
+   "road_addr": "대구광역시 서구 평리로 345 1층",
+   "phone": "0507-1370-8894",
+   "category": "짬뽕, 수타면",
+   "area": [
+    "대구서구"
+   ],
+   "lat": 35.8647918,
+   "lng": 128.560842,
+   "open_status": "영업 중",
+   "score": 51,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200503090628492_photo_7b86c46ca117.webp",
+   "tags": [
+    "흑백요리사",
+    "예약",
+    "포장"
+   ]
+  },
+  {
+   "rid": "EDzPwwA8hSWQ",
+   "name": "외포리숯불장어",
+   "branch": null,
+   "addr": "인천광역시 강화군 내가면 외포리 712-2",
+   "road_addr": "인천광역시 강화군 내가면 해안서로 1005 외포리숯불장어",
+   "phone": "0507-1354-8947",
+   "category": "장어, 갯벌장어",
+   "area": [
+    "강화도"
+   ],
+   "lat": 37.7043693,
+   "lng": 126.368414,
+   "open_status": "영업 중",
+   "score": 52,
+   "user_score": 4,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20201227081636_photo1_c1b63d93c543.webp",
+   "tags": [
+    "흑백요리사",
+    "가족외식",
+    "예약",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "LCs8VaXSwIrQ",
+   "name": "장수나주곰탕",
+   "branch": null,
+   "addr": "광주광역시 서구 농성동 651-2 2층",
+   "road_addr": "광주광역시 서구 대남대로487번길 14 1, 2층",
+   "phone": "062-365-1666",
+   "category": "곰탕, 수육무침",
+   "area": [
+    "광주"
+   ],
+   "lat": 35.1516593,
+   "lng": 126.8841531,
+   "open_status": "영업 중",
+   "score": 62,
+   "user_score": 4.2,
+   "review_cnt": 5,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250216120756_photo1_23785f9509ce.webp",
+   "tags": [
+    "흑백요리사",
+    "식사모임",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "2HB7OtABkEeg",
+   "name": "명장미가",
+   "branch": null,
+   "addr": "광주 서구 광천동 49-1 신세계백화점 광주점 본관 지하 1층",
+   "road_addr": "광주 서구 무진대로 932 신세계백화점 광주점 본관 지하 1층",
+   "phone": "062-360-1651",
+   "category": "한식당, 게장정식",
+   "area": [
+    "광주서구"
+   ],
+   "lat": 35.1603093,
+   "lng": 126.8801306,
+   "open_status": "확인필요",
+   "score": 63,
+   "user_score": 4.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250724065444_photo1_0c4a3020ed31.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "서민적인"
+   ]
+  },
+  {
+   "rid": "vecec6l70dNG",
+   "name": "미미옥",
+   "branch": "울산점",
+   "addr": "울산광역시 중구 서동 639 C동 160호",
+   "road_addr": "울산광역시 중구 동천1길 40 세영이노세븐 지식산업센터 1층 C동 160호",
+   "phone": "0507-1336-0818",
+   "category": "쌀국수",
+   "area": [
+    "울산중구"
+   ],
+   "lat": 35.5846244,
+   "lng": 129.3459336,
+   "open_status": "오늘 휴무",
+   "score": 65,
+   "user_score": 4.7,
+   "review_cnt": 6,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260420113603_photo1_b649146e3be8.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "무료주차",
+    "푸짐한"
+   ]
+  },
+  {
+   "rid": "laqRCaVtSvFh",
+   "name": "카사데타코",
+   "branch": null,
+   "addr": "경기도 안산시 단원구 고잔동 708-1",
+   "road_addr": "경기도 안산시 단원구 광덕대로 155 123호",
+   "phone": "0507-1338-8345",
+   "category": "타코, 파히타",
+   "area": [
+    "안산"
+   ],
+   "lat": 37.3103883,
+   "lng": 126.8288205,
+   "open_status": "영업 중",
+   "score": 74,
+   "user_score": 4.3,
+   "review_cnt": 15,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20260512090446_photo1_8e17a555b62b.webp",
+   "tags": [
+    "흑백요리사",
+    "데이트",
+    "무료주차",
+    "배달"
+   ]
+  },
+  {
+   "rid": "Vpa4D8GWURYK",
+   "name": "이순실평양명가",
+   "branch": null,
+   "addr": "경기도 화성시 동탄구 청계동 535-5",
+   "road_addr": "경기도 화성시 동탄구 동탄대로시범길 148-20 마추프라자 지1층 B110, B111, B112호",
+   "phone": "0507-1416-3790",
+   "category": "평양냉면, 평양물냉면",
+   "area": [
+    "화성시"
+   ],
+   "lat": 37.2003281,
+   "lng": 127.114483,
+   "open_status": "영업 중",
+   "score": 63,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250822085130491_photo_nHsPdBtUHr4V.webp",
+   "tags": [
+    "흑백요리사",
+    "단체모임",
+    "깔끔한",
+    "셀프바"
+   ]
+  },
+  {
+   "rid": "VGAGH3szC7df",
+   "name": "구들장흑도야지",
+   "branch": null,
+   "addr": "경기도 용인시 수지구 죽전동 1343-1",
+   "road_addr": "경기도 용인시 수지구 죽전로 176 죽전프라자2층",
+   "phone": "0507-1394-3532",
+   "category": "한식뷔페, 점심뷔페",
+   "area": [
+    "단국대"
+   ],
+   "lat": 37.3262954,
+   "lng": 127.1250239,
+   "open_status": "영업 중",
+   "score": 47,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250128085903_photo2_48716065ca4f.webp",
+   "tags": [
+    "흑백요리사",
+    "예약"
+   ]
+  },
+  {
+   "rid": "1WwWWo0lYUEg",
+   "name": "소굿",
+   "branch": null,
+   "addr": "경기도 안산시 단원구 고잔동 709-1",
+   "road_addr": "경기도 안산시 단원구 광덕2로 163-11 111호(고잔동, 21세기빌딩) 엘레베이터 맞은편",
+   "phone": "070-7542-8077",
+   "category": "샌드위치, 베이커리",
+   "area": [
+    "안산"
+   ],
+   "lat": 37.3109307,
+   "lng": 126.8285044,
+   "open_status": "영업 중",
+   "score": 25,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "다이닝",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "1B7V2wVMOJMA",
+   "name": "나경버섯농가",
+   "branch": null,
+   "addr": "충청남도 부여군 석성면 비당리 818",
+   "road_addr": "충청남도 부여군 석성면 비당로109번길 100 나경버섯농가",
+   "phone": null,
+   "category": "버섯전골",
+   "area": [
+    "부여"
+   ],
+   "lat": 36.2180983,
+   "lng": 127.0061563,
+   "open_status": "오늘 휴무",
+   "score": 48,
+   "user_score": 5,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20181015011152_photo1_4aalCWxtotsm.webp",
+   "tags": [
+    "외국인셰프",
+    "향토음식",
+    "포장",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "iF5DakLHMbnK",
+   "name": "절라도",
+   "branch": null,
+   "addr": "전라남도 담양군 가사문학면 지곡리 290-1",
+   "road_addr": "전라남도 담양군 가사문학면 지실길 122",
+   "phone": "061-381-4744",
+   "category": "떡갈비, 오리떡갈비",
+   "area": [
+    "담양"
+   ],
+   "lat": 35.1842429,
+   "lng": 127.008475,
+   "open_status": "영업 종료",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "6시내고향",
+    "부모님",
+    "많은반찬",
+    "흑백요리사"
+   ]
+  },
+  {
+   "rid": "sseXpqCqAXj7",
+   "name": "장화",
+   "branch": null,
+   "addr": "경상남도 양산시 물금읍 가촌리 1295-3",
+   "road_addr": "경남 양산시 물금읍 증산역로 155 01층 103호",
+   "phone": "055-785-6100",
+   "category": "이자카야, 사시미",
+   "area": [
+    "양산"
+   ],
+   "lat": 35.3095711,
+   "lng": 129.0071578,
+   "open_status": "영업 중",
+   "score": 57,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250926110537_photo1_5d7a8a24e04a.webp",
+   "tags": [
+    "흑백요리사",
+    "소개팅",
+    "다이닝",
+    "콜키지"
+   ]
+  },
+  {
+   "rid": "8URzaoA5Dg5o",
+   "name": "넘은 봄",
+   "branch": null,
+   "addr": "제주 제주시 화북이동 2341-1",
+   "road_addr": "제주 제주시 거로남8길 21-32 106동 104호 넘은봄",
+   "phone": "0507-1340-1182",
+   "category": "파인다이닝, 레스토랑",
+   "area": [
+    "제주시"
+   ],
+   "lat": 33.5103306,
+   "lng": 126.5661538,
+   "open_status": "확인필요",
+   "score": 61,
+   "user_score": 3,
+   "review_cnt": 1,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20250420110142_photo1_3ec146396be9.webp",
+   "tags": [
+    "흑백요리사",
+    "기념일",
+    "예약",
+    "테라스"
+   ]
+  },
+  {
+   "rid": "ai7nIjJKTvep",
+   "name": "모리노아루요",
+   "branch": null,
+   "addr": "제주특별자치도 제주시 애월읍 유수암리 1306-1",
+   "road_addr": "제주특별자치도 제주시 애월읍 하소로 769-58",
+   "phone": "0507-1377-4253",
+   "category": "카이센동, 부타동",
+   "area": [
+    "애월"
+   ],
+   "lat": 33.4194062,
+   "lng": 126.4018229,
+   "open_status": "영업 종료",
+   "score": 48,
+   "user_score": 5,
+   "review_cnt": 2,
+   "image": "https://d12zq4w4guyljn.cloudfront.net/300_300_20200308023123_photo1_d83896b7e0d1.webp",
+   "tags": [
+    "흑백요리사",
+    "혼밥",
+    "무료주차",
+    "깔끔한"
+   ]
+  },
+  {
+   "rid": "n8QjKJu9mviB",
+   "name": "친밀",
+   "branch": "제주",
+   "addr": "제주특별자치도 제주시 조천읍 교래리 245",
+   "road_addr": "제주 제주시 조천읍 남조로 1781",
+   "phone": "0507-1394-0387",
+   "category": "수제버거, 한우수제버거",
+   "area": [
+    "제주"
+   ],
+   "lat": 33.4269144,
+   "lng": 126.6736766,
+   "open_status": "확인필요",
+   "score": 47,
+   "user_score": 0,
+   "review_cnt": 0,
+   "image": "https://s3-ap-northeast-1.amazonaws.com/dcicons/new/images/web/noimage/1.jpg",
+   "tags": [
+    "최현석셰프",
+    "스타셰프",
+    "포장",
+    "흑백요리사"
+   ]
+  }
+ ]
+}
