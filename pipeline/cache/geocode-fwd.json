@@ -1,0 +1,2763 @@
+{
+ "mt|Pan American Hwy, Nicaragua": {
+  "lat": 11.698090323507412,
+  "lng": -86.0000840574503,
+  "src": "maptiler"
+ },
+ "mt|Mall Multiplaza Pacific, Nivel Terrazas, Panama": {
+  "lat": 8.156429641261989,
+  "lng": -79.24747199442658,
+  "src": "maptiler"
+ },
+ "mt|Borneo, Malaysia": {
+  "lat": 4.681656870463846,
+  "lng": 118.24257865548134,
+  "src": "maptiler"
+ },
+ "mt|Broadway, Ernakulam, Kerala, India": {
+  "lat": 9.980979478096978,
+  "lng": 76.27662140876055,
+  "src": "maptiler"
+ },
+ "mt|9775 South 60th St., Franklin, WI 53132-8644": {
+  "lat": 42.867128,
+  "lng": -87.99163199999998,
+  "src": "maptiler"
+ },
+ "mt|4629 North Port Washington Rd., Milwaukee, WI 53212-1084": {
+  "lat": 43.100327,
+  "lng": -87.91743500000001,
+  "src": "maptiler"
+ },
+ "mt|1001 Veterans Memorial Blvd, Metairie, LA 70005": {
+  "lat": 30.002101,
+  "lng": -90.13306599999999,
+  "src": "maptiler"
+ },
+ "mt|Pechon St, Jamaica": {
+  "lat": 17.968813915410827,
+  "lng": -76.79681304842234,
+  "src": "maptiler"
+ },
+ "mt|Ghana": {
+  "lat": 8.030028616560505,
+  "lng": -1.0800273343920708,
+  "src": "maptiler"
+ },
+ "mt|Jobos Beach, Isabela, Puerto Rico": {
+  "lat": 18.497699513559134,
+  "lng": -67.06992954404996,
+  "src": "maptiler"
+ },
+ "mt|Cabo Polonio, Rocha, Uruguay": {
+  "lat": -34.40285212511921,
+  "lng": -53.78250081092119,
+  "src": "maptiler"
+ },
+ "mt|Talcahuano 937, Buenos Aires, Argentina": {
+  "lat": -34.597824,
+  "lng": -58.38546500000001,
+  "src": "maptiler"
+ },
+ "mt|25 de Mayo 376, Buenos Aires, Argentina": {
+  "lat": -34.60292205608851,
+  "lng": -58.371119387447834,
+  "src": "maptiler"
+ },
+ "mt|Palermo, Buenos Aires 1326, Argentina": {
+  "lat": -34.580335950892255,
+  "lng": -58.42452384531498,
+  "src": "maptiler"
+ },
+ "mt|Alsina 120, Los Cardales, Buenos Aires 2814, Argentina": {
+  "lat": -34.328127447364835,
+  "lng": -58.987319233314565,
+  "src": "maptiler"
+ },
+ "mt|1209 Rosewood Ave, Austin, TX 78702": {
+  "lat": 30.268355,
+  "lng": -97.72630700000002,
+  "src": "maptiler"
+ },
+ "mt|5003 Airport Blvd, Austin, TX 78751": {
+  "lat": 30.311358,
+  "lng": -97.715036,
+  "src": "maptiler"
+ },
+ "mt|1502 S First Street, Austin, TX 78704": {
+  "lat": 30.250055,
+  "lng": -97.75514399999997,
+  "src": "maptiler"
+ },
+ "mt|4112 Medical Parkway, Austin, TX 78756": {
+  "lat": 30.311071,
+  "lng": -97.742861,
+  "src": "maptiler"
+ },
+ "mt|2034 S Lamar Blvd, Austin, TX 78704": {
+  "lat": 30.249296,
+  "lng": -97.76883700000002,
+  "src": "maptiler"
+ },
+ "mt|374 Victoria St., Richmond, VIC 3121, Australia": {
+  "lat": -37.81056535967896,
+  "lng": 145.00064548105001,
+  "src": "maptiler"
+ },
+ "mt|609 Sydney Rd., Brunswick, VIC 3056, Australia": {
+  "lat": -37.762819,
+  "lng": 144.962714,
+  "src": "maptiler"
+ },
+ "mt|Rua de Sao Bento, Horta, Faial Island, Portugal": {
+  "lat": 38.5384447448025,
+  "lng": -28.627692237496376,
+  "src": "maptiler"
+ },
+ "mt|Rua de Pedro Homen #49, Sao Miguel 9500-055": {
+  "lat": 37.796339071924564,
+  "lng": -25.48150918566205,
+  "src": "maptiler"
+ },
+ "mt|Aghabios St., Bourj Hammoud, Beirut": {
+  "lat": 33.88887180761617,
+  "lng": 35.5390065908432,
+  "src": "maptiler"
+ },
+ "mt|Boulevard Teniente Azueta 139, Recinto Portuario, 22800 Ensenada, Baja California, Mexico": {
+  "lat": 31.86730412101623,
+  "lng": -116.66220903396606,
+  "src": "maptiler"
+ },
+ "mt|1267 Saratoga St, Boston, MA 02128": {
+  "lat": 42.382618,
+  "lng": -70.99486000000002,
+  "src": "maptiler"
+ },
+ "mt|691 Cambridge St, Cambridge, MA 02141": {
+  "lat": 42.372182,
+  "lng": -71.08809600000001,
+  "src": "maptiler"
+ },
+ "mt|780 Adams St, Dorchester Ctr, MA 02122": {
+  "lat": 42.283316,
+  "lng": -71.05560200000002,
+  "src": "maptiler"
+ },
+ "mt|Rua Faustolo 463 Lapa, Sao Paulo": {
+  "lat": -23.523954,
+  "lng": -46.69022799999999,
+  "src": "maptiler"
+ },
+ "mt|Alameda Joaquim Eugenio de Lima 1417": {
+  "lat": -23.572297,
+  "lng": -46.65686299999999,
+  "src": "maptiler"
+ },
+ "mt|Av. Portugal, 266-328, Campina, 66015-190, Brazil": {
+  "lat": -1.4543443960208378,
+  "lng": -48.50285512916662,
+  "src": "maptiler"
+ },
+ "mt|1 Rue de la Tour | St Brieuc, Plerin, France": {
+  "lat": 48.529637,
+  "lng": -2.7301949999999806,
+  "src": "maptiler"
+ },
+ "mt|265 Neptune Ave, Brooklyn, NY 11235": {
+  "lat": 40.581384,
+  "lng": -73.96324800000002,
+  "src": "maptiler"
+ },
+ "mt|2934 Yemans St., Hamtramck, MI 48212": {
+  "lat": 42.39785,
+  "lng": -83.05767500000002,
+  "src": "maptiler"
+ },
+ "mt|8 Rue du Faubourg Madeleine, 21200 Beaune, France": {
+  "lat": 47.021364,
+  "lng": 4.840922999999975,
+  "src": "maptiler"
+ },
+ "mt|4 Grande Rue, 89160 Pacy-sur-Armancon, France": {
+  "lat": 47.778398,
+  "lng": 4.092583999999988,
+  "src": "maptiler"
+ },
+ "mt|5240 Annunciation St., New Orleans, LA 70115": {
+  "lat": 29.91746,
+  "lng": -90.112372,
+  "src": "maptiler"
+ },
+ "mt|New Orleans, LA": {
+  "lat": 29.956142397275077,
+  "lng": -90.07339362055063,
+  "src": "maptiler"
+ },
+ "mt|1039 Toulouse St, New Orleans, LA 70112": {
+  "lat": 29.959615,
+  "lng": -90.068824,
+  "src": "maptiler"
+ },
+ "mt|505 Frisco Ave, Metairie, LA 70005": {
+  "lat": 29.987246,
+  "lng": -90.128759,
+  "src": "maptiler"
+ },
+ "mt|3015 Main Hwy, Breaux Bridge, LA 70517": {
+  "lat": 30.265829053106874,
+  "lng": -91.89206812530756,
+  "src": "maptiler"
+ },
+ "mt|Bequia, Saint Vincent and the Grenadines": {
+  "lat": 13.010848425046854,
+  "lng": -61.233327003542286,
+  "src": "maptiler"
+ },
+ "mt|4750 S Washtenaw Ave., Chicago Il 60632": {
+  "lat": 41.806765,
+  "lng": -87.69205699999998,
+  "src": "maptiler"
+ },
+ "mt|Basurto Market, Cartagena, Colombia": {
+  "lat": 10.426556854466469,
+  "lng": -75.54416712373495,
+  "src": "maptiler"
+ },
+ "mt|1 Plaza Minorista, Medellin, Colombia": {
+  "lat": 6.244338238080621,
+  "lng": -75.57355307042599,
+  "src": "maptiler"
+ },
+ "mt|Avenue de Belgica, No 603, Havana, Cuba": {
+  "lat": 23.135305290285864,
+  "lng": -82.35896319150925,
+  "src": "maptiler"
+ },
+ "mt|Guayaquil 343 La Ronda, Centro Historico, Quito, Ecuador": {
+  "lat": -0.22566885516480722,
+  "lng": -78.5139244256157,
+  "src": "maptiler"
+ },
+ "mt|Salango, Canton Puerto Lopez, Manabi, Ecuador": {
+  "lat": -1.6368539046116637,
+  "lng": -80.80193723388561,
+  "src": "maptiler"
+ },
+ "mt|Centro Historico Guayaquil N5-59, Quito<, Ecuador": {
+  "lat": -0.22566885516480722,
+  "lng": -78.5139244256157,
+  "src": "maptiler"
+ },
+ "mt|Corner of Hoda Shaarawi and Tallaat Harb St., Cairo": {
+  "lat": 14.462484721571363,
+  "lng": 121.00662653840152,
+  "src": "maptiler"
+ },
+ "mt|Via Roma, 3, 40021 Borgo Tossignano": {
+  "lat": 44.278928,
+  "lng": 11.588015000000041,
+  "src": "maptiler"
+ },
+ "mt|Annankatu 21, Helsinki, Finland 00100": {
+  "lat": 60.166687,
+  "lng": 24.937400000000025,
+  "src": "maptiler"
+ },
+ "mt|Papeete, Tahiti": {
+  "lat": -17.543969074863053,
+  "lng": -149.57141898572445,
+  "src": "maptiler"
+ },
+ "mt|Kumasi, Ghana": {
+  "lat": 6.698560802061793,
+  "lng": -1.6233087703585625,
+  "src": "maptiler"
+ },
+ "mt|81, Haiti": {
+  "lat": 39.926206,
+  "lng": -76.09115099999997,
+  "src": "maptiler"
+ },
+ "mt|50 Sand Island Road, Honolulu, HI": {
+  "lat": 10.066358854200995,
+  "lng": 76.22735245971626,
+  "src": "maptiler"
+ },
+ "mt|726 Kapahulu Avenue, Honolulu, HI 96815": {
+  "lat": 21.280212,
+  "lng": -157.814303,
+  "src": "maptiler"
+ },
+ "mt|1225 Hopaka Street, Honolulu, HI": {
+  "lat": 21.294411,
+  "lng": -157.847422,
+  "src": "maptiler"
+ },
+ "mt|G/F, 87-89 Man Min Street, Sai Kung, Hong Kong": {
+  "lat": 22.38224913886702,
+  "lng": 114.27282750606537,
+  "src": "maptiler"
+ },
+ "mt|G/F, 104 Hak Po Street, Mong Kok, Hong Kong": {
+  "lat": 22.31972839319722,
+  "lng": 114.17232144623995,
+  "src": "maptiler"
+ },
+ "mt|423 Broadway, Newburgh, NY 12550-533": {
+  "lat": 41.500864,
+  "lng": -74.02732300000002,
+  "src": "maptiler"
+ },
+ "mt|2 South Mountain Rd, Pamona, NY 10970": {
+  "lat": 41.18524499999675,
+  "lng": -74.06571206840431,
+  "src": "maptiler"
+ },
+ "mt|Sudurlandsbraut 2, 108 Reykjavik": {
+  "lat": 64.139715,
+  "lng": -21.889357000000018,
+  "src": "maptiler"
+ },
+ "mt|Templarasund 3": {
+  "lat": 64.146317,
+  "lng": -21.939783000000034,
+  "src": "maptiler"
+ },
+ "mt|Laugavegur 23": {
+  "lat": 64.145711,
+  "lng": -21.928844000000026,
+  "src": "maptiler"
+ },
+ "mt|Foundry 8, SCBD, Jakarta 12190, Indonesia": {
+  "lat": -6.175404641025038,
+  "lng": 106.8271678313613,
+  "src": "maptiler"
+ },
+ "mt|Jl Surabaya no 20, Menteng, Jakarta 10310, Indonesia": {
+  "lat": -6.201045808907438,
+  "lng": 106.83521077036858,
+  "src": "maptiler"
+ },
+ "mt|Jl Tentara Pelajar Blok D25, Jakarta, Indonesia": {
+  "lat": -6.871043151258219,
+  "lng": 109.14165236055851,
+  "src": "maptiler"
+ },
+ "mt|2 Werburgh Street, Dublin, Ireland": {
+  "lat": 53.343027,
+  "lng": -6.269974999999931,
+  "src": "maptiler"
+ },
+ "mt|E Pier Binn Eadair, Dublin 13": {
+  "lat": 53.39172222822222,
+  "lng": -6.062796860933304,
+  "src": "maptiler"
+ },
+ "mt|7 Ascot House, Shaftesbury Square, Belfast": {
+  "lat": 44.42617601533622,
+  "lng": -69.00652103126049,
+  "src": "maptiler"
+ },
+ "mt|Rumeli Feneri Liman ici No. 1 Rumelifeneri, Istanbul": {
+  "lat": 41.23340367473744,
+  "lng": 29.110932424664497,
+  "src": "maptiler"
+ },
+ "mt|Katip Celebi Caddesi No. 104/1 Vefa, Istanbul": {
+  "lat": 41.01759711528702,
+  "lng": 28.95873449742794,
+  "src": "maptiler"
+ },
+ "mt|Kalyoncu Caddesi No. 58, Balikpazari Beyoglu, Istanbul": {
+  "lat": 41.02842353176375,
+  "lng": 28.973680771887302,
+  "src": "maptiler"
+ },
+ "mt|Hellshire Beach, Kingston, Jamaica": {
+  "lat": 17.97019452720996,
+  "lng": -76.7571247369051,
+  "src": "maptiler"
+ },
+ "mt|West End Road, Negril, Jamaica": {
+  "lat": 18.245512842883578,
+  "lng": -78.35663393139839,
+  "src": "maptiler"
+ },
+ "mt|1205 East 85th St, Kansas City, MO 64131": {
+  "lat": 38.972887,
+  "lng": -94.574929,
+  "src": "maptiler"
+ },
+ "mt|5410 NE Oakridge Rd, Kansas City, MO": {
+  "lat": 42.82910610341855,
+  "lng": -98.32943949848413,
+  "src": "maptiler"
+ },
+ "mt|Pallimukku, Ernakulam, Kerala, India": {
+  "lat": 9.965142833752937,
+  "lng": 76.28529084824106,
+  "src": "maptiler"
+ },
+ "mt|Church Rd, Fort Kochi, Kochi, KL, India": {
+  "lat": 9.965934804719094,
+  "lng": 76.2404977530241,
+  "src": "maptiler"
+ },
+ "mt|The Renaissance Hotel, Mumbai (Bombay), India": {
+  "lat": 46.656014938801526,
+  "lng": -68.903097063303,
+  "src": "maptiler"
+ },
+ "mt|North South Road No.13, Mumbai (Bombay), India": {
+  "lat": 11.813188352819873,
+  "lng": 75.92220604419708,
+  "src": "maptiler"
+ },
+ "mt|Ganges River, India": {
+  "lat": 25.76248446024685,
+  "lng": 84.37487091869116,
+  "src": "maptiler"
+ },
+ "mt|15, Bankim Chatterjee Street, College Street, Kolkata": {
+  "lat": 22.576097,
+  "lng": 88.36389099999997,
+  "src": "maptiler"
+ },
+ "mt|807 S Main St, Las Vegas, NV 89101": {
+  "lat": 36.162694,
+  "lng": -115.151182,
+  "src": "maptiler"
+ },
+ "mt|425 Fremont St, Las Vegas, NV 89101": {
+  "lat": 36.169501209218026,
+  "lng": -115.14094490557909,
+  "src": "maptiler"
+ },
+ "mt|UN Drive, Monrovia, Liberia": {
+  "lat": 6.322623135629695,
+  "lng": -10.803820230066776,
+  "src": "maptiler"
+ },
+ "mt|2nd Street Sinkor, Monrovia 92111, Liberia": {
+  "lat": 6.320356453768969,
+  "lng": -10.806049481034279,
+  "src": "maptiler"
+ },
+ "mt|Monrovia, Liberia": {
+  "lat": 6.320356453768969,
+  "lng": -10.806049481034279,
+  "src": "maptiler"
+ },
+ "mt|43-45 Leith Walk, Edinburgh, EH6, United Kingdom": {
+  "lat": 55.969771,
+  "lng": -3.1721539999999777,
+  "src": "maptiler"
+ },
+ "mt|5183 Hollywood Blvd, Los Angeles, CA": {
+  "lat": 34.10208,
+  "lng": -118.30326600000001,
+  "src": "maptiler"
+ },
+ "mt|5006 W Pico Blvd, Los Angeles, CA": {
+  "lat": 34.047594,
+  "lng": -118.34630600000003,
+  "src": "maptiler"
+ },
+ "mt|Rua dos Negociantes No. 3, Taipa, Macau": {
+  "lat": 22.154184260576482,
+  "lng": 113.56540018037197,
+  "src": "maptiler"
+ },
+ "mt|Avenida de Lisboa, Se, Macau": {
+  "lat": 22.190520013604164,
+  "lng": 113.5440082848072,
+  "src": "maptiler"
+ },
+ "mt|Mercer Street, Coloane, Macau": {
+  "lat": 22.12529336565204,
+  "lng": 113.56833450630211,
+  "src": "maptiler"
+ },
+ "mt|6 Pleasant St., Milo, ME 04463": {
+  "lat": 45.253783,
+  "lng": -68.985881,
+  "src": "maptiler"
+ },
+ "mt|Kula Lumpar, Malaysia": {
+  "lat": 5.434862912286847,
+  "lng": 101.92786809076392,
+  "src": "maptiler"
+ },
+ "mt|Lot 6, Tanjung Lipat, Kota Kinabalu 88000, Malaysia": {
+  "lat": 5.978006867592012,
+  "lng": 116.07289854437113,
+  "src": "maptiler"
+ },
+ "mt|Francisco Petrarca No. 254, Mexico City, Mexico": {
+  "lat": 19.432629885906575,
+  "lng": -99.1331785172224,
+  "src": "maptiler"
+ },
+ "mt|109 1/2 S. Main St., Livingston, MT 59047": {
+  "lat": 45.65476560074863,
+  "lng": -110.5723000690341,
+  "src": "maptiler"
+ },
+ "mt|123 N. 2nd St., Livingston, MT 59047": {
+  "lat": 45.661422,
+  "lng": -110.56206099999997,
+  "src": "maptiler"
+ },
+ "mt|The Esplanade, The Lagoon, Walvis Bay WB1, Namibia": {
+  "lat": -22.927289148213625,
+  "lng": 14.488591700792313,
+  "src": "maptiler"
+ },
+ "mt|199, Nangola Mbumba Drive, Walvis Bay, Namibia": {
+  "lat": -22.955760542362444,
+  "lng": 14.507112354040146,
+  "src": "maptiler"
+ },
+ "mt|Walvisbay Waterfront, Walvis Bay 9000, Namibia": {
+  "lat": -22.955760542362444,
+  "lng": 14.507112354040146,
+  "src": "maptiler"
+ },
+ "mt|Esplanade Street, Walvis Bay 9000, Namibia": {
+  "lat": -22.955760542362444,
+  "lng": 14.507112354040146,
+  "src": "maptiler"
+ },
+ "mt|Via Rosario Senatore 30, 84013 Cava de Tirreni, Salerno": {
+  "lat": 40.69974812907103,
+  "lng": 14.705357775092125,
+  "src": "maptiler"
+ },
+ "mt|446 Broad Street, Bloomfield, NJ 07003": {
+  "lat": 40.8087,
+  "lng": -74.19262100000003,
+  "src": "maptiler"
+ },
+ "mt|1353 Stelton Rd., Piscataway, NJ 08854": {
+  "lat": 40.539763,
+  "lng": -74.422372,
+  "src": "maptiler"
+ },
+ "mt|130 Main Street, Fort Lee, NJ": {
+  "lat": 40.850481,
+  "lng": -73.96705600000001,
+  "src": "maptiler"
+ },
+ "mt|Maori, New Zealand": {
+  "lat": -43.81133693157583,
+  "lng": 169.10546611994505,
+  "src": "maptiler"
+ },
+ "mt|237 Parnell Road, Parnell, Auckland Central, New Zealand": {
+  "lat": -36.86182185646732,
+  "lng": 174.72126960492574,
+  "src": "maptiler"
+ },
+ "mt|17 Papanui Road, Christchurch, New Zealand": {
+  "lat": -43.519573,
+  "lng": 172.62690799999996,
+  "src": "maptiler"
+ },
+ "mt|2 Grey Street, Wellington 6001, New Zealand": {
+  "lat": -41.284515,
+  "lng": 174.77681800000005,
+  "src": "maptiler"
+ },
+ "mt|Pan American Hwy, Esteli, Nicaragua": {
+  "lat": 12.936681326283006,
+  "lng": -86.2165416777134,
+  "src": "maptiler"
+ },
+ "mt|Pista del Mayoreo, Managua, Nicaragua": {
+  "lat": 11.93115460153592,
+  "lng": -86.428182721138,
+  "src": "maptiler"
+ },
+ "mt|1831 West 7th Street Joplin, MO 64801-3075": {
+  "lat": 37.084931,
+  "lng": -94.53764699999999,
+  "src": "maptiler"
+ },
+ "mt|215 Main Street Mammoth Spring, AR 72554": {
+  "lat": 36.495759,
+  "lng": -91.53944100000001,
+  "src": "maptiler"
+ },
+ "mt|662 Missouri Ave, West Plains, MO 65775": {
+  "lat": 36.735129,
+  "lng": -91.858452,
+  "src": "maptiler"
+ },
+ "mt|4741 SE Hawthorne Blvd. Portland, Oregon": {
+  "lat": 45.512262,
+  "lng": -122.613115,
+  "src": "maptiler"
+ },
+ "mt|Parque Lefrevre, Calle 3ra, Chanis, Ciudad de Panama": {
+  "lat": 9.036987998322,
+  "lng": -79.52376667410135,
+  "src": "maptiler"
+ },
+ "mt|Main dock, Isla Grande, Panama": {
+  "lat": 9.63368607042658,
+  "lng": -79.56300779534638,
+  "src": "maptiler"
+ },
+ "mt|4 Rue du Bouloi, 75001 Paris, France": {
+  "lat": 48.86317,
+  "lng": 2.3400510000000168,
+  "src": "maptiler"
+ },
+ "mt|12 Rue du Champ de Mars, 75007 Paris, France": {
+  "lat": 48.85349527412398,
+  "lng": 2.3483913391828537,
+  "src": "maptiler"
+ },
+ "mt|17 Rue Brea, 75006 Paris, France": {
+  "lat": 48.842984,
+  "lng": 2.330067999999983,
+  "src": "maptiler"
+ },
+ "mt|143 Acheen St., 10300 Penang, Malaysia": {
+  "lat": 5.414675615480962,
+  "lng": 100.33647280186415,
+  "src": "maptiler"
+ },
+ "mt|Lozano La Rosa 173, Chrrillos, Lima, Peru": {
+  "lat": -12.00021151077628,
+  "lng": -76.83307986706495,
+  "src": "maptiler"
+ },
+ "mt|Berlin 899, Miraflores, Lima, Peru": {
+  "lat": -12.120194,
+  "lng": -77.03880900000001,
+  "src": "maptiler"
+ },
+ "mt|Cusco, Peru": {
+  "lat": -13.517088553202258,
+  "lng": -71.97853568941355,
+  "src": "maptiler"
+ },
+ "mt|Cuzco, Peru": {
+  "lat": -13.517088553202258,
+  "lng": -71.97853568941355,
+  "src": "maptiler"
+ },
+ "mt|888 EDSA on Park Ave., Pasay City, Manila Philippines": {
+  "lat": 14.590449217616175,
+  "lng": 120.98036203533411,
+  "src": "maptiler"
+ },
+ "mt|637 Carvajal St., Binondo, Manila, Philippines": {
+  "lat": 14.599591770509747,
+  "lng": 120.9754965081811,
+  "src": "maptiler"
+ },
+ "mt|455 P Gereveua St., San Juan, Manila, Philippines": {
+  "lat": 14.437765247523828,
+  "lng": 120.88506626242611,
+  "src": "maptiler"
+ },
+ "mt|Bayamon, Puerto Rico": {
+  "lat": 18.39905521970052,
+  "lng": -66.15603290498257,
+  "src": "maptiler"
+ },
+ "mt|263 St. Viateur Ouest, Quebec, Canada": {
+  "lat": 45.51608868759182,
+  "lng": -73.60766384750605,
+  "src": "maptiler"
+ },
+ "mt|153 Route Du Pont, Quebec G7A 2T3, Canada": {
+  "lat": 46.739129,
+  "lng": -71.28957700000001,
+  "src": "maptiler"
+ },
+ "mt|Udaipur, Rajasthan, India": {
+  "lat": 24.578721196890182,
+  "lng": 73.68625693023205,
+  "src": "maptiler"
+ },
+ "mt|Chandpole Road, Udaipur, India": {
+  "lat": 24.593918474239956,
+  "lng": 73.76972341910005,
+  "src": "maptiler"
+ },
+ "mt|36, Gadiya devra, Chandpole road, Udaipur 313001, India": {
+  "lat": 24.578721196890182,
+  "lng": 73.68625693023205,
+  "src": "maptiler"
+ },
+ "mt|Rua Candido Gaffree, 205, Urca, Rio de Janeiro, Brazil": {
+  "lat": -22.943511,
+  "lng": -43.160203000000024,
+  "src": "maptiler"
+ },
+ "mt|Rua Visc de Piraj 325, Ipanema, Rio de Janeiro, Brazil": {
+  "lat": -22.98418983204427,
+  "lng": -43.206014558672905,
+  "src": "maptiler"
+ },
+ "mt|Calea Floreasca 111, Sector 1, Bucharest, Romania": {
+  "lat": 44.459977,
+  "lng": 26.100574999999935,
+  "src": "maptiler"
+ },
+ "mt|Bulevardul Dacia 19, Bucharest 010403, Romania": {
+  "lat": 44.44683,
+  "lng": 26.094292999999993,
+  "src": "maptiler"
+ },
+ "mt|Lipscani Street, Bucharest 050071, Romania": {
+  "lat": 44.43327565214116,
+  "lng": 26.09511461108923,
+  "src": "maptiler"
+ },
+ "mt|517 Hayes St., San Francisco, CA": {
+  "lat": 37.776432,
+  "lng": -122.42500000000001,
+  "src": "maptiler"
+ },
+ "mt|240 California St., San Francisco, CA": {
+  "lat": 37.79342,
+  "lng": -122.399472,
+  "src": "maptiler"
+ },
+ "mt|3340 Foothill Blvd., San Francisco, CA": {
+  "lat": 37.783152,
+  "lng": -122.22035499999998,
+  "src": "maptiler"
+ },
+ "mt|2781 21st St., San Francisco, CA": {
+  "lat": 37.757427,
+  "lng": -122.41038800000001,
+  "src": "maptiler"
+ },
+ "mt|1550 Church St., San Francisco, CA": {
+  "lat": 37.745937,
+  "lng": -122.427053,
+  "src": "maptiler"
+ },
+ "mt|San Francisco, CA": {
+  "lat": 37.78793644929779,
+  "lng": -122.40752018988132,
+  "src": "maptiler"
+ },
+ "mt|Piazza Palestro, 2-5403 Colonnata": {
+  "lat": 44.08614032449398,
+  "lng": 10.155647322535515,
+  "src": "maptiler"
+ },
+ "mt|Crosby Fish and Shrimp, 2223 Folly Rd., Charleston, SC": {
+  "lat": 32.565185380050885,
+  "lng": -80.36537915468216,
+  "src": "maptiler"
+ },
+ "mt|251 Meeting St., Charleston, SC": {
+  "lat": 32.783324,
+  "lng": -79.93214499999999,
+  "src": "maptiler"
+ },
+ "mt|2063 Opa Locka Blvd. Opa Locka, FL 33054": {
+  "lat": 25.898251,
+  "lng": -80.23362900000001,
+  "src": "maptiler"
+ },
+ "mt|222 14th Street, Miami Beach, FL 33139": {
+  "lat": 25.785291,
+  "lng": -80.13147400000003,
+  "src": "maptiler"
+ },
+ "mt|92 West Ramadamare St., Colombo, Sri Lanka": {
+  "lat": 6.410836302676994,
+  "lng": 80.84556902659665,
+  "src": "maptiler"
+ },
+ "mt|244 Galle Rd., Colombo, Sri Lanka": {
+  "lat": 6.5175335836935275,
+  "lng": 81.43925423688643,
+  "src": "maptiler"
+ },
+ "mt|Galle Rd., Colombo, Sri Lanka": {
+  "lat": 6.97406128414554,
+  "lng": 79.87626627087593,
+  "src": "maptiler"
+ },
+ "mt|Ostermalmtorg Square, Sweden": {
+  "lat": 53.8177823725752,
+  "lng": -123.06509088724852,
+  "src": "maptiler"
+ },
+ "mt|Luis de la Torre 895, Punta Carretas, Montevideo, Uruguay": {
+  "lat": -34.914466,
+  "lng": -56.15633200000002,
+  "src": "maptiler"
+ },
+ "mt|61768 29 Palms Hwy, Joshua Tree, CA, 92252": {
+  "lat": 34.135436,
+  "lng": -116.31586700000003,
+  "src": "maptiler"
+ },
+ "mt|61715 29 Palms Hwy, Joshua Tree, CA 92252-2311": {
+  "lat": 34.134677,
+  "lng": -116.31697500000001,
+  "src": "maptiler"
+ },
+ "mt|925 East Wells St., Milwaukee, WI 53202-3952": {
+  "lat": 43.041306,
+  "lng": -87.90013499999998,
+  "src": "maptiler"
+ },
+ "mt|16th St. and Arapahoe St., Denver, CO 80202": {
+  "lat": 39.67948629999999,
+  "lng": -104.8878249,
+  "src": "maptiler"
+ },
+ "mt|Revolucion, Tacubaya, Miguel Hidalgo, Mexico": {
+  "lat": 19.407115911922613,
+  "lng": -99.19061701744795,
+  "src": "maptiler"
+ },
+ "mt|101 E. Jackson St., Phoenix, Ariz. 85004": {
+  "lat": 33.44472,
+  "lng": -112.07225,
+  "src": "maptiler"
+ },
+ "mt|13033 Fields Rd., Banning, CA 92220": {
+  "lat": 33.93994794465281,
+  "lng": -116.83931632647005,
+  "src": "maptiler"
+ },
+ "mt|1528 Whiffen Spit Rd, Sooke, BC V0S 1N0, Canada": {
+  "lat": 48.3777334837783,
+  "lng": -123.72367210686207,
+  "src": "maptiler"
+ },
+ "mt|43 Hastings Street West, Vancouver": {
+  "lat": 49.281921,
+  "lng": -123.10602399999999,
+  "src": "maptiler"
+ },
+ "mt|1480 11th Avenue, Vancouver": {
+  "lat": 49.261578,
+  "lng": -123.13807099999997,
+  "src": "maptiler"
+ },
+ "mt|401 7th St. NW, Washington, DC 20004": {
+  "lat": 38.894942,
+  "lng": -77.02166699999998,
+  "src": "maptiler"
+ },
+ "mt|212 rue de Grenelle, 75007 Paris": {
+  "lat": 48.856516,
+  "lng": 2.3029599999999846,
+  "src": "maptiler"
+ },
+ "mt|64 rue Vieille du Temple, 75004 Paris": {
+  "lat": 48.859084,
+  "lng": 2.3594960000000356,
+  "src": "maptiler"
+ },
+ "mt|13 rue Moret, 75011 Paris": {
+  "lat": 48.867219059196145,
+  "lng": 2.379198409616947,
+  "src": "maptiler"
+ },
+ "mt|70 rue Monge, 75005 Paris": {
+  "lat": 48.843486,
+  "lng": 2.352121000000011,
+  "src": "maptiler"
+ },
+ "mt|5 rue Prouvaires, 75001 Paris": {
+  "lat": 48.83693,
+  "lng": 2.3923069999999598,
+  "src": "maptiler"
+ },
+ "nm|Don Vito e Zanoni, Valparaiso/Viña del Mar, Chile": {
+  "lat": -33.0145811,
+  "lng": -71.554116,
+  "src": "nominatim"
+ },
+ "nm|The Cliffs Preserve Patagonia, Los Lagos, Chile": null,
+ "nm|Abundant Seafood, Charleston, United States": null,
+ "nm|Feira de São Joaquim, Salvador de Bahia, Brazil": {
+  "lat": -12.9518548,
+  "lng": -38.5023955,
+  "src": "nominatim"
+ },
+ "nm|Toca do Bonde, Rio de Janeiro, Brazil": null,
+ "nm|Barraca do Uruguay, Ipanema Beach, Brazil": null,
+ "nm|Crossing Boat Restaurant, Tai O, China": null,
+ "nm|Zora Culinária Afro-Mineira, Minas Gerais, Brazil": null,
+ "nm|Nicaragüita Iris, Managua, Nicaragua": null,
+ "nm|Baho Tradicional, Managua, Nicaragua": null,
+ "nm|El Vaquero, Managua, Nicaragua": null,
+ "nm|La Fritanga Buñuelo, Ciudad de Estelí, Nicaragua": null,
+ "nm|Carnicería Valle de Flores, Ciudad de Estelí, Nicaragua": null,
+ "nm|Congo Restaurant & Resort, Isla Grande, Panama": null,
+ "nm|Comidas Benedicta, Sambú, Panama": null,
+ "nm|Feeney’s Restaurant & Bar, Muscat, Oman": null,
+ "nm|Nassif House, Jeddah, Saudi Arabia": {
+  "lat": 21.4839642,
+  "lng": 39.187668,
+  "src": "nominatim"
+ },
+ "nm|Liberty Bar, Austin, United States": {
+  "lat": 30.2626899,
+  "lng": -97.7250681,
+  "src": "nominatim"
+ },
+ "nm|Velvet Tango Room, Cleveland, United States": {
+  "lat": 41.4838887,
+  "lng": -81.700126,
+  "src": "nominatim"
+ },
+ "nm|Seatown Seabar & Rotisserie, Seattle, United States": null,
+ "nm|Mo’s Crab and Pasta Factory, Baltimore, United States": null,
+ "nm|Dizi Restaurant, Tehran, Iran": {
+  "lat": 35.7187977,
+  "lng": 51.3350936,
+  "src": "nominatim"
+ },
+ "nm|Haj Mahmoud Beryani, Isfahan, Iran": null,
+ "nm|Claythorne Lodge, The Ozarks, United States": null,
+ "nm|Pank Resort, Rawanduz, Iraq, Kurdistan (Iraq), Iraq": null,
+ "nm|Private Family Meal, Barzan, Iraq, Kurdistan (Iraq), Iraq": null,
+ "nm|Private Meals, Mardin, Turkey, Kurdistan (Iraq), Iraq": null,
+ "nm|Verre at the Hotel Hilton Dubai, Dubai, United Arab Emirates": null,
+ "nm|Titan Missile Museum, Tucson, United States": null,
+ "nm|“Dockside Karaoke Joint on the Malay side of town”, Borneo, Malaysia": null,
+ "nm|Spots Bourdain Visited in Borneo, Borneo, Malaysia": null,
+ "nm|Food Stands, Rosarito Beach, Mexico": null,
+ "nm|Beach Barbeque, Baja, Mexico": null,
+ "nm|Carlos and Virginia’s Farm, São Miguel, Portugal": null,
+ "nm|Furnas, São Miguel, Portugal": null,
+ "nm|São Jorge, Azores, Portugal": null,
+ "nm|Blue Hill/Stone Barn, NY, United States": null,
+ "nm|D’Artagnan, NJ, United States": null,
+ "nm|Private Family Meal, CT, United States": null,
+ "nm|New Rifka Catering, Colombo, Spain": null,
+ "nm|Barefoot Café, Colombo, Spain": null,
+ "nm|Hotel De Pilawoos, Colombo, Spain": null,
+ "nm|Foundation of Goodness, Seenigama, Spain": null,
+ "nm|Private Family Gathering, Chilaw, Spain": null,
+ "nm|Nana’s King Beach Side Food, Sri Lanka, Spain": null,
+ "nm|Vits Food, Sri Lanka, Spain": null,
+ "nm|भेंडी बाजार, Bhendi Bazaar, India": null,
+ "nm|Natraj Hotel, Udaipur, India": null,
+ "nm|Roadside Stop, Rajasthan, India": null,
+ "nm|Marudhar Bhojnalya, Jaisalmer, India": null,
+ "nm|Bhang Shop, Jaisalmer, India": {
+  "lat": 26.9135552,
+  "lng": 70.9138986,
+  "src": "nominatim"
+ },
+ "nm|Kesar da Dhaba, Amritsar, India": {
+  "lat": 31.624196,
+  "lng": 74.8728244,
+  "src": "nominatim"
+ },
+ "nm|Rainbow Solitaire Houseboat, Kerala, India": null,
+ "nm|Pivovar Kout na Sumave, Prague, Czech Republic": null,
+ "nm|Leitaria I Son (Now Yee Shun Milk Company), Macau, Macau": null,
+ "nm|Anonymous Routier, Morey St. Denis, France": null,
+ "nm|Maison Picard Traiteur, Auxerre, France": null,
+ "nm|Maison Ilan, Beaune, France": null,
+ "nm|Larry’s Market, Milwaukee, United States": {
+  "lat": 43.176823,
+  "lng": -87.9640644,
+  "src": "nominatim"
+ },
+ "nm|Sprecher’s Brew, Milwaukee, United States": null,
+ "nm|Spice House, Milwaukee, United States": {
+  "lat": 43.0352298,
+  "lng": -87.9083623,
+  "src": "nominatim"
+ },
+ "nm|Picanteria de Hueco, Ecuador": null,
+ "nm|no-name spot on the beach, Ecuador": null,
+ "nm|local food vendors in Puerto Lopez, Ecuador": null,
+ "nm|Le Petit Duc, Provence, France": {
+  "lat": 43.5301493,
+  "lng": 5.4417449,
+  "src": "nominatim"
+ },
+ "nm|Punakha Mountain Village, Bhutan": null,
+ "nm|Bumthang Sacred Valley, Bhutan": null,
+ "nm|Seit Taing Kya Tea Shop, Myanmar": null,
+ "nm|Taung Htake Pan Pwint Restaurant, Myanmar": {
+  "lat": 16.9899297,
+  "lng": 95.4585568,
+  "src": "nominatim"
+ },
+ "nm|CF Food Court, The Jetty Food Court, Malaysia": null,
+ "nm|Kampung Baru Night Market, Kuala Lumpur, Malaysia": null,
+ "nm|Steam Fish Head Food Stall KL Chong Yen, Kuala Lumpur, Malaysia": null,
+ "nm|Aunty Aini’s Kampung Cafe, Kuala Lumpur, Malaysia": null,
+ "nm|Wong Ah Wah at Jalan Alor, Kuala Lumpur, Malaysia": null,
+ "nm|Phonsavan Morning Market, Laos": null,
+ "nm|Auberge de la Plaine des Jarres, Laos": null,
+ "nm|Ban Xang Hai, Laos": null,
+ "nm|Khem Khong Restaurant, Laos": {
+  "lat": 19.8940987,
+  "lng": 102.1373859,
+  "src": "nominatim"
+ },
+ "nm|Ku Dé Ta/ Ce La Vi, Singapore": null,
+ "nm|Lor 29, Singapore": null,
+ "nm|Napa Saekou’s Guest House, Chiang Mai, Thailand": null,
+ "nm|Country Village, Chiang Mai, Thailand": null,
+ "nm|May Yon Village/Him Tang, Chiang Mai, Thailand": null,
+ "nm|Larb Gouchung Cha, Chiang Mai, Thailand": null,
+ "nm|TukTuk Bar Crawl, Chiang Mai, Thailand": null,
+ "nm|Pailin, Cambodia": null,
+ "nm|Siem Reap, Cambodia": null,
+ "nm|Hanoi Tết Market, Hanoi, Vietnam": null,
+ "nm|Thu Hai Rooster Restaurant, Hanoi, Vietnam": null,
+ "nm|Thu Vien Bibliotheque Cafe, La Bibliothèque, Vietnam": null,
+ "nm|Nhà Hàng Hương Rừng, Ho Chi Minh City, Vietnam": null,
+ "nm|Bahn Xèo, Ho Chi Minh City, Vietnam": null,
+ "nm|Bien Chung Han, Ho Chi Minh City, Vietnam": null,
+ "nm|La Roulotte, Papeete, French Polynesia": null,
+ "nm|Kia Ora Sauvage, Rangiroa, French Polynesia": null,
+ "nm|Mudbrick Lodge & Harrington’s Bar, New Zealand": null,
+ "nm|Te Rarawa Iwi, New Zealand": null,
+ "nm|Coldstream Vineyards, Yarra Valley, Australia": null,
+ "nm|Atami, Japan": null,
+ "nm|Kiso Valley, Japan": null,
+ "nm|Nibiki Restaurant, Tokyo, Japan": null,
+ "nm|XEX Morimoto, Tokyo, Japan": null,
+ "nm|Pizza Ball House, Osaka, Japan": null,
+ "nm|Fukutaro (福太郎), Osaka, Japan": null,
+ "nm|Tiger’s Baseball Game, Osaka, Japan": null,
+ "nm|Nishimachi Soba, Okinawa, Japan": null,
+ "nm|Lawson Convenience Store, Okinawa, Japan": null,
+ "nm|Ramen Alley, Sapporo, Japan": null,
+ "nm|Takinoya Ryokan, Noboribetsu, Japan": null,
+ "nm|Local Ainu Dinner, Shiraoi, Japan": null,
+ "nm|Ggu Da Dak, South Korea": null,
+ "nm|Ms. Linda Green’s Yakamein, New Orleans, United States": null,
+ "nm|R&O’s in Bucktown, New Orleans, United States": null,
+ "nm|USA Bucks Bar, Harbin, China": null,
+ "nm|Mobile Chef in Yabuli Town, Harbin, China": null,
+ "nm|Da Zhong Shui Jiao, Harbin, China": null,
+ "nm|Old Liu’s Kill Pig Cuisine, Harbin, China": null,
+ "nm|People’s Park Teahouse, Sichuan, China": null,
+ "nm|Tian Tian Fan Dian, Sichuan, China": {
+  "lat": 30.3128248,
+  "lng": 104.4420411,
+  "src": "nominatim"
+ },
+ "nm|Shui Jing Fang Distillery, Sichuan, China": null,
+ "nm|Cours Julien, Neighborhood, France": null,
+ "nm|Bochka (formerly Aleko), Uzbekistan": null,
+ "nm|Private Wedding Party, Uzbekistan": null,
+ "nm|Ta’am Faqat – Jus Foods, Trinidad & Tobago": null,
+ "nm|U-WEE Doubles, Trinidad & Tobago": null,
+ "nm|Union Island, St. Vincent & the Grenadines": null,
+ "nm|Bequia, St. Vincent & the Grenadines": null,
+ "nm|Saint Vincent, St. Vincent & the Grenadines": null,
+ "nm|Hilma’s Windsor Castle, St. Maarten": null,
+ "nm|Gone Bamboo, St. Maarten": null,
+ "nm|De Wendy Sabor, Playa Boca Chica, Dominican Republic": null,
+ "nm|Cacheito’s Place, Santo Domingo, Dominican Republic": null,
+ "nm|Small Business in a Tent City, Haiti": null,
+ "nm|Grand Hotel Oloffson, Port-au-Prince, Haiti": null,
+ "nm|Red Hills Road, Kingston, Jamaica": {
+  "lat": 18.0221748,
+  "lng": -76.8008014,
+  "src": "nominatim"
+ },
+ "nm|Cynthia’s/Winnifred Beach, Fairy Hill, Jamaica": null,
+ "nm|Dürümzade, Istanbul, Turkey": null,
+ "nm|Means Family Ranch, Valentine, United States": null,
+ "nm|The Gage Hotel, Marathon, United States": {
+  "lat": 30.20675,
+  "lng": -103.24622,
+  "src": "nominatim"
+ },
+ "nm|Laura’s II, Cajun Country, United States": null,
+ "nm|LaVene Music Center*, Clarksdale, United States": null,
+ "nm|Po’ Monkey’s Lounge, Merigold, United States": null,
+ "nm|Acasă la Dracula, Brașov, Romania": {
+  "lat": 45.5969192,
+  "lng": 25.560907,
+  "src": "nominatim"
+ },
+ "nm|Cafe Astoria, Maramures, Romania": null,
+ "nm|JMAC Customs, Princeton, United States": null,
+ "nm|“Mollusk Alley”, Croatia": null,
+ "nm|Bluefin Tuna Farm, Zadar, Croatia": null,
+ "nm|3Frakkar, Iceland": null,
+ "nm|Hressingarskálinn, Iceland": null,
+ "nm|Private Meal at Pino’s house, Vancouver, Canada": null,
+ "nm|The Black Hoof, Toronto, Canada": null,
+ "nm|Restaurant Lux, Sweden": {
+  "lat": 59.323011,
+  "lng": 18.0071446,
+  "src": "nominatim"
+ },
+ "nm|Christian’s Pub, Newfoundland, Canada": {
+  "lat": 47.5613243,
+  "lng": -52.7109244,
+  "src": "nominatim"
+ },
+ "nm|Saigon Restaurant & Bakery, Minneapolis, United States": null,
+ "nm|Salt & Flour Kitchen, Minneapolis, United States": {
+  "lat": 44.982832,
+  "lng": -93.2763966,
+  "src": "nominatim"
+ },
+ "nm|Guns & Butter, Detroit, United States": {
+  "lat": 42.3346546,
+  "lng": -83.0458297,
+  "src": "nominatim"
+ },
+ "nm|Monahan’s Seafood, Ann Arbor, Detroit, United States": null,
+ "nm|Upstairs Pancake House, Amsterdam, Netherlands": null,
+ "nm|Die Dampkring, Amsterdam, Netherlands": null,
+ "nm|Specialty International, Miami, United States": null,
+ "nm|Loco Taqueria, Miami, United States": null,
+ "nm|Chaac Mool Food Cart, San Francisco, United States": null,
+ "nm|COI/Locol, San Francisco, United States": null,
+ "nm|Öreg Kőrössy Halászcsárda, Szeged, Hungary": {
+  "lat": 46.2558428,
+  "lng": 20.1825881,
+  "src": "nominatim"
+ },
+ "nm|Hasir Kreutzberg, Berlin, Germany": null,
+ "nm|Salon Sacher at Hotel Sacher, Vienna, Austria": null,
+ "nm|Hunting near Ybbsitz, Vienna, Austria": null,
+ "nm|Broasted Rizk, Beirut, Lebanon": null,
+ "nm|Boulangerie Clarens, Arcachon, France": null,
+ "nm|Le Camion Food Truck*, Paris, France": null,
+ "nm|Californie Cantine, Paris, France": null,
+ "nm|Brasserie La Welper, Paris, France": null,
+ "nm|Dick’s Dog Floating Hot Dog Stand, Hudson Valley, United States": null,
+ "nm|Mohonk Mountain House, Hudson Valley, United States": null,
+ "nm|Amalfi Coast, Regions Bourdain Visited in Italy, Italy": null,
+ "nm|Basilicata, Regions Bourdain Visited in Italy, Italy": null,
+ "nm|Yu Garden Dumpling House, Queens, United States": null,
+ "nm|Siberia Bar, Manhattan, United States": null,
+ "nm|Home-Cooked Meal, Manhattan, United States": null,
+ "nm|Mitchell’s Bar-B-Q, North Carolina, United States": null,
+ "nm|Marshville, North Carolina, United States": null,
+ "nm|LudoTruck’s Guerrilla Fried Chicken, Los Angeles, United States": null,
+ "nm|Lorena on East 7th, Food Stand, United States": null,
+ "nm|Edinburgh, Scotland, United Kingdom": null,
+ "nm|Leith, Scotland, United Kingdom": null,
+ "nm|The Highlands, Scotland, United Kingdom": {
+  "lat": 55.7585275,
+  "lng": -6.28336,
+  "src": "nominatim"
+ },
+ "nm|Ma Willies Inn, Johannesburg, South Africa": null,
+ "nm|Eat Arabi, Johannesburg, South Africa": null,
+ "nm|Mazondi Restaurant Zwangobani Grill, Johannesburg, South Africa": null,
+ "nm|Maders Butchery, Pretoria, South Africa": null,
+ "nm|Monaghan Farm, Centurion, South Africa": null,
+ "nm|Private Family Meal, Johannesburg, South Africa": null,
+ "nm|Look’s Chez Ramasy, Antananarivo, Madagascar": null,
+ "nm|Local Village, Ranomafana National Park, Madagascar": null,
+ "nm|Private Meal, Manakara, Madagascar": null,
+ "nm|Cayenne, Belfast, United Kingdom": null,
+ "nm|Local Grocery Store, Addis Ababa, Ethiopia": null,
+ "nm|Shola Market, Addis Ababa, Ethiopia": {
+  "lat": 9.0235011,
+  "lng": 38.7942006,
+  "src": "nominatim"
+ },
+ "nm|Family Meal, Gurage Region, Ethiopia": null,
+ "nm|Cour de Cassation Beach, Dakar, Senegal": null,
+ "nm|Bazoof Restaurant, Dakar, Senegal": null,
+ "nm|Au Fil du Fleuve, St Louis, Senegal": null,
+ "nm|Private family meal with Pierre Thiam, Dakar, Senegal": null,
+ "nm|Streetside Food Shack, Nairobi, Kenya": null,
+ "nm|Masai Village, Lewa Wildlife Conservancy, Kenya": null,
+ "nm|Local home meal, Jambiani, Tanzania": null,
+ "nm|Juma’s, Zanzibar, Tanzania": {
+  "lat": -5.3500629,
+  "lng": 39.7778622,
+  "src": "nominatim"
+ },
+ "nm|Picnic at Lake Masek, Tanzania": null,
+ "nm|Masai Village, Ndutu area of Serengeti, Tanzania": null,
+ "nm|Madina Asian Food Company, Dublin, Ireland": null,
+ "nm|Alternative Spots Tony Mentioned in Dublin, Dublin, Ireland": null,
+ "nm|Makua Village, Unknown Location, Mozambique": null,
+ "nm|Home Meal, Ilha de Moçambique, Mozambique": null,
+ "nm|Esplanada Belinha, Fish Market, Maputo, Mozambique": null,
+ "nm|Barracuda Restaurant, Tripoli, Libya": {
+  "lat": 32.9051381,
+  "lng": 13.2261434,
+  "src": "nominatim"
+ },
+ "nm|Uncle Kentaki, Tripoli, Libya": null,
+ "nm|Beach BBQ, Misrata, Libya": null,
+ "nm|Macelleria Equina, Palermo, Italy": {
+  "lat": 38.1113303,
+  "lng": 13.3492414,
+  "src": "nominatim"
+ },
+ "nm|Truck Stop, Nyirangarama, Rwanda, Congo": null,
+ "nm|Restaurante Fatimata, Goma, Congo": null,
+ "nm|Wagenya Village, Boyoma Falls, Congo": null,
+ "nm|River Boat on the Congo River, Congo": null,
+ "nm|Rue 80 at Maison Fahrenheit Hotel, Lagos, Nigeria": null,
+ "nm|Makoko, Local Village, Nigeria": null,
+ "nm|Chieftaincy Council of Hausa Community in Agege, Lagos, Nigeria": null,
+ "nm|Yakoyo Canteen, Lagos, Nigeria": null,
+ "nm|Aksana Local Special Chop Bar, Accra, Ghana": null,
+ "nm|Su Gologone Experience Hotel, Sardinia, Italy": null,
+ "nm|Agriturismo Sa Rocca, Sardinia, Italy": {
+  "lat": 39.352185,
+  "lng": 8.4404962,
+  "src": "nominatim"
+ },
+ "nm|Torrisi, Little Italy, NYC, Italy": null,
+ "nm|Beira Oysters Farm, Walvis Bay, Namibia": null,
+ "nm|Topnaar Community, Namibia": null,
+ "nm|Kirikara Farm, Swakopmund, Namibia": null,
+ "nm|Kalahari Basin, Namibia": null,
+ "nm|Dar Diaf Restaurant, Moulay Idriss, Morocco": null,
+ "nm|Hotel Riad Dar Al Hadara, Fes, Morocco": null,
+ "nm|Hotel Kasbah Asmaa (A)tlas Mountains, Morocco": null,
+ "nm|Berber Camp, Northern Sahara Desert, Morocco": null,
+ "nm|Hotel El Muniria, Tangier, Morocco": {
+  "lat": 35.780873,
+  "lng": -5.8082488,
+  "src": "nominatim"
+ },
+ "nm|Taquería Los Cocuyos, Mexico City, Mexico": {
+  "lat": 19.4301688,
+  "lng": -99.1387568,
+  "src": "nominatim"
+ },
+ "nm|Hotel de San Francisco, Puebla, Mexico": {
+  "lat": 18.9110864,
+  "lng": -98.4362346,
+  "src": "nominatim"
+ },
+ "nm|Mercado de Atlixco, Puebla, Mexico": null,
+ "nm|Ahmed Farahat Restaurant, Khan Al-Khalili Market, Cairo, Egypt": null,
+ "nm|Hotel Posada Canon Devata, Oaxaca, Mexico": {
+  "lat": 15.6655014,
+  "lng": -96.4972391,
+  "src": "nominatim"
+ },
+ "nm|Market Marché Jean-Talon & La Fromagerie Atwater, Montreal, Canada": null,
+ "nm|Dos Pebrots, Barcelona, Spain": {
+  "lat": 41.3828239,
+  "lng": 2.1684326,
+  "src": "nominatim"
+ },
+ "nm|Meson Puente Romano, Asturias, Spain": {
+  "lat": 43.3504186,
+  "lng": -5.1325644,
+  "src": "nominatim"
+ },
+ "nm|La Ronda Cafe, Montevideo, Uruguay": {
+  "lat": -34.9096247,
+  "lng": -56.2000541,
+  "src": "nominatim"
+ },
+ "nm|Parrilla “El Alemán”, Montevideo, Uruguay": null,
+ "nm|Parador La Caracola, Punta del Este, Uruguay": null,
+ "nm|Bǎo dū Zhang, Beijing, China": null,
+ "nm|Housyouzuchi, Kanazawa, Japan": null,
+ "nm|Nanao Fish Market, Ishikawa Prefecture, Japan": null,
+ "nm|Le Chambard’s Winstub, Alsace, France": null,
+ "nm|Coffeehouse, Antarctica": null,
+ "nm|Аэ Борщ, Ukraine": null,
+ "nm|Старий квартал, Ukraine": {
+  "lat": 49.8431135,
+  "lng": 24.0369656,
+  "src": "nominatim"
+ },
+ "nm|Besarabsky Market, Ukraine": null,
+ "nm|Xiaojing Sifangcai, China": null,
+ "nm|Lazy Pug, China": null,
+ "nm|Shang Palace, China": {
+  "lat": 22.1440883,
+  "lng": 113.5742011,
+  "src": "nominatim"
+ },
+ "nm|Chen Mapo Tofu, China": {
+  "lat": 30.6669256,
+  "lng": 104.0665839,
+  "src": "nominatim"
+ },
+ "nm|Peter's Cafe Sport, Faial Island": null,
+ "nm|Pasto Do For, Sao Miguel Island": null,
+ "nm|M. Sahyoun Falafel, Beirut": null,
+ "nm|Dragonfly Bar, Beirut": null,
+ "nm|Le Chef Restaurant, Beirut": null,
+ "nm|Chez Maguy, Lebanon": {
+  "lat": 34.2533923,
+  "lng": 35.6563695,
+  "src": "nominatim"
+ },
+ "nm|Mision 19, B.C. Mexico C.P.": null,
+ "nm|Rogacki Gourmet Deli, BerlinCharlottenburg": null,
+ "nm|Konnopke's Imbiss, Germany": {
+  "lat": 52.5404746,
+  "lng": 13.412219,
+  "src": "nominatim"
+ },
+ "nm|Prater Garden, Germany": null,
+ "nm|Hasir Kreuzberg, Germany": {
+  "lat": 52.5008964,
+  "lng": 13.4191851,
+  "src": "nominatim"
+ },
+ "nm|Restaurante Dom Antonio, United States": null,
+ "nm|Tacaca da Duque, Brazil": null,
+ "nm|Maison Paillot, NoyerssurSerein": null,
+ "nm|Le Relais des Grands Crus, MoreySaintDenis": null,
+ "nm|Maxine's, Cambodia": null,
+ "nm|Orussey Restaurant, Cambodia": {
+  "lat": 11.5620751,
+  "lng": 104.9174901,
+  "src": "nominatim"
+ },
+ "nm|Earl's Rum Shop, Saint Vincent and Grenadines": null,
+ "nm|Chatham Bay, Saint Vincent and Grenadines": null,
+ "nm|Wine Vault Restaurant, Croatia": null,
+ "nm|Daniel's, Dominican Republic": null,
+ "nm|Chimi El Caco, Dominican Republic": null,
+ "nm|Al Bait al Baghdadi, United Arab Emirates": {
+  "lat": 25.3256811,
+  "lng": 55.3907234,
+  "src": "nominatim"
+ },
+ "nm|Farahat Restaurant, Egypt": {
+  "lat": 30.0466687,
+  "lng": 31.2611701,
+  "src": "nominatim"
+ },
+ "nm|Abu Tarek Koshary Restaurant, Cairo": null,
+ "nm|Mohamed Moustafa Ashour Foul Stall, Cairo": null,
+ "nm|Ristorante Diana, Italy": {
+  "lat": 44.0015511,
+  "lng": 12.6588189,
+  "src": "nominatim"
+ },
+ "nm|Antica Corte Pallavicina, Italy": {
+  "lat": 45.0213878,
+  "lng": 10.0855904,
+  "src": "nominatim"
+ },
+ "nm|Le Meridien Tahiti, French Polynesia": null,
+ "nm|The St. Regis Bora Bora Resort, French Polynesia": null,
+ "nm|Alitzarini Restaurant, Zakynthos Greece": null,
+ "nm|Neoria Seaside Taverna, Greece": null,
+ "nm|Bougatsa Hanion, Crete": null,
+ "nm|Patisserie Marie Beliard, Haiti": {
+  "lat": 18.5159457,
+  "lng": -72.2885024,
+  "src": "nominatim"
+ },
+ "nm|Pizza Amour, Haiti": {
+  "lat": 18.5643336,
+  "lng": -72.2585582,
+  "src": "nominatim"
+ },
+ "nm|Dongfang Jiaozi Wang, China": null,
+ "nm|Bai Yi Da Di Guo, Heilongjiang": null,
+ "nm|Four Seasons Claypot Restaurant, Yaumatei ( Arthur Street)": null,
+ "nm|Tung Po Seafood Restaurant, Cooked Food Center": null,
+ "nm|Rondout Bay Marina, NY": null,
+ "nm|Fiskmarkaorinn, Iceland": null,
+ "nm|Baejarins Beztu Pylsur, Iceland": {
+  "lat": 64.1481562,
+  "lng": -21.9378393,
+  "src": "nominatim"
+ },
+ "nm|Fljott go Gott, Vatnsmyravegi": null,
+ "nm|Rumah Makan Padang Carano, Jl Ngesrep Timur V No  B": null,
+ "nm|Crown Saloon, BT BA": null,
+ "nm|Kizilkayalar, Turkey": {
+  "lat": 41.0434773,
+  "lng": 29.0046561,
+  "src": "nominatim"
+ },
+ "nm|Sur Ocakbasi, Turkey": {
+  "lat": 41.0172902,
+  "lng": 28.9548596,
+  "src": "nominatim"
+ },
+ "nm|Araya Totoan, Ishikawa": null,
+ "nm|Satoyama, Japan": {
+  "lat": 35.4797222,
+  "lng": 133.0360287,
+  "src": "nominatim"
+ },
+ "nm|Lawson, Tokyo": null,
+ "nm|Hosokaya, Tokyo": null,
+ "nm|Tonton, Tokyo": null,
+ "nm|Hosho Sushi, Ishikawa Prefecture": null,
+ "nm|Sapporo Bier Garten, Japan": null,
+ "nm|Okushiba Shoten Soup Curry, Japan": null,
+ "nm|Fiorella's Jack Stack BBQ, MO": null,
+ "nm|Woodyard BBQ, KS": null,
+ "nm|Town Topic Hamburgers, MO": null,
+ "nm|Oklahoma Joe's, KS": null,
+ "nm|The Savoy Grill, MO": null,
+ "nm|LC's BBQ, MO": null,
+ "nm|Rosedale BBQ, KS": null,
+ "nm|Casa Linda, United States": null,
+ "nm|Hangang, Seoul": null,
+ "nm|Hantan River Fish Restaurant, Seoul": null,
+ "nm|Yong Su San, Seoul": null,
+ "nm|To Sok Chon, Seoul": null,
+ "nm|Abu Shahab Restaurant, Iraq": {
+  "lat": 36.21445,
+  "lng": 43.9935393,
+  "src": "nominatim"
+ },
+ "nm|Cercis Murat Konagi, Birnici Cad.": null,
+ "nm|Erbil Bazaar, Iraq": null,
+ "nm|Zahle, Iraq": null,
+ "nm|Makphet Restaurant, Laos": {
+  "lat": 17.9671661,
+  "lng": 102.6107264,
+  "src": "nominatim"
+ },
+ "nm|Kangaroo Sunset Bar, Laos": null,
+ "nm|Dok Mai, Laos": null,
+ "nm|Zuela Restaurant, Laos": {
+  "lat": 21.0027631,
+  "lng": 101.4090278,
+  "src": "nominatim"
+ },
+ "nm|Diana Restaurant, Liberia": {
+  "lat": 6.3160465,
+  "lng": -10.8066003,
+  "src": "nominatim"
+ },
+ "nm|Restaurante Alma, Lisbon": null,
+ "nm|Sol e Pesca, Lisbon": null,
+ "nm|The Cock Tavern, ECA LH": null,
+ "nm|The Kitchin, EH LX": null,
+ "nm|St. John Bread and Wine, London E LZ": null,
+ "nm|Bodega de la Ardosa, Spain": {
+  "lat": 40.4237686,
+  "lng": -3.7017746,
+  "src": "nominatim"
+ },
+ "nm|La Cabrera, Spain": null,
+ "nm|General Street Food, Kampu Baroon": null,
+ "nm|The Fry House, MT": null,
+ "nm|O Paladar, Mozambique Island": null,
+ "nm|Mercado do Peixe, Mozambique": {
+  "lat": -25.9348548,
+  "lng": 32.6290625,
+  "src": "nominatim"
+ },
+ "nm|Cafe Royale, Mozambique": null,
+ "nm|Scaturchio, Italy": {
+  "lat": 40.8454524,
+  "lng": 14.22777,
+  "src": "nominatim"
+ },
+ "nm|La Taverna del Buongustaio, Italy": null,
+ "nm|Baumgart's Cafe, NJ": null,
+ "nm|Spotted Pig, NY": null,
+ "nm|New Asha Cafe, NY": null,
+ "nm|Les Ateliers de l'Image, StRemydeProvence": null,
+ "nm|Quartier la Galine, StRemydeProvence": null,
+ "nm|La Taberna Romana, StRemydeProvence": null,
+ "nm|Bar du Marche, StRémydeProvence": null,
+ "nm|Mirante Da Prainha, Brazil": {
+  "lat": -21.7097021,
+  "lng": -43.8935035,
+  "src": "nominatim"
+ },
+ "nm|Filipo La Mantia, Italy": null,
+ "nm|Ristorante Paris, Italy": {
+  "lat": 41.8889238,
+  "lng": 12.4707264,
+  "src": "nominatim"
+ },
+ "nm|Nonna Betta e il Giardino Romano, Italy": null,
+ "nm|Gorki Restaurant, st TverskayaYamskay": null,
+ "nm|Twenty-Two, Russia": null,
+ "nm|Sok Cafe, Russia": {
+  "lat": 55.7415244,
+  "lng": 37.6214754,
+  "src": "nominatim"
+ },
+ "nm|Wokker, Russia": null,
+ "nm|Agriturismo Roccas, Italy": null,
+ "nm|Il Rifugio, Italy": {
+  "lat": 43.5450962,
+  "lng": 10.3134295,
+  "src": "nominatim"
+ },
+ "nm|Abu Abdullah's, Jeddah": null,
+ "nm|Al Nakheel, Saudi Arabia": {
+  "lat": 26.36793,
+  "lng": 43.9620752,
+  "src": "nominatim"
+ },
+ "nm|19th Century Burger, Saudi Arabia": {
+  "lat": 21.6419465,
+  "lng": 39.1300137,
+  "src": "nominatim"
+ },
+ "nm|Yang's Fry Dumplings, China": null,
+ "nm|Nan Xiang Steamed Bun Restaurant, Shanghai": null,
+ "nm|Jian'guo 328 Xiaoguan, China": {
+  "lat": 36.9875172,
+  "lng": 121.9226642,
+  "src": "nominatim"
+ },
+ "nm|Jia Jia Tang Bao, China": {
+  "lat": 31.236418,
+  "lng": 121.4663129,
+  "src": "nominatim"
+ },
+ "nm|Mercato di Capo (Market), Italy": null,
+ "nm|Trattoria Cantina Siciliana Giuseppe, Italy": null,
+ "nm|Nievski Pub, Italy": {
+  "lat": 37.5037894,
+  "lng": 15.0852994,
+  "src": "nominatim"
+ },
+ "nm|Antica Macelleria Cecchini, Panzano in Chianti (Florence)": null,
+ "nm|Pizza Pie, Italy": {
+  "lat": 43.4864699,
+  "lng": 11.3733305,
+  "src": "nominatim"
+ },
+ "nm|Sweatman's BBQ, SC": null,
+ "nm|TW Graham's Seafood, SC": null,
+ "nm|Espai Sucre, Spain": null,
+ "nm|Quimet & Quimet, United States": null,
+ "nm|Maxi Grillen, Various locations across Sweden": null,
+ "nm|Lord Dudley, Woollahra NSW": null,
+ "nm|Golden Century Seafood Restaurant, Sydney NSW": null,
+ "nm|Lanie Lane, Surry Hills NSW": null,
+ "nm|Chiswick Restaurant, Woollahra NSW": null,
+ "nm|Porteno Restaurant, Surry Hills NSW": null,
+ "nm|Khum Khantoke Restaurant, Thailand": {
+  "lat": 18.7997192,
+  "lng": 99.0264225,
+  "src": "nominatim"
+ },
+ "nm|Sky Bar, Thailand": {
+  "lat": 13.7212222,
+  "lng": 100.5170726,
+  "src": "nominatim"
+ },
+ "nm|Ristr8to Coffee, Thailand": null,
+ "nm|Vigie Sist Cafe, Thailand": {
+  "lat": 18.7921906,
+  "lng": 98.9901698,
+  "src": "nominatim"
+ },
+ "nm|Sarashina Horii, Azabujuban District": null,
+ "nm|Toriki, Tokyo": null,
+ "nm|Piano Bar, Tokyo": null,
+ "nm|Sukiyabashi Jiro, Tokyo": null,
+ "nm|Salachick, Ukraine": null,
+ "nm|Tatyanin Mys, Ukraine": null,
+ "nm|Cafe Musafir, Ukraine": {
+  "lat": 45.0378877,
+  "lng": 33.9999114,
+  "src": "nominatim"
+ },
+ "nm|Tortas Been, Mexico City": null,
+ "nm|Silk Road Tea House, Uzbekistan": {
+  "lat": 39.7750105,
+  "lng": 64.4162909,
+  "src": "nominatim"
+ },
+ "nm|Cafe Wishbone Bukhara, Uzbekistan": null,
+ "nm|Minzifa, Uzbekistan": {
+  "lat": 39.771983,
+  "lng": 64.4192012,
+  "src": "nominatim"
+ },
+ "nm|Al Diavolo e L'Acqua Santa, Italy": null,
+ "nm|Plachutta Restaurant, Austria": {
+  "lat": 48.2075481,
+  "lng": 16.378755,
+  "src": "nominatim"
+ },
+ "nm|Wratschko Restaurant, Austria": {
+  "lat": 46.7205619,
+  "lng": 15.5548109,
+  "src": "nominatim"
+ },
+ "nm|Zum Schwarzen Kameel, Austria": {
+  "lat": 48.2099948,
+  "lng": 16.3683168,
+  "src": "nominatim"
+ },
+ "nm|Wurstelstand Hoher Markt, Austria": {
+  "lat": 48.211214,
+  "lng": 16.3723159,
+  "src": "nominatim"
+ },
+ "nm|Banh Xeo Vietnamese Pancake, Vietnam": {
+  "lat": 14.3599169,
+  "lng": 108.0215009,
+  "src": "nominatim"
+ },
+ "nm|Bac Hai, Vietnam": null,
+ "nm|Thi Nhan Restaurant, Vietnam": {
+  "lat": 21.3398747,
+  "lng": 105.935121,
+  "src": "nominatim"
+ },
+ "nm|Bun Oc Thanh Hai, Vietnam": {
+  "lat": 21.0158426,
+  "lng": 105.850551,
+  "src": "nominatim"
+ },
+ "nm|Essence Cafe & Restaurant, Vietnam": null,
+ "nm|Namaste Hanoi, Vietnam": {
+  "lat": 21.0261035,
+  "lng": 105.845192,
+  "src": "nominatim"
+ },
+ "nm|Ben's Chili Bowl, DC": null,
+ "nm|Seit Taing Kya Tea Shop, Myanmar, Myanmar": null,
+ "mt|1904 West University Avenue, Lafayette": {
+  "lat": 30.230788,
+  "lng": -92.031,
+  "src": "maptiler"
+ },
+ "mt|Stone Town outskirts": {
+  "lat": -6.162657925659635,
+  "lng": 39.19001206755638,
+  "src": "maptiler"
+ },
+ "mt|Agege, Lagos": {
+  "lat": 6.6240963918599896,
+  "lng": 3.315225497498318,
+  "src": "maptiler"
+ },
+ "mt|José Ignacio, +598 9422 3015": {
+  "lat": -34.84482073716769,
+  "lng": -54.63769365102053,
+  "src": "maptiler"
+ },
+ "nm|Dolmana, Armenia, Armenia": null,
+ "nm|Mariam Movsisyan’s grandmother’s family home, Armenia, Armenia": null,
+ "nm|Somewhere in the wilderness of Nagorno-Karabakh (Artsakh), near Jdrduz Canyon in Shushi, Armenia, Armenia": null,
+ "nm|Milena’s home restaurant, Armenia, Armenia": null,
+ "nm|Juan Sobrecuerva’s cheese farm, Asturias, Spain": null,
+ "nm|Casa Eladia Bar, Asturias, Spain": null,
+ "nm|Local fishermen’s bar, Asturias, Spain": null,
+ "nm|Fleischerei Domke, Berlin, Germany": {
+  "lat": 52.5104681,
+  "lng": 13.4520853,
+  "src": "nominatim"
+ },
+ "nm|A feast at Anton Newcombe’s studio, Berlin, Germany": null,
+ "mt|Kawajangsa, Thimphu": {
+  "lat": 27.60000008545246,
+  "lng": 89.66666679829359,
+  "src": "maptiler"
+ },
+ "nm|Chime Lhakhang, Bhutan, Bhutan": null,
+ "nm|Ajeum da Diáspora (Angelica’s), Brazil, Brazil": null,
+ "nm|A death-defying meal with Bel Borba, Brazil, Brazil": null,
+ "nm|Life is like a boat, Brazil, Brazil": null,
+ "nm|Where fishermen eat, Brazil, Brazil": null,
+ "nm|Pléhcsárda, Budapest, Hungary": null,
+ "nm|Öreg Korössy Halászcsárda Restaurant, Budapest, Hungary": null,
+ "nm|Cookout with Charleston chefs, Charleston, United States": null,
+ "nm|Dinner on a Charleston fishing dock, Charleston, United States": null,
+ "mt|Mosquito Beach, James Island": {
+  "lat": 32.727677922129516,
+  "lng": -79.95564557611942,
+  "src": "maptiler"
+ },
+ "nm|Lupe Fiasco’s family home, Chicago, United States": null,
+ "nm|Village Fatimata, Congo, Democratic Republic of the Congo": null,
+ "nm|Dinner with a fixer, Congo, Democratic Republic of the Congo": null,
+ "nm|Squad 3 Fire Hall, Detroit, United States": null,
+ "nm|Turbo and tibs, at a local grocery store, Ethiopia, Ethiopia": null,
+ "nm|Dinner with Marcus Samuelsson’s family, Ethiopia, Ethiopia": null,
+ "mt|Gurage": {
+  "lat": 8.129192275317807,
+  "lng": 37.902890445461594,
+  "src": "maptiler"
+ },
+ "mt|65 Chemin de la Glacière, Argentière, 74400, France, (+33) 04 50 54 05 77": {
+  "lat": 47.30421822951199,
+  "lng": 3.6004836945808165,
+  "src": "maptiler"
+ },
+ "nm|Meal on the mountain, French Alps, France": null,
+ "mt|Chemin du Taro, 74400, Chamonix-Mont-Blanc, France": {
+  "lat": 45.927549667129334,
+  "lng": 6.877383333333341,
+  "src": "maptiler"
+ },
+ "nm|Maison Rosset, French Alps, France": null,
+ "mt|Lantau Island": {
+  "lat": 22.26335412102955,
+  "lng": 113.947609181992,
+  "src": "maptiler"
+ },
+ "mt|East Jerusalem": {
+  "lat": 30.514299154625387,
+  "lng": -89.66636203229427,
+  "src": "maptiler"
+ },
+ "mt|Ma’ale Levona": {
+  "lat": 32.05473177696503,
+  "lng": 35.24011690761154,
+  "src": "maptiler"
+ },
+ "mt|Eastern Gaza Strip": {
+  "lat": 6.44687711864054,
+  "lng": -0.3770964592695236,
+  "src": "maptiler"
+ },
+ "mt|Outside Gaza City": {
+  "lat": -26.03789863583745,
+  "lng": 28.177720494568348,
+  "src": "maptiler"
+ },
+ "mt|Makoko, Lagos, Nigeria": {
+  "lat": 6.495852672831128,
+  "lng": 3.392336592078209,
+  "src": "maptiler"
+ },
+ "mt|Olabode House, 217 Ikorodu Road, Ilupeju, Lagos, (+234) 807-538-5987": {
+  "lat": 6.616195180687878,
+  "lng": 3.5675036578053323,
+  "src": "maptiler"
+ },
+ "nm|Barakoda Restaurant, Libya, Libya": null,
+ "nm|Street vendor, Libya, Libya": null,
+ "nm|Beach barbecue, Libya, Libya": null,
+ "nm|Roadside vendor, Libya, Libya": null,
+ "mt|1 chemin de Calabert": {
+  "lat": 45.778615,
+  "lng": 4.766835000000015,
+  "src": "maptiler"
+ },
+ "nm|Bocuse’s hunting lodge, Lyon, France": null,
+ "nm|Boulud’s childhood home, Lyon, France": null,
+ "nm|Home of Haruo Konishi, Masa’s Japan, Japan": null,
+ "nm|Dinner at Masa Takayama’s family home, Masa’s Japan, Japan": null,
+ "nm|A bonfire at a mountain onsen resort, Masa’s Japan, Japan": null,
+ "mt|6 Masonic Place, Provincetown": {
+  "lat": 42.049979,
+  "lng": -70.18874599999998,
+  "src": "maptiler"
+ },
+ "mt|24 Federal Street, Greenfield": {
+  "lat": 42.588617,
+  "lng": -72.60004200000003,
+  "src": "maptiler"
+ },
+ "mt|353 Main Street, Greenfield": {
+  "lat": 42.587386,
+  "lng": -72.59927600000003,
+  "src": "maptiler"
+ },
+ "mt|2469 NW 62nd Street": {
+  "lat": 25.831567,
+  "lng": -80.23866599999997,
+  "src": "maptiler"
+ },
+ "mt|Boa Vista, Belo Horizonte": {
+  "lat": -19.907624588904486,
+  "lng": -43.893464833333326,
+  "src": "maptiler"
+ },
+ "mt|Glaura, Ouro Prêto": {
+  "lat": -20.392974393353303,
+  "lng": -43.504306711256504,
+  "src": "maptiler"
+ },
+ "nm|Café Tingis, Morocco, Morocco": null,
+ "nm|Street vendor, Morocco, Morocco": null,
+ "nm|Jajouka village dinner, Morocco, Morocco": null,
+ "nm|Garden party, Morocco, Morocco": null,
+ "nm|Min Lan Seafood Restaurant, Myanmar, Myanmar": null,
+ "nm|Taung Htate Pan Paint Restaurant (Wharf Bar), Myanmar, Myanmar": null,
+ "mt|Ladron Peak": {
+  "lat": 34.23636145841336,
+  "lng": -81.32936796886713,
+  "src": "maptiler"
+ },
+ "mt|Zia Pueblo": {
+  "lat": 35.506116545005405,
+  "lng": -106.72159809619188,
+  "src": "maptiler"
+ },
+ "mt|St. Pierre and Miquelon (a French archipelago about 15 miles south of Newfoundland)": {
+  "lat": 50.05227642757254,
+  "lng": -56.112142895921465,
+  "src": "maptiler"
+ },
+ "mt|Asunción": {
+  "lat": -25.280045843581142,
+  "lng": -57.634381614625454,
+  "src": "maptiler"
+ },
+ "nm|Boat dinner, Paraguay, Paraguay": null,
+ "mt|Streets of Asunción": {
+  "lat": -25.32020641733104,
+  "lng": -57.61537782847881,
+  "src": "maptiler"
+ },
+ "mt|Ranch outside Asunción": {
+  "lat": -25.32020641733104,
+  "lng": -57.61537782847881,
+  "src": "maptiler"
+ },
+ "mt|Pucusana": {
+  "lat": -12.481630635630667,
+  "lng": -76.79777462035418,
+  "src": "maptiler"
+ },
+ "nm|Lunch at a Peruvian market, Peru, Peru": null,
+ "nm|Don Fortunato’s home, Peru, Peru": null,
+ "nm|Don Elioberto’s home, Peru, Peru": null,
+ "mt|1884 Lions Club Rd, New Alexandria, Pennsylvania, PA 15670, (724) 668-9926": {
+  "lat": 40.392861,
+  "lng": -79.43908699999997,
+  "src": "maptiler"
+ },
+ "nm|Home Cooked, Pittsburgh, United States": null,
+ "nm|Bocce Ball Picnic, Pittsburgh, United States": null,
+ "mt|Calle Elisa Cerra 801, San Juan, Puerto Rico 00907, (787) 388-7434": {
+  "lat": 18.449114146362238,
+  "lng": -66.07946421951056,
+  "src": "maptiler"
+ },
+ "mt|P.O. Box 500, Vieques 00765": {
+  "lat": 18.123247586577975,
+  "lng": -65.42178831407557,
+  "src": "maptiler"
+ },
+ "mt|Alta Vega, Puerto Rico": {
+  "lat": 18.411986693968792,
+  "lng": -66.3301169872284,
+  "src": "maptiler"
+ },
+ "mt|Valle Costero, Puerto Rico": {
+  "lat": 4.259317026074746,
+  "lng": -75.81964910030365,
+  "src": "maptiler"
+ },
+ "nm|Home-cooked meal from chef Erica Connelly, Puerto Rico, Puerto Rico": null,
+ "nm|Meal on the water, Puerto Rico, Puerto Rico": null,
+ "nm|16 Tons Club, Russia, Russia": null,
+ "nm|The Grand Express night train, Russia, Russia": null,
+ "nm|The Loft Project, Russia, Russia": null,
+ "nm|Dinner at a communal apartment, Russia, Russia": null,
+ "nm|Alexander Lebedev’s home, Russia, Russia": null,
+ "mt|Letterewe": {
+  "lat": 57.68599845540472,
+  "lng": -5.435285344719887,
+  "src": "maptiler"
+ },
+ "nm|Er Guang Hundun, Shanghai, China": null,
+ "nm|Wedding, Shanghai, China": null,
+ "nm|Liang Lu Kou Huo Guo, Sichuan, China": null,
+ "nm|A meal with a riverside view, Sichuan, China": null,
+ "nm|Lunch at the house of Tomaso’s mother, Sicily, Italy": null,
+ "nm|SuperTree by IndoChine, Singapore, Singapore": null,
+ "mt|531A Upper Cross Street, 051531": {
+  "lat": 1.285437,
+  "lng": 103.84588200000007,
+  "src": "maptiler"
+ },
+ "mt|396 East Coast Road, Singapore 428994": {
+  "lat": 1.3087981286873165,
+  "lng": 103.91128778457642,
+  "src": "maptiler"
+ },
+ "mt|2442 Langa Road, Rockville, Soweto, Johannesburg": {
+  "lat": -26.222777681669875,
+  "lng": 27.88999993354082,
+  "src": "maptiler"
+ },
+ "mt|73 Juta St., Johannesburg, 2000, South Africa, (+27) 81 416 2605": {
+  "lat": -26.834300679516872,
+  "lng": 30.626132849502483,
+  "src": "maptiler"
+ },
+ "nm|Mazondi Restaurant Zwangobani, South Africa, South Africa": null,
+ "nm|Nonna Maria’s home, Southern Italy, Italy": null,
+ "nm|Beach Picnic, Southern Italy, Italy": null,
+ "nm|Marc Savoy’s family home, Southern Louisiana, United States": null,
+ "mt|Grand Coteau": {
+  "lat": 30.420236416172813,
+  "lng": -92.04378191659396,
+  "src": "maptiler"
+ },
+ "nm|The Miller residence, Southern Louisiana, United States": null,
+ "nm|Lunch outdoors in Granada, Spain, Spain": null,
+ "nm|Group dinner, Spain, Spain": null,
+ "mt|Galleface Green, Colombo, Sri Lanka 00200, (+94) 77 544 4844": {
+  "lat": 7.298153501164576,
+  "lng": 81.86134994909082,
+  "src": "maptiler"
+ },
+ "mt|2 Galle Rd, Colombo 0300, Sri Lanka, (+94) 11 254 1010": {
+  "lat": 6.938861515642086,
+  "lng": 79.85420040786266,
+  "src": "maptiler"
+ },
+ "mt|Jaffna, Sri Lanka": {
+  "lat": 9.665093226240407,
+  "lng": 80.00930283218622,
+  "src": "maptiler"
+ },
+ "nm|Lake Masek picnic, Tanzania, Tanzania": null,
+ "mt|House 48, Shangani St., Stone Town 3661, Tanzania, (+255) 773 164 939": {
+  "lat": -6.5247120131652645,
+  "lng": 35.78784350305796,
+  "src": "maptiler"
+ },
+ "nm|A cool drink with a biologist, Tanzania, Tanzania": null,
+ "mt|Patio of the Museum of Georgian Literature, 8 Gia Chanturia St., 0108 Tbilisi, Georgia, (+995) 592 68 11 66": {
+  "lat": 32.32938115792396,
+  "lng": -83.11373680830002,
+  "src": "maptiler"
+ },
+ "nm|Drinks with metal band Merging Moon, Tokyo, Japan": null,
+ "mt|Ciudadela 1182, Montevideo": {
+  "lat": -34.909624,
+  "lng": -56.20005400000002,
+  "src": "maptiler"
+ },
+ "mt|Acevedo Díaz 1135, Montevideo, +598 94 501 767": {
+  "lat": -34.90589143967953,
+  "lng": -56.191309578716755,
+  "src": "maptiler"
+ },
+ "nm|An Uruguayan-Italian family meal, Uruguay, Uruguay": null,
+ "mt|Valentine": {
+  "lat": 42.87389186350102,
+  "lng": -100.55007237051115,
+  "src": "maptiler"
+ },
+ "nm|El México de Ayer, West Texas, United States": null,
+ "mt|Marathon": {
+  "lat": 24.71375266385095,
+  "lng": -81.09035141766071,
+  "src": "maptiler"
+ },
+ "mt|Marfa": {
+  "lat": 30.31176225781026,
+  "lng": -104.02314629405737,
+  "src": "maptiler"
+ },
+ "nm|A welcoming Italian (?) meal, West Virginia, United States": null,
+ "nm|A sitdown with the men behind coal, West Virginia, United States": null,
+ "nm|A backyard barbecue and shooting range shenanigans, West Virginia, United States": null,
+ "nm|A fresh squirrel and some real talk, West Virginia, United States": null,
+ "mt|Ipanema Beach, Rio de Janeiro, Brazil": null,
+ "mt|No. 44 Ma Po St., Myenigone, Sanchaung Township, Yangon, (+95) 1 535 564": null,
+ "mt|Avea Rahi Motu, French Polynesia": null,
+ "mt|Zhongyang Dajie, Harbin, China": null,
+ "mt|Yu Lin Dong Jie, RenMin NanLu NanYan Xian XiuXian CanYin YiTiao Jie, Wuhou Qu, Chengdu Shi, Sichuan Sheng, China, 610041, +86 28 8557 4180": null,
+ "mt|Avenida Independencia, Santo Domingo, Dominican Republic": null,
+ "mt|Tripoli": null,
+ "mt|Wuhou District, Chengdu 610041, China": null,
+ "nm|Xiaojing Sifangcai, Asia Special: China & Japan, China": null,
+ "mt|No.48 South Renmin Road, Chengdu, China": null,
+ "nm|Lazy Pug, Asia Special: China & Japan, China": null,
+ "mt|BinJiang East Road 9, Chengdu 610021, China": null,
+ "nm|Shang Palace, Asia Special: China & Japan, China": null,
+ "mt|West Jade Dragon St, Chengdu 610015, China": null,
+ "nm|Chen Mapo Tofu, Asia Special: China & Japan, China": null,
+ "mt|Tenente Valadim, 9 9900-027 Horta, Faial Island": null,
+ "nm|Peter's Cafe Sport, Azores, Faial Island": null,
+ "mt|Caminho de Concelho, 143, Sao Miguel Island": null,
+ "nm|Pasto Do For, Azores, Sao Miguel Island": null,
+ "mt|Rue De Damas, Beirut": null,
+ "nm|M. Sahyoun Falafel, Beirut, Beirut": null,
+ "mt|Gouraud St., Gemayze, Beirut": null,
+ "nm|Dragonfly Bar, Beirut, Beirut": null,
+ "nm|Le Chef Restaurant, Beirut, Beirut": null,
+ "mt|Makaad el Mir Batroun, Lebanon": null,
+ "nm|Chez Maguy, Beirut, Lebanon": null,
+ "mt|Mision de San Javier 10643, Zona Urbana Rio Tijuana, Tijuana, B.C. Mexico C.P. 22010": null,
+ "nm|Mision 19, Baja, B.C. Mexico C.P.": null,
+ "mt|Wilmersdorfer Str.145/46, 10585 Berlin-Charlottenburg": null,
+ "nm|Rogacki Gourmet Deli, Berlin, BerlinCharlottenburg": null,
+ "mt|Schonhauser Allee 44a, Berlin 13158, Germany": null,
+ "nm|Konnopke's Imbiss, Berlin, Germany": {
+  "lat": 52.5404746,
+  "lng": 13.412219,
+  "src": "nominatim"
+ },
+ "mt|Kastanienallee 7-9, 10435 Berlin, Germany": null,
+ "nm|Prater Garden, Berlin, Germany": null,
+ "mt|Adalbertstrasse 10, 10999 Berlin, Germany": null,
+ "nm|Hasir Kreuzberg, Berlin, Germany": {
+  "lat": 52.5008964,
+  "lng": 13.4191851,
+  "src": "nominatim"
+ },
+ "mt|Av. Manoel Ribas, 6121, Curitiba - PR, 82400-000, Brazil": null,
+ "nm|Restaurante Dom Antonio, Brazil, United States": null,
+ "mt|Av. Duque de Caxias, 994-1132, Marco, 66093-400, Brazil": null,
+ "nm|Tacaca da Duque, Brazil, Brazil": null,
+ "mt|14 Place de l'Hôtel de Ville, 89310 Noyers-sur-Serein": null,
+ "nm|Maison Paillot, Burgundy, NoyerssurSerein": null,
+ "mt|71 Route Nationale, Morey-Saint-Denis": null,
+ "nm|Le Relais des Grands Crus, Burgundy, MoreySaintDenis": null,
+ "mt|Tonle Sap Rd, Chroy Changva, Phnom Penh, Cambodia": null,
+ "nm|Maxine's, Cambodia, Cambodia": null,
+ "mt|#42EO, St 182, Phnom Penh, Cambodia": null,
+ "nm|Orussey Restaurant, Cambodia, Cambodia": null,
+ "mt|Kingstown, Saint Vincent and Grenadines": null,
+ "nm|Earl's Rum Shop, Caribbean Island Hopping, Saint Vincent and Grenadines": null,
+ "mt|Union Island, Saint Vincent and Grenadines": null,
+ "nm|Chatham Bay, Caribbean Island Hopping, Saint Vincent and Grenadines": null,
+ "mt|A. Smareglie bb, 52210 Rovinj, Croatia": null,
+ "nm|Wine Vault Restaurant, Croatian Coast, Croatia": null,
+ "mt|Playa Rincon, Dominican Republic": null,
+ "nm|Daniel's, Dominican Republic, Dominican Republic": null,
+ "mt|Calle Cesar Augusto Roque, Santo Domingo, Dominican Republic": null,
+ "nm|Chimi El Caco, Dominican Republic, Dominican Republic": null,
+ "mt|E 66, Dubai, United Arab Emirates": null,
+ "nm|Al Bait al Baghdadi, Dubai, United Arab Emirates": null,
+ "mt|126 Azhar St., Al-Hussein, Cairo, Egypt": null,
+ "nm|Farahat Restaurant, Egypt, Egypt": null,
+ "mt|16 Maarouf and Shamplion St., Wust al Balad, Cairo": null,
+ "nm|Abu Tarek Koshary Restaurant, Egypt, Cairo": null,
+ "mt|South of Opera Square, Ataba, Cairo": null,
+ "nm|Mohamed Moustafa Ashour Foul Stall, Egypt, Cairo": null,
+ "mt|Via dell'Indipendenza, 24, 40121 Bologna, Italy": null,
+ "nm|Ristorante Diana, Emilia Romana, Italy": null,
+ "mt|Strada Palazzo due Torri, 3, 43010 Polesine Parmense Parma, Italy": null,
+ "nm|Antica Corte Pallavicina, Emilia Romana, Italy": {
+  "lat": 45.0213878,
+  "lng": 10.0855904,
+  "src": "nominatim"
+ },
+ "mt|Tamanu, Punaauia, Papeete 97718, French Polynesia": null,
+ "nm|Le Meridien Tahiti, French Polynesia, French Polynesia": null,
+ "mt|Motu Ome'e, 98730 , French Polynesia": null,
+ "nm|The St. Regis Bora Bora Resort, French Polynesia, French Polynesia": null,
+ "mt|Koilomenos, Zakynthos Greece": null,
+ "nm|Alitzarini Restaurant, Greek Islands, Zakynthos Greece": null,
+ "mt|Neoria, Chania 73100, Greece": null,
+ "nm|Neoria Seaside Taverna, Greek Islands, Greece": null,
+ "mt|Bougatsa Chania, Apokoronou 37, 74100 Chania, Crete": null,
+ "nm|Bougatsa Hanion, Greek Islands, Crete": null,
+ "mt|9, Rue Faubert, Petionville, Haiti": null,
+ "nm|Patisserie Marie Beliard, Haiti, Haiti": null,
+ "mt|#7 Bethesda, Tabarre 48, Haiti": null,
+ "nm|Pizza Amour, Haiti, Haiti": null,
+ "mt|39 Zhongyang Ave, Harbin, China": null,
+ "nm|Dongfang Jiaozi Wang, Harbin, China, China": null,
+ "mt|18 Hongxiang Rd Nangang, Harbin, Heilongjiang": null,
+ "nm|Bai Yi Da Di Guo, Harbin, China, Heilongjiang": null,
+ "mt|Temple Street, Yaumatei (46-58 Arthur Street)": null,
+ "nm|Four Seasons Claypot Restaurant, Hong Kong, Yaumatei ( Arthur Street)": null,
+ "mt|99 Java Road, North Point, Cooked Food Center": null,
+ "nm|Tung Po Seafood Restaurant, Hong Kong, Cooked Food Center": null,
+ "mt|1000 State Rt. 213, Kingston, NY": {
+  "lat": 41.898326,
+  "lng": -74.01800200000002,
+  "src": "maptiler"
+ },
+ "mt|Aoalstraeti 12, 101 Reykjavik, Iceland": null,
+ "nm|Fiskmarkaorinn, Iceland: Hello Darkness My Old Friend, Iceland": null,
+ "mt|Tryggvagotu 1, Reykjavik 101, Iceland": null,
+ "nm|Baejarins Beztu Pylsur, Iceland: Hello Darkness My Old Friend, Iceland": null,
+ "mt|Vatnsmyravegi 10": null,
+ "nm|Fljott go Gott, Iceland: Hello Darkness My Old Friend, Vatnsmyravegi": null,
+ "mt|Jl Ngesrep Timur V No 54 B": null,
+ "nm|Rumah Makan Padang Carano, Indonesia, Jl Ngesrep Timur V No  B": null,
+ "mt|46 Great Victoria Street, Belfast, BT2 7BA": null,
+ "nm|Crown Saloon, Ireland, BT BA": null,
+ "mt|Siraselviler Caddesi No. 6 Taksim, Istanbul, Turkey": null,
+ "nm|Kizilkayalar, Istanbul, Turkey": null,
+ "mt|Iftaiye Cad No. 27 Fatih, Istanbul, Turkey": null,
+ "nm|Sur Ocakbasi, Istanbul, Turkey": {
+  "lat": 41.0172902,
+  "lng": 28.9548596,
+  "src": "nominatim"
+ },
+ "mt|Yamashiro Onsen Yunogawa, Kaga City, Ishikawa": null,
+ "nm|Araya Totoan, Japan: Cook It Raw, Ishikawa": null,
+ "mt|Hinoya town, Kaga City, Ishikawa, Japan": null,
+ "nm|Satoyama, Japan: Cook It Raw, Japan": null,
+ "mt|25-16 Sakuragaokacho, Shibuya, Tokyo 150-0031": null,
+ "nm|Lawson, Japan: Cook It Raw, Tokyo": null,
+ "mt|Jiyugaoka 1-11-5, Meguro-ku, Tokyo": null,
+ "nm|Hosokaya, Japan: Cook It Raw, Tokyo": null,
+ "mt|Yurakucho 2-1-10, Chiyoda-ku, Tokyo": null,
+ "nm|Tonton, Japan: Cook It Raw, Tokyo": null,
+ "mt|4-72 Onomachi, Kanazawa, Ishikawa Prefecture": null,
+ "nm|Hosho Sushi, Japan: Cook It Raw, Ishikawa Prefecture": null,
+ "mt|North 7-jo East 9-chome, Higashi-ku, Sapporo, Japan": null,
+ "nm|Sapporo Bier Garten, Japan, Japan": null,
+ "mt|South 8, West 14, Chuo-ku, Sapporo, Japan": null,
+ "nm|Okushiba Shoten Soup Curry, Japan, Japan": null,
+ "mt|13441 Holmes Rd, Kansas City, MO": {
+  "lat": 38.882732,
+  "lng": -94.58615500000002,
+  "src": "maptiler"
+ },
+ "mt|3001 Merriam Lane, Kansas City, KS": {
+  "lat": 39.045573,
+  "lng": -94.66248000000002,
+  "src": "maptiler"
+ },
+ "mt|3002 W 47th Ave, Kansas City, KS": {
+  "lat": 39.044454,
+  "lng": -94.62076000000002,
+  "src": "maptiler"
+ },
+ "mt|5800 Blue Parkway, Kansas City, MO": {
+  "lat": 39.034817,
+  "lng": -94.51750500000003,
+  "src": "maptiler"
+ },
+ "mt|600 Southwest Blvd, Kansas City, KS": {
+  "lat": 39.065844,
+  "lng": -94.61622399999999,
+  "src": "maptiler"
+ },
+ "mt|TM Muhammad Rd, Fort Kochi, Kochi, KL 682001, India": null,
+ "nm|Casa Linda, Kerala, India, United States": null,
+ "mt|316-5 Hangangro 2ga, Yongsan-gu, Seoul": null,
+ "nm|Hangang, Korea, Seoul": null,
+ "mt|620-7 Jeongok-ri, Seoul": null,
+ "nm|Hantan River Fish Restaurant, Korea, Seoul": null,
+ "mt|118-3 Samcheong-dong, Jongro-gu, Seoul": null,
+ "nm|Yong Su San, Korea, Seoul": null,
+ "mt|85-1 Chaebu-dong, Jongno-gu, Seoul": null,
+ "nm|To Sok Chon, Korea, Seoul": null,
+ "mt|Erbil, Kurdistan, Iraq": null,
+ "nm|Abu Shahab Restaurant, Kurdistan, Iraq": null,
+ "mt|Mardin Merkez, Birnici Cad.": null,
+ "nm|Cercis Murat Konagi, Kurdistan, Birnici Cad.": null,
+ "nm|Erbil Bazaar, Kurdistan, Iraq": null,
+ "mt|60th Street, Erbil, Iraq": null,
+ "nm|Zahle, Kurdistan, Iraq": null,
+ "mt|Sethathirat Rd, Chanthabouly District, Vientiane 01000, Laos": null,
+ "nm|Makphet Restaurant, Laos, Laos": null,
+ "mt|River Road, Vang Vieng, Laos": null,
+ "nm|Kangaroo Sunset Bar, Laos, Laos": null,
+ "mt|Rue 24 no 91, Pakse, Laos": null,
+ "nm|Dok Mai, Laos, Laos": null,
+ "mt|Main Road, Luang Namtha, Laos": null,
+ "nm|Zuela Restaurant, Laos, Laos": null,
+ "mt|Center St, city centre, Monrovia, Liberia": null,
+ "nm|Diana Restaurant, Liberia, Liberia": null,
+ "mt|Calcada Marques de Abrantes, 92 Santos District, Lisbon": null,
+ "nm|Restaurante Alma, Lisbon, Lisbon": null,
+ "mt|Rua Nova do Carvalho 44, Bairro Alto, Lisbon": null,
+ "nm|Sol e Pesca, Lisbon, Lisbon": null,
+ "mt|London Central Markets, London, EC1A 9LH": null,
+ "nm|The Cock Tavern, London & Edinburgh, ECA LH": null,
+ "mt|78 Commercial St., Edinburgh, EH6 6LX": null,
+ "nm|The Kitchin, London & Edinburgh, EH LX": null,
+ "mt|94-96 Commercial St., London E1 6LZ": null,
+ "nm|St. John Bread and Wine, London & Edinburgh, London E LZ": null,
+ "mt|Calle de Colon, 13, 28004 Madrid, Spain": null,
+ "nm|Bodega de la Ardosa, Madrid, Spain": {
+  "lat": 40.4237686,
+  "lng": -3.7017746,
+  "src": "nominatim"
+ },
+ "mt|Calle de Dona Barbara de Braganza, 2, 28004 Madrid, Spain": null,
+ "nm|La Cabrera, Madrid, Spain": null,
+ "mt|Kampu Baroon": null,
+ "nm|General Street Food, Malaysia: Into The Jungle, Kampu Baroon": null,
+ "mt|1106 W PARK ST, Livingston, MT": {
+  "lat": 45.654766,
+  "lng": -110.57229999999998,
+  "src": "maptiler"
+ },
+ "mt|Mozambique Island": null,
+ "nm|O Paladar, Mozambique, Mozambique Island": null,
+ "mt|Maputo, Mozambique": null,
+ "nm|Mercado do Peixe, Mozambique, Mozambique": null,
+ "mt|Avenida Julius Nyerere, 698, Maputo, Mozambique": null,
+ "nm|Cafe Royale, Mozambique, Mozambique": null,
+ "mt|Piazza San Domenico Maggiore 19, 80134 Napoli, Italy": null,
+ "nm|Scaturchio, Naples, Italy": {
+  "lat": 40.8454524,
+  "lng": 14.22777,
+  "src": "nominatim"
+ },
+ "mt|Via Basilio Puoti 8, Napoli, Italy": null,
+ "nm|La Taverna del Buongustaio, Naples, Italy": null,
+ "mt|322 Victory Blvd., Staten Island, NY": {
+  "lat": 40.634197,
+  "lng": -74.08537100000001,
+  "src": "maptiler"
+ },
+ "mt|36 Boulevard Victor Hugo, 13210 St-Remy-de-Provence": null,
+ "nm|Les Ateliers de l'Image, Provence, StRemydeProvence": null,
+ "mt|Route de Cavaillon, 13210 St-Remy-de-Provence": null,
+ "nm|Quartier la Galine, Provence, StRemydeProvence": null,
+ "mt|13210 St-Remy-de-Provence": null,
+ "nm|La Taberna Romana, Provence, StRemydeProvence": null,
+ "mt|2 Place de la Republique, 13210 St-Rémy-de-Provence": null,
+ "nm|Bar du Marche, Provence, StRémydeProvence": null,
+ "mt|Prainha Beach, Rio de Janeiro, Brazil": null,
+ "nm|Mirante Da Prainha, Rio de Janeiro, Brazil": {
+  "lat": -23.0430446,
+  "lng": -43.5077954,
+  "src": "nominatim"
+ },
+ "mt|Majestic Hotel, Via Veneto, Roma, Italy": null,
+ "nm|Filipo La Mantia, Rome, Italy": null,
+ "mt|Piazza di San Calisto, 7/a, Roma, Italy": null,
+ "nm|Ristorante Paris, Rome, Italy": {
+  "lat": 41.8889238,
+  "lng": 12.4707264,
+  "src": "nominatim"
+ },
+ "mt|Via del Portico d'Ottavia, 16, Roma, Italy": null,
+ "nm|Nonna Betta e il Giardino Romano, Rome, Italy": null,
+ "mt|Moscow, 1st Tverskaya-Yamskay, 3": null,
+ "nm|Gorki Restaurant, Russia, st TverskayaYamskay": null,
+ "mt|Noviy Arbat, 22, Moscow 119019, Russia": null,
+ "nm|Twenty-Two, Russia, Russia": null,
+ "mt|Lavrushinsky per., 15, str. 1, Moscow, Russia": null,
+ "nm|Sok Cafe, Russia, Russia": null,
+ "mt|Kozhevnicheskaya St, 3 build 1, Moscow, Russia": null,
+ "nm|Wokker, Russia, Russia": null,
+ "mt|Loc. Sedda e Ortai Monte Ortobene, (8100) Nuoro, Italy": null,
+ "nm|Agriturismo Roccas, Sardinia, Italy": null,
+ "mt|Via a Mereu 28, 36, Nuoro, Sardinia, Italy": null,
+ "nm|Il Rifugio, Sardinia, Italy": {
+  "lat": 40.3197052,
+  "lng": 9.3354205,
+  "src": "nominatim"
+ },
+ "mt|The Souk Market in the Old Town, Jeddah": null,
+ "nm|Abu Abdullah's, Saudi Arabia, Jeddah": null,
+ "mt|Corniche Road, Palm Gardens, Jeddah, Saudi Arabia": null,
+ "nm|Al Nakheel, Saudi Arabia, Saudi Arabia": null,
+ "mt|Amir Sultan Street, Jeddah, Saudi Arabia": null,
+ "nm|19th Century Burger, Saudi Arabia, Saudi Arabia": null,
+ "mt|Quyang Rd, Hongkou, China": null,
+ "nm|Yang's Fry Dumplings, Shanghai, China": null,
+ "mt|85 Yuyuan Road,(2nd Flr) Huangpu, Shanghai": null,
+ "nm|Nan Xiang Steamed Bun Restaurant, Shanghai, Shanghai": null,
+ "mt|No.328 Jian Guo West Road, Shanghai 200031, China": null,
+ "nm|Jian'guo 328 Xiaoguan, Shanghai, China": null,
+ "mt|Huanghe Lu, Shanghai, China": null,
+ "nm|Jia Jia Tang Bao, Shanghai, China": {
+  "lat": 31.236418,
+  "lng": 121.4663129,
+  "src": "nominatim"
+ },
+ "mt|Via Volturno, Palermo, Italy": null,
+ "nm|Mercato di Capo (Market), Sicily, Italy": null,
+ "mt|Via Giudecca, 32, 91100 Trapani, Italy": null,
+ "nm|Trattoria Cantina Siciliana Giuseppe, Sicily, Italy": null,
+ "mt|Alessi 15 /17, 95100 Catania, Sicily, Italy": null,
+ "nm|Nievski Pub, Sicily, Italy": {
+  "lat": 37.5037894,
+  "lng": 15.0852994,
+  "src": "nominatim"
+ },
+ "mt|Via XX Luglio 11, Panzano in Chianti (Florence)": null,
+ "nm|Antica Macelleria Cecchini, Singapore, Panzano in Chianti (Florence)": null,
+ "mt|Viale XX Settembre, Radda in Chianti, Italy": null,
+ "nm|Pizza Pie, Singapore, Italy": null,
+ "mt|Route 453 (Eutawville Rd.) Holly Hill, SC": {
+  "lat": 33.324464824700875,
+  "lng": -80.41297202058024,
+  "src": "maptiler"
+ },
+ "mt|810 Pinckney St, McClellanville, Charleston, SC": {
+  "lat": 33.08705611704122,
+  "lng": -79.46090206503868,
+  "src": "maptiler"
+ },
+ "mt|Princesa 53, 08003 Barcelona, Spain": null,
+ "nm|Espai Sucre, Spain, Spain": null,
+ "mt|Poeta CabanYes, 25, Barcelona, CT 08004 Spain": null,
+ "nm|Quimet & Quimet, Spain, United States": null,
+ "mt|Various locations across Sweden": null,
+ "nm|Maxi Grillen, Sweden, Various locations across Sweden": null,
+ "mt|236 Jersey Rd, Woollahra NSW 2025": null,
+ "nm|Lord Dudley, Sydney, Woollahra NSW": null,
+ "mt|393-399 Sussex St, Chinatown, Sydney NSW 2000": null,
+ "nm|Golden Century Seafood Restaurant, Sydney, Sydney NSW": null,
+ "mt|358 Cleveland St, Surry Hills NSW 2010": null,
+ "nm|Lanie Lane, Sydney, Surry Hills NSW": null,
+ "mt|65 Ocean St, Woollahra NSW 2025": null,
+ "nm|Chiswick Restaurant, Sydney, Woollahra NSW": null,
+ "nm|Porteno Restaurant, Sydney, Surry Hills NSW": null,
+ "mt|139 Moo 4 Nong Pakrung, Amphur Muang, Chiang Mai 50000, Thailand": null,
+ "nm|Khum Khantoke Restaurant, Thailand, Thailand": null,
+ "mt|190 Silom Rd., Bangkok 10500, Thailand": null,
+ "nm|Sky Bar, Thailand, Thailand": null,
+ "mt|15/3 Nimmanhemin Road, Suthep, Chiang Mai 50200, Thailand": null,
+ "nm|Ristr8to Coffee, Thailand, Thailand": null,
+ "mt|200/3 Moon Muang Soi 6, Rachapakinai Road, Sriphoom, Chiang Mai 50200, Thailand": null,
+ "nm|Vigie Sist Cafe, Thailand, Thailand": null,
+ "mt|3-11-4 Motoazabu, Minato-ku, Azabujuban District": null,
+ "nm|Sarashina Horii, Tokyo, Azabujuban District": null,
+ "mt|3-11-13 Hatanodai, Shinagawa-ku, Tokyo": null,
+ "nm|Toriki, Tokyo, Tokyo": null,
+ "mt|1-25-10 Shibuya, Shibuya, Tokyo": null,
+ "nm|Piano Bar, Tokyo, Tokyo": null,
+ "mt|(B1 Tsukamoto Bldg.) 4-2-15 Ginza, Chuo-ku, Tokyo": null,
+ "nm|Sukiyabashi Jiro, Tokyo, Tokyo": null,
+ "mt|Bakhchisaray, Crimea, Ukraine": null,
+ "nm|Salachick, Ukraine, Ukraine": null,
+ "mt|Nazukina St, 8, Sevastopol' city, Ukraine": null,
+ "nm|Tatyanin Mys, Ukraine, Ukraine": null,
+ "mt|Gorkogo St., 21, Bakhchisaray 98400, Ukraine": null,
+ "nm|Cafe Musafir, Ukraine, Ukraine": null,
+ "mt|Pasaje Balbanera, Mexico City": null,
+ "nm|Tortas Been, US / Mexico Border, Mexico City": null,
+ "mt|Halim Ibodov 5, Bukhara, Uzbekistan": null,
+ "nm|Silk Road Tea House, Uzbekistan, Uzbekistan": null,
+ "mt|Ulitsa Khakikat 1A, Bukhara 200100, Uzbekistan": null,
+ "nm|Cafe Wishbone Bukhara, Uzbekistan, Uzbekistan": null,
+ "mt|Old Town 1st trading dome, Bukhara 200118, Uzbekistan": null,
+ "nm|Minzifa, Uzbekistan, Uzbekistan": null,
+ "mt|Calle della Madonna San Polo 561B Venice, Italy": null,
+ "nm|Al Diavolo e L'Acqua Santa, Venice, Italy": null,
+ "mt|Wollzeile 38, 1010 Vienna, Austria": null,
+ "nm|Plachutta Restaurant, Vienna, Austria": {
+  "lat": 48.2075481,
+  "lng": 16.378755,
+  "src": "nominatim"
+ },
+ "mt|Neustiftgasse 51, 1070 Vienna, Austria": null,
+ "nm|Wratschko Restaurant, Vienna, Austria": null,
+ "mt|Bognergasse 5, 1010 Vienna, Austria": null,
+ "nm|Zum Schwarzen Kameel, Vienna, Austria": {
+  "lat": 48.2099948,
+  "lng": 16.3683168,
+  "src": "nominatim"
+ },
+ "mt|Hoher Markt 4, 1010 Vienna, Austria": null,
+ "nm|Wurstelstand Hoher Markt, Vienna, Austria": {
+  "lat": 48.211214,
+  "lng": 16.3723159,
+  "src": "nominatim"
+ },
+ "mt|Quan 46A Dinh Cong Trang, District 1, Ho Chi Minh City, Vietnam": null,
+ "nm|Banh Xeo Vietnamese Pancake, Vietnam: Central Highlands, Vietnam": null,
+ "mt|25 Ng The Minh Khai, District 1, Ho Chi Minh City, Vietnam": null,
+ "nm|Bac Hai, Vietnam: Central Highlands, Vietnam": null,
+ "mt|128 Cua Dai Hoi An, Hoi An Town, Vietnam": null,
+ "nm|Thi Nhan Restaurant, Vietnam: Central Highlands, Vietnam": null,
+ "mt|14 Ky Dong Street, District 3, Ho Chi Minh City, Vietnam": null,
+ "nm|Bun Oc Thanh Hai, Vietnam: Central Highlands, Vietnam": null,
+ "mt|22 Ta Hien Street, Old Quarter, Hanoi 10000, Vietnam": null,
+ "nm|Essence Cafe & Restaurant, Vietnam: The Island of Mr. Sang, Vietnam": null,
+ "mt|47 Lo Su,| Hoan Kiem District, Hanoi 100555, Vietnam": null,
+ "nm|Namaste Hanoi, Vietnam: The Island of Mr. Sang, Vietnam": null,
+ "mt|10 Pushkin Street, Yerevan, +374 10 561354": null,
+ "mt|Dilijan, Armenia": null,
+ "mt|23 VV-10, Villaviciosa": null,
+ "mt|Asturias": null,
+ "mt|Warschauer Strasse 64": null,
+ "mt|Punakha District": null,
+ "mt|Rua Amparo do Tororo, 157, Salvador, Bahia, (+55) 71 99160 8933": null,
+ "mt|Embercosa, SSA-BA, Salvador, Bahia, (+71) 81 0058 42": null,
+ "mt|Salvador, Brazil": null,
+ "mt|1155 Budapest, Kolozsvár u. 48, (+36) 30-335-0300": null,
+ "mt|6723 Szeged, Sárga Üdülotelep 262, (+36) 62-495-481": null,
+ "mt|Goma": null,
+ "mt|Kisangani": null,
+ "mt|Addis Ababa": null,
+ "mt|Passaggio Rosset, 1, 11020 Nus AO, Italy, (+39) 01 65 76 71 76": null,
+ "mt|Misrata": null,
+ "mt|Yamanaka Onsen": null,
+ "mt|Nasushiobara": null,
+ "mt|Rue Almohades": null,
+ "mt|16 Parami Road, Mayangone Township, Yangon, (+95) 9 253 042456": null,
+ "mt|Corner of Aung Yadanat Street and Hledan Street, Yangon": null,
+ "mt|Nueva Burdeos": null,
+ "mt|Marañón Canyon": null,
+ "mt|Rublevka, Moscow": null,
+ "mt|Gao Xin Qu Zizhu Bei Jie 2 Hao, +86 28 8513 0279": null,
+ "mt|Long Teng Dong Jie (close to the Qingshui River)": null,
+ "mt|18 Marina Gardens Drive, #03-01, Gardens by the Bay, 018953, (+65) 6694 8489": null,
+ "mt|Ojinaga": null,
+ "nm|The Cliffs Preserve Patagonia, Chile": null,
+ "nm|Abundant Seafood, United States": null,
+ "nm|Toca do Bonde, Brazil": null,
+ "nm|Barraca do Uruguay, Brazil": null,
+ "nm|Crossing Boat Restaurant, China": null,
+ "nm|Zora Culinária Afro-Mineira, Brazil": null,
+ "nm|Nicaragüita Iris, Nicaragua": null,
+ "nm|Baho Tradicional, Nicaragua": null,
+ "nm|El Vaquero, Nicaragua": {
+  "lat": 12.9267386,
+  "lng": -85.9185405,
+  "src": "nominatim"
+ },
+ "nm|La Fritanga Buñuelo, Nicaragua": null,
+ "nm|Carnicería Valle de Flores, Nicaragua": null,
+ "nm|Congo Restaurant & Resort, Panama": null,
+ "nm|Comidas Benedicta, Panama": null,
+ "nm|Feeney’s Restaurant & Bar, Oman": null,
+ "nm|Seatown Seabar & Rotisserie, United States": null,
+ "nm|Mo’s Crab and Pasta Factory, United States": null,
+ "nm|Haj Mahmoud Beryani, Iran": null,
+ "nm|Claythorne Lodge, United States": null,
+ "nm|Pank Resort, Rawanduz, Iraq, Iraq": null,
+ "nm|Private Family Meal, Barzan, Iraq, Iraq": null,
+ "nm|Private Meals, Mardin, Turkey, Iraq": null,
+ "nm|Verre at the Hotel Hilton Dubai, United Arab Emirates": null,
+ "nm|Titan Missile Museum, United States": {
+  "lat": 31.9026682,
+  "lng": -110.999218,
+  "src": "nominatim"
+ },
+ "nm|“Dockside Karaoke Joint on the Malay side of town”, Malaysia": null,
+ "nm|Spots Bourdain Visited in Borneo, Malaysia": null,
+ "nm|Food Stands, Mexico": {
+  "lat": 20.9665048,
+  "lng": -89.6206492,
+  "src": "nominatim"
+ },
+ "nm|Beach Barbeque, Mexico": null,
+ "nm|Carlos and Virginia’s Farm, Portugal": null,
+ "nm|Furnas, Portugal": null,
+ "nm|São Jorge, Portugal": null,
+ "nm|Blue Hill/Stone Barn, United States": null,
+ "nm|D’Artagnan, United States": null,
+ "nm|Private Family Meal, United States": null,
+ "nm|New Rifka Catering, Spain": null,
+ "nm|Barefoot Café, Spain": null,
+ "nm|Hotel De Pilawoos, Spain": null,
+ "nm|Foundation of Goodness, Spain": null,
+ "nm|Private Family Gathering, Spain": null,
+ "nm|Nana’s King Beach Side Food, Spain": null,
+ "nm|Vits Food, Spain": null,
+ "nm|भेंडी बाजार, India": null,
+ "nm|Natraj Hotel, India": {
+  "lat": 15.4542233,
+  "lng": 75.0100029,
+  "src": "nominatim"
+ },
+ "nm|Roadside Stop, India": null,
+ "nm|Marudhar Bhojnalya, India": null,
+ "nm|Rainbow Solitaire Houseboat, India": null,
+ "nm|Pivovar Kout na Sumave, Czech Republic": null,
+ "nm|Leitaria I Son (Now Yee Shun Milk Company), Macau": null,
+ "nm|Anonymous Routier, France": null,
+ "nm|Maison Picard Traiteur, France": null,
+ "nm|Maison Ilan, France": {
+  "lat": 48.242441,
+  "lng": -1.5629409,
+  "src": "nominatim"
+ },
+ "nm|Sprecher’s Brew, United States": null,
+ "nm|CF Food Court, Malaysia": null,
+ "nm|Kampung Baru Night Market, Malaysia": null,
+ "nm|Steam Fish Head Food Stall KL Chong Yen, Malaysia": null,
+ "nm|Aunty Aini’s Kampung Cafe, Malaysia": null,
+ "nm|Wong Ah Wah at Jalan Alor, Malaysia": null,
+ "nm|Napa Saekou’s Guest House, Thailand": null,
+ "nm|Country Village, Thailand": null,
+ "nm|May Yon Village/Him Tang, Thailand": null,
+ "nm|Larb Gouchung Cha, Thailand": null,
+ "nm|TukTuk Bar Crawl, Thailand": null,
+ "nm|Hanoi Tết Market, Vietnam": null,
+ "nm|Thu Hai Rooster Restaurant, Vietnam": null,
+ "nm|Thu Vien Bibliotheque Cafe, Vietnam": null,
+ "nm|Nhà Hàng Hương Rừng, Vietnam": null,
+ "nm|Bahn Xèo, Vietnam": {
+  "lat": 16.0524695,
+  "lng": 108.2457205,
+  "src": "nominatim"
+ },
+ "nm|Bien Chung Han, Vietnam": {
+  "lat": 12.2878404,
+  "lng": 109.1972161,
+  "src": "nominatim"
+ },
+ "nm|La Roulotte, French Polynesia": null,
+ "nm|Kia Ora Sauvage, French Polynesia": null,
+ "nm|Coldstream Vineyards, Australia": null,
+ "nm|Nibiki Restaurant, Japan": null,
+ "nm|XEX Morimoto, Japan": null,
+ "nm|Pizza Ball House, Japan": null,
+ "nm|Fukutaro (福太郎), Japan": null,
+ "nm|Tiger’s Baseball Game, Japan": null,
+ "nm|Nishimachi Soba, Japan": null,
+ "nm|Lawson Convenience Store, Japan": {
+  "lat": 35.5799635,
+  "lng": 139.370418,
+  "src": "nominatim"
+ },
+ "nm|Ramen Alley, Japan": {
+  "lat": 35.6857876,
+  "lng": 139.7808522,
+  "src": "nominatim"
+ },
+ "nm|Takinoya Ryokan, Japan": null,
+ "nm|Local Ainu Dinner, Japan": null,
+ "nm|Ms. Linda Green’s Yakamein, United States": null,
+ "nm|R&O’s in Bucktown, United States": null,
+ "nm|USA Bucks Bar, China": null,
+ "nm|Mobile Chef in Yabuli Town, China": null,
+ "nm|Da Zhong Shui Jiao, China": {
+  "lat": 22.449485,
+  "lng": 114.1685177,
+  "src": "nominatim"
+ },
+ "nm|Old Liu’s Kill Pig Cuisine, China": null,
+ "nm|People’s Park Teahouse, China": null,
+ "nm|Shui Jing Fang Distillery, China": null,
+ "nm|Cours Julien, France": null,
+ "nm|De Wendy Sabor, Dominican Republic": null,
+ "nm|Cacheito’s Place, Dominican Republic": null,
+ "nm|Grand Hotel Oloffson, Haiti": null,
+ "nm|Cynthia’s/Winnifred Beach, Jamaica": null,
+ "nm|Dürümzade, Turkey": {
+  "lat": 41.035399,
+  "lng": 28.9773125,
+  "src": "nominatim"
+ },
+ "nm|Means Family Ranch, United States": null,
+ "nm|LaVene Music Center*, United States": null,
+ "nm|Po’ Monkey’s Lounge, United States": {
+  "lat": 33.8317489,
+  "lng": -90.7582995,
+  "src": "nominatim"
+ },
+ "nm|Cafe Astoria, Romania": null,
+ "nm|JMAC Customs, United States": null,
+ "nm|Bluefin Tuna Farm, Croatia": null,
+ "nm|Private Meal at Pino’s house, Canada": null,
+ "nm|The Black Hoof, Canada": null,
+ "nm|Saigon Restaurant & Bakery, United States": null,
+ "nm|Monahan’s Seafood, Ann Arbor, United States": null,
+ "nm|Upstairs Pancake House, Netherlands": null,
+ "nm|Die Dampkring, Netherlands": null,
+ "nm|Specialty International, United States": {
+  "lat": 40.953012,
+  "lng": -74.2488424,
+  "src": "nominatim"
+ },
+ "nm|Loco Taqueria, United States": {
+  "lat": 39.9439091,
+  "lng": -75.1753843,
+  "src": "nominatim"
+ },
+ "nm|Chaac Mool Food Cart, United States": null,
+ "nm|COI/Locol, United States": null,
+ "nm|Hasir Kreutzberg, Germany": null,
+ "nm|Salon Sacher at Hotel Sacher, Austria": null,
+ "nm|Hunting near Ybbsitz, Austria": null,
+ "nm|Broasted Rizk, Lebanon": null,
+ "nm|Boulangerie Clarens, France": {
+  "lat": 43.6492179,
+  "lng": 0.5795305,
+  "src": "nominatim"
+ },
+ "nm|Le Camion Food Truck*, France": null,
+ "nm|Californie Cantine, France": null,
+ "nm|Brasserie La Welper, France": null,
+ "nm|Dick’s Dog Floating Hot Dog Stand, United States": null,
+ "nm|Mohonk Mountain House, United States": {
+  "lat": 41.7684912,
+  "lng": -74.1556649,
+  "src": "nominatim"
+ },
+ "nm|Amalfi Coast, Italy": {
+  "lat": 40.6782917,
+  "lng": 14.7091265,
+  "src": "nominatim"
+ },
+ "nm|Basilicata, Italy": null,
+ "nm|Yu Garden Dumpling House, United States": null,
+ "nm|Siberia Bar, United States": {
+  "lat": 29.9688957,
+  "lng": -90.0559113,
+  "src": "nominatim"
+ },
+ "nm|Home-Cooked Meal, United States": null,
+ "nm|Mitchell’s Bar-B-Q, United States": null,
+ "nm|Marshville, United States": null,
+ "nm|LudoTruck’s Guerrilla Fried Chicken, United States": null,
+ "nm|Lorena on East 7th, United States": null,
+ "nm|Edinburgh, United Kingdom": null,
+ "nm|Leith, United Kingdom": null,
+ "nm|Ma Willies Inn, South Africa": null,
+ "nm|Eat Arabi, South Africa": null,
+ "nm|Mazondi Restaurant Zwangobani Grill, South Africa": null,
+ "nm|Maders Butchery, South Africa": null,
+ "nm|Monaghan Farm, South Africa": null,
+ "nm|Private Family Meal, South Africa": null,
+ "nm|Look’s Chez Ramasy, Madagascar": null,
+ "nm|Local Village, Madagascar": null,
+ "nm|Private Meal, Madagascar": null,
+ "nm|Cayenne, United Kingdom": null,
+ "nm|Local Grocery Store, Ethiopia": null,
+ "nm|Family Meal, Ethiopia": null,
+ "nm|Cour de Cassation Beach, Senegal": null,
+ "nm|Bazoof Restaurant, Senegal": null,
+ "nm|Au Fil du Fleuve, Senegal": null,
+ "nm|Private family meal with Pierre Thiam, Senegal": null,
+ "nm|Streetside Food Shack, Kenya": null,
+ "nm|Masai Village, Kenya": null,
+ "nm|Local home meal, Tanzania": null,
+ "nm|Masai Village, Tanzania": {
+  "lat": -3.419164,
+  "lng": 36.399647,
+  "src": "nominatim"
+ },
+ "nm|Madina Asian Food Company, Ireland": null,
+ "nm|Alternative Spots Tony Mentioned in Dublin, Ireland": null,
+ "nm|Makua Village, Mozambique": null,
+ "nm|Home Meal, Mozambique": null,
+ "nm|Esplanada Belinha, Fish Market, Mozambique": null,
+ "nm|Uncle Kentaki, Libya": null,
+ "nm|Beach BBQ, Libya": null,
+ "nm|Truck Stop, Congo": null,
+ "nm|Restaurante Fatimata, Congo": null,
+ "nm|Wagenya Village, Congo": null,
+ "nm|Rue 80 at Maison Fahrenheit Hotel, Nigeria": null,
+ "nm|Makoko, Nigeria": null,
+ "nm|Yakoyo Canteen, Nigeria": null,
+ "nm|Aksana Local Special Chop Bar, Ghana": null,
+ "nm|Su Gologone Experience Hotel, Italy": null,
+ "nm|Torrisi, Italy": {
+  "lat": 37.5088454,
+  "lng": 15.0569025,
+  "src": "nominatim"
+ },
+ "nm|Beira Oysters Farm, Namibia": null,
+ "nm|Kirikara Farm, Namibia": null,
+ "nm|Dar Diaf Restaurant, Morocco": null,
+ "nm|Hotel Riad Dar Al Hadara, Morocco": null,
+ "nm|Berber Camp, Morocco": null,
+ "nm|Mercado de Atlixco, Mexico": null,
+ "nm|Ahmed Farahat Restaurant, Egypt": null,
+ "nm|Market Marché Jean-Talon & La Fromagerie Atwater, Canada": null,
+ "nm|Parrilla “El Alemán”, Uruguay": null,
+ "nm|Bǎo dū Zhang, China": null,
+ "nm|Housyouzuchi, Japan": null,
+ "nm|Nanao Fish Market, Japan": null,
+ "nm|Le Chambard’s Winstub, France": null,
+ "nm|Dolmana, Armenia": null,
+ "nm|Mariam Movsisyan’s grandmother’s family home, Armenia": null,
+ "nm|Somewhere in the wilderness of Nagorno-Karabakh (Artsakh), near Jdrduz Canyon in Shushi, Armenia": null,
+ "nm|Milena’s home restaurant, Armenia": null,
+ "nm|Juan Sobrecuerva’s cheese farm, Spain": null,
+ "nm|Casa Eladia Bar, Spain": null,
+ "nm|Local fishermen’s bar, Spain": null,
+ "nm|A feast at Anton Newcombe’s studio, Germany": null,
+ "nm|Chime Lhakhang, Bhutan": null,
+ "nm|Ajeum da Diáspora (Angelica’s), Brazil": null,
+ "nm|A death-defying meal with Bel Borba, Brazil": null,
+ "nm|Life is like a boat, Brazil": null,
+ "nm|Where fishermen eat, Brazil": null,
+ "nm|Pléhcsárda, Hungary": {
+  "lat": 47.6364315,
+  "lng": 19.1384457,
+  "src": "nominatim"
+ },
+ "nm|Öreg Korössy Halászcsárda Restaurant, Hungary": {
+  "lat": 46.2558428,
+  "lng": 20.1825881,
+  "src": "nominatim"
+ },
+ "nm|Cookout with Charleston chefs, United States": null,
+ "nm|Dinner on a Charleston fishing dock, United States": null,
+ "nm|Lupe Fiasco’s family home, United States": null,
+ "nm|Village Fatimata, Democratic Republic of the Congo": null,
+ "nm|Dinner with a fixer, Democratic Republic of the Congo": null,
+ "nm|Squad 3 Fire Hall, United States": null,
+ "nm|Turbo and tibs, at a local grocery store, Ethiopia": null,
+ "nm|Dinner with Marcus Samuelsson’s family, Ethiopia": null,
+ "nm|Meal on the mountain, France": null,
+ "nm|Maison Rosset, France": {
+  "lat": 44.4678576,
+  "lng": 6.2668425,
+  "src": "nominatim"
+ },
+ "nm|Barakoda Restaurant, Libya": null,
+ "nm|Street vendor, Libya": null,
+ "nm|Beach barbecue, Libya": null,
+ "nm|Roadside vendor, Libya": null,
+ "nm|Bocuse’s hunting lodge, France": null,
+ "nm|Boulud’s childhood home, France": null,
+ "nm|Home of Haruo Konishi, Japan": null,
+ "nm|Dinner at Masa Takayama’s family home, Japan": null,
+ "nm|A bonfire at a mountain onsen resort, Japan": null,
+ "nm|Café Tingis, Morocco": {
+  "lat": 35.7854332,
+  "lng": -5.8105503,
+  "src": "nominatim"
+ },
+ "nm|Street vendor, Morocco": null,
+ "nm|Jajouka village dinner, Morocco": null,
+ "nm|Garden party, Morocco": null,
+ "nm|Min Lan Seafood Restaurant, Myanmar": {
+  "lat": 16.8540025,
+  "lng": 96.1392872,
+  "src": "nominatim"
+ },
+ "nm|Taung Htate Pan Paint Restaurant (Wharf Bar), Myanmar": null,
+ "nm|Boat dinner, Paraguay": null,
+ "nm|Lunch at a Peruvian market, Peru": null,
+ "nm|Don Fortunato’s home, Peru": null,
+ "nm|Don Elioberto’s home, Peru": null,
+ "nm|Home Cooked, United States": {
+  "lat": 40.042469,
+  "lng": -75.4843792,
+  "src": "nominatim"
+ },
+ "nm|Bocce Ball Picnic, United States": null,
+ "nm|Home-cooked meal from chef Erica Connelly, Puerto Rico": null,
+ "nm|Meal on the water, Puerto Rico": null,
+ "nm|16 Tons Club, Russia": null,
+ "nm|The Grand Express night train, Russia": null,
+ "nm|The Loft Project, Russia": null,
+ "nm|Dinner at a communal apartment, Russia": null,
+ "nm|Alexander Lebedev’s home, Russia": null,
+ "nm|Er Guang Hundun, China": {
+  "lat": 36.3064856,
+  "lng": 111.8028158,
+  "src": "nominatim"
+ },
+ "nm|Wedding, China": {
+  "lat": 22.4945511,
+  "lng": 113.9474352,
+  "src": "nominatim"
+ },
+ "nm|Liang Lu Kou Huo Guo, China": null,
+ "nm|A meal with a riverside view, China": null,
+ "nm|Lunch at the house of Tomaso’s mother, Italy": null,
+ "nm|SuperTree by IndoChine, Singapore": null,
+ "nm|Mazondi Restaurant Zwangobani, South Africa": null,
+ "nm|Nonna Maria’s home, Italy": null,
+ "nm|Beach Picnic, Italy": null,
+ "nm|Marc Savoy’s family home, United States": null,
+ "nm|The Miller residence, United States": null,
+ "nm|Lunch outdoors in Granada, Spain": null,
+ "nm|Group dinner, Spain": null,
+ "nm|Lake Masek picnic, Tanzania": null,
+ "nm|A cool drink with a biologist, Tanzania": null,
+ "nm|Drinks with metal band Merging Moon, Japan": null,
+ "nm|An Uruguayan-Italian family meal, Uruguay": null,
+ "nm|El México de Ayer, United States": null,
+ "nm|A welcoming Italian (?) meal, United States": null,
+ "nm|A sitdown with the men behind coal, United States": null,
+ "nm|A backyard barbecue and shooting range shenanigans, United States": null,
+ "nm|A fresh squirrel and some real talk, United States": null
+}

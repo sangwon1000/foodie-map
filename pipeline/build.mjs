@@ -3,7 +3,11 @@
  *
  *   raw KML (5 fan maps, all 4 shows)          → venue base layer (name, coords, season/category)
  *   + anthonybourdainworldmap.com API dump     → city / country / what-he-ate for NR + PU
+ *     (+ a hand-curated recovery list of real food spots the NR map filed
+ *        under "Other Activities" — found in the 2026-07 completeness audit)
  *   + Christine Zhang episode-stop CSVs (CC BY) → episode attribution + city fallback
+ *   + eatlikebourdain.com full extraction       → new venues (with coords), episode
+ *     numbers the Zhang data can't reach (e.g. PU S12), closed/open statuses
  *   + MapTiler reverse geocoding (cached)       → city/country for the last stragglers
  *   ────────────────────────────────────────────────────────────────────────────
  *   = public/data/restaurants.geojson
@@ -17,6 +21,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseKml } from "./lib/kml.mjs";
 import { emojiFor } from "./lib/emoji.mjs";
+import { applyElb, resolveEp } from "./lib/elb.mjs";
+import { geocodeAddress, geocodePoi, loadFwdCache, saveFwdCache } from "./lib/fwdgeo.mjs";
 import { haversine, normCountry, parseCsv, slug } from "./lib/util.mjs";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
@@ -61,6 +67,27 @@ const NR_KIND = new Map([
 const NR_EXCLUDED = new Set(["Sightseeing", "Other Activities", "Lodging"]);
 
 const CLOSED_RE = /\s*[-–—(]\s*(permanently\s+)?closed(\?)?[)!]?\s*$/i;
+
+/**
+ * Real food venues the NR fan map filed under "Other Activities" (wineries,
+ * farm kitchens, one legendary mussels-and-feather-bowling café…). The folder
+ * as a whole stays dropped; these ABWM ids are re-added individually.
+ * Curated in the 2026-07 cross-validation audit.
+ */
+const ABWM_RECOVER_IDS = new Set([
+  "ucc-craighton-estates-18053--76722", // UCC Craighton Estates — coffee estate, Jamaica
+  "shields-date-garden-33707--116266", // Shields Date Garden — date-shake café, California
+  "d-c-central-kitchen-inc-38908--77038", // DC Central Kitchen — Washington
+  "gubbeen-farm-house-products-limited-51519--9576", // Gubbeen Farm — Cork
+  "vi-a-casa-silva--34539--70967", // Viña Casa Silva — winery, Chile
+  "cadieux-cafe-42402--82926", // Cadieux Cafe — Detroit
+  "bahia-bar-de-kep-cocktail-bieres-belges-les-pieds-dans-l-rau-10478-104309", // Kep beach bar, Cambodia
+  "bibich-winery-43881-15919", // BIBICh Winery — Croatia
+  "konoba-sandra-43880-15286", // Konoba Sandra — Croatia
+  "popotla-32302--117042", // Popotla fishing-village seafood — Baja
+  "az-agr-pedroni-di-pedroni-giuseppe-44651-11041", // Acetaia Pedroni — Modena
+  "sorgente-su-gologone-40289-9495", // Su Gologone — Sardinia
+]);
 
 // ————————————————————————————————— fetch (opt-in)
 
@@ -183,6 +210,9 @@ async function loadAbwm() {
   const raw = JSON.parse(await readFile(path.join(RAW, "abwm-all-places.json"), "utf8"));
   const list = Array.isArray(raw) ? raw : raw.places ?? [];
   return list.map((p) => ({
+    id: p.id,
+    name: (p.name ?? "").trim(),
+    show: SHOW_NAMES[p.show],
     slug: slug(p.name ?? ""),
     lat: Number(p.lat),
     lng: Number(p.lng),
@@ -315,7 +345,7 @@ async function main() {
 
   console.log("parsing KML base layer");
   const drafts = await loadVenueDrafts();
-  const venues = mergeDrafts(drafts);
+  let venues = mergeDrafts(drafts);
   console.log(`  ${drafts.length} placemarks → ${venues.length} unique venues`);
 
   console.log("joining anthonybourdainworldmap.com dump (city/country/description)");
@@ -354,6 +384,32 @@ async function main() {
   }
   console.log(`  matched ${abwmHits}/${venues.length}`);
 
+  console.log("recovering curated food venues from the dropped NR folders");
+  let recovered = 0;
+  for (const a of abwm) {
+    if (!ABWM_RECOVER_IDS.has(a.id) || !a.show) continue;
+    const covered = venues.some(
+      (v) =>
+        haversine(v.lat, v.lng, a.lat, a.lng) < 0.12 ||
+        (v.slug === a.slug && haversine(v.lat, v.lng, a.lat, a.lng) < 5),
+    );
+    if (covered) continue;
+    venues.push({
+      name: a.name,
+      slug: a.slug,
+      lat: a.lat,
+      lng: a.lng,
+      rawVisits: [{ show: a.show, season: undefined }],
+      kind: undefined,
+      status: "unknown",
+      note: a.description,
+      city: a.city,
+      country: a.country,
+    });
+    recovered++;
+  }
+  console.log(`  recovered: ${recovered}/${ABWM_RECOVER_IDS.size}`);
+
   console.log("episode attribution via Zhang episode stops (CC BY 4.0)");
   const { byShow, all: allStops, years } = await loadStops();
   let attributed = 0;
@@ -372,6 +428,242 @@ async function main() {
     delete v.rawVisits;
   }
   console.log(`  ${attributed}/${visitsTotal} visits pinned to a specific episode`);
+
+  console.log("merging eatlikebourdain.com (new venues, episode fills, closed statuses)");
+  // Zhang's episode titles, used to verify/shift ELB episode numbers
+  const epTitles = new Map();
+  for (const s of allStops) {
+    if (!s.season || !s.ep || !s.title) continue;
+    const k = `${s.show}|${s.season}`;
+    if (!epTitles.has(k)) epTitles.set(k, new Map());
+    epTitles.get(k).set(s.ep, s.title);
+  }
+  const elbStats = await applyElb(venues, path.join(RAW, "eatlikebourdain.json"), epTitles);
+  console.log(
+    `  ${elbStats.entries} entries → matched ${elbStats.matched} · added ${elbStats.added}` +
+      ` · skipped ${elbStats.skippedNoCoords} (no coords) + ${elbStats.skippedJunk} (unmappable)`,
+  );
+  console.log(
+    `  episode numbers filled: ${elbStats.filledEpisodes} (${elbStats.shifted} title-shifted, ${elbStats.conflicts} corrected)` +
+      ` · new visits: ${elbStats.addedVisits} · status: +${elbStats.statusClosed} closed, +${elbStats.statusOpen} confirmed open`,
+  );
+  if (process.env.ELB_DEBUG) {
+    console.log("  [debug] correction samples:");
+    for (const s of elbStats.conflictSamples) console.log(`    ${s}`);
+    console.log("  [debug] junk samples:", elbStats.junkSamples.join(" · "));
+    console.log("  [debug] additions:");
+    for (const s of elbStats.additionNames) console.log(`    ${s}`);
+  }
+
+  console.log("merging philazar NYC list (coordinates for famous NYC gaps)");
+  const phRows = parseCsv(await readFile(path.join(RAW, "philazar-nyc.csv"), "utf8"));
+  let phAdded = 0;
+  for (const r of phRows) {
+    const show = SHOW_NAMES[r.show];
+    const lat = Number(r.lat);
+    const lng = Number(r.lon);
+    if (!r.restaurant || !show || !Number.isFinite(lat) || !Number.isFinite(lng)) continue;
+    // NYC is dense — plain proximity needs to be tight, name matches can be wide
+    const rk = slug(r.restaurant).replace(/-/g, "");
+    const covered = venues.some((v) => {
+      const d = haversine(lat, lng, v.lat, v.lng);
+      if (d < 0.12) return true;
+      if (d > 15) return false; // metro-wide: this list's geocoding is occasionally off by boroughs
+      const vk = v.slug.replace(/-/g, "");
+      return vk.length >= 6 && rk.length >= 6 && (vk.includes(rk) || rk.includes(vk));
+    });
+    if (covered) continue;
+    venues.push({
+      name: r.restaurant,
+      slug: slug(r.restaurant),
+      lat,
+      lng,
+      visits: [{ show }],
+      kind: undefined,
+      status: "unknown",
+      note: "",
+      city: "",
+      country: "",
+    });
+    phAdded++;
+  }
+  console.log(`  ${phRows.length} rows → added ${phAdded}`);
+
+  console.log("forward geocoding coordinate-less venues from the web lists");
+  {
+    const fwdCache = await loadFwdCache(CACHE);
+    const kOf = (s) => slug(s).replace(/-/g, "");
+    const vKeys = venues.map((v) => ({ k: kOf(v.name), c: v.country }));
+    const existsByName = (nm, country) => {
+      const k = kOf(nm);
+      if (k.length < 5) return true; // too generic to trust a name-only add
+      return vKeys.some(
+        (v) =>
+          (v.k === k || (v.k.length >= 6 && k.length >= 6 && (v.k.includes(k) || k.includes(v.k)))) &&
+          (!country || !v.c || v.c === country),
+      );
+    };
+    const countryFromAddress = (addr) => {
+      if (!addr) return "";
+      if (/\b[A-Z]{2},?\s+\d{5}/.test(addr) || /,\s*[A-Z]{2}\s*$/.test(addr.trim()) || /\bUSA\b/i.test(addr))
+        return "United States";
+      const parts = addr.split(",").map((s) => s.trim()).filter(Boolean);
+      let last = parts[parts.length - 1] ?? "";
+      last = last.replace(/[\d-]+/g, "").trim();
+      if (!last && parts.length >= 2) last = parts[parts.length - 2].replace(/[\d-]+/g, "").trim();
+      return normCountry(last);
+    };
+
+    // candidates: eatlikebourdain entries without coordinates + unmatched
+    // noreservationslocations.com restaurants (street addresses)
+    const cands = new Map();
+    const addCand = (c) => {
+      const key = `${kOf(c.name)}|${c.country}`;
+      const prev = cands.get(key);
+      if (!prev) {
+        cands.set(key, c);
+        return;
+      }
+      prev.address ||= c.address;
+      prev.city ||= c.city;
+      if (c.status === "closed" || (c.status === "open" && prev.status === "unknown")) prev.status = c.status;
+      if ((c.note ?? "").length > (prev.note ?? "").length) prev.note = c.note;
+      for (const nv of c.visits)
+        if (!prev.visits.some((pv) => pv.show === nv.show && pv.season === nv.season && pv.episode === nv.episode))
+          prev.visits.push(nv);
+    };
+
+    for (const e of elbStats.noCoordEntries) {
+      if (existsByName(e.name, e.country)) continue;
+      // same episode-trust rule as matched entries: keep an ELB episode number
+      // only when Zhang's titles verify it (their numbering skips recap eps)
+      const visits = e.visits.map((v) => {
+        if (v.episode == null) return v;
+        const r = resolveEp(v, epTitles);
+        return r.verified
+          ? { show: v.show, season: r.season ?? v.season, episode: r.episode, title: v.title, year: v.year }
+          : { show: v.show, season: v.season, year: v.year };
+      });
+      addCand({ name: e.name, city: e.city, country: e.country, address: "", status: e.status, note: e.note, visits });
+    }
+    const nrlRows = parseCsv(await readFile(path.join(RAW, "nrl-places.csv"), "utf8"));
+    let nrlSeen = 0;
+    for (const r of nrlRows) {
+      if (r.category !== "restaurant" || !r.name || r.name.length < 3) continue;
+      nrlSeen++;
+      const country = countryFromAddress(r.address);
+      if (existsByName(r.name, country)) continue;
+      const visit = { show: "NR", season: Number(r.season) || undefined, episode: Number(r.episode) || undefined, title: r.episode_title || undefined };
+      if (visit.episode != null) {
+        const res = resolveEp(visit, epTitles);
+        // the site's numbering is unvetted — keep an episode only when Zhang's titles confirm it
+        if (res.verified) visit.episode = res.episode;
+        else visit.episode = undefined;
+      }
+      // the episode title is usually the city — use it as a POI hint, but only
+      // when it actually looks like a place name
+      const cityHint = /^[\p{L} .'-]{2,24}$/u.test((r.episode_title ?? "").trim()) ? r.episode_title.trim() : "";
+      addCand({ name: r.name, city: cityHint, country, address: r.address ?? "", status: "unknown", note: (r.note ?? "").trim(), visits: [visit] });
+    }
+
+    // explorepartsunknown.com (CNN's official Parts Unknown site, via Wayback):
+    // only entries whose note marks an actual Bourdain visit — the site also
+    // published editorial "perfect day" itineraries he never filmed
+    const epuRaw = JSON.parse(await readFile(path.join(RAW, "epu-venues.json"), "utf8"));
+    const BOURDAIN_RE = /bourdain\s+(ate|had|visited|went|order|tried|drank|stopped|dined)|tony\s+(ate|had|visited)/i;
+    let epuMarked = 0;
+    for (const e of epuRaw) {
+      if (!e.name || e.name.length < 3 || !BOURDAIN_RE.test(e.note ?? "")) continue;
+      epuMarked++;
+      const country = normCountry(e.country ?? "");
+      if (existsByName(e.name, country)) continue;
+      const season = Number(String(e.season ?? "").replace(/\D/g, "")) || undefined;
+      addCand({
+        name: e.name,
+        city: (e.city ?? "").trim(),
+        country,
+        address: e.address ?? "",
+        status: "unknown",
+        note: (e.note ?? "").trim(),
+        visits: [{ show: "PU", season }],
+      });
+    }
+
+    let added = 0;
+    let viaAddr = 0;
+    let viaPoi = 0;
+    let unresolved = 0;
+    for (const c of cands.values()) {
+      let hit = null;
+      const mtKey = process.env.MAPTILER_API_KEY;
+      if (c.address && mtKey) {
+        hit = await geocodeAddress(c.address, c.country, mtKey, fwdCache);
+        if (hit) viaAddr++;
+      }
+      if (!hit) {
+        hit = await geocodePoi(c.name, c.city, c.country, fwdCache);
+        if (!hit && c.city) hit = await geocodePoi(c.name, "", c.country, fwdCache);
+        if (hit) viaPoi++;
+      }
+      if (!hit) {
+        unresolved++;
+        continue;
+      }
+      const v = {
+        name: c.name,
+        slug: slug(c.name),
+        lat: hit.lat,
+        lng: hit.lng,
+        visits: c.visits,
+        kind: undefined,
+        status: c.status,
+        note: c.note,
+        city: c.city,
+        country: c.country,
+      };
+      // geocoded venues never went through the Zhang attribution stage — pin
+      // their episode-less visits the same way (same honesty rules)
+      v.visits = v.visits.map((x) =>
+        x.episode == null && !x.title ? attributeVisit(v, { show: x.show, season: x.season }, byShow, years) : x,
+      );
+      venues.push(v);
+      added++;
+    }
+    await saveFwdCache(CACHE, fwdCache);
+    console.log(
+      `  candidates ${cands.size} (nrl rows: ${nrlSeen} · CNN field-guide entries: ${epuMarked}) → geocoded ${added}` +
+        ` (${viaAddr} by address, ${viaPoi} by POI) · unresolved ${unresolved} (left unmapped, no guessed pins)`,
+    );
+  }
+
+  console.log("collapsing near-duplicate pins (<150 m, containing names)");
+  {
+    const removed = new Set();
+    const k = (v) => v.slug.replace(/-/g, "");
+    for (let i = 0; i < venues.length; i++) {
+      const a = venues[i];
+      if (removed.has(a)) continue;
+      for (let j = i + 1; j < venues.length; j++) {
+        const b = venues[j];
+        if (removed.has(b)) continue;
+        if (Math.abs(a.lat - b.lat) > 0.006 || Math.abs(a.lng - b.lng) > 0.012) continue;
+        const ka = k(a);
+        const kb = k(b);
+        if (ka.length < 6 || kb.length < 6 || !(ka.includes(kb) || kb.includes(ka))) continue;
+        // identical names collapse across a wider radius than mere containment
+        if (haversine(a.lat, a.lng, b.lat, b.lng) > (ka === kb ? 0.6 : 0.15)) continue;
+        for (const bv of b.visits)
+          if (!a.visits.some((av) => av.show === bv.show && av.season === bv.season && av.episode === bv.episode))
+            a.visits.push(bv);
+        if (b.status === "closed" || (b.status === "open" && a.status === "unknown")) a.status = b.status;
+        if ((b.note ?? "").length > (a.note ?? "").length) a.note = b.note;
+        a.kind ??= b.kind;
+        removed.add(b);
+      }
+    }
+    if (removed.size) venues = venues.filter((v) => !removed.has(v));
+    console.log(`  merged: ${removed.size}`);
+  }
 
   console.log("city/country fallback (nearest episode stop ≤ 100 km, then geocoder)");
   let stopCity = 0;
@@ -423,6 +715,12 @@ async function main() {
   }
 
   // ——— emit
+  const visitCmp = (a, b) =>
+    SHOW_ORDER.indexOf(a.show) - SHOW_ORDER.indexOf(b.show) ||
+    (a.season ?? 99) - (b.season ?? 99) ||
+    (a.episode ?? 99) - (b.episode ?? 99);
+  for (const v of venues) v.visits.sort(visitCmp);
+
   const feats = venues
     .sort(
       (a, b) =>
@@ -466,6 +764,7 @@ async function main() {
         "Venue pins: community Google My Maps by Reddit user deannd (5-map series)",
         "City/country + dish notes: anthonybourdainworldmap.com (deannd & Peter Keating)",
         "Episode stops: Christine Zhang, bourdain-travel-places (CC BY 4.0)",
+        "Additional venues, episode numbers & closed statuses: eatlikebourdain.com",
         "Geocoding: MapTiler",
       ],
     },

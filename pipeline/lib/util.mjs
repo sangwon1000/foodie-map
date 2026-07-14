@@ -18,12 +18,14 @@ export function stripHtml(s) {
 }
 
 export function slug(name) {
+  // unicode-aware: Cyrillic/CJK-only names must not collapse to "" — they
+  // would all share one dedupe key and merge into geographic blobs
   return name
     .normalize("NFKD")
     .replace(/[̀-ͯ]/g, "")
     .toLowerCase()
     .replace(/&/g, " and ")
-    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/[^\p{Letter}\p{Number}]+/gu, "-")
     .replace(/^-+|-+$/g, "");
 }
 
