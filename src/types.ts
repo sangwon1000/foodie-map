@@ -52,8 +52,12 @@ export interface PlaceProps {
   price?: string;
   /** michelin green star (sustainability) */
   greenStar?: boolean;
-  /** ranking position (world's best steaks) */
+  /** ranking position — best (lowest) across editions (world's best steaks) */
   rank?: number;
+  /** per-edition ranks for multi-year awards (WBS): { "2026": 1, "2025": 6 } */
+  ranks?: Record<string, number>;
+  /** edition year of the best rank */
+  bestYear?: number;
   /** external source/detail page — michelin guide, WBS list, google-maps link */
   sourceUrl?: string;
   /** the restaurant's own website */

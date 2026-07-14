@@ -96,6 +96,22 @@ export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
           )}
         </p>
       )}
+      {place.ranks && Object.keys(place.ranks).length > 0 && (
+        <p className="card-ranks">
+          {Object.entries(place.ranks)
+            .sort((a, b) => Number(b[0]) - Number(a[0]))
+            .map(([year, rank]) => (
+              <span
+                key={year}
+                className="card-rank-chip"
+                style={{ ["--chip" as string]: byId[`Y${year}`]?.color ?? "#8a97a8" }}
+                title={`ranked #${rank} in the ${year} edition`}
+              >
+                <b>{year}</b> #{rank}
+              </span>
+            ))}
+        </p>
+      )}
       {person && source && (
         <p className="card-source" style={{ ["--chip" as string]: person.color }}>
           {source.avatar ? (
@@ -146,7 +162,7 @@ export default function PlaceCard({ place, profile, onClose }: PlaceCardProps) {
             </li>
           );
         })}
-        {place.visits.length === 0 && (
+        {place.visits.length === 0 && !place.ranks && (
           <li>
             <i aria-hidden>{(byId[place.primaryShow] ?? fallback).emoji}</i>
             <span

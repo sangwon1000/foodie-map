@@ -3350,5 +3350,2072 @@
   "lng": 2.177073,
   "country": "Spain",
   "approx": true
+ },
+ "mt|Calle Guatemala 46699, Palermo Viejo, Buenos Aires, Argentina": {
+  "lat": -38.02146297911911,
+  "lng": -57.629836946725845,
+  "src": "maptiler"
+ },
+ "mt|5A Air Street, London W1J 0AD, United Kingdom": {
+  "lat": 51.509696,
+  "lng": -0.1361259999999902,
+  "src": "maptiler"
+ },
+ "mt|570-15, south side of Gion-cho, Higashiyama-ku,, Kyoto, Japan": null,
+ "nm|MIYOSHI, Kyoto, Japan": {
+  "lat": 35.0064951,
+  "lng": 135.770394,
+  "src": "nominatim"
+ },
+ "mt|38 Clarges St, London, United Kingdom": {
+  "lat": 51.506735,
+  "lng": -0.14511700000002747,
+  "src": "maptiler"
+ },
+ "mt|4 Charles Street, New York, United States": {
+  "lat": 40.735116,
+  "lng": -74.00064299999997,
+  "src": "maptiler"
+ },
+ "mt|1-7-12, Dotonbori 1F, Chuo-ku,, Osaka, Japan": null,
+ "nm|KITAN-IN, Osaka, Japan": null,
+ "mt|5300 E Mockingbird Ln, Dallas, United States": {
+  "lat": 32.835929,
+  "lng": -96.77815699999996,
+  "src": "maptiler"
+ },
+ "mt|37 Margaret Street, Sydney, Australia": {
+  "lat": -33.86507605895059,
+  "lng": 151.2056151777506,
+  "src": "maptiler"
+ },
+ "mt|Capella Hanoi, 11 Le Phung Hieu,, Hanoi, Vietnam": null,
+ "nm|KOKI, Hanoi, Vietnam": null,
+ "mt|2 Bayfront Avenue, Marina Bay Sands, Singapore, Singapore": {
+  "lat": 1.3557068158773005,
+  "lng": 103.80726564101292,
+  "src": "maptiler"
+ },
+ "mt|The Ritz Carlton New York, Nomad, 25 W 28th Street, New York, United States": {
+  "lat": 40.745583,
+  "lng": -73.989082,
+  "src": "maptiler"
+ },
+ "mt|113 MacDougal St, New York, United States": {
+  "lat": 40.729966,
+  "lng": -74.00063,
+  "src": "maptiler"
+ },
+ "mt|Rio Missouri 555 San Pedro Garza, Monterrey, Mexico": {
+  "lat": 30.888162650969992,
+  "lng": -115.46750975842741,
+  "src": "maptiler"
+ },
+ "mt|3770 S Las Vegas Blvd, Chicago, United States": {
+  "lat": 36.11664382226365,
+  "lng": -114.85082309693098,
+  "src": "maptiler"
+ },
+ "mt|11 Shota Rustaveli st., Kyiv, Ukraine": null,
+ "nm|BEEF, Kyiv, Ukraine": {
+  "lat": 50.439109,
+  "lng": 30.520676,
+  "src": "nominatim"
+ },
+ "mt|Praça D. Luís I, 7, Lisbon, Portugal": {
+  "lat": 38.706952,
+  "lng": -9.147338999999988,
+  "src": "maptiler"
+ },
+ "mt|Schifflände 6, Zurich, Switzerland": null,
+ "nm|WILLIAMS BUTCHERS TABLE, Zurich, Switzerland": null,
+ "mt|B1F, 2-24-14 Nishiazabu, Minato-ku, Tokyo, Japan": null,
+ "nm|NIKU KAPPŌ JŌ, Tokyo, Japan": null,
+ "mt|2401 Ceda Springs Road, Suite 120, Dallas, United States": {
+  "lat": 32.77627191751614,
+  "lng": -96.79685611277819,
+  "src": "maptiler"
+ },
+ "mt|1131 Argyle Street, Finnieston, Glasgow, United Kingdom": {
+  "lat": 55.864656,
+  "lng": -4.284474000000046,
+  "src": "maptiler"
+ },
+ "mt|Lune Azabu juban Bldg B1,1-5-23,Azabu juban,Minatoku,, Tokyo, Japan": null,
+ "nm|OKADAMAE, Tokyo, Japan": null,
+ "mt|Jl. Maleo JA 1 No.1, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Jakarta, Indonesia": {
+  "lat": -6.282878764787502,
+  "lng": 106.71029374316879,
+  "src": "maptiler"
+ },
+ "mt|512 Maunganui Road, Mount Maunganui, New Zealand": {
+  "lat": -37.65483,
+  "lng": 176.20005600000002,
+  "src": "maptiler"
+ },
+ "mt|Dardo Rocha 2208, Buenos Aires, Argentina": {
+  "lat": -34.797764781500796,
+  "lng": -58.35543617606163,
+  "src": "maptiler"
+ },
+ "mt|1-11-19 Sonezaki Shinchi, Kita-ku | Kitashinchi Star Building B1F, Osaka, Japan": null,
+ "nm|FUKUTATEI THE UKAI, Osaka, Japan": null,
+ "mt|5-13-10 VORT_Shinbashi_NEX bldg Shinbashi,Minato-ku, Tokyo, Japan": null,
+ "nm|SUGITA, Tokyo, Japan": null,
+ "mt|1 Chrome-14-16 Nishiazabu, Minato City, Tokyo, Japan": null,
+ "nm|WAGYUMAFIA STEAKHOUSE, Tokyo, Japan": null,
+ "mt|45 Park Lane, London, United Kingdom": {
+  "lat": 51.50636,
+  "lng": -0.1515910000000531,
+  "src": "maptiler"
+ },
+ "mt|Av. P.º de la Reforma 333, Mexico City, Mexico": {
+  "lat": 19.42944500813448,
+  "lng": -99.16338052600622,
+  "src": "maptiler"
+ },
+ "mt|105-107 Talbot Road, London, United Kingdom": {
+  "lat": 51.516641,
+  "lng": -0.20063099999993028,
+  "src": "maptiler"
+ },
+ "mt|Via Mazzini 23/c, Torino, Italy": null,
+ "nm|BIFRÒ, Torino, Italy": null,
+ "mt|26 Mohamed Sultan Road, Singapore, Singapore": {
+  "lat": 1.293429,
+  "lng": 103.841181,
+  "src": "maptiler"
+ },
+ "mt|120 N Wacker Drive, Chicago, United States": {
+  "lat": 41.88191624154901,
+  "lng": -87.6370221376419,
+  "src": "maptiler"
+ },
+ "mt|3 Chapel Place, London, United Kingdom": {
+  "lat": 51.515257,
+  "lng": -0.1468290000000252,
+  "src": "maptiler"
+ },
+ "mt|1737 North Bayshore Drive, Miami, United States": {
+  "lat": 25.792156,
+  "lng": -80.18591400000003,
+  "src": "maptiler"
+ },
+ "mt|Via de Cerchi 40/R, Florence, Italy": null,
+ "nm|TRATTORIA DALL’OSTE, Florence, Italy": {
+  "lat": 43.7759975,
+  "lng": 11.246785,
+  "src": "nominatim"
+ },
+ "mt|1801 California Street, Denver, United States": {
+  "lat": 39.747448,
+  "lng": -104.98989399999999,
+  "src": "maptiler"
+ },
+ "mt|8-10 High Street, Cardiff, United Kingdom": {
+  "lat": 51.48082059546379,
+  "lng": -3.1802747771143913,
+  "src": "maptiler"
+ },
+ "mt|1a Lower Pembroke Street, Dublin, Ireland": {
+  "lat": 53.34937952830145,
+  "lng": -6.260559484362602,
+  "src": "maptiler"
+ },
+ "mt|Lenbachplatz 8, Munich, Germany": null,
+ "nm|GRILL IM KÜNSTLERHAUS, Munich, Germany": null,
+ "mt|24-26 Maddox Street, Mayfair, London, United Kingdom": {
+  "lat": 51.51274632450773,
+  "lng": -0.14250542968511581,
+  "src": "maptiler"
+ },
+ "mt|11647 San Vicente Blvd, Los Angeles, United States": {
+  "lat": 34.05412,
+  "lng": -118.46388999999999,
+  "src": "maptiler"
+ },
+ "mt|Brandschenkestrasse 130, Zurich, Switzerland": null,
+ "nm|NAPA GRILL, Zurich, Switzerland": {
+  "lat": 47.36482,
+  "lng": 8.5254957,
+  "src": "nominatim"
+ },
+ "mt|Via della Resistenza, 23, Milan, Italy": null,
+ "nm|ASINA LUNA, Milan, Italy": {
+  "lat": 45.4387126,
+  "lng": 9.2951071,
+  "src": "nominatim"
+ },
+ "mt|C. de Sagasta, 30, Madrid, Spain": null,
+ "nm|PIANTAO, Madrid, Spain": {
+  "lat": 40.4276996,
+  "lng": -3.6967576,
+  "src": "nominatim"
+ },
+ "mt|Maximiliansplatz 9, Munich, Germany": null,
+ "nm|GEORGE PRIME STEAK & RAW BAR, Munich, Germany": null,
+ "mt|José Antonio Cabrera 5157, Buenos Aires, Argentina": {
+  "lat": -34.59296259225065,
+  "lng": -58.42806536704302,
+  "src": "maptiler"
+ },
+ "mt|330 S. Hope Street, Los Angeles, United States": {
+  "lat": 34.052734,
+  "lng": -118.252769,
+  "src": "maptiler"
+ },
+ "mt|707 N Wells St, Chicago, United States": {
+  "lat": 41.895106,
+  "lng": -87.63382200000001,
+  "src": "maptiler"
+ },
+ "mt|25 Broadwick St, London, United Kingdom": {
+  "lat": 51.51338,
+  "lng": -0.13553000000001703,
+  "src": "maptiler"
+ },
+ "mt|10 Columbus Circle, 4th Floor, New York, United States": {
+  "lat": 40.65432650542305,
+  "lng": -73.44507051631808,
+  "src": "maptiler"
+ },
+ "mt|Av. de las Americas 1254 local #1 Colonial Country Club, Guadalajara, Mexico": {
+  "lat": 20.672037566778865,
+  "lng": -103.33839610219002,
+  "src": "maptiler"
+ },
+ "mt|4 Rue Mariotte, Paris, France": {
+  "lat": 48.884041,
+  "lng": 2.321019999999976,
+  "src": "maptiler"
+ },
+ "mt|233 N Canal St, Chicago, United States": {
+  "lat": 41.886639,
+  "lng": -87.63964399999998,
+  "src": "maptiler"
+ },
+ "mt|Via Alessio di Tocqueville, 7, Milan, Italy": null,
+ "nm|VARRONE, Milan, Italy": {
+  "lat": 45.4677301,
+  "lng": 9.1486255,
+  "src": "nominatim"
+ },
+ "mt|178 Broadway, Brooklyn, New York, United States": {
+  "lat": 40.709866,
+  "lng": -73.962557,
+  "src": "maptiler"
+ },
+ "mt|142 Greville St., Melbourne, Australia": {
+  "lat": -37.84942,
+  "lng": 144.99152800000002,
+  "src": "maptiler"
+ },
+ "mt|Schubertring 5-7, Vienna, Austria": null,
+ "nm|DSTRIKT, Vienna, Austria": {
+  "lat": 48.2022227,
+  "lng": 16.3759848,
+  "src": "nominatim"
+ },
+ "mt|10/6 Cowper Wharf Road, Sydney, Australia": {
+  "lat": -33.869223215920975,
+  "lng": 151.22075757847153,
+  "src": "maptiler"
+ },
+ "mt|Rue Adrien/Lachenal 26, Genève, Switzerland": null,
+ "nm|BEEF, Genève, Switzerland": null,
+ "mt|Rua Haddock Lobo 1738, Jardim Paulista, Saõ Paulo, Brazil": {
+  "lat": -23.56537,
+  "lng": -46.66956800000003,
+  "src": "maptiler"
+ },
+ "mt|Souk Al Bahar, Dubai, Uae": null,
+ "nm|THE MEAT CO., Dubai, Uae": null,
+ "mt|Neuer Jungfernstieg 9-14, Hamburg, Germany": null,
+ "nm|GRILL, Hamburg, Germany": {
+  "lat": 53.5526113,
+  "lng": 10.0059854,
+  "src": "nominatim"
+ },
+ "mt|\"C. de Recoletos, 4,\", Madrid, Spain": null,
+ "nm|TABERNA PEDRAZA, Madrid, Spain": {
+  "lat": 40.4221408,
+  "lng": -3.6908645,
+  "src": "nominatim"
+ },
+ "mt|Klarabergsviadkukten 67, Stockholm, Sweden": null,
+ "nm|GRIFFINS’ STEAKHOUSE, Stockholm, Sweden": {
+  "lat": 59.3300916,
+  "lng": 18.0547961,
+  "src": "nominatim"
+ },
+ "mt|The Point, 76 Regent Road, Shop 8 First Floor, Cape Town, South Africa": null,
+ "nm|NV-80, Cape Town, South Africa": {
+  "lat": -33.9207494,
+  "lng": 18.3832233,
+  "src": "nominatim"
+ },
+ "nm|CUT, Beverly Hills": null,
+ "nm|RESTAURANG AG, Stockholm": {
+  "lat": 59.3351799,
+  "lng": 18.0348514,
+  "src": "nominatim"
+ },
+ "nm|BUTCHER AND SINGER, Philadelphia": {
+  "lat": 39.9494509,
+  "lng": -75.1660838,
+  "src": "nominatim"
+ },
+ "nm|CHOPHOUSE, Sydney": null,
+ "nm|COTE N.Y.C., New York": null,
+ "nm|BRACERIA BIFULCO, Napoli": null,
+ "nm|AMERICAN CUT TRIBECA, New York": {
+  "lat": 40.7191271,
+  "lng": -74.0101564,
+  "src": "nominatim"
+ },
+ "nm|MR PORTER, Amsterdam": {
+  "lat": 52.3727769,
+  "lng": 4.8897582,
+  "src": "nominatim"
+ },
+ "nm|GEORGE PRIME STEAK, Munich": {
+  "lat": 48.1431788,
+  "lng": 11.5728392,
+  "src": "nominatim"
+ },
+ "nm|LA MAISON DE L´AUBRAC, Paris": {
+  "lat": 48.8696595,
+  "lng": 2.3052249,
+  "src": "nominatim"
+ },
+ "nm|FLAT IRON, London": {
+  "lat": 51.5151361,
+  "lng": -0.1295384,
+  "src": "nominatim"
+ },
+ "nm|GEORGE PRIME STEAK, Prague": {
+  "lat": 50.0875443,
+  "lng": 14.4183145,
+  "src": "nominatim"
+ },
+ "nm|ANTICA MACELLERIA CECCHINI, Panzano in Chianti": {
+  "lat": 43.5445039,
+  "lng": 11.3164099,
+  "src": "nominatim"
+ },
+ "nm|THE GRILL, Munich": {
+  "lat": 48.1402387,
+  "lng": 11.567716,
+  "src": "nominatim"
+ },
+ "nm|BEEFBAR MONACO, Monte Carlo": null,
+ "nm|ZELMAN MEATS, London": null,
+ "nm|A FIGUREIRA RUBAIYAT, S&atilde;o Paulo": null,
+ "nm|ROWLEY'S, London": null,
+ "nm|800&deg;C MOSCOW, Moscow": null,
+ "nm|LA BRIGADA, Buenos Aires": {
+  "lat": -34.6184441,
+  "lng": -58.3727423,
+  "src": "nominatim"
+ },
+ "nm|PARADOR LA HUELLA, Jos&eacute; Ignacio": null,
+ "nm|THE BLACKLOCK, London": null,
+ "nm|BARCLAY PRIME, Philadelphia": null,
+ "nm|JERVOIS STEAK HOUSE, Auckland": {
+  "lat": -36.8461201,
+  "lng": 174.7419256,
+  "src": "nominatim"
+ },
+ "nm|WOLFGANG&acute;S, New York": null,
+ "nm|MEAT & LIQUOR, New Plymouth": null,
+ "nm|LES OREILLES ET LA QUEUE, Paris": null,
+ "nm|RIB&rsquo;N REEF, Montreal": null,
+ "nm|RETOUR, Copenhagen": {
+  "lat": 55.6739197,
+  "lng": 12.5605647,
+  "src": "nominatim"
+ },
+ "nm|L&rsquo;ARGOT, Lyon": null,
+ "nm|APL, Los Angeles": {
+  "lat": 34.6788324,
+  "lng": -118.1855044,
+  "src": "nominatim"
+ },
+ "nm|MARCO PIERRE WHITE, Dublin": {
+  "lat": 53.3416009,
+  "lng": -6.2584484,
+  "src": "nominatim"
+ },
+ "nm|BUTCHER & VINE, Melbourne": null,
+ "nm|BUTCHER & GRILL, Cape Town": {
+  "lat": -33.9016525,
+  "lng": 18.4005578,
+  "src": "nominatim"
+ },
+ "nm|OJO DE AQUA, Frankfurt a. Main": null,
+ "nm|STRIP STEAK, Miami Beach": null,
+ "nm|THE COAL SHED, London": {
+  "lat": 51.5037975,
+  "lng": -0.0777772,
+  "src": "nominatim"
+ },
+ "nm|PRIME 68, Dubai": null,
+ "nm|LE&Ntilde;A MARBELLA, Marbella": null,
+ "nm|MIDTOWN GRILL, Amsterdam": null,
+ "nm|CATCH STEAK, New York": null,
+ "nm|MACELLERIA, Melbourne": null,
+ "nm|OSTERIA DI NANDONE, Scarperia e San Piero": null,
+ "nm|BRACERIA ELVETICA, Lugano": {
+  "lat": 46.0050965,
+  "lng": 8.9542174,
+  "src": "nominatim"
+ },
+ "nm|BOWERY MEAT CO., New York": {
+  "lat": 40.7245658,
+  "lng": -73.9918599,
+  "src": "nominatim"
+ },
+ "nm|SPARKS, New York": {
+  "lat": 41.1445319,
+  "lng": -74.0302632,
+  "src": "nominatim"
+ },
+ "nm|BEEF GENEVA, Geneva": {
+  "lat": 46.2081362,
+  "lng": 6.1459871,
+  "src": "nominatim"
+ },
+ "nm|BATEAU, Seattle": null,
+ "nm|JEAN-GEORGES, Las Vegas": null,
+ "nm|RISTORANTE ASINA LUNA, Milano": null,
+ "nm|STEAK, RESTAURANTS": null,
+ "nm|A FIGUREIRA RUBAIYAT, São Paulo": null,
+ "nm|800°C MOSCOW, Moscow": null,
+ "nm|PARADOR LA HUELLA, José Ignacio": null,
+ "nm|WOLFGANG´S, New York": {
+  "lat": 40.746628,
+  "lng": -73.9820041,
+  "src": "nominatim"
+ },
+ "nm|RIB'N REEF, Montreal": {
+  "lat": 45.4987396,
+  "lng": -73.658967,
+  "src": "nominatim"
+ },
+ "nm|L'ARGOT, Lyon": {
+  "lat": 45.7670196,
+  "lng": 4.8560545,
+  "src": "nominatim"
+ },
+ "nm|LEÑA MARBELLA, Marbella": {
+  "lat": 36.5038067,
+  "lng": -4.9249545,
+  "src": "nominatim"
+ },
+ "wbsmt|1-7-12, Dotonbori 1F, Chuo-ku,, Osaka, Japan": {
+  "lat": 34.679846205723976,
+  "lng": 135.51031574606895,
+  "approx": false
+ },
+ "wbsmt|1-11-19 Sonezaki Shinchi, Kita-ku | Kitashinchi Star Building B1F, Osaka, Japan": {
+  "lat": 34.455350526876224,
+  "lng": 135.5104218800018,
+  "approx": false
+ },
+ "wbsmt|30-36 Bay St corner Guilfoyle Ave., Sydney, Australia": {
+  "lat": -33.88964425905365,
+  "lng": 151.20273616103395,
+  "approx": false
+ },
+ "wbsmt|Arkolla Auzoa Auzoa, 33, Hondarribia, Spain": {
+  "lat": 43.35821058063652,
+  "lng": -1.8067162111401558,
+  "approx": false
+ },
+ "wbsmt|Piazza Vittorio Veneto, 26A, Saturnia, Italy": {
+  "lat": 42.6641749076218,
+  "lng": 11.50459360331297,
+  "approx": false
+ },
+ "wbsmt|7 Dempsey Rd, Singapore, Singapore": {
+  "lat": 1.304404,
+  "lng": 103.809125,
+  "approx": false
+ },
+ "wbsmt|St. Klara Kalea 6, Tolosa, Spain": {
+  "lat": 43.135259,
+  "lng": -2.0723950000000286,
+  "approx": false
+ },
+ "wbsmt|Calle de Ponzano, 59, Madrid, Spain": {
+  "lat": 40.441287,
+  "lng": -3.699204000000009,
+  "approx": false
+ },
+ "wbsmt|Kronobergsgatan 37, Stockholm, Sweden": {
+  "lat": 59.335222,
+  "lng": 18.034924000000046,
+  "approx": false
+ },
+ "wbsmt|16 West 22nd St, New York, United States": {
+  "lat": 40.831793,
+  "lng": -73.41265399999997,
+  "approx": false
+ },
+ "wbsmt|90 Bartholowmew Close, London, United Kingdom": {
+  "lat": 51.51820798304315,
+  "lng": -0.09871803224086761,
+  "approx": false
+ },
+ "wbsmt|66 Hunter Street, Sydney, Australia": {
+  "lat": -33.866011,
+  "lng": 151.21036000000004,
+  "approx": false
+ },
+ "wbsmt|214 W Erie St, Chicago, United States": {
+  "lat": 41.894226,
+  "lng": -87.63479000000001,
+  "approx": false
+ },
+ "wbsmt|25 Martin Place, Sydney, Australia": {
+  "lat": -33.868577,
+  "lng": 151.209291,
+  "approx": false
+ },
+ "wbsmt|1, 42-gil, Majang-ro,, Seoul, South Korea": {
+  "lat": 37.51970790084319,
+  "lng": 127.01939586549997,
+  "approx": false
+ },
+ "wbsmt|23-33 Mary Street, Sydney, Australia": {
+  "lat": -33.87654817672852,
+  "lng": 151.10462363809347,
+  "approx": false
+ },
+ "wbsmt|318 Park Ave S, New York, United States": {
+  "lat": 40.740718,
+  "lng": -73.98620699999998,
+  "approx": false
+ },
+ "wbsmt|953 High St, Melbourne, Australia": {
+  "lat": -37.875768,
+  "lng": 145.18242599999996,
+  "approx": false
+ },
+ "wbsmt|H. Christaenlaan 5, Koksijde, Belgium": {
+  "lat": 51.109967,
+  "lng": 2.6112920000000486,
+  "approx": false
+ },
+ "wbsmt|50 Holt Street, Sydney, Australia": {
+  "lat": -33.886323,
+  "lng": 151.20958799999994,
+  "approx": false
+ },
+ "wbsmt|Rådhuspladsen 57, Copenhagen, Denmark": {
+  "lat": 55.676269,
+  "lng": 12.570163999999977,
+  "approx": false
+ },
+ "wbsmt|Hoogstraat 23, Gent, Belgium": {
+  "lat": 51.054513,
+  "lng": 3.7148310000000038,
+  "approx": false
+ },
+ "wbsmt|5A Air Street, London W1J 0AD, United Kingdom": {
+  "lat": 51.509696,
+  "lng": -0.1361259999999902,
+  "approx": false
+ },
+ "wbsmt|4 Redchurch Street, Shoreditch, London, United Kingdom": {
+  "lat": 51.524266,
+  "lng": -0.07669099999998252,
+  "approx": false
+ },
+ "wbsmt|Via Risorgimento 17, Osio Sotto, Italy": null,
+ "nm|LA BRASERIA, Osio Sotto, Italy": null,
+ "wbsmt|LA BRASERIA, Osio Sotto, Italy": {
+  "lat": 45.61607818222028,
+  "lng": 9.58905279636383,
+  "approx": false
+ },
+ "wbsmt|1109 Hamilton St, Vancouver, Canada": {
+  "lat": 49.275919,
+  "lng": -123.121377,
+  "approx": false
+ },
+ "wbsmt|Ginza, 6 Chome−4−3 GICROS GINZA GEMS 9F, Tokyo, Japan": {
+  "lat": 35.66926103829211,
+  "lng": 139.76442899554968,
+  "approx": false
+ },
+ "wbsmt|Pl. de las Salesas, 9, Madrid, Spain": {
+  "lat": 40.423862,
+  "lng": -3.6948320000000194,
+  "approx": false
+ },
+ "wbsmt|Via Ricasoli n.14r, Florence, Italy": {
+  "lat": 43.77448490061788,
+  "lng": 11.256769225001335,
+  "approx": false
+ },
+ "wbsmt|Isabel la Católica N24-54 entre Luis Cordero y Francisco Salazar, Quito, Ecuador": {
+  "lat": -0.33507539811194637,
+  "lng": -78.48359696567059,
+  "approx": false
+ },
+ "wbsmt|Calle de la Diputación 6, Bilbao, Spain": {
+  "lat": 43.263001898516805,
+  "lng": -2.935004197061062,
+  "approx": false
+ },
+ "wbsmt|161 King St, Basement, Sydney, Australia": {
+  "lat": -33.86863919080808,
+  "lng": 151.2071980163455,
+  "approx": false
+ },
+ "wbsmt|42 Quai Jean-Charles Rey, Monte Carlo, Monaco": {
+  "lat": 43.74029630168937,
+  "lng": 7.426558993756771,
+  "approx": false
+ },
+ "wbsmt|49 Rue Volta, Paris, France": {
+  "lat": 48.867116,
+  "lng": 2.3582930000000033,
+  "approx": false
+ },
+ "wbsmt|Gorriti 3780, Buenos Aires, Argentina": {
+  "lat": -34.595622,
+  "lng": -58.41815700000001,
+  "approx": false
+ },
+ "wbsmt|15 Claremont Street, Melbourne, Australia": {
+  "lat": -37.837629,
+  "lng": 144.99368200000004,
+  "approx": false
+ },
+ "wbsmt|Villa 11 75B St - Jumeirah 1, Dubai, Uae": {
+  "lat": 25.191039742298393,
+  "lng": 55.24069380015135,
+  "approx": false
+ },
+ "wbsmt|27 Poultry, London, United Kingdom": {
+  "lat": 51.513864,
+  "lng": -0.08951200000001336,
+  "approx": false
+ },
+ "wbsmt|570-15, south side of Gion-cho, Higashiyama-ku,, Kyoto, Japan": {
+  "lat": 34.99709310024282,
+  "lng": 135.77646397054195,
+  "approx": false
+ },
+ "wbsmt|38 Clarges St, London, United Kingdom": {
+  "lat": 51.506735,
+  "lng": -0.14511700000002747,
+  "approx": false
+ },
+ "wbsmt|6 Rue Bailleul, Paris, France": {
+  "lat": 48.860976,
+  "lng": 2.34197800000004,
+  "approx": false
+ },
+ "wbsmt|6600 Sunset Blvd, Los Angeles, United States": {
+  "lat": 34.09782,
+  "lng": -118.33334000000002,
+  "approx": false
+ },
+ "wbsmt|4 Charles Street, New York, United States": {
+  "lat": 40.735116,
+  "lng": -74.00064299999997,
+  "approx": false
+ },
+ "wbsmt|33 Russell Street, Melbourne, Australia": {
+  "lat": -37.901023,
+  "lng": 145.02331800000002,
+  "approx": false
+ },
+ "wbsmt|5300 E Mockingbird Ln, Dallas, United States": {
+  "lat": 32.835929,
+  "lng": -96.77815699999996,
+  "approx": false
+ },
+ "wbsmt|Zumalakarregi Pasealekua Ibilbidea, 7, Tolosa, Spain": {
+  "lat": 43.13492823929944,
+  "lng": -2.073461562395096,
+  "approx": false
+ },
+ "wbsmt|61 Division Street, San Francisco, United States": {
+  "lat": 37.769696,
+  "lng": -122.403501,
+  "approx": false
+ },
+ "wbsmt|5th floor, H Code The Steps, 45 Pottinger St, Hong Kong, Hong Kong": {
+  "lat": 22.282183,
+  "lng": 114.15431999999998,
+  "approx": false
+ },
+ "wbsmt|37 Margaret Street, Sydney, Australia": {
+  "lat": -33.86507605895059,
+  "lng": 151.2056151777506,
+  "approx": false
+ },
+ "wbsmt|1204 W Lynn St,, Austin, United States": {
+  "lat": 30.280472,
+  "lng": -97.75918999999999,
+  "approx": false
+ },
+ "wbsmt|26 Mohamed Sultan Road, Singapore, Singapore": {
+  "lat": 1.293429,
+  "lng": 103.841181,
+  "approx": false
+ },
+ "wbsmt|Capella Hanoi, 11 Le Phung Hieu,, Hanoi, Vietnam": {
+  "lat": 21.025726,
+  "lng": 105.856809,
+  "approx": false
+ },
+ "wbsmt|Lanelay Hall Hotel, Lanelay Lane, Talbot Green, Pontyclun CF72 8HH South Wales, United Kingdom": null,
+ "nm|BLOK, Pontyclun CF72 8HH South Wales, United Kingdom": null,
+ "wbsmt|BLOK, Pontyclun CF72 8HH South Wales, United Kingdom": {
+  "lat": 51.53291978618445,
+  "lng": -3.4659600400267436,
+  "approx": false
+ },
+ "wbsmt|1086/88 Posadas, Buenos Aires, Argentina": {
+  "lat": -34.735644535358475,
+  "lng": -58.38153909891844,
+  "approx": false
+ },
+ "wbsmt|159 Domain Rd, Melbourne, Australia": {
+  "lat": -37.834148,
+  "lng": 144.981536,
+  "approx": false
+ },
+ "wbsmt|72 West 36 Street, New York, United States": {
+  "lat": 40.750784,
+  "lng": -73.98639800000001,
+  "approx": false
+ },
+ "wbsmt|2 Bayfront Avenue, Marina Bay Sands, Singapore, Singapore": {
+  "lat": 1.3557068158773005,
+  "lng": 103.80726564101292,
+  "approx": false
+ },
+ "wbsmt|The Ritz Carlton New York, Nomad, 25 W 28th Street, New York, United States": {
+  "lat": 40.745583,
+  "lng": -73.989082,
+  "approx": false
+ },
+ "wbsmt|Baobab Suites, C. Roques del Salmor, 6, Tenerife, Spain": {
+  "lat": 28.29058652500459,
+  "lng": -16.556584125456993,
+  "approx": false
+ },
+ "wbsmt|16 Argyle Street, The Rocks, Sydney, Australia": {
+  "lat": -33.858670455092074,
+  "lng": 151.20594911277294,
+  "approx": false
+ },
+ "wbsmt|113 MacDougal St, New York, United States": {
+  "lat": 40.729966,
+  "lng": -74.00063,
+  "approx": false
+ },
+ "wbsmt|Friedrichstrasse 105b, Berlin, Germany": {
+  "lat": 52.522695,
+  "lng": 13.388762000000042,
+  "approx": false
+ },
+ "wbsmt|Florianigasse 35, Vienna, Austria": {
+  "lat": 48.211811,
+  "lng": 16.34886000000006,
+  "approx": false
+ },
+ "wbsmt|Palais Renaissance, 390 Orchard Road #02-08, Singapore, Singapore": {
+  "lat": 1.3038044577792132,
+  "lng": 103.83357736379958,
+  "approx": false
+ },
+ "wbsmt|Rio Missouri 555 San Pedro Garza, Monterrey, Mexico": null,
+ "nm|HOLSTEINS, Monterrey, Mexico": null,
+ "wbsmt|HOLSTEINS, Monterrey, Mexico": {
+  "lat": 25.680202154664908,
+  "lng": -100.31525820493698,
+  "approx": false
+ },
+ "wbsmt|15 Jalan Masjid Kapitan Keling, Penang, Malaysia": {
+  "lat": 5.418697,
+  "lng": 100.33932099999993,
+  "approx": false
+ },
+ "wbsmt|1145 Griswold Street, Detroit, United States": {
+  "lat": 42.332271,
+  "lng": -83.04917699999999,
+  "approx": false
+ },
+ "wbsmt|17 Denma Street, Soho, London, United Kingdom": {
+  "lat": 51.510649,
+  "lng": -0.13533200000006218,
+  "approx": false
+ },
+ "wbsmt|1000 W. Fulton Market, Chicago, United States": {
+  "lat": 41.886969,
+  "lng": -87.65243199999998,
+  "approx": false
+ },
+ "wbsmt|Korkeavuorenkatu 21, Helsinki, Finland": {
+  "lat": 60.162756,
+  "lng": 24.94640000000004,
+  "approx": false
+ },
+ "wbsmt|228 West 52nd Street, New York, United States": {
+  "lat": 40.762853,
+  "lng": -73.983832,
+  "approx": false
+ },
+ "wbsmt|Luikstraat 4, Antwerp, Belgium": {
+  "lat": 51.210618,
+  "lng": 4.388805999999931,
+  "approx": false
+ },
+ "wbsmt|363 Greenwich Street, New York, United States": {
+  "lat": 40.719127,
+  "lng": -74.010156,
+  "approx": false
+ },
+ "wbsmt|81 Bay Street 4th floor, Toronto, Canada": {
+  "lat": 46.45246831272141,
+  "lng": -63.379963003098965,
+  "approx": false
+ },
+ "wbsmt|3770 S Las Vegas Blvd, Chicago, United States": {
+  "lat": 41.87556183451685,
+  "lng": -87.62442145496607,
+  "approx": false
+ },
+ "wbsmt|3345 Steiner St, San Francisco, United States": {
+  "lat": 37.800262,
+  "lng": -122.43801000000002,
+  "approx": false
+ },
+ "wbsmt|11 Shota Rustaveli st., Kyiv, Ukraine": {
+  "lat": 50.43904,
+  "lng": 30.52091900000005,
+  "approx": false
+ },
+ "wbsmt|Ground Floor, Regent Hong Kong, 18 Salisbury Rd, Tsim Sha Tsui, Hong Kong, Hong Kong": {
+  "lat": 22.294701,
+  "lng": 114.17580499999997,
+  "approx": false
+ },
+ "wbsmt|Praça D. Luís I, 7, Lisbon, Portugal": {
+  "lat": 38.706952,
+  "lng": -9.147338999999988,
+  "approx": false
+ },
+ "wbsmt|Schifflände 6, Zurich, Switzerland": {
+  "lat": 47.368258,
+  "lng": 8.545053999999936,
+  "approx": false
+ },
+ "wbsmt|B1F, 2-24-14 Nishiazabu, Minato-ku, Tokyo, Japan": {
+  "lat": 35.65800916272623,
+  "lng": 139.75151348859072,
+  "approx": false
+ },
+ "wbsmt|2401 Ceda Springs Road, Suite 120, Dallas, United States": {
+  "lat": 32.77627191751614,
+  "lng": -96.79685611277819,
+  "approx": false
+ },
+ "wbsmt|1131 Argyle Street, Finnieston, Glasgow, United Kingdom": {
+  "lat": 55.864656,
+  "lng": -4.284474000000046,
+  "approx": false
+ },
+ "wbsmt|Lune Azabu juban Bldg B1,1-5-23,Azabu juban,Minatoku,, Tokyo, Japan": {
+  "lat": 35.654262271601475,
+  "lng": 139.736685231328,
+  "approx": false
+ },
+ "wbsmt|Remhoogte Wine Estate, Stellenbosch, South Africa": {
+  "lat": -33.93444392538298,
+  "lng": 18.869166746735573,
+  "approx": false
+ },
+ "wbsmt|372 Fulton Street, Brooklyn, New York, United States": {
+  "lat": 40.691467,
+  "lng": -73.98776700000002,
+  "approx": false
+ },
+ "wbsmt|30 Bruton Place, Mayfair, London, United Kingdom": {
+  "lat": 51.511128,
+  "lng": -0.14501500000005763,
+  "approx": false
+ },
+ "wbsmt|Jl. Maleo JA 1 No.1, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Jakarta, Indonesia": {
+  "lat": -6.175404641025038,
+  "lng": 106.8271678313613,
+  "approx": false
+ },
+ "wbsmt|Basement, 195 Little Collins Street, Melbourne, Australia": {
+  "lat": -37.814109,
+  "lng": 144.96773699999994,
+  "approx": false
+ },
+ "wbsmt|112 Flinders Lane, Melbourne, Australia": {
+  "lat": -37.81788766538932,
+  "lng": 144.96213633567095,
+  "approx": false
+ },
+ "wbsmt|20 Chapel Street, Sydney, Australia": {
+  "lat": -33.90685242085425,
+  "lng": 151.1645220592618,
+  "approx": false
+ },
+ "wbsmt|512 Maunganui Road, Mount Maunganui, New Zealand": {
+  "lat": -37.65483,
+  "lng": 176.20005600000002,
+  "approx": false
+ },
+ "wbsmt|Dardo Rocha 2208, Buenos Aires, Argentina": {
+  "lat": -34.797764781500796,
+  "lng": -58.35543617606163,
+  "approx": false
+ },
+ "wbsmt|33 on, 4th Ave, Parkhurst, Johannesburg, South Africa": {
+  "lat": -26.2049998882851,
+  "lng": 28.04972179234028,
+  "approx": false
+ },
+ "wbsmt|5-13-10 VORT_Shinbashi_NEX bldg Shinbashi,Minato-ku, Tokyo, Japan": {
+  "lat": 35.665106089204684,
+  "lng": 139.75611615926027,
+  "approx": false
+ },
+ "wbsmt|3 Dalley St, Sydney, Australia": {
+  "lat": -33.863214,
+  "lng": 151.05231100000003,
+  "approx": false
+ },
+ "wbsmt|1 Chrome-14-16 Nishiazabu, Minato City, Tokyo, Japan": {
+  "lat": 35.69445875499756,
+  "lng": 139.81325592845678,
+  "approx": false
+ },
+ "wbsmt|3 Leventi Str., Athens, Greece": {
+  "lat": 37.97556502052681,
+  "lng": 23.734832368791103,
+  "approx": false
+ },
+ "wbsmt|45 Park Lane, London, United Kingdom": {
+  "lat": 51.50636,
+  "lng": -0.1515910000000531,
+  "approx": false
+ },
+ "wbsmt|Av. P.º de la Reforma 333, Mexico City, Mexico": {
+  "lat": 19.42944500813448,
+  "lng": -99.16338052600622,
+  "approx": false
+ },
+ "wbsmt|105-107 Talbot Road, London, United Kingdom": {
+  "lat": 51.516641,
+  "lng": -0.20063099999993028,
+  "approx": false
+ },
+ "wbsmt|Via Mazzini 23/c, Torino, Italy": null,
+ "wbsmt|BIFRÒ, Torino, Italy": {
+  "lat": 44.888785474011,
+  "lng": 11.991408839821815,
+  "approx": false
+ },
+ "wbsmt|120 N Wacker Drive, Chicago, United States": {
+  "lat": 41.88191624154901,
+  "lng": -87.6370221376419,
+  "approx": false
+ },
+ "wbsmt|3 Chapel Place, London, United Kingdom": {
+  "lat": 51.515257,
+  "lng": -0.1468290000000252,
+  "approx": false
+ },
+ "wbsmt|1737 North Bayshore Drive, Miami, United States": {
+  "lat": 25.792156,
+  "lng": -80.18591400000003,
+  "approx": false
+ },
+ "wbsmt|Via de Cerchi 40/R, Florence, Italy": {
+  "lat": 43.771314,
+  "lng": 11.256141999999954,
+  "approx": false
+ },
+ "wbsmt|1801 California Street, Denver, United States": {
+  "lat": 39.747448,
+  "lng": -104.98989399999999,
+  "approx": false
+ },
+ "wbsmt|8-10 High Street, Cardiff, United Kingdom": {
+  "lat": 51.48082059546379,
+  "lng": -3.1802747771143913,
+  "approx": false
+ },
+ "wbsmt|1a Lower Pembroke Street, Dublin, Ireland": {
+  "lat": 53.34937952830145,
+  "lng": -6.260559484362602,
+  "approx": false
+ },
+ "wbsmt|Lenbachplatz 8, Munich, Germany": {
+  "lat": 48.140239,
+  "lng": 11.567716000000019,
+  "approx": false
+ },
+ "wbsmt|24-26 Maddox Street, Mayfair, London, United Kingdom": {
+  "lat": 51.51274632450773,
+  "lng": -0.14250542968511581,
+  "approx": false
+ },
+ "wbsmt|11647 San Vicente Blvd, Los Angeles, United States": {
+  "lat": 34.05412,
+  "lng": -118.46388999999999,
+  "approx": false
+ },
+ "wbsmt|Brandschenkestrasse 130, Zurich, Switzerland": {
+  "lat": 47.364718,
+  "lng": 8.525609000000031,
+  "approx": false
+ },
+ "wbsmt|Via della Resistenza, 23, Milan, Italy": {
+  "lat": 45.438713,
+  "lng": 9.29510700000003,
+  "approx": false
+ },
+ "wbsmt|C. de Sagasta, 30, Madrid, Spain": {
+  "lat": 40.427771,
+  "lng": -3.696961999999985,
+  "approx": false
+ },
+ "wbsmt|Maximiliansplatz 9, Munich, Germany": {
+  "lat": 48.142988,
+  "lng": 11.572836000000052,
+  "approx": false
+ },
+ "wbsmt|José Antonio Cabrera 5157, Buenos Aires, Argentina": {
+  "lat": -34.59296259225065,
+  "lng": -58.42806536704302,
+  "approx": false
+ },
+ "wbsmt|330 S. Hope Street, Los Angeles, United States": {
+  "lat": 34.052734,
+  "lng": -118.252769,
+  "approx": false
+ },
+ "wbsmt|707 N Wells St, Chicago, United States": {
+  "lat": 41.895106,
+  "lng": -87.63382200000001,
+  "approx": false
+ },
+ "wbsmt|25 Broadwick St, London, United Kingdom": {
+  "lat": 51.51338,
+  "lng": -0.13553000000001703,
+  "approx": false
+ },
+ "wbsmt|10 Columbus Circle, 4th Floor, New York, United States": {
+  "lat": 40.65432650542305,
+  "lng": -73.44507051631808,
+  "approx": false
+ },
+ "wbsmt|Av. de las Americas 1254 local #1 Colonial Country Club, Guadalajara, Mexico": {
+  "lat": 20.672037566778865,
+  "lng": -103.33839610219002,
+  "approx": false
+ },
+ "wbsmt|4 Rue Mariotte, Paris, France": {
+  "lat": 48.884041,
+  "lng": 2.321019999999976,
+  "approx": false
+ },
+ "wbsmt|233 N Canal St, Chicago, United States": {
+  "lat": 41.886639,
+  "lng": -87.63964399999998,
+  "approx": false
+ },
+ "wbsmt|Via Alessio di Tocqueville, 7, Milan, Italy": {
+  "lat": 45.48284,
+  "lng": 9.186128999999937,
+  "approx": false
+ },
+ "wbsmt|178 Broadway, Brooklyn, New York, United States": {
+  "lat": 40.709866,
+  "lng": -73.962557,
+  "approx": false
+ },
+ "wbsmt|142 Greville St., Melbourne, Australia": {
+  "lat": -37.84942,
+  "lng": 144.99152800000002,
+  "approx": false
+ },
+ "wbsmt|Schubertring 5-7, Vienna, Austria": {
+  "lat": 48.202414,
+  "lng": 16.376236000000063,
+  "approx": false
+ },
+ "wbsmt|10/6 Cowper Wharf Road, Sydney, Australia": {
+  "lat": -33.869223215920975,
+  "lng": 151.22075757847153,
+  "approx": false
+ },
+ "wbsmt|Rue Adrien/Lachenal 26, Genève, Switzerland": null,
+ "wbsmt|BEEF, Genève, Switzerland": null,
+ "wbsmt|Genève, Switzerland": {
+  "lat": 46.523752864202834,
+  "lng": 6.619146019220352,
+  "approx": true
+ },
+ "wbsmt|Rua Haddock Lobo 1738, Jardim Paulista, Saõ Paulo, Brazil": {
+  "lat": -23.56537,
+  "lng": -46.66956800000003,
+  "approx": false
+ },
+ "wbsmt|Souk Al Bahar, Dubai, Uae": {
+  "lat": 25.26472280700774,
+  "lng": 55.292414501309395,
+  "approx": false
+ },
+ "wbsmt|Neuer Jungfernstieg 9-14, Hamburg, Germany": {
+  "lat": 53.555719,
+  "lng": 9.991685999999959,
+  "approx": false
+ },
+ "wbsmt|\"C. de Recoletos, 4,\", Madrid, Spain": {
+  "lat": 40.42212,
+  "lng": -3.690808000000061,
+  "approx": false
+ },
+ "wbsmt|Klarabergsviadkukten 67, Stockholm, Sweden": {
+  "lat": 59.330121,
+  "lng": 18.054745000000025,
+  "approx": false
+ },
+ "wbsmt|The Point, 76 Regent Road, Shop 8 First Floor, Cape Town, South Africa": null,
+ "nm|THE EIGHTY SIX, NEW YORK, United States": null,
+ "wbsmt|THE EIGHTY SIX, NEW YORK, United States": {
+  "lat": 40.680029,
+  "lng": -73.97501399999999,
+  "approx": false
+ },
+ "nm|HAWKSMOOR ST. PANCRAS, LONDON, United Kingdom": {
+  "lat": 51.5293331,
+  "lng": -0.1261149,
+  "src": "nominatim"
+ },
+ "nm|ARKHÉ BAR & DINING, ADELAIDE": null,
+ "wbsmt|ARKHÉ BAR & DINING, ADELAIDE": {
+  "lat": -35.10757071832282,
+  "lng": 138.54918614029884,
+  "approx": false
+ },
+ "nm|AGNES, BRISBANE": {
+  "lat": -27.4580265,
+  "lng": 153.0308266,
+  "src": "nominatim"
+ },
+ "nm|MILLER & LUX, SAN FRANCISCO, United States": {
+  "lat": 37.7681644,
+  "lng": -122.3864911,
+  "src": "nominatim"
+ },
+ "nm|GRAN TORINO, SYDNEY, Australia": {
+  "lat": -33.8773693,
+  "lng": 151.24138,
+  "src": "nominatim"
+ },
+ "nm|HANU, DUBAI, Uae": null,
+ "wbsmt|HANU, DUBAI, Uae": {
+  "lat": 25.26472280700774,
+  "lng": 55.292414501309395,
+  "approx": false
+ },
+ "nm|DANIEL’S, MIAMI, United States": null,
+ "wbsmt|DANIEL’S, MIAMI, United States": {
+  "lat": 40.77490106636112,
+  "lng": -85.97202815115452,
+  "approx": false
+ },
+ "nm|MADRE ROJAS, BUENOS AIRES, Argentina": {
+  "lat": -37.672427,
+  "lng": -59.397074,
+  "src": "nominatim"
+ },
+ "nm|CHELSEA GRILL, LONDON, United Kingdom": null,
+ "wbsmt|CHELSEA GRILL, LONDON, United Kingdom": {
+  "lat": 51.48885542828279,
+  "lng": -0.16537830233573914,
+  "approx": false
+ },
+ "nm|MAGMA BY DANY KARAM, SYDNEY, Australia": null,
+ "wbsmt|MAGMA BY DANY KARAM, SYDNEY, Australia": {
+  "lat": -33.88964425905365,
+  "lng": 151.20273616103395,
+  "approx": false
+ },
+ "nm|LINNY’S, TORONTO, Canada": null,
+ "wbsmt|LINNY’S, TORONTO, Canada": {
+  "lat": 43.65348193799568,
+  "lng": -79.38393473625183,
+  "approx": false
+ },
+ "nm|SPERLING & CO., STOCKHOLM, Sweden": {
+  "lat": 59.3367382,
+  "lng": 18.073635,
+  "src": "nominatim"
+ },
+ "nm|TXULA STEAK, NEW YORK, United States": null,
+ "wbsmt|TXULA STEAK, NEW YORK, United States": {
+  "lat": 40.7127281077059,
+  "lng": -74.00601547211409,
+  "approx": false
+ },
+ "nm|BAZAAR MEAT BY JOSÉ ANDRÉS, NEW YORK, United States": null,
+ "wbsmt|BAZAAR MEAT BY JOSÉ ANDRÉS, NEW YORK, United States": {
+  "lat": 40.7127281077059,
+  "lng": -74.00601547211409,
+  "approx": false
+ },
+ "nm|SK STEAK & OYSTER, BRISBANE": null,
+ "wbsmt|SK STEAK & OYSTER, BRISBANE": {
+  "lat": -27.181248693982514,
+  "lng": 153.0113372951746,
+  "approx": false
+ },
+ "nm|CARNA BY DARIO CECCHINI, HONG KONG, Hong Kong": null,
+ "wbsmt|CARNA BY DARIO CECCHINI, HONG KONG, Hong Kong": {
+  "lat": 22.281835415524068,
+  "lng": 114.15827438235283,
+  "approx": false
+ },
+ "nm|HAPPENING COSTANERA, BUENOS AIRES, Argentina": {
+  "lat": -34.5438761,
+  "lng": -58.4331609,
+  "src": "nominatim"
+ },
+ "nm|SHELL HOUSE DINING ROOM & TERRACE, SYDNEY, Australia": null,
+ "wbsmt|SHELL HOUSE DINING ROOM & TERRACE, SYDNEY, Australia": {
+  "lat": -33.88964425905365,
+  "lng": 151.20273616103395,
+  "approx": false
+ },
+ "nm|SAGARDI, LONDON, United Kingdom": null,
+ "wbsmt|SAGARDI, LONDON, United Kingdom": {
+  "lat": 51.507445738516466,
+  "lng": -0.12776535004377365,
+  "approx": false
+ },
+ "nm|CARNAL STEAKHOUSE, BARCELONA": null,
+ "wbsmt|CARNAL STEAKHOUSE, BARCELONA": {
+  "lat": 41.998154202460704,
+  "lng": 2.278694473206997,
+  "approx": false
+ },
+ "nm|SOICHIRO, JAKARTA, Indonesia": null,
+ "wbsmt|SOICHIRO, JAKARTA, Indonesia": {
+  "lat": -6.175404641025038,
+  "lng": 106.8271678313613,
+  "approx": false
+ },
+ "nm|ZOILO, LONDON, United Kingdom": null,
+ "wbsmt|ZOILO, LONDON, United Kingdom": {
+  "lat": 51.507445738516466,
+  "lng": -0.12776535004377365,
+  "approx": false
+ },
+ "nm|BRABO, BARCELONA": null,
+ "wbsmt|BRABO, BARCELONA": {
+  "lat": 25.468542872192078,
+  "lng": -100.07355093955994,
+  "approx": false
+ },
+ "wbsmt|CUT, Beverly Hills": {
+  "lat": 41.00532725167763,
+  "lng": -74.07149825245142,
+  "approx": false
+ },
+ "nm|RESTAURANG AG, Stockholm, Sweden": {
+  "lat": 59.3351799,
+  "lng": 18.0348514,
+  "src": "nominatim"
+ },
+ "nm|CHOPHOUSE, Sydney, Australia": null,
+ "wbsmt|CHOPHOUSE, Sydney, Australia": {
+  "lat": -33.869843756870104,
+  "lng": 151.20828464627266,
+  "approx": false
+ },
+ "nm|COTE N.Y.C., New York, United States": null,
+ "wbsmt|COTE N.Y.C., New York, United States": {
+  "lat": 40.7127281077059,
+  "lng": -74.00601547211409,
+  "approx": false
+ },
+ "nm|BRACERIA BIFULCO, Napoli, Italy": null,
+ "wbsmt|BRACERIA BIFULCO, Napoli, Italy": {
+  "lat": 44.433251232381835,
+  "lng": 11.196327991783619,
+  "approx": false
+ },
+ "nm|AMERICAN CUT TRIBECA, New York, United States": {
+  "lat": 40.7191271,
+  "lng": -74.0101564,
+  "src": "nominatim"
+ },
+ "nm|MR PORTER, Amsterdam, Netherlands": {
+  "lat": 52.3727769,
+  "lng": 4.8897582,
+  "src": "nominatim"
+ },
+ "nm|GEORGE PRIME STEAK, Munich, Germany": {
+  "lat": 48.1431788,
+  "lng": 11.5728392,
+  "src": "nominatim"
+ },
+ "nm|LA MAISON DE L´AUBRAC, Paris, France": {
+  "lat": 48.8696595,
+  "lng": 2.3052249,
+  "src": "nominatim"
+ },
+ "nm|FLAT IRON, London, United Kingdom": {
+  "lat": 51.5151361,
+  "lng": -0.1295384,
+  "src": "nominatim"
+ },
+ "nm|GEORGE PRIME STEAK, Prague, Czech Republic": null,
+ "wbsmt|GEORGE PRIME STEAK, Prague, Czech Republic": {
+  "lat": 50.08746551793866,
+  "lng": 14.4212531670928,
+  "approx": false
+ },
+ "nm|THE GRILL, Munich, Germany": {
+  "lat": 48.1402387,
+  "lng": 11.567716,
+  "src": "nominatim"
+ },
+ "nm|BEEFBAR MONACO, Monte Carlo, Monaco": null,
+ "wbsmt|BEEFBAR MONACO, Monte Carlo, Monaco": {
+  "lat": 43.738127086888134,
+  "lng": 7.42756113409996,
+  "approx": false
+ },
+ "nm|ZELMAN MEATS, London, United Kingdom": null,
+ "wbsmt|ZELMAN MEATS, London, United Kingdom": {
+  "lat": 51.507445738516466,
+  "lng": -0.12776535004377365,
+  "approx": false
+ },
+ "nm|A FIGUREIRA RUBAIYAT, São Paulo, Brazil": null,
+ "wbsmt|A FIGUREIRA RUBAIYAT, São Paulo, Brazil": {
+  "lat": -20.919456449922354,
+  "lng": -51.39787618070841,
+  "approx": false
+ },
+ "nm|ROWLEY'S, London, United Kingdom": null,
+ "wbsmt|ROWLEY'S, London, United Kingdom": {
+  "lat": 51.649305874097756,
+  "lng": -0.24155236780643463,
+  "approx": false
+ },
+ "nm|800°C MOSCOW, Moscow, Russia": null,
+ "wbsmt|800°C MOSCOW, Moscow, Russia": {
+  "lat": 55.70980106922227,
+  "lng": 37.05369058996439,
+  "approx": false
+ },
+ "nm|LA BRIGADA, Buenos Aires, Argentina": {
+  "lat": -34.6184441,
+  "lng": -58.3727423,
+  "src": "nominatim"
+ },
+ "nm|PARADOR LA HUELLA, José Ignacio, Uruguay": null,
+ "wbsmt|PARADOR LA HUELLA, José Ignacio, Uruguay": {
+  "lat": -34.84482073716769,
+  "lng": -54.63769365102053,
+  "approx": false
+ },
+ "nm|THE BLACKLOCK, London, United Kingdom": null,
+ "wbsmt|THE BLACKLOCK, London, United Kingdom": {
+  "lat": 51.579616383948284,
+  "lng": -0.09584043656764152,
+  "approx": false
+ },
+ "wbsmt|BARCLAY PRIME, Philadelphia": {
+  "lat": 40.0130487039144,
+  "lng": -75.1860761269927,
+  "approx": false
+ },
+ "nm|WOLFGANG´S, New York, United States": {
+  "lat": 40.746628,
+  "lng": -73.9820041,
+  "src": "nominatim"
+ },
+ "nm|MEAT & LIQUOR, New Plymouth, New Zealand": null,
+ "wbsmt|MEAT & LIQUOR, New Plymouth, New Zealand": {
+  "lat": -39.057994053933065,
+  "lng": 174.08064734190702,
+  "approx": false
+ },
+ "nm|LES OREILLES ET LA QUEUE, Paris, France": null,
+ "wbsmt|LES OREILLES ET LA QUEUE, Paris, France": null,
+ "wbsmt|Paris, France": {
+  "lat": 48.85349527412398,
+  "lng": 2.3483913391828537,
+  "approx": true
+ },
+ "nm|RETOUR, Copenhagen, Denmark": {
+  "lat": 55.6739197,
+  "lng": 12.5605647,
+  "src": "nominatim"
+ },
+ "nm|APL, Los Angeles, United States": {
+  "lat": 34.6788324,
+  "lng": -118.1855044,
+  "src": "nominatim"
+ },
+ "nm|MARCO PIERRE WHITE, Dublin, Ireland": {
+  "lat": 53.3416009,
+  "lng": -6.2584484,
+  "src": "nominatim"
+ },
+ "nm|BUTCHER & VINE, Melbourne, Australia": null,
+ "wbsmt|BUTCHER & VINE, Melbourne, Australia": {
+  "lat": -37.931903889945204,
+  "lng": 145.23221500217915,
+  "approx": false
+ },
+ "nm|BUTCHER & GRILL, Cape Town, South Africa": {
+  "lat": -33.9016525,
+  "lng": 18.4005578,
+  "src": "nominatim"
+ },
+ "wbsmt|OJO DE AQUA, Frankfurt a. Main": null,
+ "wbsmt|Frankfurt a. Main": {
+  "lat": 50.12180470309086,
+  "lng": 8.772585019469261,
+  "approx": true
+ },
+ "wbsmt|STRIP STEAK, Miami Beach": {
+  "lat": 39.30823813596092,
+  "lng": -76.37136206030846,
+  "approx": false
+ },
+ "nm|THE COAL SHED, London, United Kingdom": {
+  "lat": 51.5037975,
+  "lng": -0.0777772,
+  "src": "nominatim"
+ },
+ "nm|PRIME 68, Dubai, Uae": null,
+ "wbsmt|PRIME 68, Dubai, Uae": {
+  "lat": 25.26472280700774,
+  "lng": 55.292414501309395,
+  "approx": false
+ },
+ "nm|LEÑA MARBELLA, Marbella, Spain": {
+  "lat": 36.5038067,
+  "lng": -4.9249545,
+  "src": "nominatim"
+ },
+ "nm|MIDTOWN GRILL, Amsterdam, Netherlands": null,
+ "wbsmt|MIDTOWN GRILL, Amsterdam, Netherlands": {
+  "lat": 52.373079696010734,
+  "lng": 4.89245317876339,
+  "approx": false
+ },
+ "nm|CATCH STEAK, New York, United States": null,
+ "wbsmt|CATCH STEAK, New York, United States": {
+  "lat": 40.7127281077059,
+  "lng": -74.00601547211409,
+  "approx": false
+ },
+ "nm|MACELLERIA, Melbourne, Australia": null,
+ "wbsmt|MACELLERIA, Melbourne, Australia": {
+  "lat": -37.82235167734825,
+  "lng": 144.9465811997652,
+  "approx": false
+ },
+ "wbsmt|OSTERIA DI NANDONE, Scarperia e San Piero": {
+  "lat": 44.0109649379513,
+  "lng": 11.33134938776493,
+  "approx": false
+ },
+ "nm|BOWERY MEAT CO., New York, United States": {
+  "lat": 40.7245658,
+  "lng": -73.9918599,
+  "src": "nominatim"
+ },
+ "nm|SPARKS, New York, United States": {
+  "lat": 41.1445319,
+  "lng": -74.0302632,
+  "src": "nominatim"
+ },
+ "nm|BEEF GENEVA, Geneva, Switzerland": {
+  "lat": 46.2081362,
+  "lng": 6.1459871,
+  "src": "nominatim"
+ },
+ "wbsmt|BATEAU, Seattle": {
+  "lat": 47.60383218152247,
+  "lng": -122.33006201684475,
+  "approx": false
+ },
+ "wbsmt|JEAN-GEORGES, Las Vegas": {
+  "lat": 10.658061319920078,
+  "lng": -61.46580822765827,
+  "approx": false
+ },
+ "wbsmt|RISTORANTE ASINA LUNA, Milano": null,
+ "wbsmt|Milano": {
+  "lat": 30.710640784567737,
+  "lng": -96.864745169878,
+  "approx": true
+ },
+ "nm|ARKHÉ BAR & DINING, ADELAIDE, Australia": null,
+ "wbsmt|ARKHÉ BAR & DINING, ADELAIDE, Australia": {
+  "lat": -34.928495939210784,
+  "lng": 138.60074459275495,
+  "approx": false
+ },
+ "nm|AGNES, BRISBANE, Australia": {
+  "lat": -27.4580265,
+  "lng": 153.0308266,
+  "src": "nominatim"
+ },
+ "nm|SK STEAK & OYSTER, BRISBANE, Australia": null,
+ "wbsmt|SK STEAK & OYSTER, BRISBANE, Australia": {
+  "lat": -27.468962033921393,
+  "lng": 153.023500777781,
+  "approx": false
+ },
+ "nm|CARNAL STEAKHOUSE, BARCELONA, Spain": null,
+ "wbsmt|CARNAL STEAKHOUSE, BARCELONA, Spain": {
+  "lat": 41.998154202460704,
+  "lng": 2.278694473206997,
+  "approx": false
+ },
+ "nm|BRABO, BARCELONA, Spain": null,
+ "wbsmt|BRABO, BARCELONA, Spain": {
+  "lat": 41.42646914909987,
+  "lng": 1.5552979008264174,
+  "approx": false
+ },
+ "nm|CUT, Beverly Hills, United States": null,
+ "wbsmt|CUT, Beverly Hills, United States": {
+  "lat": 34.069650325740454,
+  "lng": -118.39630644768476,
+  "approx": false
+ },
+ "nm|BUTCHER AND SINGER, Philadelphia, United States": {
+  "lat": 39.9494509,
+  "lng": -75.1660838,
+  "src": "nominatim"
+ },
+ "nm|ANTICA MACELLERIA CECCHINI, Panzano in Chianti, Italy": {
+  "lat": 43.5445039,
+  "lng": 11.3164099,
+  "src": "nominatim"
+ },
+ "nm|BARCLAY PRIME, Philadelphia, United States": null,
+ "wbsmt|BARCLAY PRIME, Philadelphia, United States": {
+  "lat": 39.95272378471386,
+  "lng": -75.16352646052837,
+  "approx": false
+ },
+ "nm|JERVOIS STEAK HOUSE, Auckland, New Zealand": {
+  "lat": -36.8461201,
+  "lng": 174.7419256,
+  "src": "nominatim"
+ },
+ "nm|RIB'N REEF, Montreal, Canada": {
+  "lat": 45.4987396,
+  "lng": -73.658967,
+  "src": "nominatim"
+ },
+ "nm|L'ARGOT, Lyon, France": {
+  "lat": 45.7670196,
+  "lng": 4.8560545,
+  "src": "nominatim"
+ },
+ "nm|OJO DE AQUA, Frankfurt a. Main, Germany": null,
+ "wbsmt|OJO DE AQUA, Frankfurt a. Main, Germany": {
+  "lat": 50.1106445772534,
+  "lng": 8.682091645896435,
+  "approx": false
+ },
+ "nm|STRIP STEAK, Miami Beach, United States": null,
+ "wbsmt|STRIP STEAK, Miami Beach, United States": {
+  "lat": 25.792919922304666,
+  "lng": -80.13530060648918,
+  "approx": false
+ },
+ "nm|OSTERIA DI NANDONE, Scarperia e San Piero, Italy": null,
+ "wbsmt|OSTERIA DI NANDONE, Scarperia e San Piero, Italy": {
+  "lat": 44.0109649379513,
+  "lng": 11.33134938776493,
+  "approx": false
+ },
+ "nm|BRACERIA ELVETICA, Lugano, Switzerland": {
+  "lat": 46.0050965,
+  "lng": 8.9542174,
+  "src": "nominatim"
+ },
+ "nm|BATEAU, Seattle, United States": null,
+ "wbsmt|BATEAU, Seattle, United States": {
+  "lat": 47.60383218152247,
+  "lng": -122.33006201684475,
+  "approx": false
+ },
+ "nm|JEAN-GEORGES, Las Vegas, United States": null,
+ "wbsmt|JEAN-GEORGES, Las Vegas, United States": {
+  "lat": 36.16742630300181,
+  "lng": -115.14841318130493,
+  "approx": false
+ },
+ "nm|RISTORANTE ASINA LUNA, Milano, Italy": null,
+ "wbsmt|RISTORANTE ASINA LUNA, Milano, Italy": null,
+ "wbsmt|Milano, Italy": {
+  "lat": 45.80848795769546,
+  "lng": 9.576867185533047,
+  "approx": true
+ },
+ "nmcity|Sydney, Australia": {
+  "lat": -33.8698439,
+  "lng": 151.2082848
+ },
+ "nmcity|Hondarribia, Spain": {
+  "lat": 43.3624468,
+  "lng": -1.7914309
+ },
+ "nmcity|Saturnia, Italy": {
+  "lat": 42.6652237,
+  "lng": 11.5049888
+ },
+ "nmcity|Singapore, Singapore": {
+  "lat": 1.2899175,
+  "lng": 103.8519072
+ },
+ "nmcity|Tolosa, Spain": {
+  "lat": 43.1386097,
+  "lng": -2.0723558
+ },
+ "nmcity|Madrid, Spain": {
+  "lat": 40.416782,
+  "lng": -3.703507
+ },
+ "nmcity|Stockholm, Sweden": {
+  "lat": 59.3251172,
+  "lng": 18.0710935
+ },
+ "nmcity|New York, United States": {
+  "lat": 40.7127281,
+  "lng": -74.0060152
+ },
+ "nm|COTE, New York, United States": {
+  "lat": 40.7410352,
+  "lng": -73.9914328,
+  "src": "nominatim"
+ },
+ "nmcity|London, United Kingdom": {
+  "lat": 51.5074456,
+  "lng": -0.1277653
+ },
+ "nmcity|Chicago, United States": {
+  "lat": 41.8755616,
+  "lng": -87.6244212
+ },
+ "nmcity|Seoul, South Korea": {
+  "lat": 37.5666791,
+  "lng": 126.9782914
+ },
+ "nmcity|Melbourne, Australia": {
+  "lat": -37.8142454,
+  "lng": 144.9631732
+ },
+ "nmcity|Koksijde, Belgium": {
+  "lat": 51.1187723,
+  "lng": 2.6349277
+ },
+ "nmcity|Copenhagen, Denmark": {
+  "lat": 55.6867243,
+  "lng": 12.5700724
+ },
+ "nmcity|Gent, Belgium": {
+  "lat": 51.0538286,
+  "lng": 3.7250121
+ },
+ "nmcity|London W1J 0AD, United Kingdom": {
+  "lat": 51.5074456,
+  "lng": -0.1277653
+ },
+ "nmcity|Osio Sotto, Italy": {
+  "lat": 45.613372,
+  "lng": 9.5846063
+ },
+ "nmcity|Vancouver, Canada": {
+  "lat": 49.2608724,
+  "lng": -123.113952
+ },
+ "nmcity|Tokyo, Japan": {
+  "lat": 35.6768601,
+  "lng": 139.7638947
+ },
+ "nmcity|Florence, Italy": {
+  "lat": 43.7697955,
+  "lng": 11.2556404
+ },
+ "nmcity|Quito, Ecuador": {
+  "lat": -0.2201641,
+  "lng": -78.5123274
+ },
+ "nmcity|Bilbao, Spain": {
+  "lat": 43.2630018,
+  "lng": -2.9350039
+ },
+ "nmcity|Monte Carlo, Monaco": {
+  "lat": 43.7402961,
+  "lng": 7.426559
+ },
+ "nmcity|Paris, France": {
+  "lat": 48.8588897,
+  "lng": 2.320041
+ },
+ "nmcity|Buenos Aires, Argentina": {
+  "lat": -34.6095579,
+  "lng": -58.3887904
+ },
+ "nmcity|Dubai, Uae": {
+  "lat": 25.0742823,
+  "lng": 55.1885387
+ },
+ "nmcity|Kyoto, Japan": {
+  "lat": 35.0115754,
+  "lng": 135.7681441
+ },
+ "nmcity|Los Angeles, United States": {
+  "lat": 34.0536909,
+  "lng": -118.242766
+ },
+ "nmcity|Osaka, Japan": {
+  "lat": 34.6937569,
+  "lng": 135.5014539
+ },
+ "nmcity|Dallas, United States": {
+  "lat": 32.7762719,
+  "lng": -96.7968559
+ },
+ "nmcity|San Francisco, United States": {
+  "lat": 37.7879363,
+  "lng": -122.4075201
+ },
+ "nmcity|Hong Kong, Hong Kong": {
+  "lat": 22.2818333,
+  "lng": 114.1582831
+ },
+ "nmcity|Austin, United States": {
+  "lat": 30.2711286,
+  "lng": -97.7436995
+ },
+ "nmcity|Hanoi, Vietnam": {
+  "lat": 21.0283334,
+  "lng": 105.854041
+ },
+ "nmcity|Pontyclun CF72 8HH South Wales, United Kingdom": null,
+ "nmcity|Tenerife, Spain": {
+  "lat": 28.2935785,
+  "lng": -16.6214471
+ },
+ "nmcity|Berlin, Germany": {
+  "lat": 52.5173885,
+  "lng": 13.3951309
+ },
+ "nmcity|Vienna, Austria": {
+  "lat": 48.2083537,
+  "lng": 16.3725042
+ },
+ "nmcity|Monterrey, Mexico": {
+  "lat": 25.6802019,
+  "lng": -100.315258
+ },
+ "nmcity|Penang, Malaysia": {
+  "lat": 5.4065013,
+  "lng": 100.2559077
+ },
+ "nmcity|Detroit, United States": {
+  "lat": 42.3315509,
+  "lng": -83.0466403
+ },
+ "nmcity|Helsinki, Finland": {
+  "lat": 60.1666204,
+  "lng": 24.9435408
+ },
+ "nmcity|Antwerp, Belgium": {
+  "lat": 51.2211097,
+  "lng": 4.3997081
+ },
+ "nmcity|Toronto, Canada": {
+  "lat": 43.6534817,
+  "lng": -79.3839347
+ },
+ "nm|JACOBS & CO STEAKHOUSE, Toronto, Canada": {
+  "lat": 43.6454392,
+  "lng": -79.39797,
+  "src": "nominatim"
+ },
+ "nmcity|Kyiv, Ukraine": {
+  "lat": 50.4500336,
+  "lng": 30.5241361
+ },
+ "nmcity|Lisbon, Portugal": {
+  "lat": 38.7077507,
+  "lng": -9.1365919
+ },
+ "nmcity|Zurich, Switzerland": {
+  "lat": 47.3744489,
+  "lng": 8.5410422
+ },
+ "nmcity|Glasgow, United Kingdom": {
+  "lat": 55.861155,
+  "lng": -4.2501687
+ },
+ "nmcity|Stellenbosch, South Africa": {
+  "lat": -33.934444,
+  "lng": 18.869167
+ },
+ "nmcity|Jakarta, Indonesia": {
+  "lat": -6.1754049,
+  "lng": 106.827168
+ },
+ "nmcity|Mount Maunganui, New Zealand": {
+  "lat": -37.6380218,
+  "lng": 176.1838841
+ },
+ "nmcity|Johannesburg, South Africa": {
+  "lat": -26.205,
+  "lng": 28.049722
+ },
+ "nmcity|Athens, Greece": {
+  "lat": 37.9755648,
+  "lng": 23.7348324
+ },
+ "nmcity|Mexico City, Mexico": {
+  "lat": 19.3207722,
+  "lng": -99.1514678
+ },
+ "nmcity|Torino, Italy": {
+  "lat": 45.0677551,
+  "lng": 7.6824892
+ },
+ "nmcity|Miami, United States": {
+  "lat": 25.7741566,
+  "lng": -80.1935973
+ },
+ "nmcity|Denver, United States": {
+  "lat": 39.7392364,
+  "lng": -104.984862
+ },
+ "nmcity|Cardiff, United Kingdom": {
+  "lat": 51.4816546,
+  "lng": -3.1791934
+ },
+ "nmcity|Dublin, Ireland": {
+  "lat": 53.3493795,
+  "lng": -6.2605593
+ },
+ "nmcity|Munich, Germany": {
+  "lat": 48.1371079,
+  "lng": 11.5753822
+ },
+ "nmcity|Milan, Italy": {
+  "lat": 45.4641943,
+  "lng": 9.1896346
+ },
+ "nm|PORTER HOUSE, New York, United States": {
+  "lat": 40.741372,
+  "lng": -74.0046467,
+  "src": "nominatim"
+ },
+ "nmcity|Guadalajara, Mexico": {
+  "lat": 20.6720375,
+  "lng": -103.338396
+ },
+ "nmcity|Genève, Switzerland": {
+  "lat": 46.2017559,
+  "lng": 6.1466014
+ },
+ "nmcity|Saõ Paulo, Brazil": {
+  "lat": -23.5506507,
+  "lng": -46.6333824
+ },
+ "nmcity|Hamburg, Germany": {
+  "lat": 53.5501721,
+  "lng": 10.0013165
+ },
+ "nmcity|Cape Town, South Africa": {
+  "lat": -33.9288301,
+  "lng": 18.4172197
+ },
+ "nmcity|NEW YORK, United States": {
+  "lat": 40.7127281,
+  "lng": -74.0060152
+ },
+ "nmcity|LONDON, United Kingdom": {
+  "lat": 51.5074456,
+  "lng": -0.1277653
+ },
+ "nmcity|ADELAIDE, Australia": {
+  "lat": -34.9281805,
+  "lng": 138.5999312
+ },
+ "nmcity|BRISBANE, Australia": {
+  "lat": -27.4689623,
+  "lng": 153.0235009
+ },
+ "nmcity|SAN FRANCISCO, United States": {
+  "lat": 37.7879363,
+  "lng": -122.4075201
+ },
+ "nmcity|SYDNEY, Australia": {
+  "lat": -33.8698439,
+  "lng": 151.2082848
+ },
+ "nmcity|DUBAI, Uae": {
+  "lat": 25.0742823,
+  "lng": 55.1885387
+ },
+ "nmcity|MIAMI, United States": {
+  "lat": 25.7741566,
+  "lng": -80.1935973
+ },
+ "nmcity|BUENOS AIRES, Argentina": {
+  "lat": -34.6095579,
+  "lng": -58.3887904
+ },
+ "wbsmt|MADRE ROJAS, BUENOS AIRES, Argentina": {
+  "lat": -34.19775463991095,
+  "lng": -60.733680836856365,
+  "approx": false
+ },
+ "nmcity|TORONTO, Canada": {
+  "lat": 43.6534817,
+  "lng": -79.3839347
+ },
+ "nmcity|STOCKHOLM, Sweden": {
+  "lat": 59.3251172,
+  "lng": 18.0710935
+ },
+ "nmcity|HONG KONG, Hong Kong": {
+  "lat": 22.2818333,
+  "lng": 114.1582831
+ },
+ "nmcity|BARCELONA, Spain": {
+  "lat": 41.3825802,
+  "lng": 2.177073
+ },
+ "nmcity|JAKARTA, Indonesia": {
+  "lat": -6.1754049,
+  "lng": 106.827168
+ },
+ "nmcity|Beverly Hills, United States": {
+  "lat": 34.0696501,
+  "lng": -118.3963062
+ },
+ "nmcity|Philadelphia, United States": {
+  "lat": 39.9527237,
+  "lng": -75.1635262
+ },
+ "nmcity|Napoli, Italy": {
+  "lat": 40.8358846,
+  "lng": 14.2487679
+ },
+ "nmcity|Amsterdam, Netherlands": {
+  "lat": 52.3730796,
+  "lng": 4.8924534
+ },
+ "nmcity|Prague, Czech Republic": {
+  "lat": 50.0874654,
+  "lng": 14.4212535
+ },
+ "nmcity|Panzano in Chianti, Italy": {
+  "lat": 43.5449039,
+  "lng": 11.3158747
+ },
+ "nmcity|São Paulo, Brazil": {
+  "lat": -23.5506507,
+  "lng": -46.6333824
+ },
+ "nmcity|Moscow, Russia": {
+  "lat": 55.625578,
+  "lng": 37.6063916
+ },
+ "nmcity|José Ignacio, Uruguay": {
+  "lat": -34.8448208,
+  "lng": -54.6376934
+ },
+ "nmcity|Auckland, New Zealand": {
+  "lat": -36.852095,
+  "lng": 174.7631803
+ },
+ "nmcity|New Plymouth, New Zealand": {
+  "lat": -39.0579941,
+  "lng": 174.0806474
+ },
+ "nmcity|Montreal, Canada": {
+  "lat": 45.5031824,
+  "lng": -73.5698065
+ },
+ "nmcity|Lyon, France": {
+  "lat": 45.7578137,
+  "lng": 4.8320114
+ },
+ "wbsmt|APL, Los Angeles, United States": {
+  "lat": 34.05369110515695,
+  "lng": -118.24276607483625,
+  "approx": false
+ },
+ "nmcity|Frankfurt a. Main, Germany": {
+  "lat": 50.1106444,
+  "lng": 8.6820917
+ },
+ "nmcity|Miami Beach, United States": {
+  "lat": 25.7929198,
+  "lng": -80.1353006
+ },
+ "nmcity|Marbella, Spain": {
+  "lat": 36.5074781,
+  "lng": -4.8047219
+ },
+ "nmcity|Scarperia e San Piero, Italy": {
+  "lat": 44.0109647,
+  "lng": 11.3313495
+ },
+ "nmcity|Lugano, Switzerland": {
+  "lat": 46.0038007,
+  "lng": 8.9512275
+ },
+ "wbsmt|SPARKS, New York, United States": {
+  "lat": 40.80315419227007,
+  "lng": -73.4000263363123,
+  "approx": false
+ },
+ "nmcity|Geneva, Switzerland": {
+  "lat": 46.2017559,
+  "lng": 6.1466014
+ },
+ "nmcity|Seattle, United States": {
+  "lat": 47.6038321,
+  "lng": -122.330062
+ },
+ "nmcity|Las Vegas, United States": {
+  "lat": 36.1674263,
+  "lng": -115.1484131
+ },
+ "nmcity|Milano, Italy": {
+  "lat": 45.4641943,
+  "lng": 9.1896346
  }
 }
