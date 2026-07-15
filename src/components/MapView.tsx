@@ -7,11 +7,15 @@ import { resolveMapStyle } from "../lib/mapStyle";
 const SRC = "places";
 const L_CLUSTERS = "clusters";
 const L_CLUSTER_COUNT = "cluster-count";
-const L_BASE = "sticker-base";
 const L_EMOJI = "emoji-points";
 
 const INK = "#2d2a26";
 const PAPER = "#ffffff";
+const EMOJI_FONT = `"Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
+
+// all markers share this canvas size so one icon-size curve fits both the plain
+// food sticker and the ALL-view combo, and their collision boxes line up
+const ICON = 128;
 
 const WORLD = { center: [16, 21] as [number, number], zoom: 1.6 };
 
@@ -21,19 +25,33 @@ export interface HomeCamera {
   spin?: boolean;
 }
 
-/** Render a color emoji to ImageData so MapLibre can use it as a symbol icon. */
-function drawEmoji(emoji: string): ImageData | null {
-  const size = 64;
-  const canvas = document.createElement("canvas");
-  canvas.width = size;
-  canvas.height = size;
-  const ctx = canvas.getContext("2d");
-  if (!ctx) return null;
+/** Paint a "food sticker" — a white pad + ink hairline + the food emoji — centered
+ *  at (cx,cy). The pad is baked into the icon (rather than a separate circle layer)
+ *  so symbol collision can hide the whole marker as a unit, never leaving orphans. */
+function drawFoodDisc(ctx: CanvasRenderingContext2D, emoji: string, cx: number, cy: number, r: number) {
+  ctx.beginPath();
+  ctx.arc(cx, cy, r, 0, Math.PI * 2);
+  ctx.fillStyle = PAPER;
+  ctx.fill();
+  ctx.lineWidth = r * 0.06;
+  ctx.strokeStyle = INK;
+  ctx.stroke();
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
-  ctx.font = `48px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
-  ctx.fillText(emoji, size / 2, size / 2 + 3);
-  return ctx.getImageData(0, 0, size, size);
+  ctx.font = `${r * 1.28}px ${EMOJI_FONT}`;
+  ctx.fillText(emoji, cx, cy + r * 0.06);
+}
+
+/** Single-profile marker: just the food sticker, rendered to ImageData. */
+function drawEmoji(emoji: string): ImageData | null {
+  const canvas = document.createElement("canvas");
+  canvas.width = ICON;
+  canvas.height = ICON;
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return null;
+  ctx.clearRect(0, 0, ICON, ICON);
+  drawFoodDisc(ctx, emoji, ICON / 2, ICON / 2, ICON * 0.33);
+  return ctx.getImageData(0, 0, ICON, ICON);
 }
 
 const EMOJI_RE = /\p{Extended_Pictographic}/u;
@@ -44,53 +62,99 @@ export interface PersonStyle {
   emoji: string;
 }
 
-/** Draw a circular sticker — a person photo (or emoji) inside a colored ring —
- *  so ALL-view markers show whose spot each pin is at a glance. */
-function makeCircleSticker(
-  img: HTMLImageElement | null,
-  emoji: string | null,
+/** Draw an ALL-view marker: the place's food-type emoji on a white sticker pad,
+ *  with a small source badge (the person's face, or the award's emoji) tucked
+ *  into the lower-right so you can tell whose pick each pin is at a glance. */
+function makeComboSticker(
+  foodEmoji: string,
+  badgeImg: HTMLImageElement | null,
+  badgeEmoji: string | null,
   color: string,
-  size = 96,
+  size = ICON,
 ): ImageData | null {
   const canvas = document.createElement("canvas");
   canvas.width = size;
   canvas.height = size;
   const ctx = canvas.getContext("2d");
   if (!ctx) return null;
-  const r = size / 2;
-  const ringW = 7;
   ctx.clearRect(0, 0, size, size);
-  // colored ring (full disc, becomes the band around the photo)
+
+  // main sticker — white pad + food emoji, centered on the geographic point
+  drawFoodDisc(ctx, foodEmoji, size / 2, size / 2, size * 0.33);
+
+  // source badge — a face (or emoji) inside a colored ring, tucked lower-right
+  const bx = size * 0.74, by = size * 0.74;
+  const badgeR = size * 0.2;
+  const ringW = badgeR * 0.26;
   ctx.beginPath();
-  ctx.arc(r, r, r - 1.5, 0, Math.PI * 2);
+  ctx.arc(bx, by, badgeR, 0, Math.PI * 2);
   ctx.fillStyle = color;
   ctx.fill();
-  // inner disc — clip and paint the photo/emoji
   ctx.save();
   ctx.beginPath();
-  ctx.arc(r, r, r - 1.5 - ringW, 0, Math.PI * 2);
+  ctx.arc(bx, by, badgeR - ringW, 0, Math.PI * 2);
   ctx.clip();
   ctx.fillStyle = PAPER;
-  ctx.fillRect(0, 0, size, size);
-  if (img) {
-    const iw = img.width, ih = img.height, side = Math.min(iw, ih);
+  ctx.fillRect(bx - badgeR, by - badgeR, badgeR * 2, badgeR * 2);
+  if (badgeImg) {
+    const iw = badgeImg.width, ih = badgeImg.height, side = Math.min(iw, ih);
     const sx = (iw - side) / 2;
     const sy = Math.min((ih - side) * 0.2, ih - side); // faces sit high — bias to top
-    ctx.drawImage(img, sx, sy, side, side, 0, 0, size, size);
-  } else if (emoji) {
-    ctx.textAlign = "center";
-    ctx.textBaseline = "middle";
-    ctx.font = `${size * 0.46}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
-    ctx.fillText(emoji, r, r + size * 0.03);
+    const d = (badgeR - ringW) * 2;
+    ctx.drawImage(badgeImg, sx, sy, side, side, bx - (badgeR - ringW), by - (badgeR - ringW), d, d);
+  } else if (badgeEmoji) {
+    ctx.font = `${badgeR * 0.92}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
+    ctx.fillText(badgeEmoji, bx, by + badgeR * 0.04);
   }
   ctx.restore();
-  // ink hairline border
-  ctx.lineWidth = 2;
+  ctx.lineWidth = size * 0.014;
   ctx.strokeStyle = INK;
   ctx.beginPath();
-  ctx.arc(r, r, r - 1.5, 0, Math.PI * 2);
+  ctx.arc(bx, by, badgeR, 0, Math.PI * 2);
   ctx.stroke();
+
   return ctx.getImageData(0, 0, size, size);
+}
+
+// decoded person avatars, keyed by profile id — so combo stickers can be drawn
+// synchronously (no per-icon image load racing the collision pass). value is the
+// loaded <img>, or null once we know there's no usable avatar.
+const avatarCache = new Map<string, HTMLImageElement | null>();
+
+/** Decode a profile's avatar into `avatarCache` (once), then run `done`. */
+function loadAvatar(pid: string, url: string | undefined, done: () => void) {
+  if (avatarCache.has(pid)) return done();
+  if (!url) {
+    avatarCache.set(pid, null);
+    return done();
+  }
+  const im = new Image();
+  im.onload = () => (avatarCache.set(pid, im), done());
+  im.onerror = () => (avatarCache.set(pid, null), done());
+  im.src = import.meta.env.BASE_URL + url;
+}
+
+/** Rasterize + register the icon for a given image id if it isn't loaded yet.
+ *  Fully synchronous: plain food emojis draw directly; a "combo:" id draws once its
+ *  avatar is decoded in `avatarCache` (a person's face, or the emoji for avatar-less
+ *  awards) and is skipped until then — the data-sync effect repaints after decoding. */
+function generateIcon(map: maplibregl.Map, id: string, avatars: Record<string, PersonStyle>) {
+  if (map.hasImage(id)) return;
+  if (id.startsWith("combo:")) {
+    const rest = id.slice(6);
+    const sep = rest.indexOf(":");
+    const pid = rest.slice(0, sep);
+    const foodEmoji = rest.slice(sep + 1);
+    const style = avatars[pid];
+    if (!style || !avatarCache.has(pid)) return;
+    const im = avatarCache.get(pid) ?? null;
+    const data = makeComboSticker(foodEmoji, im, im ? null : style.emoji, style.color);
+    if (data) map.addImage(id, data, { pixelRatio: 2 });
+    return;
+  }
+  if (!EMOJI_RE.test(id)) return;
+  const img = drawEmoji(id);
+  if (img) map.addImage(id, img, { pixelRatio: 2 });
 }
 
 interface HoverInfo {
@@ -124,7 +188,6 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
   const onSelectRef = useRef(onSelect);
   const homeRef = useRef(home);
   const avatarsRef = useRef(avatars);
-  const pendingImg = useRef<Set<string>>(new Set());
   const spinningRef = useRef(!prefersStill());
   homeRef.current = home;
   avatarsRef.current = avatars;
@@ -163,31 +226,11 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
       ro.observe(containerRef.current);
       map.once("remove", () => ro.disconnect());
 
-      // lazily rasterize any emoji — or person avatar — the data asks for
+      // rasterize any emoji / avatar an on-screen symbol asks for that the
+      // pre-pass (data-sync effect) didn't already cover
       map.on("styleimagemissing", (e) => {
-        if (!map || map.hasImage(e.id) || pendingImg.current.has(e.id)) return;
-        if (e.id.startsWith("avatar:")) {
-          const style = avatarsRef.current[e.id.slice(7)];
-          if (!style) return;
-          pendingImg.current.add(e.id);
-          const addSticker = (im: HTMLImageElement | null) => {
-            if (!map || map.hasImage(e.id)) return;
-            const data = makeCircleSticker(im, im ? null : style.emoji, style.color);
-            if (data) map.addImage(e.id, data, { pixelRatio: 2 });
-          };
-          if (style.avatar) {
-            const im = new Image();
-            im.onload = () => addSticker(im);
-            im.onerror = () => addSticker(null);
-            im.src = import.meta.env.BASE_URL + style.avatar;
-          } else {
-            addSticker(null);
-          }
-          return;
-        }
-        if (!EMOJI_RE.test(e.id)) return;
-        const img = drawEmoji(e.id);
-        if (img) map.addImage(e.id, img, { pixelRatio: 2 });
+        if (!map) return;
+        generateIcon(map, e.id, avatarsRef.current);
       });
 
       const stopSpin = () => {
@@ -244,7 +287,7 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
       map.on("click", (e) => {
         if (!map) return;
         const feats = map.queryRenderedFeatures(e.point, {
-          layers: [L_CLUSTERS, L_EMOJI, L_BASE].filter((l) => map!.getLayer(l)),
+          layers: [L_CLUSTERS, L_EMOJI].filter((l) => map!.getLayer(l)),
         });
         const f = feats[0];
         if (!f) {
@@ -271,7 +314,7 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
 
       map.on("mousemove", (e) => {
         if (!map) return;
-        const layers = [L_EMOJI, L_BASE, L_CLUSTERS].filter((l) => map!.getLayer(l));
+        const layers = [L_EMOJI, L_CLUSTERS].filter((l) => map!.getLayer(l));
         if (layers.length === 0) return;
         const feats = map.queryRenderedFeatures(e.point, { layers });
         const f = feats[0];
@@ -339,48 +382,26 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
       paint: { "text-color": INK },
     });
 
-    // white sticker pad under each emoji (avatars carry their own ring, so skip them)
-    map.addLayer({
-      id: L_BASE,
-      type: "circle",
-      source: SRC,
-      filter: ["all", ["!", ["has", "point_count"]], ["!", ["has", "profileId"]]],
-      paint: {
-        "circle-color": PAPER,
-        "circle-opacity": 0.95,
-        "circle-stroke-color": INK,
-        "circle-stroke-width": 1.5,
-        "circle-radius": ["interpolate", ["linear"], ["zoom"], 1, 9, 8, 11.5, 13, 14.5],
-      },
-    });
-
     map.addLayer({
       id: L_EMOJI,
       type: "symbol",
       source: SRC,
       filter: ["!", ["has", "point_count"]],
       layout: {
-        // ALL view: features carry a profileId → show the person's face; else the food emoji
+        // ALL view: features carry a profileId → food emoji + source badge; else the food emoji alone
         "icon-image": [
           "case",
           ["has", "profileId"],
-          ["concat", "avatar:", ["get", "profileId"]],
+          ["concat", "combo:", ["get", "profileId"], ":", ["coalesce", ["get", "emoji"], "🍽️"]],
           ["coalesce", ["get", "emoji"], "🍽️"],
         ],
-        // one top-level zoom curve; each stop is smaller for avatar photos
-        "icon-size": [
-          "interpolate",
-          ["linear"],
-          ["zoom"],
-          1,
-          ["case", ["has", "profileId"], 0.39, 0.5],
-          8,
-          ["case", ["has", "profileId"], 0.48, 0.62],
-          13,
-          ["case", ["has", "profileId"], 0.62, 0.8],
-        ],
-        "icon-allow-overlap": true,
-        "icon-padding": 0,
+        // both stickers are 128px, so one zoom curve fits all
+        "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.44, 8, 0.54, 13, 0.68],
+        // NO overlap: let symbol collision hide crowded pins (they reveal as you zoom
+        // in), and reserve a few px of breathing room around every marker
+        "icon-allow-overlap": false,
+        "icon-ignore-placement": false,
+        "icon-padding": 3,
       },
     });
   }
@@ -389,8 +410,45 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !ready) return;
-    const src = map.getSource<maplibregl.GeoJSONSource>(SRC);
-    src?.setData(data);
+    let cancelled = false;
+
+    // rasterize every distinct icon this dataset needs, then hand the source its data,
+    // so the no-overlap placement pass finds each icon and never drops the symbol
+    // (panning to a new area later can't re-run this, so styleimagemissing backs it up)
+    const paint = () => {
+      if (cancelled || !mapRef.current) return;
+      const seen = new Set<string>();
+      for (const f of data.features) {
+        const p = (f.properties ?? {}) as { emoji?: string; profileId?: string };
+        const emoji = p.emoji || "🍽️";
+        const id = p.profileId ? `combo:${p.profileId}:${emoji}` : emoji;
+        if (seen.has(id)) continue;
+        seen.add(id);
+        generateIcon(map, id, avatarsRef.current);
+      }
+      map.getSource<maplibregl.GeoJSONSource>(SRC)?.setData(data);
+    };
+
+    // decode any not-yet-cached avatars first; combos drawn before they land use the
+    // emoji fallback, so repaint once (the images are replaced) when decoding finishes
+    const missing: string[] = [];
+    for (const f of data.features) {
+      const pid = (f.properties as { profileId?: string } | null)?.profileId;
+      if (pid && !avatarCache.has(pid)) missing.push(pid);
+    }
+    const unique = [...new Set(missing)];
+    paint(); // plain emojis + any combos whose avatars are already decoded
+    if (unique.length) {
+      let left = unique.length;
+      const after = () => {
+        if (--left <= 0 && !cancelled) paint(); // avatars ready → draw their combos
+      };
+      for (const pid of unique) loadAvatar(pid, avatarsRef.current[pid]?.avatar, after);
+    }
+
+    return () => {
+      cancelled = true;
+    };
   }, [data, ready]);
 
   // ---- selection: bouncing DOM marker with a name pill ----

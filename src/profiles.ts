@@ -356,8 +356,8 @@ const REAL_PROFILES: Profile[] = [
   },
 ];
 
-// distinct ring/chip color per person for the combined ALL view
-const PERSON_COLORS: Record<string, string> = {
+// distinct ring/chip color per source (person or award) for the combined ALL view
+const SOURCE_COLORS: Record<string, string> = {
   bourdain: "#e8482f",
   wiens: "#7cb518",
   baekban: "#c08a0a",
@@ -368,14 +368,18 @@ const PERSON_COLORS: Record<string, string> = {
   koreantable: "#5a8f3c",
   jeongyukwang: "#b5561f",
   yooxicman: "#a52a3c",
+  michelin: "#c1121f",
+  worldbeststeaks: "#5c4033",
+  baeknyeon: "#a8842c",
 };
 
-// only real people join the ALL map (michelin & world's-best-steaks are awards,
-// not a person, and michelin alone would swamp the aggregate with ~19k pins)
-export const PEOPLE = REAL_PROFILES.filter((p) => p.group !== "award");
+// every profile joins the ALL map — people and awards alike. each pin renders its
+// food-type emoji with a small source badge (person face, or the award's emoji),
+// and the show-filter lets you toggle any source (michelin's ~19k pins included).
+export const ALL_SOURCES = REAL_PROFILES;
 
-// ALL — every person on one map. Each "show" is a person, so the show-filter
-// becomes a people filter and each pin can be keyed to its source by face.
+// ALL — every source on one map. Each "show" is a source, so the show-filter
+// becomes a source filter and each pin is badged to its origin.
 export const ALL_PROFILE: Profile = {
   id: "all",
   emoji: "🌏",
@@ -387,11 +391,11 @@ export const ALL_PROFILE: Profile = {
   bio: "보데인부터 한국 먹방·방송까지, 모든 인물이 다녀간 맛집을 한 지도에. 핀의 얼굴로 누구의 맛집인지 한눈에 보여요.",
   dataUrl: "", // aggregated at runtime from every person profile
   camera: { center: [112, 30], zoom: 2, spin: false },
-  shows: PEOPLE.map((p) => ({
+  shows: ALL_SOURCES.map((p) => ({
     id: p.id,
     name: p.titleMain,
     short: p.short,
-    color: PERSON_COLORS[p.id] ?? "#2d2a26",
+    color: SOURCE_COLORS[p.id] ?? "#2d2a26",
     emoji: p.emoji,
     avatar: p.avatar,
   })),

@@ -1,6 +1,6 @@
 import type { Place, PlaceProps, ShowId } from "../types";
 import type { Profile } from "../profiles";
-import { PEOPLE } from "../profiles";
+import { ALL_SOURCES } from "../profiles";
 
 export interface CountryCount {
   name: string;
@@ -78,13 +78,13 @@ export async function loadAtlas(profile: Profile): Promise<Atlas> {
 }
 
 /** ALL view — load every real profile and merge into one atlas, re-keying each
- *  place's `shows`/`primaryShow` to its PROFILE id so the people-filter, the
- *  marker avatars and the source badge all work off a single dimension. */
+ *  place's `shows`/`primaryShow` to its PROFILE id so the source-filter, the
+ *  marker badge and the counts all work off a single dimension. */
 async function loadAllAtlas(): Promise<Atlas> {
-  const atlases = await Promise.all(PEOPLE.map((p) => loadAtlas(p)));
+  const atlases = await Promise.all(ALL_SOURCES.map((p) => loadAtlas(p)));
   const places: Place[] = [];
   atlases.forEach((atlas, i) => {
-    const pid = PEOPLE[i].id;
+    const pid = ALL_SOURCES[i].id;
     for (const p of atlas.places)
       places.push({ ...p, profileId: pid, shows: [pid], primaryShow: pid });
   });
