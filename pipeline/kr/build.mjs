@@ -91,6 +91,21 @@ const EMOJI_RULES = [
   [/평양|함흥/u, "🍜"],
 ];
 
+// DiningCode search results carry <em> highlight markup (and HTML entities) in
+// the category field; strip them everywhere before they reach the card.
+const deHtml = (s) => typeof s === "string"
+  ? s.replace(/<\/?[a-z][^>]*>/gi, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<")
+      .replace(/&gt;/g, ">").replace(/&#39;/g, "'").replace(/&apos;/g, "'").replace(/&quot;/g, '"')
+      .replace(/\s{2,}/g, " ").trim()
+  : s;
+const deHtmlFeatures = (features) => {
+  for (const f of features) {
+    const p = f?.properties; if (!p) continue;
+    for (const k of ["name", "kind", "note", "city", "award"]) if (typeof p[k] === "string") p[k] = deHtml(p[k]);
+  }
+  return features;
+};
+
 function pickEmoji(category, name) {
   const hay = `${category ?? ""} ${name ?? ""}`;
   for (const [re, e] of EMOJI_RULES) if (re.test(hay)) return e;
@@ -415,7 +430,7 @@ for (const { id, show } of PROFILES) {
       episodeUnresolved: geoUnresolved,
     },
   };
-  fs.writeFileSync(path.join(OUT, `${id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  fs.writeFileSync(path.join(OUT, `${id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features: deHtmlFeatures(features) }));
 
   const cov = epRestaurants ? Math.round((withEp / (withEp + geoUnresolved)) * 100) : 0;
   const extStr = (EXTERNAL[id]?.length)
@@ -458,7 +473,7 @@ for (const y of YOUTUBERS) {
     };
   });
   const meta = { profile: y.id, generated: new Date().toISOString(), counts: { places: features.length, source: "youtube-map" } };
-  fs.writeFileSync(path.join(OUT, `${y.id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  fs.writeFileSync(path.join(OUT, `${y.id}.geojson`), JSON.stringify({ type: "FeatureCollection", metadata: meta, features: deHtmlFeatures(features) }));
   summary.push(`${y.id}: ${features.length} places (external youtube-map)`);
 }
 
@@ -508,7 +523,7 @@ if (yxRaw?.restaurants?.length) {
     };
   });
   const meta = { profile: "yooxicman", generated: new Date().toISOString(), counts: { places: features.length, source: "youtube-descriptions" } };
-  fs.writeFileSync(path.join(OUT, "yooxicman.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  fs.writeFileSync(path.join(OUT, "yooxicman.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features: deHtmlFeatures(features) }));
   summary.push(`yooxicman: ${features.length} places (youtube food-trip descriptions)`);
 }
 
@@ -542,7 +557,7 @@ if (bnRaw?.restaurants?.length) {
       };
     });
   const meta = { profile: "baeknyeon", generated: new Date().toISOString(), counts: { places: features.length, source: "sbiz.or.kr 백년가게 음식점업" } };
-  fs.writeFileSync(path.join(OUT, "baeknyeon.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  fs.writeFileSync(path.join(OUT, "baeknyeon.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features: deHtmlFeatures(features) }));
   const byEra = {};
   for (const f of features) byEra[f.properties.primaryShow] = (byEra[f.properties.primaryShow] || 0) + 1;
   summary.push(`baeknyeon: ${features.length} places (백년가게 음식점 · ${["B60", "B70", "B80", "B90", "B00"].map((e) => `${e}:${byEra[e] || 0}`).join(" ")})`);

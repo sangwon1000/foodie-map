@@ -204,6 +204,37 @@ const WBS_MANUAL = {
   // Guatemala 4699, Palermo — the source street has a typo (46699) that fuzzy-
   // matched a wrong "Calle Guatemala" in Buenos Aires province
   "don julio": { lat: -34.5886, lng: -58.4305, country: "Argentina" },
+  // 2026-07-15 coord audit: these ranked steakhouses had fallen back to their
+  // CITY CENTRE (no geocoder resolved the venue), stacking 3–5 pins on one point.
+  // Re-placed from verified street addresses (Apple/Google Maps, official sites).
+  "margaret": { lat: -33.8768693, lng: 151.241473, country: "Australia" },
+  "magma dany karam": { lat: -33.8906, lng: 150.9453, country: "Australia" },
+  "shell dining terrace": { lat: -33.8651945, lng: 151.2066761, country: "Australia" },
+  "aalia": { lat: -33.8689, lng: 151.2095, country: "Australia" },
+  "international": { lat: -33.86895, lng: 151.20995, country: "Australia" },
+  "cote n c": { lat: 40.7412885, lng: -73.9912726, country: "United States" },
+  "txula": { lat: 40.7521, lng: -74.0015, country: "United States" },
+  "bazaar meat jose andres": { lat: 40.7452, lng: -73.9889, country: "United States" },
+  "catch": { lat: 40.742, lng: -74.0043, country: "United States" },
+  "sparks": { lat: 40.7523, lng: -73.9727, country: "United States" },
+  "american cut tribeca": { lat: 40.7191068, lng: -74.0100689, country: "United States" },
+  "american cut": { lat: 40.7612, lng: -73.9714, country: "United States" },
+  "bistecca|singapore": { lat: 1.2925, lng: 103.8377, country: "Singapore" },
+  "bistecca tuscan": { lat: 1.2925, lng: 103.8377, country: "Singapore" },
+  "hanu": { lat: 25.1138, lng: 55.14, country: "United Arab Emirates" },
+  "prime 68": { lat: 25.1856, lng: 55.2581, country: "United Arab Emirates" },
+  "meat co": { lat: 25.1946, lng: 55.2765, country: "United Arab Emirates" },
+  "thegrill": { lat: 48.1407, lng: 11.5674, country: "Germany" },
+  "im kunstlerhaus": { lat: 48.1407, lng: 11.5674, country: "Germany" },
+  "zelman meats": { lat: 51.4998, lng: -0.1606, country: "United Kingdom" },
+  "sagardi": { lat: 51.5252, lng: -0.0799, country: "United Kingdom" },
+  "zoilo": { lat: 51.5149, lng: -0.1518, country: "United Kingdom" },
+  "williams butcherstable": { lat: 47.3691, lng: 8.5432, country: "Switzerland" },
+  "williams butchers table": { lat: 47.3691, lng: 8.5432, country: "Switzerland" },
+  "meatguy": { lat: -6.2255, lng: 106.8083, country: "Indonesia" },
+  "soichiro": { lat: -6.23, lng: 106.8101, country: "Indonesia" },
+  "carnal": { lat: 41.3914225, lng: 2.1578985, country: "Spain" },
+  "brabo": { lat: 41.3945, lng: 2.1552, country: "Spain" },
 };
 
 // MapTiler forward-geocode verifying the CITY appears in the result (MapTiler
