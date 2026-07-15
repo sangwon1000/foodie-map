@@ -62,6 +62,8 @@ export interface PlaceProps {
   sourceUrl?: string;
   /** the restaurant's own website */
   websiteUrl?: string;
+  /** attribution when a pin came from a community source (e.g. thefoodcrawl.com) */
+  source?: string;
   visits: Visit[];
   /** denormalized for filtering / styling */
   shows: ShowId[];

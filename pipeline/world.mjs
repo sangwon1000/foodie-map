@@ -135,8 +135,46 @@ function buildWiens() {
       }),
     );
   }
+
+  // Community net-new: restaurants Mark Wiens featured on YouTube that wiensmap
+  // hasn't mapped — recovered from thefoodcrawl.com (AI transcript extraction,
+  // coords via Google Places). Defensive dedup vs the wiensmap pins above.
+  // dedup ONLY against the wiensmap pins — NOT against each other, or dense
+  // clusters (Borough Market's dozen stalls sit ~50 m apart) would collapse
+  const wmSeen = feats.map((f) => ({ lat: f.geometry.coordinates[1], lng: f.geometry.coordinates[0], nk: wbsNameKey(f.properties.name) }));
+  const fcFile = path.join(RAW, "wiens-foodcrawl.json");
+  let added = 0;
+  if (fs.existsSync(fcFile)) {
+    for (const r of JSON.parse(fs.readFileSync(fcFile, "utf8")).restaurants || []) {
+      const lat = Number(r.lat), lng = Number(r.lng);
+      if (!isFinite(lat) || !isFinite(lng) || !r.name) continue;
+      const nk = wbsNameKey(r.name);
+      // same spot as a wiensmap pin (<80 m), or same name within 2 km
+      const dup = wmSeen.some((s) => { const d = haversine(lat, lng, s.lat, s.lng); return d < 0.08 || (d < 2 && s.nk === nk); });
+      if (dup) continue;
+      const video = r.video_url || undefined;
+      feats.push(
+        feature(lng, lat, {
+          id: `wiens-fc-${added}`,
+          name: r.name,
+          city: r.city || "",
+          country: normCountry(r.country) || "Elsewhere",
+          emoji: "🍜",
+          kind: r.cuisine || undefined,
+          note: r.quote || undefined,
+          image: ytThumb(video) || undefined,
+          source: "thefoodcrawl.com",
+          shows: ["MW"],
+          primaryShow: "MW",
+          visits: video ? [{ show: "MW", title: r.video_title || undefined, video }] : [],
+        }),
+      );
+      added++;
+    }
+  }
+
   const n = writeFc("wiens.geojson", feats);
-  console.log(`  wiens: ${n} places`);
+  console.log(`  wiens: ${n} places (${added} community net-new via thefoodcrawl.com)`);
   return n;
 }
 
