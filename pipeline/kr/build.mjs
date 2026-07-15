@@ -462,4 +462,90 @@ for (const y of YOUTUBERS) {
   summary.push(`${y.id}: ${features.length} places (external youtube-map)`);
 }
 
+// ---------- 육식맨 YOOXICMAN — international food-trip eateries ----------
+// From his YouTube video descriptions (🔽장소🔽 blocks): coords via the Google
+// Maps place links he lists, reverse-geocoded to city/country. Home-cooking
+// recipe videos carry no 장소 block, so only places he actually visited land here.
+const yxRaw = loadJson(path.join(RAW, "yooxicman.json"));
+if (yxRaw?.restaurants?.length) {
+  // his trips span cuisines the KR emoji rules don't cover — match on the (rich)
+  // video title first, meat 🍖 as the carnivore-channel default
+  const YX_EMOJI = [
+    [/pizza|피자/i, "🍕"], [/pasta|파스타|라구|carbonara|cacio|리가토니/i, "🍝"],
+    [/ramen|noodle|라멘|미소라멘|국수|면\b|소바/i, "🍜"], [/butadon|부타동|규동|돈부리|덮밥|규나베/i, "🍚"],
+    [/bbq|barbecue|바베큐|스테이크|steak|아사도|asado|갈비|한우|생갈비|jamon|하몽|jamón/i, "🥩"],
+    [/burger|버거|샌드위치|sandwich|bagel|베이글/i, "🍔"], [/sushi|초밥|스시|오마카세|스시야/i, "🍣"],
+    [/sausage|소시지|kebab|케밥|schnitzel|슈니첼|족발|wurst/i, "🌭"], [/beer|맥주|필스너|pilsner|호프|브루/i, "🍺"],
+    [/curry|커리|카레/i, "🍛"], [/goulash|굴라시|soup|국밥|육개장|찌개|stew|해장국/i, "🍲"],
+    [/pie|파이|dessert|디저트|gelato|젤라또|아이스크림/i, "🥧"], [/chicken|치킨|닭|가라아게/i, "🍗"],
+    [/오리|duck|덕/i, "🦆"], [/양고기|lamb|mutton|램/i, "🍖"],
+  ];
+  const yxEmoji = (title, name) => {
+    const hay = `${title ?? ""} ${name ?? ""}`;
+    for (const [re, e] of YX_EMOJI) if (re.test(hay)) return e;
+    const k = pickEmoji("", name);
+    return k === "🍽️" ? "🍖" : k;
+  };
+  const vidId = (url) => (String(url).match(/[?&]v=([\w-]{11})/) || [])[1];
+  const features = yxRaw.restaurants.map((r, i) => {
+    const first = vidId(r.videos?.[0]);
+    return {
+      type: "Feature",
+      geometry: { type: "Point", coordinates: [r.lng, r.lat] },
+      properties: {
+        id: `kr-yooxicman-${fold(r.name).slice(0, 32)}-${i}`,
+        name: r.name,
+        city: r.city || "",
+        country: r.country || "",
+        emoji: yxEmoji(r.video_title, r.name),
+        status: "unknown",
+        image: first ? `https://i.ytimg.com/vi/${first}/hqdefault.jpg` : undefined,
+        source: "youtube.com/@YOOXICMAN",
+        visits: (r.videos || []).map((v) => ({ show: "YXM", video: v, title: r.video_title })),
+        shows: ["YXM"],
+        primaryShow: "YXM",
+      },
+    };
+  });
+  const meta = { profile: "yooxicman", generated: new Date().toISOString(), counts: { places: features.length, source: "youtube-descriptions" } };
+  fs.writeFileSync(path.join(OUT, "yooxicman.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  summary.push(`yooxicman: ${features.length} places (youtube food-trip descriptions)`);
+}
+
+// ---------- 백년가게 — 소상공인시장진흥공단 지정 음식점 (창업 연대별) ----------
+// Scraped from sbiz.or.kr (업종=음식점업 전수): name + full address + 창업일 +
+// 선정년도. Bucketed by founding decade so the filter reads as "how old is it".
+const bnRaw = loadJson(path.join(RAW, "baeknyeon.json"));
+if (bnRaw?.restaurants?.length) {
+  const era = (fy) => (!fy ? "B90" : fy <= 1969 ? "B60" : fy < 1980 ? "B70" : fy < 1990 ? "B80" : fy < 2000 ? "B90" : "B00");
+  const features = bnRaw.restaurants
+    .filter((r) => isFinite(r.lat) && isFinite(r.lng))
+    .map((r, i) => {
+      const fy = r.foundYear;
+      const show = era(fy);
+      const note = [fy ? `${fy}년 창업` : null, r.selected ? `${r.selected}년 백년가게 선정` : null].filter(Boolean).join(" · ");
+      return {
+        type: "Feature",
+        geometry: { type: "Point", coordinates: [r.lng, r.lat] },
+        properties: {
+          id: `kr-baeknyeon-${fold(r.name).slice(0, 26)}-${i}`,
+          name: r.name,
+          city: r.city || "",
+          country: r.province || "",
+          emoji: pickEmoji("", r.name),
+          status: "open",
+          award: fy ? `백년가게 · ${fy}년 창업` : "백년가게",
+          note,
+          shows: [show],
+          primaryShow: show,
+        },
+      };
+    });
+  const meta = { profile: "baeknyeon", generated: new Date().toISOString(), counts: { places: features.length, source: "sbiz.or.kr 백년가게 음식점업" } };
+  fs.writeFileSync(path.join(OUT, "baeknyeon.geojson"), JSON.stringify({ type: "FeatureCollection", metadata: meta, features }));
+  const byEra = {};
+  for (const f of features) byEra[f.properties.primaryShow] = (byEra[f.properties.primaryShow] || 0) + 1;
+  summary.push(`baeknyeon: ${features.length} places (백년가게 음식점 · ${["B60", "B70", "B80", "B90", "B00"].map((e) => `${e}:${byEra[e] || 0}`).join(" ")})`);
+}
+
 console.log(summary.join("\n"));

@@ -263,6 +263,27 @@ const REAL_PROFILES: Profile[] = [
     group: "person",
   },
   {
+    id: "yooxicman",
+    emoji: "🍖",
+    avatar: "assets/avatars/yooxicman.jpg",
+    short: "육식맨",
+    kicker: "고기 찾아 지구 한 바퀴 🍖",
+    titleMain: "육식맨",
+    titleEm: "food trips",
+    docTitle: "육식맨 아틀라스 🍖",
+    bio: "고기 요리 유튜버 <육식맨>이 전 세계를 돌며 직접 찾아간 맛집들. 도쿄 원조 라멘부터 텍사스 바베큐, 나폴리 피자까지 — 홈쿠킹 말고 '직접 가본' 곳만. 영상 설명란의 장소 링크 기준.",
+    dataUrl: "data/kr/yooxicman.geojson",
+    camera: { center: [90, 28], zoom: 1.9, spin: true },
+    shows: [
+      { id: "YXM", name: "육식맨", short: "육식맨", years: "YouTube", network: "YouTube", color: "#a52a3c", emoji: "🍖" },
+    ],
+    labels: KO_LABELS,
+    footerQuote: "고기를 위해서라면 지구 끝까지.",
+    footerNote: "비공식 팬 프로젝트 · 식당·좌표·영상은 육식맨(YOOXICMAN) 유튜브 영상 설명란 기준",
+    mapService: "google",
+    group: "person",
+  },
+  {
     id: "michelin",
     emoji: "⭐",
     short: "michelin",
@@ -309,6 +330,30 @@ const REAL_PROFILES: Profile[] = [
     mapService: "google",
     group: "award",
   },
+  {
+    id: "baeknyeon",
+    emoji: "🏛️",
+    short: "백년가게",
+    kicker: "반세기를 이어온 노포 🏛️",
+    titleMain: "백년가게",
+    titleEm: "atlas",
+    docTitle: "백년가게 아틀라스 🏛️",
+    bio: "소상공인시장진흥공단이 지정한 전국 <백년가게> 음식점. 30년 넘게 한자리를 지켜온 노포들을 한 지도에 — 창업 연대로 필터해서 오래된 집부터 찾아보세요.",
+    dataUrl: "data/kr/baeknyeon.geojson",
+    camera: { center: [127.8, 36.2], zoom: 6.2 },
+    shows: [
+      { id: "B60", name: "1960년대 이전", short: "~1969", years: "반세기 넘은 노포", network: "백년가게", color: "#6e2a10", emoji: "🏛️" },
+      { id: "B70", name: "1970년대", short: "1970s", network: "백년가게", color: "#9c4718", emoji: "🏛️" },
+      { id: "B80", name: "1980년대", short: "1980s", network: "백년가게", color: "#c06a1e", emoji: "🏛️" },
+      { id: "B90", name: "1990년대", short: "1990s", network: "백년가게", color: "#d69a3f", emoji: "🏛️" },
+      { id: "B00", name: "2000년대 이후", short: "2000s~", network: "백년가게", color: "#c2b088", emoji: "🏛️" },
+    ],
+    labels: KO_LABELS,
+    footerQuote: "오래된 것은, 이유가 있어 오래됐다.",
+    footerNote: "비공식 팬 프로젝트 · 소상공인시장진흥공단 백년가게 공개자료(업종=음식점업 전수) · 창업일·선정년도 기준 · 주소 지오코딩",
+    mapService: "naver",
+    group: "award",
+  },
 ];
 
 // distinct ring/chip color per person for the combined ALL view
@@ -322,6 +367,7 @@ const PERSON_COLORS: Record<string, string> = {
   culinarywars: "#7c5cff",
   koreantable: "#5a8f3c",
   jeongyukwang: "#b5561f",
+  yooxicman: "#a52a3c",
 };
 
 // only real people join the ALL map (michelin & world's-best-steaks are awards,
