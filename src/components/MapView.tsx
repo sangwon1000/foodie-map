@@ -27,7 +27,7 @@ export interface HomeCamera {
 
 /** Paint a "food sticker" — a white pad + ink hairline + the food emoji — centered
  *  at (cx,cy). The pad is baked into the icon (rather than a separate circle layer)
- *  so symbol collision can hide the whole marker as a unit, never leaving orphans. */
+ *  so the marker always moves/fades as one unit, never leaving orphan pads. */
 function drawFoodDisc(ctx: CanvasRenderingContext2D, emoji: string, cx: number, cy: number, r: number) {
   ctx.beginPath();
   ctx.arc(cx, cy, r, 0, Math.PI * 2);
@@ -212,7 +212,7 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
         center: WORLD.center,
         zoom: WORLD.zoom,
         minZoom: 0.8,
-        maxZoom: 18,
+        maxZoom: 18.5, // half a step past the cluster unfold (z18) for breathing room
         attributionControl: { compact: true },
         canvasContextAttributes: { antialias: true },
       });
@@ -302,7 +302,7 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
             src.getClusterExpansionZoom(clusterId).then((z) => {
               map?.easeTo({
                 center: (f.geometry as GeoJSON.Point).coordinates as [number, number],
-                zoom: Math.min(z + 0.4, 15),
+                zoom: Math.min(z + 0.4, 18.5),
                 duration: 700,
               });
             });
@@ -346,12 +346,16 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
 
   function ensureLayers(map: maplibregl.Map) {
     if (map.getSource(SRC)) return;
+    // clusters absorb anything that would collide (they keep subdividing all the
+    // way to z17), and the data itself is decluttered at z18 (toFeatureCollection)
+    // — so pins never overlap AND are never hidden: what has no room is a counted
+    // cluster, what is shown is always a full pin
     map.addSource(SRC, {
       type: "geojson",
       data: dataRef.current,
       cluster: true,
-      clusterRadius: 46,
-      clusterMaxZoom: 11,
+      clusterRadius: 50,
+      clusterMaxZoom: 17,
     });
 
     map.addLayer({
@@ -397,11 +401,10 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
         ],
         // both stickers are 128px, so one zoom curve fits all
         "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.44, 8, 0.54, 13, 0.68],
-        // NO overlap: let symbol collision hide crowded pins (they reveal as you zoom
-        // in), and reserve a few px of breathing room around every marker
-        "icon-allow-overlap": false,
+        // never hide a pin — spacing is guaranteed upstream (clusters + declutter),
+        // collision would only re-introduce "appears when you zoom" gaps
+        "icon-allow-overlap": true,
         "icon-ignore-placement": false,
-        "icon-padding": 3,
       },
     });
   }
@@ -462,6 +465,16 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
     if (selected) {
       spinningRef.current = false;
 
+      // stacked pins are nudged apart by the declutter pass — anchor the bounce
+      // marker to the rendered pin, not the raw place coordinate
+      const feat = dataRef.current.features.find(
+        (ft) => (ft.properties as { id?: string } | null)?.id === selected.id,
+      );
+      const at =
+        feat && feat.geometry.type === "Point"
+          ? ((feat.geometry as GeoJSON.Point).coordinates as [number, number])
+          : ([selected.lng, selected.lat] as [number, number]);
+
       const el = document.createElement("div");
       el.className = "sel-marker";
       const emoji = document.createElement("span");
@@ -473,12 +486,12 @@ export default function MapView({ data, selected, fitToken, home, avatars, onSel
       el.append(emoji, pill);
 
       selMarkerRef.current = new maplibregl.Marker({ element: el, anchor: "center" })
-        .setLngLat([selected.lng, selected.lat])
+        .setLngLat(at)
         .addTo(map);
 
       const desktop = window.matchMedia("(min-width: 761px)").matches;
       map.flyTo({
-        center: [selected.lng, selected.lat],
+        center: at,
         zoom: Math.max(map.getZoom(), 11.5),
         padding: desktop
           ? { left: 380, top: 40, right: 40, bottom: 40 }
