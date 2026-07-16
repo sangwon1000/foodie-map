@@ -112,7 +112,72 @@ const COUNTRY_ALIASES = new Map([
   ["scotland", "United Kingdom"],
   ["wales", "United Kingdom"],
   ["northern ireland", "United Kingdom"],
+  // duplicate-variant spellings → one canonical dropdown entry
+  ["turkey", "Türkiye"],
+  ["the philippines", "Philippines"],
+  ["principality of monaco", "Monaco"],
+  ["uae", "United Arab Emirates"],
+  ["are", "United Arab Emirates"],
+  ["tha", "Thailand"],
+  // city / street value that leaked into the country field (bourdain fan data)
+  ["istanbul", "Türkiye"],
+  ["paris", "France"],
+  ["beirut", "Lebanon"],
+  ["belfast", "United Kingdom"],
+  ["cairo", "Egypt"],
+  ["dublin", "Ireland"],
+  ["kolkata", "India"],
+  ["reykjavik", "Iceland"],
+  ["vancouver", "Canada"],
+  ["tahiti", "French Polynesia"],
+  ["sao miguel", "Portugal"],
+  ["manila philippines", "Philippines"],
+  ["ciudad de panama", "Panama"],
+  ["alameda joaquim eugenio de lima", "Brazil"],
+  ["colonnata", "Italy"],
+  ["laugavegur", "Iceland"],
+  ["templarasund", "Iceland"],
+  // Dubai / Abu Dhabi are emirates (cities) of the UAE — Michelin lists them as
+  // their own guides, but for a country filter they belong under the UAE
+  ["dubai", "United Arab Emirates"],
+  ["abu dhabi", "United Arab Emirates"],
 ]);
+
+// Loose country bounding boxes [minLng, minLat, maxLng, maxLat] — used to recover
+// a country from coordinates when the source row has none (else it'd read
+// "Elsewhere"). Generous boxes: this only fires when there is NO country label,
+// so a rough hit beats no label; overlaps resolve to the first match.
+const COUNTRY_BBOX = {
+  "United States": [-125, 24, -66, 49.5], "Canada": [-141, 41.6, -52, 70],
+  "Mexico": [-118.5, 14.4, -86.5, 32.8], "Brazil": [-74, -34, -34, 5.3],
+  "Argentina": [-73.6, -55.1, -53.6, -21.8], "Peru": [-81.4, -18.4, -68.7, 0],
+  "Colombia": [-79, -4.3, -66.8, 12.5], "Chile": [-75.7, -55.9, -66.4, -17.5],
+  "Dominican Republic": [-72, 17.5, -68.3, 20], "Cuba": [-85, 19.8, -74, 23.3],
+  "France": [-5.5, 41, 9.8, 51.5], "Spain": [-9.5, 35.8, 4.5, 43.9],
+  "Portugal": [-9.6, 36.9, -6.1, 42.2], "Italy": [6.5, 36.5, 18.6, 47.2],
+  "United Kingdom": [-8.7, 49.8, 2, 61], "Ireland": [-10.6, 51.4, -5.9, 55.4],
+  "Germany": [5.8, 47.2, 15.1, 55.1], "Netherlands": [3.3, 50.7, 7.3, 53.6],
+  "Belgium": [2.5, 49.4, 6.5, 51.6], "Switzerland": [5.9, 45.8, 10.6, 47.9],
+  "Austria": [9.5, 46.3, 17.2, 49.1], "Greece": [19.3, 34.8, 28.3, 41.8],
+  "Türkiye": [25.6, 35.8, 44.9, 42.2], "Morocco": [-13.2, 27.6, -1, 35.9],
+  "Egypt": [24.7, 22, 36.9, 31.7], "South Africa": [16.4, -34.9, 32.9, -22.1],
+  "Kenya": [33.9, -4.7, 41.9, 5.1], "Nigeria": [2.6, 4.2, 14.7, 13.9],
+  "India": [68, 6.7, 97.4, 35.5], "China": [73, 18, 135, 53.6],
+  "Japan": [128.5, 30, 146, 45.6], "South Korea": [124.5, 33, 132, 38.7],
+  "Thailand": [97, 5.5, 106, 20.5], "Vietnam": [102, 8.3, 110, 23.5],
+  "Malaysia": [99.5, 0.8, 119.4, 7.4], "Singapore": [103.5, 1.1, 104.2, 1.5],
+  "Indonesia": [95, -11, 141, 6], "Philippines": [116.9, 4.6, 126.7, 21.2],
+  "Taiwan": [119.5, 21.8, 122.1, 25.4], "Australia": [113, -43.7, 154, -10.5],
+  "New Zealand": [166, -47.4, 179, -34],
+};
+
+/** Recover a country name from coordinates (loose bbox match); "" if none. */
+export function reverseCountry(lng, lat) {
+  if (!isFinite(lng) || !isFinite(lat)) return "";
+  for (const [c, b] of Object.entries(COUNTRY_BBOX))
+    if (lng >= b[0] && lng <= b[2] && lat >= b[1] && lat <= b[3]) return c;
+  return "";
+}
 
 export function normCountry(c) {
   let t = (c ?? "").trim();

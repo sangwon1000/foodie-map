@@ -14,6 +14,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { externalVenues, channelVenues } from "./external.mjs";
+import { normCountry } from "../lib/util.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const RAW = path.join(ROOT, "pipeline/raw/kr");
@@ -449,9 +450,23 @@ for (const { id, show } of PROFILES) {
 const YOUTUBERS = [
   { id: "jeongyukwang", show: "JYW", chans: [["tube", "정육왕"], ["yp", "정육왕"]] },
 ];
+// canonical fixes for venues the YouTube sources mis-named / mis-placed / double-
+// listed (verified against OSM). Applied before the feature build; a same-coord
+// pass then collapses any duplicate the 150 m channel-dedup left behind.
+const YT_CANONICAL = {
+  대도숯불갈비: { name: "대도식당", lat: 37.56731, lng: 127.03055 }, // 왕십리 한우 등심 노포; was ~2 km east & double-listed
+};
 for (const y of YOUTUBERS) {
   const vens = channelVenues(y.chans);
-  const features = vens.map((e, i) => {
+  for (const e of vens) { const c = YT_CANONICAL[e.name]; if (c) { e.name = c.name; e.lat = c.lat; e.lng = c.lng; } }
+  const seenVen = new Set();
+  const dedupedVens = vens.filter((e) => {
+    const k = `${fold(e.name)}@${e.lat.toFixed(4)},${e.lng.toFixed(4)}`;
+    if (seenVen.has(k)) return false;
+    seenVen.add(k);
+    return true;
+  });
+  const features = dedupedVens.map((e, i) => {
     const sp = splitAddr(e.addr);
     return {
       type: "Feature",
@@ -511,7 +526,7 @@ if (yxRaw?.restaurants?.length) {
         id: `kr-yooxicman-${fold(r.name).slice(0, 32)}-${i}`,
         name: r.name,
         city: r.city || "",
-        country: r.country || "",
+        country: normCountry(r.country || ""),
         emoji: yxEmoji(r.video_title, r.name),
         status: "unknown",
         image: first ? `https://i.ytimg.com/vi/${first}/hqdefault.jpg` : undefined,

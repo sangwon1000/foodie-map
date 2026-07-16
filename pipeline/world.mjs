@@ -15,7 +15,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseCsv, slug, normCountry, haversine } from "./lib/util.mjs";
+import { parseCsv, slug, normCountry, reverseCountry, haversine } from "./lib/util.mjs";
 import { geocodePoi, loadFwdCache, saveFwdCache } from "./lib/fwdgeo.mjs";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
@@ -112,12 +112,20 @@ function buildMichelin() {
 // ──────────────────────────────────────────────────────────── 2. WIENS ──────
 function buildWiens() {
   const data = JSON.parse(fs.readFileSync(path.join(RAW, "wiens.json"), "utf8"));
+  // a few source rows have a corrupted coordinate — pin them to the verified spot
+  const WIENS_COORD_FIX = {
+    "Köfteci Yaşar": { lat: 41.018, lng: 28.9685 }, // source lng was −13.218 (Atlantic) → Istanbul
+  };
   const feats = [];
   for (const p of data.places || []) {
-    const lat = Number(p.lat), lng = Number(p.lng);
+    let lat = Number(p.lat), lng = Number(p.lng);
     if (!isFinite(lat) || !isFinite(lng)) continue;
     if (!p.place_name) continue; // a few source rows have a null name — skip them
-    const country = p.country ? normCountry(p.country) : "Elsewhere";
+    const cfix = WIENS_COORD_FIX[p.place_name];
+    if (cfix) { lat = cfix.lat; lng = cfix.lng; }
+    // fall back to a coordinate → country lookup so a missing label reads as the
+    // real country (e.g. Singapore/Thailand) instead of "Elsewhere"
+    const country = p.country ? normCountry(p.country) : (reverseCountry(lng, lat) || "Elsewhere");
     const video = p.video_url || undefined;
     feats.push(
       feature(lng, lat, {
@@ -158,7 +166,7 @@ function buildWiens() {
           id: `wiens-fc-${added}`,
           name: r.name,
           city: r.city || "",
-          country: normCountry(r.country) || "Elsewhere",
+          country: normCountry(r.country) || reverseCountry(lng, lat) || "Elsewhere",
           emoji: "🍜",
           kind: r.cuisine || undefined,
           note: r.quote || undefined,

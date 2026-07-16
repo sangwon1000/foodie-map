@@ -721,6 +721,23 @@ async function main() {
     (a.episode ?? 99) - (b.episode ?? 99);
   for (const v of venues) v.visits.sort(visitCmp);
 
+  // manual corrections for records the community-map sources geocoded to the
+  // wrong continent (verified against OSM / episode filming locations). Keyed by
+  // slug; overrides coords / city / country after the merge, before feature build.
+  const MANUAL_FIX = {
+    "sofia-melnikovas-fantastic-douqan": { lat: 41.6997, lng: 44.7989 }, // Tbilisi, not Georgia USA
+    "the-emperors-court": { lat: 19.1344, lng: 72.9011, city: "Mumbai" }, // Mumbai, not Maine
+    "cayenne-restaurant": { lat: 54.5898, lng: -5.9341, city: "Belfast" }, // Belfast, not Maine
+    "cafeteria-stella": { lat: 30.0466, lng: 31.2381, city: "Cairo" }, // Cairo, not the Philippines
+    "market-saluhall": { lat: 59.3359, lng: 18.0777, city: "Stockholm" }, // Östermalms Saluhall Stockholm, not BC
+    "campamento-rescate-playuela": { country: "Colombia", city: "" }, // episode is Colombia, not Puerto Rico
+    "cafe-terrasse": { lat: 18.5126, lng: -72.2864, city: "Pétion-Ville" }, // Pétion-Ville Haiti, not Pennsylvania
+  };
+  for (const v of venues) {
+    const fix = MANUAL_FIX[v.slug];
+    if (fix) Object.assign(v, fix);
+  }
+
   const feats = venues
     .sort(
       (a, b) =>
